@@ -32,7 +32,7 @@ export async function handler(event) {
   }
 
   try {
-    const { message, threadId: existingThreadId, password } = JSON.parse(event.body);
+    const { message, threadId: existingThreadId, password, verifyOnly } = JSON.parse(event.body);
 
     const sitePassword = process.env.SITE_PASSWORD;
     if (sitePassword && password !== sitePassword) {
@@ -40,6 +40,14 @@ export async function handler(event) {
         statusCode: 401,
         headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
         body: JSON.stringify({ error: "Invalid password" }),
+      };
+    }
+
+    if (verifyOnly) {
+      return {
+        statusCode: 200,
+        headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
+        body: JSON.stringify({ ok: true }),
       };
     }
 

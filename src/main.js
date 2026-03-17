@@ -15,31 +15,37 @@ let sessionPassword = sessionStorage.getItem('sp') || '';
 
 if (sessionPassword) showChat();
 
+const loginBtn = document.getElementById('login-btn');
+
 loginForm.addEventListener('submit', async (e) => {
   e.preventDefault();
   const pw = passwordInput.value;
   loginError.hidden = true;
+  loginBtn.disabled = true;
+  loginBtn.dataset.text = loginBtn.textContent;
+  loginBtn.textContent = '';
+  loginBtn.classList.add('loading');
 
   try {
     const res = await fetch('/.netlify/functions/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: 'hello', password: pw }),
+      body: JSON.stringify({ verifyOnly: true, password: pw }),
     });
     if (res.status === 401) {
       loginError.hidden = false;
       return;
     }
-    const data = await res.json();
     sessionPassword = pw;
     sessionStorage.setItem('sp', pw);
-    threadId = data.threadId;
     showChat();
-    if (welcome) welcome.remove();
-    addMessage('assistant', data.reply);
   } catch {
     loginError.textContent = 'Connection error';
     loginError.hidden = false;
+  } finally {
+    loginBtn.disabled = false;
+    loginBtn.classList.remove('loading');
+    loginBtn.textContent = loginBtn.dataset.text || 'Continue';
   }
 });
 
