@@ -42,6 +42,11 @@ html, body {
   background: var(--bg);
 }
 
+#app[hidden],
+#login-screen[hidden] {
+  display: none;
+}
+
 header {
   padding: 16px 24px;
   background: var(--bg);
