@@ -1,3 +1,8 @@
+const loginScreen = document.getElementById('login-screen');
+const loginForm = document.getElementById('login-form');
+const passwordInput = document.getElementById('password-input');
+const loginError = document.getElementById('login-error');
+const app = document.getElementById('app');
 const messagesEl = document.getElementById('chat-messages');
 const form = document.getElementById('chat-form');
 const input = document.getElementById('chat-input');
@@ -6,6 +11,43 @@ const welcome = document.getElementById('welcome');
 
 let threadId = null;
 let busy = false;
+let sessionPassword = sessionStorage.getItem('sp') || '';
+
+if (sessionPassword) showChat();
+
+loginForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const pw = passwordInput.value;
+  loginError.hidden = true;
+
+  try {
+    const res = await fetch('/.netlify/functions/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: 'hello', password: pw }),
+    });
+    if (res.status === 401) {
+      loginError.hidden = false;
+      return;
+    }
+    const data = await res.json();
+    sessionPassword = pw;
+    sessionStorage.setItem('sp', pw);
+    threadId = data.threadId;
+    showChat();
+    if (welcome) welcome.remove();
+    addMessage('assistant', data.reply);
+  } catch {
+    loginError.textContent = 'Connection error';
+    loginError.hidden = false;
+  }
+});
+
+function showChat() {
+  loginScreen.hidden = true;
+  app.hidden = false;
+  input.focus();
+}
 
 function addMessage(role, text) {
   if (welcome) welcome.remove();
@@ -69,7 +111,7 @@ form.addEventListener('submit', async (e) => {
     const res = await fetch('/.netlify/functions/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: text, threadId }),
+      body: JSON.stringify({ message: text, threadId, password: sessionPassword }),
     });
 
     const data = await res.json();

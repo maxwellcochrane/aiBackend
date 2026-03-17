@@ -32,7 +32,16 @@ export async function handler(event) {
   }
 
   try {
-    const { message, threadId: existingThreadId } = JSON.parse(event.body);
+    const { message, threadId: existingThreadId, password } = JSON.parse(event.body);
+
+    const sitePassword = process.env.SITE_PASSWORD;
+    if (sitePassword && password !== sitePassword) {
+      return {
+        statusCode: 401,
+        headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
+        body: JSON.stringify({ error: "Invalid password" }),
+      };
+    }
 
     if (!message) {
       return { statusCode: 400, body: JSON.stringify({ error: "message is required" }) };
