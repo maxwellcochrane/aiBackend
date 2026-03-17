@@ -1,0 +1,264 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Journey Plan API",
+    "version": "1.0.0",
+    "description": "Netlify function wrapper around the upstream journey-plan API, returning simplified legs-focused results."
+  },
+  "servers": [
+    {
+      "url": "https://{domain}",
+      "variables": {
+        "domain": {
+          "default": "example.netlify.app"
+        }
+      }
+    }
+  ],
+  "paths": {
+    "/.netlify/functions/journey-plan": {
+      "get": {
+        "summary": "Get journey legs between two CRS codes",
+        "description": "Calls the upstream journey-plan service and returns a simplified view of journeys with only leg-level details and minimal journey metadata.",
+        "parameters": [
+          {
+            "name": "origin",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "ZES"
+            },
+            "description": "Origin CRS code."
+          },
+          {
+            "name": "destination",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "LIV"
+            },
+            "description": "Destination CRS code."
+          },
+          {
+            "name": "outwardTime",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time",
+              "example": "2026-03-28T08:58:18Z"
+            },
+            "description": "Requested departure time (must be in the future)."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Simplified journey list with leg details.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JourneyPlanResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Missing or invalid query parameters.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "required": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error in the function or upstream configuration.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "502": {
+            "description": "Upstream journey-plan service returned invalid JSON.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "JourneyPlanResponse": {
+        "type": "object",
+        "properties": {
+          "generatedTime": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "journeys": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Journey"
+            }
+          }
+        }
+      },
+      "Journey": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "origin": {
+            "type": "string"
+          },
+          "destination": {
+            "type": "string"
+          },
+          "scheduledTime": {
+            "$ref": "#/components/schemas/TimeWindow"
+          },
+          "realTime": {
+            "$ref": "#/components/schemas/TimeWindow"
+          },
+          "legs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Leg"
+            }
+          }
+        }
+      },
+      "Leg": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "mode": {
+            "type": "string",
+            "example": "TRAIN"
+          },
+          "realtimeClassification": {
+            "type": "string",
+            "example": "NORMAL"
+          },
+          "board": {
+            "$ref": "#/components/schemas/LocationSummary"
+          },
+          "alight": {
+            "$ref": "#/components/schemas/LocationSummary"
+          },
+          "originPlatform": {
+            "type": ["string", "null"]
+          },
+          "destinationPlatform": {
+            "type": ["string", "null"]
+          },
+          "operator": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/OperatorSummary"
+              }
+            ]
+          },
+          "scheduledTime": {
+            "$ref": "#/components/schemas/TimeWindow"
+          },
+          "realTime": {
+            "$ref": "#/components/schemas/TimeWindow"
+          },
+          "undergroundTravelInformation": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "LocationSummary": {
+        "type": "object",
+        "properties": {
+          "crs": {
+            "type": "string",
+            "example": "EUS"
+          },
+          "stationType": {
+            "type": "string",
+            "example": "NR"
+          }
+        }
+      },
+      "OperatorSummary": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "example": "VT"
+          },
+          "name": {
+            "type": "string",
+            "example": "Avanti West Coast"
+          }
+        }
+      },
+      "TimeWindow": {
+        "type": "object",
+        "nullable": true,
+        "properties": {
+          "departure": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "arrival": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        }
+      }
+    }
+  }
+}
+
