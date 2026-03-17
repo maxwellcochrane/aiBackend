@@ -9,7 +9,6 @@ exports.handler = async function () {
         headers: {
           "x-apikey": process.env.RAILDATA_API_KEY,
           "Content-Type": "application/json;charset=UTF-8",
-          "Cookie": process.env.RAILDATA_COOKIE,
         },
         body: JSON.stringify({
           startDate: today,
