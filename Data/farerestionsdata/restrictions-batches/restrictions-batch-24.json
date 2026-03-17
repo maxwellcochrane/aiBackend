@@ -1,0 +1,522 @@
+{
+  "SP": {
+    "code": "SP",
+    "name": "SP",
+    "id": "3AC0F7362E0C4F53BDBB7AB5E29D7D5E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sp",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Terminals</strong> before 11:00 and after 14:00 until 20:00 Mondays to Fridays, and before 11:00 and after 16:30 until 18:30 on Saturdays, or before 11:00 and after 16:30 until 20:00 on Sundays and Bank Holidays</li></ul>",
+        "outwardText": "Not valid on trains timed to depart:\n London Terminals before 11:00 and after 14:00 until 20:00 Mondays to Fridays, and before 11:00 and after 16:30 until 18:30 on Saturdays, or before 11:00 and after 16:30 until 20:00 on Sundays and Bank Holidays",
+        "returnHtml": "<p> Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Terminals</strong> before 12:00 Mondays to Fridays or before 10:58 on Saturdays, Sundays and Bank Holidays</li></ul>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals before 12:00 Mondays to Fridays or before 10:58 on Saturdays, Sundays and Bank Holidays"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SQ": {
+    "code": "SQ",
+    "name": "SQ",
+    "id": "FACEF65EDCB745408DBDFA58EFC184D6",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sq",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Thursday, Saturday and Sunday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Thursday, Saturday and Sunday",
+    "notesHtml": "<p>No Break of Journey permitted</p>",
+    "notesText": "No Break of Journey permitted",
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Terminals</strong> before 10:30 and after 13:30 Mondays to Thursdays, before 13:30 and after 17:30 on Saturdays, or before 08:45 and after 12:28 on Sundays and Bank Holidays.</li><li><strong>Not valid for travel on Fridays</strong></li></ul>",
+        "outwardText": "Not valid on trains timed to depart:\n London Terminals before 10:30 and after 13:30 Mondays to Thursdays, before 13:30 and after 17:30 on Saturdays, or before 08:45 and after 12:28 on Sundays and Bank Holidays.\n Not valid for travel on Fridays",
+        "returnHtml": "<p> Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Terminals</strong> before 20:12 and after 23:39 on Mondays to Thursdays, and before 18:13 and after 22:45 on Saturdays, or before 14:25 and after 16:13 on Sundays and Bank Holidays.</li><li><strong>Not valid for travel on Fridays</strong></li></ul>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals before 20:12 and after 23:39 on Mondays to Thursdays, and before 18:13 and after 22:45 on Saturdays, or before 14:25 and after 16:13 on Sundays and Bank Holidays.\n Not valid for travel on Fridays"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SR": {
+    "code": "SR",
+    "name": "SR",
+    "id": "A03EAA9DD97A4117A8F47C5DFBBF17A9",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sr",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Saturday, Sunday and Public Holidays</p><br /><p>Monday to Thursday, Saturday and Sunday</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Saturday, Sunday and Public Holidays\n Monday to Thursday, Saturday and Sunday",
+    "notesHtml": "<p>No Break of Journey permitted</p>",
+    "notesText": "No Break of Journey permitted",
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><p>London Terminals before 10:30 and after 13:30 Mondays to Thursdays, before 13:30 or after 17:30 on Saturdays, or before 08:45 and after 12:28 on Sundays and Bank Holidays. <strong>Not valid for travel on Fridays</strong></p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Terminals before 10:30 and after 13:30 Mondays to Thursdays, before 13:30 or after 17:30 on Saturdays, or before 08:45 and after 12:28 on Sundays and Bank Holidays. Not valid for travel on Fridays",
+        "returnHtml": "<p>Not valid on trains timed to arrive:</p><p>London Terminals before 20:12 and after 23:39 Mondays to Thursdays, before 18:13 and after 22:45 on Saturdays, and before 14:25 and after 16:13 on Sundays and Bank Holidays. <strong>Not valid for travel on Fridays.</strong></p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals before 20:12 and after 23:39 Mondays to Thursdays, before 18:13 and after 22:45 on Saturdays, and before 14:25 and after 16:13 on Sundays and Bank Holidays. Not valid for travel on Fridays."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SS": {
+    "code": "SS",
+    "name": "SS",
+    "id": "8B5540F0D5F34BD7A8808C5351CC38FF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ss",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li>London Terminals before 13:00 and after 15:20 until 20:30, Mondays to Fridays or before 12:00 and after 17:45 until 20:00, Saturdays and Sundays;</li><li>Watford Junction before 13:00 and after 15:20 until 20:37, Mondays to Fridays or before 11:50 and after 17:45 until 19:45, Saturdays and Sundays</li><li>Milton Keynes Central before 13:00 and after 15:20 until 19:55, Mondays to Fridays or before 11:50 and after 17:45 until 19:45, Saturdays and Sundays.</li></ul>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Terminals before 13:00 and after 15:20 until 20:30, Mondays to Fridays or before 12:00 and after 17:45 until 20:00, Saturdays and Sundays;\n Watford Junction before 13:00 and after 15:20 until 20:37, Mondays to Fridays or before 11:50 and after 17:45 until 19:45, Saturdays and Sundays\n Milton Keynes Central before 13:00 and after 15:20 until 19:55, Mondays to Fridays or before 11:50 and after 17:45 until 19:45, Saturdays and Sundays.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Terminals before 11:00 and after 13:40 until 2015, Mondays to Fridays or before 10:30 and after 16:30 until 18:30, Saturdays and Sundays;</li><li>Watford Junction before 11:30 and after 14:40 until 2037, Mondays to Fridays or before 10:35 and after 16:35 until 18:35, Saturdays and Sundays;</li><li>Milton Keynes Central before 12:10 and after 14:15 until 21:10, Mondays to Fridays or before 10:45 and after 16:45 until 18:45, Saturdays and Sundays.</li></ul>",
+        "returnText": "Not valid on trains timed to depart:\n London Terminals before 11:00 and after 13:40 until 2015, Mondays to Fridays or before 10:30 and after 16:30 until 18:30, Saturdays and Sundays;\n Watford Junction before 11:30 and after 14:40 until 2037, Mondays to Fridays or before 10:35 and after 16:35 until 18:35, Saturdays and Sundays;\n Milton Keynes Central before 12:10 and after 14:15 until 21:10, Mondays to Fridays or before 10:45 and after 16:45 until 18:45, Saturdays and Sundays."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ST": {
+    "code": "ST",
+    "name": "ST",
+    "id": "23CE4ED268014E21AD93B926B96119AA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/st",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Valid Anytime Saturday and Sundays including Bank Holidays</p><p>(NOT valid Monday - Fridays)</p>",
+    "applicableDaysText": "Monday to Friday\n Valid Anytime Saturday and Sundays including Bank Holidays\n (NOT valid Monday - Fridays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid Anytime on any train</p>",
+        "outwardText": "Valid Anytime on any train",
+        "returnHtml": "<p>Valid Anytime on any train</p>",
+        "returnText": "Valid Anytime on any train"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SU": {
+    "code": "SU",
+    "name": "SU",
+    "id": "0D9549556FAF431BBB2D90313274BAF9",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/su",
+    "applicableDaysHtml": "<p>Sunday</p>",
+    "applicableDaysText": "Sunday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid for travel at any time.</p>",
+        "outwardText": "Valid for travel at any time.",
+        "returnHtml": "<p>Valid for travel at any time.</p>",
+        "returnText": "Valid for travel at any time."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SV": {
+    "code": "SV",
+    "name": "SV",
+    "id": "47D7F5B61CB84F1BAA70B79E7D7D1AAB",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sv",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Weekdays only (excluding Public Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Weekdays only (excluding Public Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Southern (TOC Code: SN) services only, unless stated on the ticket.</p>",
+        "outwardText": "Valid on Southern (TOC Code: SN) services only, unless stated on the ticket.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SW": {
+    "code": "SW",
+    "name": "SW",
+    "id": "B4905482F0E048FD8BA067FD91C95359",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sw",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on South Western Railway services. May also be valid on connecting services, as shown in your itinerary.</p>",
+        "outwardText": "Valid on South Western Railway services. May also be valid on connecting services, as shown in your itinerary.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SX": {
+    "code": "SX",
+    "name": "SX",
+    "id": "BD6673719BDD4ABBAE18906D5801F272",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on date and time shown only.</p><p>Limited change.</p><p>No refund.</p>",
+        "outwardText": "Valid on date and time shown only.\n Limited change.\n No refund.",
+        "returnHtml": "<p>Valid on date and time shown only.</p><p>Limited change.</p><p>No refund.</p>",
+        "returnText": "Valid on date and time shown only.\n Limited change.\n No refund."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "SY": {
+    "code": "SY",
+    "name": "SY",
+    "id": "66565D17D3AE413D80106AD6F2416678",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/sy",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 02:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 02:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 02:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 02:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "T1": {
+    "code": "T1",
+    "name": "T1",
+    "id": "81D65B3E81874304B675986AAF8CA327",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/t1",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on services timed to depart between 04:29 and 07:45</p>",
+        "outwardText": "Not valid on services timed to depart between 04:29 and 07:45",
+        "returnHtml": "<p> Not valid on services timed to depart between 04:29 and 07:45</p>",
+        "returnText": "Not valid on services timed to depart between 04:29 and 07:45"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "T3": {
+    "code": "T3",
+    "name": "T3",
+    "id": "E911530FBC254734B4CEC96547B923E2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/t3",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Not valid on trains timed to depart London Terminals after 04:29 and before 09:21 and on the following departures:</li><li>16:02 to Bristol Temple Meads </li><li>16:04 (16:29) to Penzance </li><li>16:08 (16:37) to Bedwyn </li><li>16:15 to Swansea </li><li>16:18 (16:42) to Cardiff Central </li><li>16:20 (16:48) to Oxford  </li><li>16:30 to Cheltenham Spa </li><li>16:32 (16:57) to Taunton </li><li>16:38 (17:03) to Exeter St Davids</li><li>16:43 (17:11) to Didcot Parkway </li><li>16:48 (17:13) to Swansea </li><li>16:58 to Great Malvern </li><li>17:00 to Bristol Temple Meads </li><li>17:02 (17:27) to Bristol Temple Meads </li><li>17:04 (17:29) to Penzance </li><li>17:15 to Swansea </li><li>17:17 (17:42) to Cardiff Central </li><li>17:28 to Cheltenham Spa </li><li>17:30 (1754) to Taunton </li><li>17:28 to Cheltenham Spa </li><li>17:34 (17:59) to Worcester Foregate Street </li><li>17:37 (18:04) to Paignton </li><li>17:42 (18:10) to Didcot Parkway</li><li>17:47 (18:12) to Swansea </li><li>17:51 (18:32) to Didcot Parkway </li><li>17:58 to Worcester Foregate Street </li><li>18:00 to Bristol Temple Meads </li><li>18:02 (18:27) to Bristol Temple Meads </li><li>18:04 (18:29) to Penzance </li><li>18:07 (18:38) to Frome </li><li>18:16 to Carmarthen </li><li>18:18 (18:42) to Cardiff Central </li><li>18:20 (18:57) to Didcot Parkway </li><li>18:28 to Banbury </li><li>18:30 to Cheltenham Spa </li><li>18:34 (18:59) to Weston Super Mare </li><li>18:37 (19:05) to Plymouth </li><li>18:42 (19:10) to Didcot Parkway </li><li>18:47 (19:12) to Swansea </li><li>18:58 to Hereford </li><li>19:00 to Bristol Temple Meads</li><li>19:02 (19:27) to Bristol Temple Meads</li><li>19:04 (19:30) to Plymouth</li><li>19:15 to Weston Super Mare</li><li>19:18 (19:42) to Swansea</li></ul>",
+        "outwardText": "Not valid on trains timed to depart London Terminals after 04:29 and before 09:21 and on the following departures:\n 16:02 to Bristol Temple Meads \n 16:04 (16:29) to Penzance \n 16:08 (16:37) to Bedwyn \n 16:15 to Swansea \n 16:18 (16:42) to Cardiff Central \n 16:20 (16:48) to Oxford  \n 16:30 to Cheltenham Spa \n 16:32 (16:57) to Taunton \n 16:38 (17:03) to Exeter St Davids\n 16:43 (17:11) to Didcot Parkway \n 16:48 (17:13) to Swansea \n 16:58 to Great Malvern \n 17:00 to Bristol Temple Meads \n 17:02 (17:27) to Bristol Temple Meads \n 17:04 (17:29) to Penzance \n 17:15 to Swansea \n 17:17 (17:42) to Cardiff Central \n 17:28 to Cheltenham Spa \n 17:30 (1754) to Taunton \n 17:28 to Cheltenham Spa \n 17:34 (17:59) to Worcester Foregate Street \n 17:37 (18:04) to Paignton \n 17:42 (18:10) to Didcot Parkway\n 17:47 (18:12) to Swansea \n 17:51 (18:32) to Didcot Parkway \n 17:58 to Worcester Foregate Street \n 18:00 to Bristol Temple Meads \n 18:02 (18:27) to Bristol Temple Meads \n 18:04 (18:29) to Penzance \n 18:07 (18:38) to Frome \n 18:16 to Carmarthen \n 18:18 (18:42) to Cardiff Central \n 18:20 (18:57) to Didcot Parkway \n 18:28 to Banbury \n 18:30 to Cheltenham Spa \n 18:34 (18:59) to Weston Super Mare \n 18:37 (19:05) to Plymouth \n 18:42 (19:10) to Didcot Parkway \n 18:47 (19:12) to Swansea \n 18:58 to Hereford \n 19:00 to Bristol Temple Meads\n 19:02 (19:27) to Bristol Temple Meads\n 19:04 (19:30) to Plymouth\n 19:15 to Weston Super Mare\n 19:18 (19:42) to Swansea",
+        "returnHtml": "<ul><li>Not valid on trains timed to depart London Terminals after 04:29 and before 09:21 and on the following departures:</li><li>16:02 to Bristol Temple Meads </li><li>16:04 (16:29) to Penzance </li><li>16:08 (16:37) to Bedwyn </li><li>16:15 to Swansea </li><li>16:18 (16:42) to Cardiff Central </li><li>16:20 (16:48) to Oxford  </li><li>16:30 to Cheltenham Spa </li><li>16:32 (16:57) to Taunton </li><li>16:38 (17:03) to Exeter St Davids</li><li>16:43 (17:11) to Didcot Parkway </li><li>16:48 (17:13) to Swansea </li><li>16:58 to Great Malvern </li><li>17:00 to Bristol Temple Meads </li><li>17:02 (17:27) to Bristol Temple Meads </li><li>17:04 (17:29) to Penzance </li><li>17:15 to Swansea </li><li>17:17 (17:42) to Cardiff Central </li><li>17:28 to Cheltenham Spa </li><li>17:30 (1754) to Taunton </li><li>17:28 to Cheltenham Spa </li><li>17:34 (17:59) to Worcester Foregate Street </li><li>17:37 (18:04) to Paignton </li><li>17:42 (18:10) to Didcot Parkway</li><li>17:47 (18:12) to Swansea </li><li>17:51 (18:32) to Didcot Parkway </li><li>17:58 to Worcester Foregate Street </li><li>18:00 to Bristol Temple Meads </li><li>18:02 (18:27) to Bristol Temple Meads </li><li>18:04 (18:29) to Penzance </li><li>18:07 (18:38) to Frome </li><li>18:16 to Carmarthen </li><li>18:18 (18:42) to Cardiff Central </li><li>18:20 (18:57) to Didcot Parkway </li><li>18:28 to Banbury </li><li>18:30 to Cheltenham Spa </li><li>18:34 (18:59) to Weston Super Mare </li><li>18:37 (19:05) to Plymouth </li><li>18:42 (19:10) to Didcot Parkway </li><li>18:47 (19:12) to Swansea </li><li>18:58 to Hereford </li><li>19:00 to Bristol Temple Meads</li><li>19:02 (19:27) to Bristol Temple Meads</li><li>19:04 (19:30) to Plymouth</li><li>19:15 to Weston Super Mare</li><li>19:18 (19:42) to Swansea</li></ul>",
+        "returnText": "Not valid on trains timed to depart London Terminals after 04:29 and before 09:21 and on the following departures:\n 16:02 to Bristol Temple Meads \n 16:04 (16:29) to Penzance \n 16:08 (16:37) to Bedwyn \n 16:15 to Swansea \n 16:18 (16:42) to Cardiff Central \n 16:20 (16:48) to Oxford  \n 16:30 to Cheltenham Spa \n 16:32 (16:57) to Taunton \n 16:38 (17:03) to Exeter St Davids\n 16:43 (17:11) to Didcot Parkway \n 16:48 (17:13) to Swansea \n 16:58 to Great Malvern \n 17:00 to Bristol Temple Meads \n 17:02 (17:27) to Bristol Temple Meads \n 17:04 (17:29) to Penzance \n 17:15 to Swansea \n 17:17 (17:42) to Cardiff Central \n 17:28 to Cheltenham Spa \n 17:30 (1754) to Taunton \n 17:28 to Cheltenham Spa \n 17:34 (17:59) to Worcester Foregate Street \n 17:37 (18:04) to Paignton \n 17:42 (18:10) to Didcot Parkway\n 17:47 (18:12) to Swansea \n 17:51 (18:32) to Didcot Parkway \n 17:58 to Worcester Foregate Street \n 18:00 to Bristol Temple Meads \n 18:02 (18:27) to Bristol Temple Meads \n 18:04 (18:29) to Penzance \n 18:07 (18:38) to Frome \n 18:16 to Carmarthen \n 18:18 (18:42) to Cardiff Central \n 18:20 (18:57) to Didcot Parkway \n 18:28 to Banbury \n 18:30 to Cheltenham Spa \n 18:34 (18:59) to Weston Super Mare \n 18:37 (19:05) to Plymouth \n 18:42 (19:10) to Didcot Parkway \n 18:47 (19:12) to Swansea \n 18:58 to Hereford \n 19:00 to Bristol Temple Meads\n 19:02 (19:27) to Bristol Temple Meads\n 19:04 (19:30) to Plymouth\n 19:15 to Weston Super Mare\n 19:18 (19:42) to Swansea"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "T6": {
+    "code": "T6",
+    "name": "T6",
+    "id": "C0D1BFFCAB53422CB7E29F7C856346BF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/t6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart London Terminals after 04:29 and before 09:00 and on the following departures (times from Reading station are shown in brackets):</p><ul><li>16:00 (16:25) to Bristol Temple Meads </li><li>16:03 (16:29) to Penzance</li><li>16:05 (16:36) to Newbury</li><li>16:12 (16:43) to Bristol Parkway</li><li>16:18 to Carmarthen</li><li>16:23 (16:49) to Oxford </li><li>16:30 (16:55) to Taunton</li><li>16:32 to Cheltenham</li><li>16:35 (17:01) to Plymouth</li><li>16:48 (17:13) to Swansea</li><li>16:50 (17:27) to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:29) to Penzance</li><li>17:05 (17:35) to Newbury</li><li>17:18 (17:43) to Swansea</li><li>17:20 (17:59) to Didcot </li><li>17:30 (17:55) to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 (18:01) to Hereford</li><li>17:36 (18:02) to Plymouth</li><li>17:48 (18:13) to Swansea</li><li>17:52 (18:32) to Didcot Parkway</li><li>17:57 (18:24) to Worcester Foregate Street </li><li>18:01 (18:27) to Bristol Temple Meads</li><li>18:03 (18:29) to Penzance</li><li>18:08 (18:37) to Frome </li><li>18:18 (18:43) to Swansea</li><li>18:20 (19:00) to Didcot Parkway</li><li>18:23 (18:50) to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 (18:59) to Cheltenham Spa</li><li>18:36 (19:01) to Plymouth</li><li>18:48 (19:13) to Swansea</li><li>18:57 (19:23) to Great Malvern</li><li>19:00 to Bristol Temple Meads</li><li>19:04 (19:31) to Plymouth</li><li>19:18 to Swansea</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart London Terminals after 04:29 and before 09:00 and on the following departures (times from Reading station are shown in brackets):\n 16:00 (16:25) to Bristol Temple Meads\n 16:03 (16:29) to Penzance\n 16:05 (16:36) to Newbury\n 16:12 (16:43) to Bristol Parkway\n 16:18 to Carmarthen\n 16:23 (16:49) to Oxford\n 16:30 (16:55) to Taunton\n 16:32 to Cheltenham\n 16:35 (17:01) to Plymouth\n 16:48 (17:13) to Swansea\n 16:50 (17:27) to Didcot\n 16:58 to Great Malvern\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:29) to Penzance\n 17:05 (17:35) to Newbury\n 17:18 (17:43) to Swansea\n 17:20 (17:59) to Didcot\n 17:30 (17:55) to Taunton\n 17:32 to Cheltenham Spa\n 17:34 (18:01) to Hereford\n 17:36 (18:02) to Plymouth\n 17:48 (18:13) to Swansea\n 17:52 (18:32) to Didcot Parkway\n 17:57 (18:24) to Worcester Foregate Street\n 18:01 (18:27) to Bristol Temple Meads\n 18:03 (18:29) to Penzance\n 18:08 (18:37) to Frome\n 18:18 (18:43) to Swansea\n 18:20 (19:00) to Didcot Parkway\n 18:23 (18:50) to Banbury\n 18:30 to Weston Super Mare\n 18:34 (18:59) to Cheltenham Spa\n 18:36 (19:01) to Plymouth\n 18:48 (19:13) to Swansea\n 18:57 (19:23) to Great Malvern\n 19:00 to Bristol Temple Meads\n 19:04 (19:31) to Plymouth\n 19:18 to Swansea",
+        "returnHtml": "<p>Not valid on trains timed to depart London Terminals after 04:29 and before 09:00 and on the following departures (times from Reading station are shown in brackets):</p><ul><li>16:00 (16:25) to Bristol Temple Meads </li><li>16:03 (16:29) to Penzance</li><li>16:05 (16:36) to Newbury</li><li>16:12 (16:43) to Bristol Parkway</li><li>16:18 to Carmarthen</li><li>16:23 (16:49) to Oxford </li><li>16:30 (16:55) to Taunton</li><li>16:32 to Cheltenham</li><li>16:35 (17:01) to Plymouth</li><li>16:48 (17:13) to Swansea</li><li>16:50 (17:27) to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:29) to Penzance</li><li>17:05 (17:35) to Newbury</li><li>17:18 (17:43) to Swansea</li><li>17:20 (17:59) to Didcot </li><li>17:30 (17:55) to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 (18:01) to Hereford</li><li>17:36 (18:02) to Plymouth</li><li>17:48 (18:13) to Swansea</li><li>17:52 (18:32) to Didcot Parkway</li><li>17:57 (18:24) to Worcester Foregate Street </li><li>18:01 (18:27) to Bristol Temple Meads</li><li>18:03 (18:29) to Penzance</li><li>18:08 (18:37) to Frome </li><li>18:18 (18:43) to Swansea</li><li>18:20 (19:00) to Didcot Parkway</li><li>18:23 (18:50) to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 (18:59) to Cheltenham Spa</li><li>18:36 (19:01) to Plymouth</li><li>18:48 (19:13) to Swansea</li><li>18:57 (19:23) to Great Malvern</li><li>19:00 to Bristol Temple Meads</li><li>19:04 (19:31) to Plymouth</li><li>19:18 to Swansea</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart London Terminals after 04:29 and before 09:00 and on the following departures (times from Reading station are shown in brackets):\n 16:00 (16:25) to Bristol Temple Meads\n 16:03 (16:29) to Penzance\n 16:05 (16:36) to Newbury\n 16:12 (16:43) to Bristol Parkway\n 16:18 to Carmarthen\n 16:23 (16:49) to Oxford\n 16:30 (16:55) to Taunton\n 16:32 to Cheltenham\n 16:35 (17:01) to Plymouth\n 16:48 (17:13) to Swansea\n 16:50 (17:27) to Didcot\n 16:58 to Great Malvern\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:29) to Penzance\n 17:05 (17:35) to Newbury\n 17:18 (17:43) to Swansea\n 17:20 (17:59) to Didcot\n 17:30 (17:55) to Taunton\n 17:32 to Cheltenham Spa\n 17:34 (18:01) to Hereford\n 17:36 (18:02) to Plymouth\n 17:48 (18:13) to Swansea\n 17:52 (18:32) to Didcot Parkway\n 17:57 (18:24) to Worcester Foregate Street\n 18:01 (18:27) to Bristol Temple Meads\n 18:03 (18:29) to Penzance\n 18:08 (18:37) to Frome\n 18:18 (18:43) to Swansea\n 18:20 (19:00) to Didcot Parkway\n 18:23 (18:50) to Banbury\n 18:30 to Weston Super Mare\n 18:34 (18:59) to Cheltenham Spa\n 18:36 (19:01) to Plymouth\n 18:48 (19:13) to Swansea\n 18:57 (19:23) to Great Malvern\n 19:00 to Bristol Temple Meads\n 19:04 (19:31) to Plymouth\n 19:18 to Swansea"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "T7": {
+    "code": "T7",
+    "name": "T7",
+    "id": "2F7881E7C60C4411A62A609F4AC410C2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/t7",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li></li></ul><p>Not valid on trains timed to depart after 04:29 and before 08:30 and on the following departures from London Paddington (time shown in brackets is from Reading station):</p><ul><li>16:00 (16:25) to Bristol Temple Meads </li><li>16:03 (16:29) to Penzance</li><li>16:05 (16:33) to Newbury</li><li>16:12 (16:43) to Bristol Parkway</li><li>16:23 (16:49) to Oxford </li><li>16:30 (16:55) to Taunton</li><li>16:33 (16:58) to Cheltenham</li><li>16:36 (17:02) to Plymouth</li><li>16:48 (17:13) to Swansea</li><li>16:50 (17:27) to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:29) to Penzance</li><li>17:05 (17:35) to Newbury</li><li>17:18 (17:43) to Swansea</li><li>17:20 (17:58) to Didcot </li><li>17:30 (17:55) to Taunton </li><li>17:32 (17:58) to Cheltenham Spa</li><li>17:34 (18:01) to Hereford</li><li>17:36 (18:02) to Plymouth</li><li>17:48 (18:13) to Carmarthen</li><li>17:50 (18:32) to Didcot Parkway</li><li>17:57 (18:24) to Worcester Foregate Street </li><li>18:01 (18:27) to Bristol Temple Meads</li><li>18:03 (18:29) to Penzance</li><li>18:08 (18:37) to Frome </li><li>18:18 (18:43) to Swansea</li><li>18:20 (19:00) to Didcot Parkway</li><li>18:23 (18:50) to Banbury </li><li>18:30 (18:55) to Weston Super Mare</li><li>18:34 (18:59) to Cheltenham Spa</li><li>18:36 (19:01) to Plymouth</li><li>18:48 (19:13) to Swansea</li><li>18:57 (19:23) to Great Malvern</li><li>19:00 (19:27) to Bristol Temple Meads</li><li>19:04 (19:31) to Plymouth</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:30 and on the following departures from London Paddington (time shown in brackets is from Reading station):\n 16:00 (16:25) to Bristol Temple Meads\n 16:03 (16:29) to Penzance\n 16:05 (16:33) to Newbury\n 16:12 (16:43) to Bristol Parkway\n 16:23 (16:49) to Oxford\n 16:30 (16:55) to Taunton\n 16:33 (16:58) to Cheltenham\n 16:36 (17:02) to Plymouth\n 16:48 (17:13) to Swansea\n 16:50 (17:27) to Didcot\n 16:58 to Great Malvern\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:29) to Penzance\n 17:05 (17:35) to Newbury\n 17:18 (17:43) to Swansea\n 17:20 (17:58) to Didcot\n 17:30 (17:55) to Taunton\n 17:32 (17:58) to Cheltenham Spa\n 17:34 (18:01) to Hereford\n 17:36 (18:02) to Plymouth\n 17:48 (18:13) to Carmarthen\n 17:50 (18:32) to Didcot Parkway\n 17:57 (18:24) to Worcester Foregate Street\n 18:01 (18:27) to Bristol Temple Meads\n 18:03 (18:29) to Penzance\n 18:08 (18:37) to Frome\n 18:18 (18:43) to Swansea\n 18:20 (19:00) to Didcot Parkway\n 18:23 (18:50) to Banbury\n 18:30 (18:55) to Weston Super Mare\n 18:34 (18:59) to Cheltenham Spa\n 18:36 (19:01) to Plymouth\n 18:48 (19:13) to Swansea\n 18:57 (19:23) to Great Malvern\n 19:00 (19:27) to Bristol Temple Meads\n 19:04 (19:31) to Plymouth",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30 and on the following departures from London Paddington (time shown in brackets is from Reading station):</p><ul><li>16:00 (16:25) to Bristol Temple Meads </li><li>16:03 (16:29) to Penzance</li><li>16:05 (16:33) to Newbury</li><li>16:12 (16:43) to Bristol Parkway</li><li>16:23 (16:49) to Oxford </li><li>16:30 (16:55) to Taunton</li><li>16:33 (16:58) to Cheltenham</li><li>16:36 (17:02) to Plymouth</li><li>16:48 (17:13) to Swansea</li><li>16:50 (17:27) to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:29) to Penzance</li><li>17:05 (17:35) to Newbury</li><li>17:18 (17:43) to Swansea</li><li>17:20 (17:58) to Didcot </li><li>17:30 (17:55) to Taunton </li><li>17:32 (17:58) to Cheltenham Spa</li><li>17:34 (18:01) to Hereford</li><li>17:36 (18:02) to Plymouth</li><li>17:48 (18:13) to Carmarthen</li><li>17:50 (18:32) to Didcot Parkway</li><li>17:57 (18:24) to Worcester Foregate Street </li><li>18:01 (18:27) to Bristol Temple Meads</li><li>18:03 (18:29) to Penzance</li><li>18:08 (18:37) to Frome </li><li>18:18 (18:43) to Swansea</li><li>18:20 (19:00) to Didcot Parkway</li><li>18:23 (18:50) to Banbury </li><li>18:30 (18:55) to Weston Super Mare</li><li>18:34 (18:59) to Cheltenham Spa</li><li>18:36 (19:01) to Plymouth</li><li>18:48 (19:13) to Swansea</li><li>18:57 (19:23) to Great Malvern</li><li>19:00 (19:27) to Bristol Temple Meads</li><li>19:04 (19:31) to Plymouth</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:30 and on the following departures from London Paddington (time shown in brackets is from Reading station):\n 16:00 (16:25) to Bristol Temple Meads\n 16:03 (16:29) to Penzance\n 16:05 (16:33) to Newbury\n 16:12 (16:43) to Bristol Parkway\n 16:23 (16:49) to Oxford\n 16:30 (16:55) to Taunton\n 16:33 (16:58) to Cheltenham\n 16:36 (17:02) to Plymouth\n 16:48 (17:13) to Swansea\n 16:50 (17:27) to Didcot\n 16:58 to Great Malvern\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:29) to Penzance\n 17:05 (17:35) to Newbury\n 17:18 (17:43) to Swansea\n 17:20 (17:58) to Didcot\n 17:30 (17:55) to Taunton\n 17:32 (17:58) to Cheltenham Spa\n 17:34 (18:01) to Hereford\n 17:36 (18:02) to Plymouth\n 17:48 (18:13) to Carmarthen\n 17:50 (18:32) to Didcot Parkway\n 17:57 (18:24) to Worcester Foregate Street\n 18:01 (18:27) to Bristol Temple Meads\n 18:03 (18:29) to Penzance\n 18:08 (18:37) to Frome\n 18:18 (18:43) to Swansea\n 18:20 (19:00) to Didcot Parkway\n 18:23 (18:50) to Banbury\n 18:30 (18:55) to Weston Super Mare\n 18:34 (18:59) to Cheltenham Spa\n 18:36 (19:01) to Plymouth\n 18:48 (19:13) to Swansea\n 18:57 (19:23) to Great Malvern\n 19:00 (19:27) to Bristol Temple Meads\n 19:04 (19:31) to Plymouth"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "T8": {
+    "code": "T8",
+    "name": "T8",
+    "id": "01CE1CFB00A74685A7AE845E1BF33848",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/t8",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 and on the following departures from London Paddington (times from Reading station are shown in brackets):</p><ul><li>16:00 (16:25) to Bristol Temple Meads </li><li>16:03 (16:29) to Penzance</li><li>16:05 (16:33) to Newbury</li><li>16:12 (16:43) to Bristol Parkway</li><li>16:23 (16:49) to Oxford </li><li>16:30 (16:55) to Taunton</li><li>16:33 (16:58) to Cheltenham</li><li>16:36 (17:02) to Plymouth</li><li>16:48 (17:13) to Swansea</li><li>16:50 (17:27) to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:29) to Penzance</li><li>17:05 (17:35) to Newbury</li><li>17:18 (17:43) to Swansea</li><li>17:20 (17:58) to Didcot </li><li>17:30 (17:55) to Taunton </li><li>17:32 (17:58) to Cheltenham Spa</li><li>17:34 (18:01) to Hereford</li><li>17:36 (18:02) to Plymouth</li><li>17:48 (18:13) to Carmarthen</li><li>17:50 (18:32) to Didcot Parkway</li><li>17:57 (18:24) to Worcester Foregate Street </li><li>18:01 (18:27) to Bristol Temple Meads</li><li>18:03 (18:29) to Penzance</li><li>18:08 (18:37) to Frome </li><li>18:18 (18:43) to Swansea</li><li>18:20 (19:00) to Didcot Parkway</li><li>18:23 (18:50) to Banbury </li><li>18:30 (18:55) to Weston Super Mare</li><li>18:34 (18:59) to Cheltenham Spa</li><li>18:36 (19:01) to Plymouth</li><li>18:48 (19:13) to Swansea</li><li>18:57 (19:23) to Great Malvern</li><li>19:00 (19:27) to Bristol Temple Meads</li></ul><p><strong>All times are inclusive</strong></p><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00 and on the following departures from London Paddington (times from Reading station are shown in brackets):\n 16:00 (16:25) to Bristol Temple Meads\n 16:03 (16:29) to Penzance\n 16:05 (16:33) to Newbury\n 16:12 (16:43) to Bristol Parkway\n 16:23 (16:49) to Oxford\n 16:30 (16:55) to Taunton\n 16:33 (16:58) to Cheltenham\n 16:36 (17:02) to Plymouth\n 16:48 (17:13) to Swansea\n 16:50 (17:27) to Didcot\n 16:58 to Great Malvern\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:29) to Penzance\n 17:05 (17:35) to Newbury\n 17:18 (17:43) to Swansea\n 17:20 (17:58) to Didcot\n 17:30 (17:55) to Taunton\n 17:32 (17:58) to Cheltenham Spa\n 17:34 (18:01) to Hereford\n 17:36 (18:02) to Plymouth\n 17:48 (18:13) to Carmarthen\n 17:50 (18:32) to Didcot Parkway\n 17:57 (18:24) to Worcester Foregate Street\n 18:01 (18:27) to Bristol Temple Meads\n 18:03 (18:29) to Penzance\n 18:08 (18:37) to Frome\n 18:18 (18:43) to Swansea\n 18:20 (19:00) to Didcot Parkway\n 18:23 (18:50) to Banbury\n 18:30 (18:55) to Weston Super Mare\n 18:34 (18:59) to Cheltenham Spa\n 18:36 (19:01) to Plymouth\n 18:48 (19:13) to Swansea\n 18:57 (19:23) to Great Malvern\n 19:00 (19:27) to Bristol Temple Meads\n All times are inclusive",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 and on the following departures from London Paddington (times from Reading station are shown in brackets):</p><ul><li>16:00 (16:25) to Bristol Temple Meads </li><li>16:03 (16:29) to Penzance</li><li>16:05 (16:33) to Newbury</li><li>16:12 (16:43) to Bristol Parkway</li><li>16:23 (16:49) to Oxford </li><li>16:30 (16:55) to Taunton</li><li>16:33 (16:58) to Cheltenham</li><li>16:36 (17:02) to Plymouth</li><li>16:48 (17:13) to Swansea</li><li>16:50 (17:27) to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:29) to Penzance</li><li>17:05 (17:35) to Newbury</li><li>17:18 (17:43) to Swansea</li><li>17:20 (17:58) to Didcot </li><li>17:30 (17:55) to Taunton </li><li>17:32 (17:58) to Cheltenham Spa</li><li>17:34 (18:01) to Hereford</li><li>17:36 (18:02) to Plymouth</li><li>17:48 (18:13) to Carmarthen</li><li>17:50 (18:32) to Didcot Parkway</li><li>17:57 (18:24) to Worcester Foregate Street </li><li>18:01 (18:27) to Bristol Temple Meads</li><li>18:03 (18:29) to Penzance</li><li>18:08 (18:37) to Frome </li><li>18:18 (18:43) to Swansea</li><li>18:20 (19:00) to Didcot Parkway</li><li>18:23 (18:50) to Banbury </li><li>18:30 (18:55) to Weston Super Mare</li><li>18:34 (18:59) to Cheltenham Spa</li><li>18:36 (19:01) to Plymouth</li><li>18:48 (19:13) to Swansea</li><li>18:57 (19:23) to Great Malvern</li><li>19:00 (19:27) to Bristol Temple Meads</li></ul><p><strong>All times are inclusive</strong></p><p></p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00 and on the following departures from London Paddington (times from Reading station are shown in brackets):\n 16:00 (16:25) to Bristol Temple Meads\n 16:03 (16:29) to Penzance\n 16:05 (16:33) to Newbury\n 16:12 (16:43) to Bristol Parkway\n 16:23 (16:49) to Oxford\n 16:30 (16:55) to Taunton\n 16:33 (16:58) to Cheltenham\n 16:36 (17:02) to Plymouth\n 16:48 (17:13) to Swansea\n 16:50 (17:27) to Didcot\n 16:58 to Great Malvern\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:29) to Penzance\n 17:05 (17:35) to Newbury\n 17:18 (17:43) to Swansea\n 17:20 (17:58) to Didcot\n 17:30 (17:55) to Taunton\n 17:32 (17:58) to Cheltenham Spa\n 17:34 (18:01) to Hereford\n 17:36 (18:02) to Plymouth\n 17:48 (18:13) to Carmarthen\n 17:50 (18:32) to Didcot Parkway\n 17:57 (18:24) to Worcester Foregate Street\n 18:01 (18:27) to Bristol Temple Meads\n 18:03 (18:29) to Penzance\n 18:08 (18:37) to Frome\n 18:18 (18:43) to Swansea\n 18:20 (19:00) to Didcot Parkway\n 18:23 (18:50) to Banbury\n 18:30 (18:55) to Weston Super Mare\n 18:34 (18:59) to Cheltenham Spa\n 18:36 (19:01) to Plymouth\n 18:48 (19:13) to Swansea\n 18:57 (19:23) to Great Malvern\n 19:00 (19:27) to Bristol Temple Meads\n All times are inclusive"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TA": {
+    "code": "TA",
+    "name": "TA",
+    "id": "50114712FF654E9BB8704AE0B90B9C1D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ta",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on services timed to depart between 04:29 and 09:15</p>",
+        "outwardText": "Not valid for travel on services timed to depart between 04:29 and 09:15",
+        "returnHtml": "<p>Not valid for travel on services timed to depart between 04:29 and 09:15</p>",
+        "returnText": "Not valid for travel on services timed to depart between 04:29 and 09:15"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TB": {
+    "code": "TB",
+    "name": "TB",
+    "id": "FE405684C79746BB8725370B7B629E0E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tb",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on services timed to depart between 04:29 and 09:00</p>",
+        "outwardText": "Not valid on services timed to depart between 04:29 and 09:00",
+        "returnHtml": "<p>Not valid on services timed to depart between 04:29 and 09:00</p>",
+        "returnText": "Not valid on services timed to depart between 04:29 and 09:00"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TC": {
+    "code": "TC",
+    "name": "TC",
+    "id": "5865E53B096440A58773FFFC91BB08D5",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Sunday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Sunday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations compulsory</p>",
+        "outwardText": "Reservations compulsory",
+        "returnHtml": "<p>Any TransPennine Express service within 1 month</p>",
+        "returnText": "Any TransPennine Express service within 1 month"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TD": {
+    "code": "TD",
+    "name": "TD",
+    "id": "485688C0F2644253BAF5C7EEF06E2555",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/td",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>-</p>",
+    "seasonalVariationsText": "-",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on TransPennine Express (TOC Code TP) only.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on TransPennine Express (TOC Code TP) only.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TE": {
+    "code": "TE",
+    "name": "TE",
+    "id": "F276595961C644ABB7E9A7EC50935DE8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/te",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Every Day</p>",
+    "applicableDaysText": "Monday to Friday\n Every Day",
+    "notesHtml": "<p>None</p>",
+    "notesText": "None",
+    "seasonalVariationsHtml": "<p>None</p>",
+    "seasonalVariationsText": "None",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Only valid on date and TransPennine Express service stated on the ticket</p>",
+        "outwardText": "Only valid on date and TransPennine Express service stated on the ticket",
+        "returnHtml": "<p>Only valid on date and TransPennine Express service stated on the ticket</p>",
+        "returnText": "Only valid on date and TransPennine Express service stated on the ticket"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

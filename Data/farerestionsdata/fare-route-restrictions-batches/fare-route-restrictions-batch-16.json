@@ -1,0 +1,502 @@
+{
+  "403": {
+    "code": 403,
+    "name": "AP CARLISLE",
+    "description": "AP CARLISLE",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "404": {
+    "code": 404,
+    "name": "AP RUGBY",
+    "description": "AP RUGBY",
+    "startDate": "2023-07-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "405": {
+    "code": 405,
+    "name": "AP OXFORD",
+    "description": "AP OXFORD",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "406": {
+    "code": 406,
+    "name": "AP GC ONLY",
+    "description": "AP GC ONLY",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Grand Central services.",
+    "rspDisplayName": "On specified Grand Central trains only",
+    "enabledForMapPlotting": true
+  },
+  "407": {
+    "code": 407,
+    "name": "CHESTFLD&EMR&CON",
+    "description": "CHESTFLD&EMR&CON",
+    "startDate": "2019-08-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked EMR services via Chesterfield and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "408": {
+    "code": 408,
+    "name": "AP INTERCITY",
+    "description": "AP INTERCITY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "409": {
+    "code": 409,
+    "name": "HULTRNS &NORTHRN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Hull Trains services and required connecting Northern services.",
+    "rspDisplayName": "Specified Hull Trains & Northern only",
+    "enabledForMapPlotting": true
+  },
+  "40202": {
+    "code": 40202,
+    "name": "AAA THORPE LE SO",
+    "description": "AAA THORPE LE SO",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Thorpe-le-Soken.",
+    "rspDisplayName": "Also valid to or from Thorpe-le-Soken",
+    "enabledForMapPlotting": true
+  },
+  "40203": {
+    "code": 40203,
+    "name": "AAA BRAINTREE",
+    "description": "AAA BRAINTREE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Braintree.",
+    "rspDisplayName": "Also valid to or from Braintree",
+    "enabledForMapPlotting": true
+  },
+  "40204": {
+    "code": 40204,
+    "name": "AAA BATTLESBDGE",
+    "description": "AAA BATTLESBDGE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Battlesbridge.",
+    "rspDisplayName": "Also valid to or from Battlesbridge",
+    "enabledForMapPlotting": true
+  },
+  "40205": {
+    "code": 40205,
+    "name": "AAA COLCHESTER",
+    "description": "AAA COLCHESTER",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Colchester.",
+    "rspDisplayName": "Also valid to or from Colchester",
+    "enabledForMapPlotting": true
+  },
+  "40206": {
+    "code": 40206,
+    "name": "AAA BURES",
+    "description": "AAA BURES",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Bures.",
+    "rspDisplayName": "Also valid to or from Bures",
+    "enabledForMapPlotting": true
+  },
+  "40207": {
+    "code": 40207,
+    "name": "AAA MANNINGTREE",
+    "description": "AAA MANNINGTREE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Manningtree.",
+    "rspDisplayName": "Also valid to or from Manningtree",
+    "enabledForMapPlotting": true
+  },
+  "40208": {
+    "code": 40208,
+    "name": "AAA CLACTON",
+    "description": "AAA CLACTON",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Clacton on Sea",
+    "rspDisplayName": "Also valid to or from Clacton on Sea",
+    "enabledForMapPlotting": true
+  },
+  "40209": {
+    "code": 40209,
+    "name": "AAA KELVEDON",
+    "description": "AAA KELVEDON",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Kelvedon.",
+    "rspDisplayName": "Also valid to or from Kelvedon",
+    "enabledForMapPlotting": true
+  },
+  "40210": {
+    "code": 40210,
+    "name": "AAA BURNHAM ON C",
+    "description": "AAA BURNHAM ON C",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Burnham-on-Crouch.",
+    "rspDisplayName": "Also valid to/from Burnham-on-Crouch",
+    "enabledForMapPlotting": true
+  },
+  "40211": {
+    "code": 40211,
+    "name": "AAA BRENTWOOD",
+    "description": "AAA BRENTWOOD",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Brentwood.",
+    "rspDisplayName": "Also valid to or from Brentwood",
+    "enabledForMapPlotting": true
+  },
+  "40212": {
+    "code": 40212,
+    "name": "AAA WINDS ETON C",
+    "description": "AAA WINDS ETON C",
+    "startDate": "1997-06-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Windsor & Eton Central.",
+    "rspDisplayName": "Also valid to/from Windsor & E Central",
+    "enabledForMapPlotting": true
+  },
+  "40213": {
+    "code": 40213,
+    "name": "AAA CHESHNT PBAR",
+    "description": "AAA CHESHNT PBAR",
+    "startDate": "1997-12-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Cheshunt or Potters Bar.",
+    "rspDisplayName": "Also to/from Cheshunt or Potters Bar",
+    "enabledForMapPlotting": true
+  },
+  "40214": {
+    "code": 40214,
+    "name": "AAA PBAR CUFFLEY",
+    "description": "AAA PBAR CUFFLEY",
+    "startDate": "1997-12-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Potters Bar or Cuffley.",
+    "rspDisplayName": "Also valid to/from Potters Bar/Cuffley",
+    "enabledForMapPlotting": true
+  },
+  "40215": {
+    "code": 40215,
+    "name": "AAA CHSNT CUFFLY",
+    "description": "AAA CHSNT CUFFLY",
+    "startDate": "1997-12-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Cheshunt or Cuffley.",
+    "rspDisplayName": "Also valid to/from Cheshunt or Cuffley",
+    "enabledForMapPlotting": true
+  },
+  "40216": {
+    "code": 40216,
+    "name": "AAA EWELL WEST",
+    "description": "AAA EWELL WEST",
+    "startDate": "1998-03-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Ewell West.",
+    "rspDisplayName": "Also valid to or from Ewell West",
+    "enabledForMapPlotting": true
+  },
+  "40217": {
+    "code": 40217,
+    "name": "AAA SEVENOAKS",
+    "description": "AAA SEVENOAKS",
+    "startDate": "1998-05-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Sevenoaks.",
+    "rspDisplayName": "Also valid to or from Sevenoaks",
+    "enabledForMapPlotting": true
+  },
+  "40218": {
+    "code": 40218,
+    "name": "AAA BORO GREEN",
+    "description": "AAA BORO GREEN",
+    "startDate": "1998-05-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Borough Green.",
+    "rspDisplayName": "Also valid to or from Borough Green",
+    "enabledForMapPlotting": true
+  },
+  "40219": {
+    "code": 40219,
+    "name": "AAA KEMSING",
+    "description": "AAA KEMSING",
+    "startDate": "1998-05-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Kemsing.",
+    "rspDisplayName": "Also valid to or from Kemsing",
+    "enabledForMapPlotting": true
+  },
+  "40220": {
+    "code": 40220,
+    "name": "AAA SOTON AIRPWY",
+    "description": "AAA SOTON AIRPWY",
+    "startDate": "1999-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Southampton Airport Parkway.",
+    "rspDisplayName": "Also to/from Southampton Airport Prkwy",
+    "enabledForMapPlotting": true
+  },
+  "40221": {
+    "code": 40221,
+    "name": "AAA STAPLEHURST",
+    "description": "AAA STAPLEHURST",
+    "startDate": "1999-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Staplehurst.",
+    "rspDisplayName": "Also valid to or from Staplehurst",
+    "enabledForMapPlotting": true
+  },
+  "40222": {
+    "code": 40222,
+    "name": "AAA ASHFORD MIDX",
+    "description": "AAA ASHFORD MIDX",
+    "startDate": "1999-10-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Ashford (Middlesex).",
+    "rspDisplayName": "Also valid to/from Ashford (Middlesex)",
+    "enabledForMapPlotting": true
+  },
+  "40223": {
+    "code": 40223,
+    "name": "AAA HEDGE END",
+    "description": "AAA HEDGE END",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Hedge End.",
+    "rspDisplayName": "Also valid to or from Hedge End",
+    "enabledForMapPlotting": true
+  },
+  "40224": {
+    "code": 40224,
+    "name": "AAA WSTBRY/BMTH",
+    "description": "AAA WESTBRY/BMTH",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Westbury or Bournemouth.",
+    "rspDisplayName": "Also valid from Westbury/Bournemouth",
+    "enabledForMapPlotting": true
+  },
+  "40225": {
+    "code": 40225,
+    "name": "AAA HUNTINGDON",
+    "description": "AAA HUNTINGDON",
+    "startDate": "2000-01-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Huntingdon.",
+    "rspDisplayName": "Also valid to or from Huntingdon",
+    "enabledForMapPlotting": true
+  },
+  "40226": {
+    "code": 40226,
+    "name": "AAA BEXLEY/BXHTH",
+    "description": "AAA BEXLEY/BXHTH",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Bexley or Bexleyheath.",
+    "rspDisplayName": "Also valid to/from Bexley/Bexleyheath",
+    "enabledForMapPlotting": true
+  },
+  "40227": {
+    "code": 40227,
+    "name": "AAA NEW ELTHAM",
+    "description": "AAA NEW ELTHAM",
+    "startDate": "2012-01-27",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from New Eltham.",
+    "rspDisplayName": "Also valid to or from New Eltham",
+    "enabledForMapPlotting": true
+  },
+  "40230": {
+    "code": 40230,
+    "name": "AAA LDN ZONE 7*",
+    "description": "AAA LDN ZONE 7*",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel in London Fare Zone 7.",
+    "rspDisplayName": "Also valid in London Fare Zone 7",
+    "enabledForMapPlotting": true
+  },
+  "40231": {
+    "code": 40231,
+    "name": "AAA LDN ZONE 7-8",
+    "description": "AAA LDN ZONE 7-8",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel in London Fare Zones 7-8.",
+    "rspDisplayName": "Also valid in London Fare Zones 7-8",
+    "enabledForMapPlotting": true
+  },
+  "40232": {
+    "code": 40232,
+    "name": "AAA LDN ZONE 7-9",
+    "description": "AAA LDN ZONE 7-9",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel in London Fare Zones 7-9.",
+    "rspDisplayName": "Also valid in London Fare Zones 7-9",
+    "enabledForMapPlotting": true
+  },
+  "40233": {
+    "code": 40233,
+    "name": "AAA EMERSON PARK",
+    "description": "AAA EMERSON PARK",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Emerson Park.",
+    "rspDisplayName": "Also valid to or from Emerson Park",
+    "enabledForMapPlotting": true
+  },
+  "40234": {
+    "code": 40234,
+    "name": "AAA ELMSTEAD WDS",
+    "description": "AAA ELMSTEAD WDS",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Elmstead Woods.",
+    "rspDisplayName": "Also valid to or from Elmstead Woods",
+    "enabledForMapPlotting": true
+  },
+  "40235": {
+    "code": 40235,
+    "name": "AAA ORPINGTON",
+    "description": "AAA ORPINGTON",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Orpington.",
+    "rspDisplayName": "Also valid to or from Orpington",
+    "enabledForMapPlotting": true
+  },
+  "40236": {
+    "code": 40236,
+    "name": "AAA ST MARY CRAY",
+    "description": "AAA ST MARY CRAY",
+    "startDate": "2011-10-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from St Mary Cray.",
+    "rspDisplayName": "Also valid to or from St Mary Cray",
+    "enabledForMapPlotting": true
+  },
+  "40237": {
+    "code": 40237,
+    "name": "AAA CLOCK HOUSE",
+    "description": "AAA CLOCK HOUSE",
+    "startDate": "2012-01-27",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Clockhouse",
+    "rspDisplayName": "Also valid to or from Clockhouse",
+    "enabledForMapPlotting": true
+  },
+  "40238": {
+    "code": 40238,
+    "name": "AAA CHICHESTER",
+    "description": "AAA CHICHESTER",
+    "startDate": "2012-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Chichester.",
+    "rspDisplayName": "Also valid to or from Chichester",
+    "enabledForMapPlotting": true
+  },
+  "40239": {
+    "code": 40239,
+    "name": "AAA CARLTON",
+    "description": "AAA CARLTON",
+    "startDate": "2013-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Carlton.",
+    "rspDisplayName": "Also valid to or from Carlton",
+    "enabledForMapPlotting": true
+  },
+  "40240": {
+    "code": 40240,
+    "name": "AAA NETHERFIELD",
+    "description": "AAA NETHERFIELD",
+    "startDate": "2013-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Netherfield.",
+    "rspDisplayName": "Also valid to or from Netherfield",
+    "enabledForMapPlotting": true
+  },
+  "40901": {
+    "code": 40901,
+    "name": "GA VIA WIGHTLINK",
+    "description": "GA VIA WIGHTLINK",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on Greater Anglia services and Wightlink.",
+    "rspDisplayName": "Valid only on Greater Anglia and Wightlink",
+    "enabledForMapPlotting": false
+  },
+  "40902": {
+    "code": 40902,
+    "name": "GA VIA HOVRTRAVL",
+    "description": "GA VIA HOVERTRAVEL",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on Greater Anglia services and Hovertravel.",
+    "rspDisplayName": "Valid only on Greater Anglia and Hovertravel",
+    "enabledForMapPlotting": false
+  },
+  "40903": {
+    "code": 40903,
+    "name": "EC VIA WIGHTLINK",
+    "description": "EC VIA WIGHTLINK",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on East Coast services and Wightlink.",
+    "rspDisplayName": "Valid only on East Coast and Wightlink",
+    "enabledForMapPlotting": false
+  },
+  "40904": {
+    "code": 40904,
+    "name": "EC VIA HOVRTRAVL",
+    "description": "EC VIA HOVERTRAVEL",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on East Coast services and Hovertravel.",
+    "rspDisplayName": "Valid only on East Coast and Hovertravel",
+    "enabledForMapPlotting": false
+  },
+  "40905": {
+    "code": 40905,
+    "name": "TL VIA WIGHTLINK",
+    "description": "TL VIA WIGHTLINK",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on Thameslink services and Wightlink.",
+    "rspDisplayName": "Valid only on Thameslink and Wightlink",
+    "enabledForMapPlotting": false
+  },
+  "40906": {
+    "code": 40906,
+    "name": "TL VIA HOVRTRAVL",
+    "description": "TL VIA HOVERTRAVEL",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on Thameslink services and Hovertravel.",
+    "rspDisplayName": "Valid only on Thameslink and Hovertravel",
+    "enabledForMapPlotting": false
+  }
+}

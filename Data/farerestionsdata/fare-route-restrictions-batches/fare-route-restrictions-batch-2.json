@@ -1,0 +1,502 @@
+{
+  "14": {
+    "code": 14,
+    "name": "VIA SWANLEY",
+    "description": "VIA SWANLEY",
+    "startDate": "2016-10-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Swanley.",
+    "rspDisplayName": "Valid only via Swanley",
+    "enabledForMapPlotting": true
+  },
+  "134": {
+    "code": 134,
+    "name": "NOT VIA LEEDS",
+    "description": "NOT VIA LEEDS",
+    "startDate": "2018-07-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Leeds.",
+    "rspDisplayName": "Not valid via Leeds",
+    "enabledForMapPlotting": true
+  },
+  "135": {
+    "code": 135,
+    "name": "VIA CAMBRIDGE",
+    "description": "VIA CAMBRIDGE",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Cambridge.",
+    "rspDisplayName": "Valid only via Cambridge",
+    "enabledForMapPlotting": true
+  },
+  "136": {
+    "code": 136,
+    "name": "VIA MELKSHAM",
+    "description": "VIA MELKSHAM",
+    "startDate": "2015-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Melksham.",
+    "rspDisplayName": "Valid only via Melksham",
+    "enabledForMapPlotting": true
+  },
+  "137": {
+    "code": 137,
+    "name": "EARLYBIRD SEASON",
+    "description": "EARLYBIRD SEASON",
+    "startDate": "2015-01-27",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Earlybird Season",
+    "rspDisplayName": "Earlybird Season",
+    "enabledForMapPlotting": false
+  },
+  "138": {
+    "code": 138,
+    "name": "GWR SURFBOARD",
+    "description": "GWR SURFBOARD",
+    "startDate": "2015-08-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "GWR Surfboard",
+    "rspDisplayName": "GWR Surfboard",
+    "enabledForMapPlotting": false
+  },
+  "139": {
+    "code": 139,
+    "name": "GWR CORPORATE",
+    "description": "GWR CORPORATE",
+    "startDate": "2015-09-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "GWR Corporate",
+    "rspDisplayName": "GWR Corporate",
+    "enabledForMapPlotting": false
+  },
+  "140": {
+    "code": 140,
+    "name": "MO TU WE &WKND",
+    "description": "MO TU WE &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on Mondays, Tuesdays, Wednesdays & weekends only.",
+    "rspDisplayName": "Valid on Mon, Tue, Wed & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "141": {
+    "code": 141,
+    "name": "MO TU TH &WKND",
+    "description": "MO TU TH &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on Mondays, Tuesdays, Thursdays & weekends only.",
+    "rspDisplayName": "Valid on Mon, Tue, Thu & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "142": {
+    "code": 142,
+    "name": "MO TU FR &WKND",
+    "description": "MO TU FR &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on Mondays, Tuesdays, Fridays & weekends only.",
+    "rspDisplayName": "Valid on Mon, Tue, Fri & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "143": {
+    "code": 143,
+    "name": "MO WE TH &WKND",
+    "description": "MO WE TH &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on Mondays, Wednesdays, Thursdays & weekends only.",
+    "rspDisplayName": "Valid on Mon, Wed, Thu & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "144": {
+    "code": 144,
+    "name": "MO WE FR &WKND",
+    "description": "MO WE FR &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on Mondays, Wednesdays, Fridays & weekends only.",
+    "rspDisplayName": "Valid on Mon, Wed, Fri & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "145": {
+    "code": 145,
+    "name": "MO TH FR &WKND",
+    "description": "MO TH FR &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on Mondays, Thursdays, Fridays & weekends only.",
+    "rspDisplayName": "Valid on Mon, Thu, Fri & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "1372": {
+    "code": 1372,
+    "name": "AWC+CONNECTIONS",
+    "description": "Avanti West Coast & Connections",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1373": {
+    "code": 1373,
+    "name": "AWC& CONNECTIONS",
+    "description": "Avanti West Coast & Connections",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1374": {
+    "code": 1374,
+    "name": "AWC&CONNECTIONS",
+    "description": "Avanti West Coast & Connections",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1400": {
+    "code": 1400,
+    "name": "HULLTRAINS & SWR",
+    "description": "AP Hull Trains & SWR Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Hull Trains and South Western Railway services",
+    "rspDisplayName": "Booked Hull Trains & SWR services only",
+    "enabledForMapPlotting": false
+  },
+  "1401": {
+    "code": 1401,
+    "name": "HT & CHLTRN ONLY",
+    "description": "HULL TRAINS & CHILTERN RAILWAY ONLY",
+    "startDate": "2025-10-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1402": {
+    "code": 1402,
+    "name": "HT & CHLTRN AP",
+    "description": "HULL TRAINS & CHILTERN RAILWAY AP",
+    "startDate": "2025-10-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1403": {
+    "code": 1403,
+    "name": "HULLTRNS & LNWR",
+    "description": "HULLTRNS & LNWR",
+    "startDate": "2025-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1404": {
+    "code": 1404,
+    "name": "AP HULTRNS &LNWR",
+    "description": "AP HULTRNS & LNWR",
+    "startDate": "2025-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1407": {
+    "code": 1407,
+    "name": "HULLTRS&NORTHERN",
+    "description": "AP Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1408": {
+    "code": 1408,
+    "name": "HULTRNS &NRTHN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1409": {
+    "code": 1409,
+    "name": "HULTRNS&NORTHERN",
+    "description": "AP Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Hull Trains and Northern services and suitable connecting services.",
+    "rspDisplayName": "Specified trains & Northern connections",
+    "enabledForMapPlotting": false
+  },
+  "1410": {
+    "code": 1410,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1411": {
+    "code": 1411,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1412": {
+    "code": 1412,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1413": {
+    "code": 1413,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1414": {
+    "code": 1414,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1421": {
+    "code": 1421,
+    "name": "GWR & HEX 01421",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1422": {
+    "code": 1422,
+    "name": "GWR & HEX 01422",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1423": {
+    "code": 1423,
+    "name": "GWR & HEX 01423",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1424": {
+    "code": 1424,
+    "name": "GWR & HEX 01424",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1425": {
+    "code": 1425,
+    "name": "GWR & HEX 01425",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1426": {
+    "code": 1426,
+    "name": "GWR & HEX 01426",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1427": {
+    "code": 1427,
+    "name": "GWR & HEX 01427",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1428": {
+    "code": 1428,
+    "name": "GWR & HEX 01428",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1429": {
+    "code": 1429,
+    "name": "GWR & HEX 01429",
+    "description": "GWR & HEATHROW EXPRESS ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Great Western Railway and Heathrow Express services",
+    "rspDisplayName": "On GWR and Heathrow Express only",
+    "enabledForMapPlotting": false
+  },
+  "1430": {
+    "code": 1430,
+    "name": "S W RAILWAY ONLY",
+    "description": "SW RAILWAY ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked South Western Railway services and required connecting South Western Railway services",
+    "rspDisplayName": "South Western Railway only",
+    "enabledForMapPlotting": false
+  },
+  "1431": {
+    "code": 1431,
+    "name": "SW RAILWAY. ONLY",
+    "description": "SW RAILWAY ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked South Western Railway services and required connecting South Western Railway services",
+    "rspDisplayName": "South Western Railway only",
+    "enabledForMapPlotting": false
+  },
+  "1432": {
+    "code": 1432,
+    "name": "SW. RAILWAY ONLY",
+    "description": "SW RAILWAY ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked South Western Railway services and required connecting South Western Railway services",
+    "rspDisplayName": "South Western Railway only",
+    "enabledForMapPlotting": false
+  },
+  "1433": {
+    "code": 1433,
+    "name": "LUMO FIXED TRAIN",
+    "description": "LUMO FIXED TRAIN",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo services.",
+    "rspDisplayName": "Lumo only",
+    "enabledForMapPlotting": false
+  },
+  "1434": {
+    "code": 1434,
+    "name": "AP LUMO & HULL",
+    "description": "AP LUMO & HULL TRAINS ONLY",
+    "startDate": "2021-10-29",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "AP LUMO & HULL TRAINS ONLY",
+    "rspDisplayName": "AP LUMO & HULL TRAINS ONLY",
+    "enabledForMapPlotting": false
+  },
+  "1435": {
+    "code": 1435,
+    "name": "LUMO FIXED TRAIN",
+    "description": "LUMO FIXED TRAIN",
+    "startDate": "2024-02-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo services.",
+    "rspDisplayName": "Lumo only",
+    "enabledForMapPlotting": false
+  },
+  "1436": {
+    "code": 1436,
+    "name": "AP AVANTI",
+    "description": "AP AVANTI",
+    "startDate": "2022-11-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1450": {
+    "code": 1450,
+    "name": "LUMO & T&W METRO",
+    "description": "LUMO & T&W METRO ONLY",
+    "startDate": "2025-07-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1451": {
+    "code": 1451,
+    "name": "LUMO T&W METROAP",
+    "description": "LUMO & T&W METRO AP",
+    "startDate": "2025-07-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1452": {
+    "code": 1452,
+    "name": "LUMO & LNWR ONLY",
+    "description": "LUMO & LNWR ONLY",
+    "startDate": "2025-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1453": {
+    "code": 1453,
+    "name": "AP LUMO & LNWR",
+    "description": "AP LUMO & LNWR",
+    "startDate": "2025-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1454": {
+    "code": 1454,
+    "name": "LUMO ST& NRTHN",
+    "description": "LUMO FIRST RAIL STIRLING & NORTHERN",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  }
+}

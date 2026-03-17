@@ -1,0 +1,502 @@
+{
+  "32": {
+    "code": 32,
+    "name": "NOT TO BE USED",
+    "description": "NOT TO BE USED",
+    "startDate": "2011-06-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not to be used",
+    "rspDisplayName": "Not to be used",
+    "enabledForMapPlotting": true
+  },
+  "33": {
+    "code": 33,
+    "name": "SY CON(NTH ONLY)",
+    "description": "SOUTH YORKSHIRE CONESS (NTH ONLY)",
+    "startDate": "2011-06-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "South Yorkshire Concession (Northern only)",
+    "rspDisplayName": "South Yorks Concession (Northern only)",
+    "enabledForMapPlotting": true
+  },
+  "34": {
+    "code": 34,
+    "name": "LIVERPOOL S PWAY",
+    "description": "LIVERPOOL S PWAY",
+    "startDate": "2018-09-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Liverpool South Parkway.",
+    "rspDisplayName": "Valid only via Liverpool South Parkway",
+    "enabledForMapPlotting": true
+  },
+  "35": {
+    "code": 35,
+    "name": "WESSEX ONLY",
+    "description": "WESSEX ONLY",
+    "startDate": "2011-06-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Wessex Only",
+    "rspDisplayName": "Wessex Only",
+    "enabledForMapPlotting": true
+  },
+  "313": {
+    "code": 313,
+    "name": "VIA STOKE-ON-TNT",
+    "description": "VIA STOKE ON TRENT",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Stoke-on-Trent.",
+    "rspDisplayName": "Valid only via Stoke-on-Trent",
+    "enabledForMapPlotting": true
+  },
+  "314": {
+    "code": 314,
+    "name": "VIA BLACKBURN",
+    "description": "VIA BLACKBURN",
+    "startDate": "2013-03-06",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Blackburn.",
+    "rspDisplayName": "Valid only via Blackburn",
+    "enabledForMapPlotting": true
+  },
+  "315": {
+    "code": 315,
+    "name": "VIA KIDSGROVE",
+    "description": "VIA KIDSGROVE",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Kidsgrove.",
+    "rspDisplayName": "Valid only via Kidsgrove",
+    "enabledForMapPlotting": true
+  },
+  "316": {
+    "code": 316,
+    "name": "VIA LEAMINGTON",
+    "description": "VIA LEAMINGTON SPA",
+    "startDate": "2018-01-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Leamington Spa.",
+    "rspDisplayName": "Valid only via Leamington Spa",
+    "enabledForMapPlotting": true
+  },
+  "317": {
+    "code": 317,
+    "name": "VIA PRESTON",
+    "description": "VIA PRESTON",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Preston.",
+    "rspDisplayName": "Valid only via Preston",
+    "enabledForMapPlotting": true
+  },
+  "318": {
+    "code": 318,
+    "name": "METROLINK CTLZ",
+    "description": "METROLINK CTLZ",
+    "startDate": "2024-04-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for transfer between city centre stations within Metrolink Zone 1 only",
+    "rspDisplayName": "Valid via Metrolink (Central Zone)",
+    "enabledForMapPlotting": true
+  },
+  "319": {
+    "code": 319,
+    "name": "LONDN SHREWSBURY",
+    "description": "LONDON AND SHREWSBURY",
+    "startDate": "2015-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) London Terminals and Shrewsbury.",
+    "rspDisplayName": "Valid only via London and Shrewsbury",
+    "enabledForMapPlotting": true
+  },
+  "320": {
+    "code": 320,
+    "name": "VIA SHREWSBURY",
+    "description": "VIA SHREWSBURY",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Shrewsbury.",
+    "rspDisplayName": "Valid only via Shrewsbury",
+    "enabledForMapPlotting": true
+  },
+  "321": {
+    "code": 321,
+    "name": "VIA SKIPTON",
+    "description": "VIA SKIPTON",
+    "startDate": "2014-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Skipton.",
+    "rspDisplayName": "Valid only via Skipton",
+    "enabledForMapPlotting": true
+  },
+  "322": {
+    "code": 322,
+    "name": "NW TRAINS PROMO",
+    "description": "NW TRAINS PROMOTION",
+    "startDate": "1998-11-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "NW Trains Promo",
+    "rspDisplayName": "NW Trains Promo",
+    "enabledForMapPlotting": true
+  },
+  "323": {
+    "code": 323,
+    "name": "VIA STAFFORD",
+    "description": "VIA STAFFORD",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Stafford.",
+    "rspDisplayName": "Valid only via Stafford",
+    "enabledForMapPlotting": true
+  },
+  "324": {
+    "code": 324,
+    "name": "PLUS HS1 NOT UND",
+    "description": "PLUS HS1 NOT UNDERGROUND",
+    "startDate": "2019-01-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": true
+  },
+  "325": {
+    "code": 325,
+    "name": "VIA STOCKPORT",
+    "description": "VIA STOCKPORT",
+    "startDate": "2014-11-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Stockport.",
+    "rspDisplayName": "Valid only via Stockport",
+    "enabledForMapPlotting": true
+  },
+  "326": {
+    "code": 326,
+    "name": "VIA WOLVERHAMPTN",
+    "description": "VIA WOLVERHAMPTON",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Wolverhampton.",
+    "rspDisplayName": "Valid only via Wolverhampton",
+    "enabledForMapPlotting": true
+  },
+  "327": {
+    "code": 327,
+    "name": "VIA WIGAN",
+    "description": "VIA WIGAN",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Wigan.",
+    "rspDisplayName": "Valid only via Wigan",
+    "enabledForMapPlotting": true
+  },
+  "328": {
+    "code": 328,
+    "name": "VIA TAMWORTH",
+    "description": "VIA TAMWORTH",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Tamworth.",
+    "rspDisplayName": "Valid only via Tamworth",
+    "enabledForMapPlotting": true
+  },
+  "329": {
+    "code": 329,
+    "name": "VIA WARRINGTON",
+    "description": "VIA WARRINGTON",
+    "startDate": "2017-09-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Warrington.",
+    "rspDisplayName": "Valid only via Warrington",
+    "enabledForMapPlotting": true
+  },
+  "330": {
+    "code": 330,
+    "name": "AP GA PLUS HS1",
+    "description": "AP GA PLUS HS1",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Greater Anglia trains and suitable connecting Southeastern high speed services.",
+    "rspDisplayName": "On specified GA trains only plus HS1",
+    "enabledForMapPlotting": true
+  },
+  "331": {
+    "code": 331,
+    "name": "NOT HS1 NOT UND",
+    "description": "NOT HS1 NOT UNDERGROUND",
+    "startDate": "2026-01-31",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": true
+  },
+  "332": {
+    "code": 332,
+    "name": "STAFFORD OXFORD",
+    "description": "STAFFORD AND OXFORD",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Stafford and Oxford.",
+    "rspDisplayName": "Valid only via Stafford and Oxford",
+    "enabledForMapPlotting": true
+  },
+  "333": {
+    "code": 333,
+    "name": "VIA KENTISH TOWN",
+    "description": "VIA KENTISH TOWN",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Kentish Town.",
+    "rspDisplayName": "Valid only via Kentish Town",
+    "enabledForMapPlotting": true
+  },
+  "334": {
+    "code": 334,
+    "name": "VIA NORTHAMPTON",
+    "description": "VIA NORTHAMPTON",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Northampton.",
+    "rspDisplayName": "Valid only via Northampton",
+    "enabledForMapPlotting": true
+  },
+  "335": {
+    "code": 335,
+    "name": "VALLEY MASTER",
+    "description": "VALLEY MASTER",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valley Master",
+    "rspDisplayName": "Valley Master",
+    "enabledForMapPlotting": true
+  },
+  "336": {
+    "code": 336,
+    "name": "VIA BROMLEY X",
+    "description": "VIA BROMLEY X",
+    "startDate": "2015-05-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Bromley Cross.",
+    "rspDisplayName": "Valid only via Bromley Cross",
+    "enabledForMapPlotting": false
+  },
+  "337": {
+    "code": 337,
+    "name": "SAXMUNDHAM & BUS",
+    "description": "INTERCHANGE VIA SAXMUNDHAM - BUS 64",
+    "startDate": "2018-06-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Via Saxmundham & Bus",
+    "rspDisplayName": "via Saxmundham & Bus",
+    "enabledForMapPlotting": false
+  },
+  "338": {
+    "code": 338,
+    "name": "SWR & FIRST BUS",
+    "description": "SWR & FIRST BUS",
+    "startDate": "2021-08-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "339": {
+    "code": 339,
+    "name": "SEE NOTES",
+    "description": "SEE NOTES",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "See Notes",
+    "rspDisplayName": "See Notes",
+    "enabledForMapPlotting": true
+  },
+  "340": {
+    "code": 340,
+    "name": "VIA ST ALBANS AB",
+    "description": "VIA ST ALBANS ABBEY",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) St Albans Abbey.",
+    "rspDisplayName": "Valid only via St Albans Abbey",
+    "enabledForMapPlotting": true
+  },
+  "341": {
+    "code": 341,
+    "name": "NOT PRESTN/LPOOL",
+    "description": "NOT PRESTON/LIVERPOOL",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Preston nor via Liverpool.",
+    "rspDisplayName": "Not valid via Preston or Liverpool",
+    "enabledForMapPlotting": true
+  },
+  "342": {
+    "code": 342,
+    "name": "VIA WATFORD JUNC",
+    "description": "VIA WATFORD JUNCTION",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Watford Junction.",
+    "rspDisplayName": "Valid only via Watford Junction",
+    "enabledForMapPlotting": true
+  },
+  "343": {
+    "code": 343,
+    "name": "VIA WILLESDEN JN",
+    "description": "VIA WILLESDEN JUNCTION",
+    "startDate": "2019-02-27",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Willesden Junction.",
+    "rspDisplayName": "Valid only via Willesden Junction",
+    "enabledForMapPlotting": true
+  },
+  "344": {
+    "code": 344,
+    "name": "NOT VIA WATFORD",
+    "description": "NOT VIA WATFORD JUNCTION",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Watford Junction.",
+    "rspDisplayName": "Not valid via Watford Junction",
+    "enabledForMapPlotting": true
+  },
+  "345": {
+    "code": 345,
+    "name": "CAL SLEEPER",
+    "description": "CALEDONIAN SLEEPER",
+    "startDate": "2019-06-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on the Caledonian Sleeper service.",
+    "rspDisplayName": "Valid on Caledonian Sleeper only",
+    "enabledForMapPlotting": true
+  },
+  "346": {
+    "code": 346,
+    "name": "CAL SLEEPER.",
+    "description": "CAL SLEEPER.",
+    "startDate": "2019-06-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on the Caledonian Sleeper service.",
+    "rspDisplayName": "Valid on Caledonian Sleeper only",
+    "enabledForMapPlotting": false
+  },
+  "347": {
+    "code": 347,
+    "name": "CAL SLEEPER..",
+    "description": "CAL SLEEPER..",
+    "startDate": "2019-06-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on the Caledonian Sleeper service.",
+    "rspDisplayName": "Valid on Caledonian Sleeper only",
+    "enabledForMapPlotting": false
+  },
+  "348": {
+    "code": 348,
+    "name": "NOT VIA SWINDON",
+    "description": "NOT VIA SWINDON",
+    "startDate": "2015-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Swindon.",
+    "rspDisplayName": "Not valid via Swindon",
+    "enabledForMapPlotting": true
+  },
+  "349": {
+    "code": 349,
+    "name": "NOT WOLVERHAMPTN",
+    "description": "NOT WOLVERHAMPTN",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Wolverhampton.",
+    "rspDisplayName": "Not valid via Wolverhampton",
+    "enabledForMapPlotting": true
+  },
+  "350": {
+    "code": 350,
+    "name": "WITH TRAVEL TKT",
+    "description": "WITH TRAVEL TKT",
+    "startDate": "2016-10-15",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "With travel ticket",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "351": {
+    "code": 351,
+    "name": "VIA ABERDEEN",
+    "description": "VIA ABERDEEN",
+    "startDate": "2017-05-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Aberdeen.",
+    "rspDisplayName": "Valid only via Aberdeen",
+    "enabledForMapPlotting": true
+  },
+  "352": {
+    "code": 352,
+    "name": "NOT VIA GLASGOW",
+    "description": "NOT VIA GLASGOW",
+    "startDate": "2017-05-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Glasgow.",
+    "rspDisplayName": "Not valid via Glasgow",
+    "enabledForMapPlotting": true
+  },
+  "353": {
+    "code": 353,
+    "name": "VIA AVIEMORE",
+    "description": "VIA AVIEMORE",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Aviemore.",
+    "rspDisplayName": "Valid only via Aviemore",
+    "enabledForMapPlotting": true
+  },
+  "354": {
+    "code": 354,
+    "name": "RAILAIR HATFIELD",
+    "description": "RAILAIR HATFIELD",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on the RailAir coach service via Hatfield.",
+    "rspDisplayName": "RailAir Coach via Hatfield",
+    "enabledForMapPlotting": true
+  },
+  "355": {
+    "code": 355,
+    "name": "RAILAIR STALBANS",
+    "description": "RAILAIR ST ALBANS",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on the RailAir coach service via St Albans City.",
+    "rspDisplayName": "RailAir Coach via St Albans City",
+    "enabledForMapPlotting": true
+  },
+  "356": {
+    "code": 356,
+    "name": "HATFLD/ALBNS BUS",
+    "description": "HATFLD/ALBNS BUS",
+    "startDate": "2018-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Hatfield - St Albans bus service.",
+    "rspDisplayName": "Via Hatfield-St Albans bus service",
+    "enabledForMapPlotting": true
+  },
+  "357": {
+    "code": 357,
+    "name": "VIA GLASGOW",
+    "description": "VIA GLASGOW",
+    "startDate": "2017-05-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Glasgow.",
+    "rspDisplayName": "Valid only via Glasgow",
+    "enabledForMapPlotting": true
+  },
+  "359": {
+    "code": 359,
+    "name": "SWR &RED FUNNEL",
+    "description": "SWR & RED FUNNEL",
+    "startDate": "2022-04-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on South Western Railway and Red Funnel services.",
+    "rspDisplayName": "Via SWR and Red Funnel only",
+    "enabledForMapPlotting": false
+  }
+}

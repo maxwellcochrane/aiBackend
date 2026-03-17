@@ -1,0 +1,18 @@
+{
+  "name": "ai-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6"
+  },
+  "dependencies": {
+    "@azure/ai-agents": "^1.1.0",
+    "@azure/ai-projects": "^2.0.1",
+    "@azure/identity": "^4.13.0"
+  }
+}

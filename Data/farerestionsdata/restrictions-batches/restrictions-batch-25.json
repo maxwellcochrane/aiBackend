@@ -1,0 +1,522 @@
+{
+  "TF": {
+    "code": "TF",
+    "name": "TF",
+    "id": "B160D1906BC24D73A02BF758A252D6DE",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on services timed to depart between 04:29 and 08:45</p>",
+        "outwardText": "Not valid on services timed to depart between 04:29 and 08:45",
+        "returnHtml": "<p>Not valid on services timed to depart between 04:29 and 08:45</p>",
+        "returnText": "Not valid on services timed to depart between 04:29 and 08:45"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TG": {
+    "code": "TG",
+    "name": "TG",
+    "id": "77B32D6ADDFE4F8D9C2AC1494EC24999",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>-</p>",
+    "seasonalVariationsText": "-",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on TransPennine Express (TOC Code TP) and connecting services.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on TransPennine Express (TOC Code TP) and connecting services.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TH": {
+    "code": "TH",
+    "name": "TH",
+    "id": "7D56BEDB560E449899740A3A0C948D55",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/th",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays.</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>-</p>",
+    "seasonalVariationsText": "-",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid for travel on any train company's services.</p><p>Outward journey must be completed before 07:30.</p>",
+        "outwardText": "Valid for travel on any train company's services.\n Outward journey must be completed before 07:30.",
+        "returnHtml": "<p>Valid for travel on any train company's services.</p><p>Return journey must be commenced after 09:59 and until 16:00 or after 18:30.</p>",
+        "returnText": "Valid for travel on any train company's services.\n Return journey must be commenced after 09:59 and until 16:00 or after 18:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TI": {
+    "code": "TI",
+    "name": "TI",
+    "id": "57B670E144614411B71CFA016E60DD7E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ti",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (and Saturdays and Sundays where indicated below)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (and Saturdays and Sundays where indicated below)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid:</p><ul><li>on any LNER services</li><li>on services arriving into Glasgow Queen Street, Glasgow Central, Edinburgh Waverley, Haymarket, Dundee or Aberdeen before 09:30, Mondays to Fridays;</li><li>on the 18:13 CrossCountry service from Edinburgh to Dundee/Aberdeen Monday to Sundays</li></ul><p></p>",
+        "outwardText": "Not valid:\n on any LNER services\n on services arriving into Glasgow Queen Street, Glasgow Central, Edinburgh Waverley, Haymarket, Dundee or Aberdeen before 09:30, Mondays to Fridays;\n on the 18:13 CrossCountry service from Edinburgh to Dundee/Aberdeen Monday to Sundays",
+        "returnHtml": "<p>Not valid:</p><ul><li>on any LNER services</li><li>on services arriving into Glasgow Queen Street, Glasgow Central, Edinburgh Waverley, Haymarket, Dundee or Aberdeen before 09:30, Mondays to Fridays;</li><li>on the 18:13 CrossCountry service from Edinburgh to Dundee/Aberdeen Monday to Sundays</li></ul><p></p>",
+        "returnText": "Not valid:\n on any LNER services\n on services arriving into Glasgow Queen Street, Glasgow Central, Edinburgh Waverley, Haymarket, Dundee or Aberdeen before 09:30, Mondays to Fridays;\n on the 18:13 CrossCountry service from Edinburgh to Dundee/Aberdeen Monday to Sundays"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TJ": {
+    "code": "TJ",
+    "name": "TJ",
+    "id": "2370FAFF10CB4A88A88E73CB30BFD158",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tj",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>-</p>",
+    "seasonalVariationsText": "-",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Valid only on TransPennine Express (TPE) services only. Not valid before 09:30 Monday to Friday</p>",
+        "outwardText": "Valid only on TransPennine Express (TPE) services only. Not valid before 09:30 Monday to Friday",
+        "returnHtml": "<p> Valid only on TransPennine Express (TPE) services only. Not valid before 09:30 Monday to Friday</p>",
+        "returnText": "Valid only on TransPennine Express (TPE) services only. Not valid before 09:30 Monday to Friday"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TM": {
+    "code": "TM",
+    "name": "TM",
+    "id": "08E0F2E64CB84309B0DE71CC2D6AE0F4",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tm",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>-</p>",
+    "seasonalVariationsText": "-",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on TransPennine Express (TOC Code TP) and connecting services</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on TransPennine Express (TOC Code TP) and connecting services\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TN": {
+    "code": "TN",
+    "name": "TN",
+    "id": "C62D79EA66EC42BBA40A099E180D2FEB",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tn",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive at London Terminals before 10:55</p>",
+        "outwardText": "Not valid on trains timed to arrive at London Terminals before 10:55",
+        "returnHtml": "<p>Not valid on trains timed to depart any London Terminal after 04:29 and before 10:55.</p><p>Not valid on trains timed to depart the following London stations after 16:29 or before 19:02:</p><ul><li>London Kings Cross</li><li>Moorgate</li><li>London St Pancras Intl</li><li>Farringdon</li><li>City Thameslink</li><li>London Blackfriars</li><li>London Bridge</li><li>Elephant & Castle</li><li>London Liverpool Street</li></ul><p>Travelcards are valid for use between these times for travel wholly within London Zones 1-6.</p>",
+        "returnText": "Not valid on trains timed to depart any London Terminal after 04:29 and before 10:55.\n Not valid on trains timed to depart the following London stations after 16:29 or before 19:02:\n London Kings Cross\n Moorgate\n London St Pancras Intl\n Farringdon\n City Thameslink\n London Blackfriars\n London Bridge\n Elephant & Castle\n London Liverpool Street\n Travelcards are valid for use between these times for travel wholly within London Zones 1-6."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TO": {
+    "code": "TO",
+    "name": "TO",
+    "id": "4AF9586C95BD4D98B808A6E18AA5AC8B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/to",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on services timed to depart between 04:29 and 08:30</p>",
+        "outwardText": "Not valid on services timed to depart between 04:29 and 08:30",
+        "returnHtml": "<p>Not valid on services timed to depart between 04:29 and 08:30</p>",
+        "returnText": "Not valid on services timed to depart between 04:29 and 08:30"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TP": {
+    "code": "TP",
+    "name": "TP",
+    "id": "1365713BF1FC4751ADD857369B1AFD04",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tp",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on services timed to depart between 04:29 and 08:15</p>",
+        "outwardText": "Not valid on services timed to depart between 04:29 and 08:15",
+        "returnHtml": "<p> Not valid on services timed to depart between 04:29 and 08:15</p>",
+        "returnText": "Not valid on services timed to depart between 04:29 and 08:15"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TR": {
+    "code": "TR",
+    "name": "TR",
+    "id": "EBB20D5F56A64396B6DEC0ABC542303F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tr",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday-Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday-Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on services timed to depart between 04:29 and 08:00.</p>",
+        "outwardText": "Not valid on services timed to depart between 04:29 and 08:00.",
+        "returnHtml": "<p> Not valid on services timed to depart between 04:29 and 08:00</p>",
+        "returnText": "Not valid on services timed to depart between 04:29 and 08:00"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TS": {
+    "code": "TS",
+    "name": "TS",
+    "id": "91FE5D3339A24779B2052A2B657A9A5A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ts",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 which arrive at London Terminals before 10:00.</p><p>Not valid on trains timed to pass through London St Pancras International after 04:29 or before 10:00, regardless of where you join or leave the service.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 which arrive at London Terminals before 10:00.\n Not valid on trains timed to pass through London St Pancras International after 04:29 or before 10:00, regardless of where you join or leave the service.",
+        "returnHtml": "<p>Valid on any train EXCEPT those timed to depart between 04.30 and 10:00.</p>",
+        "returnText": "Valid on any train EXCEPT those timed to depart between 04.30 and 10:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TT": {
+    "code": "TT",
+    "name": "TT",
+    "id": "3A80222ED2134D3BA6AEAFFBE560E721",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tt",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any trains timed to depart after 04:29 and before 07:30.</p>",
+        "outwardText": "Not valid on any trains timed to depart after 04:29 and before 07:30.",
+        "returnHtml": "<p>No Restriction</p>",
+        "returnText": "No Restriction"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TU": {
+    "code": "TU",
+    "name": "TU",
+    "id": "F68599A5EE94467883157BCA537BA5D2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train timed to depart after 04:29 and before 07:15.</p>",
+        "outwardText": "Not valid on any train timed to depart after 04:29 and before 07:15.",
+        "returnHtml": "<p>Not valid on any train timed to depart after 04:29 and before 07:15.</p>",
+        "returnText": "Not valid on any train timed to depart after 04:29 and before 07:15."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TV": {
+    "code": "TV",
+    "name": "TV",
+    "id": "52ECF8E826C24ECA822F4827E0164A95",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tv",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TW": {
+    "code": "TW",
+    "name": "TW",
+    "id": "298AD540D3D946E3BB05AB996F24B6AA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tw",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 22nd December 2025 until 05th January 2026.</p>",
+    "seasonalVariationsText": "This restriction is lifted from 22nd December 2025 until 05th January 2026.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:45.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 06:45.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:45.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 06:45."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TX": {
+    "code": "TX",
+    "name": "TX",
+    "id": "00891AE19D7044CC8FA9D63A3A900866",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 06:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 06:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TY": {
+    "code": "TY",
+    "name": "TY",
+    "id": "5A59B88238A54B24B0114A5E50779042",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ty",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 06:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 06:15."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "TZ": {
+    "code": "TZ",
+    "name": "TZ",
+    "id": "0C55BF8AFFCC498BA804C4654FB4BABA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/tz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed from 03:00 until 09:30.</p>",
+        "outwardText": "Not valid on trains timed from 03:00 until 09:30.",
+        "returnHtml": "<p>Not valid on trains timed from 03:00 until 09:30.</p>",
+        "returnText": "Not valid on trains timed from 03:00 until 09:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "U5": {
+    "code": "U5",
+    "name": "U5",
+    "id": "D1F52ADEEF2B4EC8AFA4D2D515BBE537",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/u5",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day</p>",
+    "applicableDaysText": "Monday to Friday\n Any day",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Caledonian Sleeper seated services only.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Caledonian Sleeper seated services only.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>N/A Single tickets only.</p>",
+        "returnText": "N/A Single tickets only."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "U6": {
+    "code": "U6",
+    "name": "U6",
+    "id": "999676C825214644B1560321065746CA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/u6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day</p>",
+    "applicableDaysText": "Monday to Friday\n Any day",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Caledonian Sleeper only</p><p>Valid in Standard/Classic rooms only.</p><p>Room reservations are compulsory and can only be used on the reserved service.</p>",
+        "outwardText": "Valid on Caledonian Sleeper only\n Valid in Standard/Classic rooms only.\n Room reservations are compulsory and can only be used on the reserved service.",
+        "returnHtml": "<p>N/A Single tickets only</p>",
+        "returnText": "N/A Single tickets only"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

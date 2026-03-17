@@ -1,0 +1,522 @@
+{
+  "U7": {
+    "code": "U7",
+    "name": "U7",
+    "id": "0829D1C73B6342368E12E21C4794F93F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/u7",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day</p>",
+    "applicableDaysText": "Monday to Friday\n Any day",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Caledonian Sleeper only</p><p>Valid in First Class/Club rooms only.</p><p>Room reservations are compulsory and can only be used on the reserved service.</p>",
+        "outwardText": "Valid on Caledonian Sleeper only\n Valid in First Class/Club rooms only.\n Room reservations are compulsory and can only be used on the reserved service.",
+        "returnHtml": "<p>N/A Single tickets only</p>",
+        "returnText": "N/A Single tickets only"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UE": {
+    "code": "UE",
+    "name": "UE",
+    "id": "6D8733B10444484EA32EF53D0CD6FE44",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ue",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Sunday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Sunday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on the booked train(s) only.</p>",
+        "outwardText": "Valid on the booked train(s) only.",
+        "returnHtml": "<p>Valid on trains operated by South Western Railway and Island Line, only. Not valid on trains operated by other train companies.</p><p><strong>Monday-Saturday (including public holidays):</strong></p><p>Not valid on trains timed to <strong>depart</strong> 04:30-12:00. Additionally, not valid if boarding at the following stations:</p><ul><li>London Waterloo 16:00-19:00</li><li>Vauxhall 16:04-19:03</li><li>Clapham Junction 16:07-19:08</li></ul><p>Not valid on trains time to <strong>arrive</strong> at London Waterloo or Vauxhall 04:30-14:00.</p><p><strong>Sunday:</strong></p><p>Travel at any time.</p>",
+        "returnText": "Valid on trains operated by South Western Railway and Island Line, only. Not valid on trains operated by other train companies.\n Monday-Saturday (including public holidays):\n Not valid on trains timed to depart 04:30-12:00. Additionally, not valid if boarding at the following stations:\n London Waterloo 16:00-19:00\n Vauxhall 16:04-19:03\n Clapham Junction 16:07-19:08\n Not valid on trains time to arrive at London Waterloo or Vauxhall 04:30-14:00.\n Sunday:\n Travel at any time."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UL": {
+    "code": "UL",
+    "name": "UL",
+    "id": "C397486E159A4D52BD7C0239AA303366",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ul",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday and Saturday</p><br /><p>Mondays - Saturdays only, including public holidays.</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday and Saturday\n Mondays - Saturdays only, including public holidays.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 12:01</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 12:01",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 12:01</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 12:01"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UM": {
+    "code": "UM",
+    "name": "UM",
+    "id": "E6AB34B9E6C2457897DCF7F1DE25F6A7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/um",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li>London Terminals after 04:29 and before 11:00.</li><li>Clapham Junction after 04:29 and before 10:52.</li></ul><p>Not valid on any train timed to depart:</p><p><strong>London Waterloo</strong> after 04:29 and before 09:00; or after 16:15 and before 19:46, except:</p><ul><li>08:35 to Weymouth if travelling to Brockenhurst and beyond (including Lymington);</li></ul><p><strong>Vauxhall</strong> after 04:29 and before 09:03; or after after 16:00 and before 20:04.</p><p><strong>Clapham Junction</strong> after 04:29 and before 09:08; or after 16:20 and before 19:50.</p><p>Any station in London Zones 1-6 area after 04:29 and before 09:29. (Except those stations shown above.)</p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Terminals after 04:29 and before 11:00.\n Clapham Junction after 04:29 and before 10:52.\n Not valid on any train timed to depart:\n London Waterloo  after 04:29 and before 09:00; or after 16:15 and before 19:46, except:\n 08:35 to Weymouth if travelling to Brockenhurst and beyond (including Lymington);\n Vauxhall  after 04:29 and before 09:03; or after after 16:00 and before 20:04.\n Clapham Junction  after 04:29 and before 09:08; or after 16:20 and before 19:50.\n Any station in London Zones 1-6 area after 04:29 and before 09:29. (Except those stations shown above.)",
+        "returnHtml": "<p>Not valid on trains timed to arrive:</p><ul><li>London Terminals after 04:29 and before 11:00.</li><li>Clapham Junction after 04:29 and before 10:52.</li></ul><p>Not valid on any train timed to depart:</p><p><strong>London Waterloo</strong> after 04:29 and before 09:00; or after 16:15 and before 19:46, except:</p><ul><li>08:35 to Weymouth if travelling to Brockenhurst and beyond (including Lymington);</li></ul><p><strong>Vauxhall</strong> after 04:29 and before 09:03; or after after 16:00 and before 20:04.</p><p><strong>Clapham Junction</strong> after 04:29 and before 09:08; or after 16:20 and before 19:50.</p><p>Any station in London Zones 1-6 area after 04:29 and before 09:29. (Except those stations shown above.)</p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals after 04:29 and before 11:00.\n Clapham Junction after 04:29 and before 10:52.\n Not valid on any train timed to depart:\n London Waterloo  after 04:29 and before 09:00; or after 16:15 and before 19:46, except:\n 08:35 to Weymouth if travelling to Brockenhurst and beyond (including Lymington);\n Vauxhall  after 04:29 and before 09:03; or after after 16:00 and before 20:04.\n Clapham Junction  after 04:29 and before 09:08; or after 16:20 and before 19:50.\n Any station in London Zones 1-6 area after 04:29 and before 09:29. (Except those stations shown above.)"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UO": {
+    "code": "UO",
+    "name": "UO",
+    "id": "CE650EACA92D445AAA3F8FADA88FFAC8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uo",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 10:00.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);</li><li>London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03;</li><li>Clapham Junction after 04:29 and before 09:09;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to arrive London Terminals after 04:29 and before 10:00.\n Not valid on services timed to depart :\n any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);\n London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03;\n Clapham Junction after 04:29 and before 09:09;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 10:00.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);</li><li>London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03;</li><li>Clapham Junction after 04:29 and before 09:09;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to arrive London Terminals after 04:29 and before 10:00.\n Not valid on services timed to depart :\n any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);\n London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03;\n Clapham Junction after 04:29 and before 09:09;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UP": {
+    "code": "UP",
+    "name": "UP",
+    "id": "BE6F121F981C4B75A8B3FD01181F1AD6",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/up",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday and Saturday</p><br /><p>Monday - Saturday, including public holidays</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday and Saturday\n Monday - Saturday, including public holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 12:01.</p><p>Additionally, not valid if boarding at the following stations:</p><ul><li>Blackfriars: after 15:59 and before 19:01</li><li>Cannon Street: after 15:59 and before 19:01</li><li>Charing Cross: after 15:59 and before 19:01</li><li>City Thameslink: after 15:59 and before 19:01</li><li>Clapham Junction: after 15:59 and before 19:10</li><li>London Bridge: after 15:59 and before 19:01</li><li>Paddington: after 15:59 and before 19:01</li><li>Vauxhall: after 15:59 and before 19:05</li><li>Victoria: after 15:59 and before 19:01</li><li>Waterloo: after 15:59 and before 19:01</li><li>Waterloo East: after 15:59 and before 19:01</li></ul><p>Not valid on CrossCountry services timed to depart after 04:29 and before 13:01</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 12:01.\n Additionally, not valid if boarding at the following stations:\n Blackfriars: after 15:59 and before 19:01\n Cannon Street: after 15:59 and before 19:01\n Charing Cross: after 15:59 and before 19:01\n City Thameslink: after 15:59 and before 19:01\n Clapham Junction: after 15:59 and before 19:10\n London Bridge: after 15:59 and before 19:01\n Paddington: after 15:59 and before 19:01\n Vauxhall: after 15:59 and before 19:05\n Victoria: after 15:59 and before 19:01\n Waterloo: after 15:59 and before 19:01\n Waterloo East: after 15:59 and before 19:01\n Not valid on CrossCountry services timed to depart after 04:29 and before 13:01",
+        "returnHtml": "<p>Not valid on trains timed to arrive London Terminals after 04:29 and before 14:01</p>",
+        "returnText": "Not valid on trains timed to arrive London Terminals after 04:29 and before 14:01"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UQ": {
+    "code": "UQ",
+    "name": "UQ",
+    "id": "8038D130505E45D49CDB2C8A0E90D548",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uq",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45, except departing from one of the stations listed below, on or after the time shown: </p><ul><li>Axminster 08:04    (travelling towards Salisbury)</li><li>Bath Spa 08:38    (travelling towards Salisbury)</li><li>Bristol Temple Meads 08:19    (travelling towards Salisbury)</li><li>Cranbrook 07:38    (travelling towards Salisbury)</li><li>Crewkerne 08:17    (travelling towards Salisbury)</li><li>Dorchester South 08:07   (travelling towards Bournemouth)</li><li>Exeter Central 07:29    (travelling towards Salisbury)</li><li>Exeter St Davids 07:25    (travelling towards Salisbury)</li><li>Hamworthy 08:35   (travelling towards Bournemouth)</li><li>Holton Heath 08:30   (travelling towards Bournemouth)</li><li>Honiton 07:52    (travelling towards Salisbury)</li><li>Keynsham 08:27    (travelling towards Salisbury)</li><li>Moreton 08:14    (travelling towards Bournemouth)</li><li>Oldfield Park 08:34    (travelling towards Salisbury)</li><li>Pinhoe 07:34    (travelling towards Salisbury)</li><li>Poole 08:41   (travelling towards Bournemouth)</li><li>Sherborne 08:35    (travelling towards Salisbury)</li><li>Templecombe 08:43    (travelling towards Salisbury)</li><li>Upwey 07:59   (travelling towards Bournemouth)</li><li>Wareham 08:27   (travelling towards Bournemouth)</li><li>Weymouth 07:55    (travelling towards Bournemouth)</li><li>Wool 08:20   (travelling towards Bournemouth)</li><li>Yeovil Junction 08:29    (travelling towards Salisbury)</li></ul><p>Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:45, except departing from one of the stations listed below, on or after the time shown: \n Axminster 08:04    (travelling towards Salisbury)\n Bath Spa 08:38    (travelling towards Salisbury)\n Bristol Temple Meads 08:19    (travelling towards Salisbury)\n Cranbrook 07:38    (travelling towards Salisbury)\n Crewkerne 08:17    (travelling towards Salisbury)\n Dorchester South 08:07   (travelling towards Bournemouth)\n Exeter Central 07:29    (travelling towards Salisbury)\n Exeter St Davids 07:25    (travelling towards Salisbury)\n Hamworthy 08:35   (travelling towards Bournemouth)\n Holton Heath 08:30   (travelling towards Bournemouth)\n Honiton 07:52    (travelling towards Salisbury)\n Keynsham 08:27    (travelling towards Salisbury)\n Moreton 08:14    (travelling towards Bournemouth)\n Oldfield Park 08:34    (travelling towards Salisbury)\n Pinhoe 07:34    (travelling towards Salisbury)\n Poole 08:41   (travelling towards Bournemouth)\n Sherborne 08:35    (travelling towards Salisbury)\n Templecombe 08:43    (travelling towards Salisbury)\n Upwey 07:59   (travelling towards Bournemouth)\n Wareham 08:27   (travelling towards Bournemouth)\n Weymouth 07:55    (travelling towards Bournemouth)\n Wool 08:20   (travelling towards Bournemouth)\n Yeovil Junction 08:29    (travelling towards Salisbury)\n Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45, except departing from one of the stations listed below, on or after the time shown: </p><ul><li>Axminster 08:04    (travelling towards Salisbury)</li><li>Bath Spa 08:38    (travelling towards Salisbury)</li><li>Bristol Temple Meads 08:19    (travelling towards Salisbury)</li><li>Cranbrook 07:38    (travelling towards Salisbury)</li><li>Crewkerne 08:17    (travelling towards Salisbury)</li><li>Dorchester South 08:07   (travelling towards Bournemouth)</li><li>Exeter Central 07:29    (travelling towards Salisbury)</li><li>Exeter St Davids 07:25    (travelling towards Salisbury)</li><li>Hamworthy 08:35   (travelling towards Bournemouth)</li><li>Holton Heath 08:30   (travelling towards Bournemouth)</li><li>Honiton 07:52    (travelling towards Salisbury)</li><li>Keynsham 08:27    (travelling towards Salisbury)</li><li>Moreton 08:14    (travelling towards Bournemouth)</li><li>Oldfield Park 08:34    (travelling towards Salisbury)</li><li>Pinhoe 07:34    (travelling towards Salisbury)</li><li>Poole 08:41   (travelling towards Bournemouth)</li><li>Sherborne 08:35    (travelling towards Salisbury)</li><li>Templecombe 08:43    (travelling towards Salisbury)</li><li>Upwey 07:59   (travelling towards Bournemouth)</li><li>Wareham 08:27   (travelling towards Bournemouth)</li><li>Weymouth 07:55    (travelling towards Bournemouth)</li><li>Wool 08:20   (travelling towards Bournemouth)</li><li>Yeovil Junction 08:29    (travelling towards Salisbury)</li></ul><p>Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:45, except departing from one of the stations listed below, on or after the time shown: \n Axminster 08:04    (travelling towards Salisbury)\n Bath Spa 08:38    (travelling towards Salisbury)\n Bristol Temple Meads 08:19    (travelling towards Salisbury)\n Cranbrook 07:38    (travelling towards Salisbury)\n Crewkerne 08:17    (travelling towards Salisbury)\n Dorchester South 08:07   (travelling towards Bournemouth)\n Exeter Central 07:29    (travelling towards Salisbury)\n Exeter St Davids 07:25    (travelling towards Salisbury)\n Hamworthy 08:35   (travelling towards Bournemouth)\n Holton Heath 08:30   (travelling towards Bournemouth)\n Honiton 07:52    (travelling towards Salisbury)\n Keynsham 08:27    (travelling towards Salisbury)\n Moreton 08:14    (travelling towards Bournemouth)\n Oldfield Park 08:34    (travelling towards Salisbury)\n Pinhoe 07:34    (travelling towards Salisbury)\n Poole 08:41   (travelling towards Bournemouth)\n Sherborne 08:35    (travelling towards Salisbury)\n Templecombe 08:43    (travelling towards Salisbury)\n Upwey 07:59   (travelling towards Bournemouth)\n Wareham 08:27   (travelling towards Bournemouth)\n Weymouth 07:55    (travelling towards Bournemouth)\n Wool 08:20   (travelling towards Bournemouth)\n Yeovil Junction 08:29    (travelling towards Salisbury)\n Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UR": {
+    "code": "UR",
+    "name": "UR",
+    "id": "62E46E3F29DE45F99DCA1D4A03A3D16E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ur",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday and Saturday</p><br /><p>Monday - Saturday, including public holidays</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday and Saturday\n Monday - Saturday, including public holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 12:01.</p><p>Additionally, not valid if boarding at the following stations:</p><ul><li>Blackfriars: after 15:59 and before 19:01</li><li>Cannon Street: after 15:59 and before 19:01</li><li>Charing Cross: after 15:59 and before 19:01</li><li>City Thameslink: after 15:59 and before 19:01</li><li>Clapham Junction: after 15:59 and before 19:10</li><li>London Bridge: after 15:59 and before 19:01</li><li>Paddington: after 15:59 and before 19:01</li><li>Vauxhall: after 15:59 and before 19:05</li><li>Victoria: after 15:59 and before 19:01</li><li>Waterloo: after 15:59 and before 19:01</li><li>Waterloo East: after 15:59 and before 19:01</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 12:01.\n Additionally, not valid if boarding at the following stations:\n Blackfriars: after 15:59 and before 19:01\n Cannon Street: after 15:59 and before 19:01\n Charing Cross: after 15:59 and before 19:01\n City Thameslink: after 15:59 and before 19:01\n Clapham Junction: after 15:59 and before 19:10\n London Bridge: after 15:59 and before 19:01\n Paddington: after 15:59 and before 19:01\n Vauxhall: after 15:59 and before 19:05\n Victoria: after 15:59 and before 19:01\n Waterloo: after 15:59 and before 19:01\n Waterloo East: after 15:59 and before 19:01",
+        "returnHtml": "<p>Travel at any time.</p>",
+        "returnText": "Travel at any time."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "US": {
+    "code": "US",
+    "name": "US",
+    "id": "51B47180C47F4015B5A8064266A27961",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/us",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 10:00.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03;</li><li>Clapham Junction after 04:29 and before 09:09;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul>",
+        "outwardText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 10:00.\n Not valid on services timed to depart :\n London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03;\n Clapham Junction after 04:29 and before 09:09;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 10:00.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03;</li><li>Clapham Junction after 04:29 and before 09:09;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul>",
+        "returnText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 10:00.\n Not valid on services timed to depart :\n London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03;\n Clapham Junction after 04:29 and before 09:09;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UT": {
+    "code": "UT",
+    "name": "UT",
+    "id": "B2A9FCFC091E4D2D935B3BAC1C7B6AE7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ut",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on services timed to <strong>arrive</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 10:00;</li><li>London Euston after 04:29 and before 10:00;</li><li>London Kings Cross after 04:29 and before 10:03;</li><li>London Liverpool Street after 04:29 and before 10:00;</li><li>London Paddington after 04:29 and before 10:00;</li><li>London St Pancras International after 04:29 and before 10:03;</li><li>London Waterloo after 04:29 and before 10:00. </li><li>Vauxhall after 04:29 and before 10:00;</li><li>Clapham Junction after 04:29 before 10:00;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;</li></ul><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 09:30;</li><li>London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;</li><li>London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00</li><li>London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Vauxhall after 04:29 and before 09:05;</li><li>Clapham Junction after 04:29 and before 09:10;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 until 18:42;</li><li>Cowes East or Cowes West on Red Funnel Ferry services after 04:29 and before 09:14;</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul>",
+        "outwardText": "Not valid on services timed to arrive :\n London Terminals (except those below) after 04:29 and before 10:00;\n London Euston after 04:29 and before 10:00;\n London Kings Cross after 04:29 and before 10:03;\n London Liverpool Street after 04:29 and before 10:00;\n London Paddington after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 10:03;\n London Waterloo after 04:29 and before 10:00. \n Vauxhall after 04:29 and before 10:00;\n Clapham Junction after 04:29 before 10:00;\n Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;\n Not valid on services timed to depart :\n London Terminals (except those below) after 04:29 and before 09:30;\n London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;\n London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00\n London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Waterloo after 04:29 and before 09:00;\n Vauxhall after 04:29 and before 09:05;\n Clapham Junction after 04:29 and before 09:10;\n Stratford (London) after 04:29 and before 09:38 and after 16:34 until 18:42;\n Cowes East or Cowes West on Red Funnel Ferry services after 04:29 and before 09:14;\n CrossCountry services timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on services timed to <strong>arrive</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 10:00;</li><li>London Euston after 04:29 and before 10:00;</li><li>London Kings Cross after 04:29 and before 10:03;</li><li>London Liverpool Street after 04:29 and before 10:00;</li><li>London Paddington after 04:29 and before 10:00;</li><li>London St Pancras International after 04:29 and before 10:03;</li><li>London Waterloo after 04:29 and before 10:00. </li><li>Vauxhall after 04:29 and before 10:00;</li><li>Clapham Junction after 04:29 before 10:00;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;</li></ul><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 09:30;</li><li>London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;</li><li>London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00</li><li>London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Vauxhall after 04:29 and before 09:05;</li><li>Clapham Junction after 04:29 and before 09:10;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 until 18:42;</li><li>Cowes East or Cowes West on Red Funnel Ferry services after 04:29 and before 09:14;</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul>",
+        "returnText": "Not valid on services timed to arrive :\n London Terminals (except those below) after 04:29 and before 10:00;\n London Euston after 04:29 and before 10:00;\n London Kings Cross after 04:29 and before 10:03;\n London Liverpool Street after 04:29 and before 10:00;\n London Paddington after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 10:03;\n London Waterloo after 04:29 and before 10:00. \n Vauxhall after 04:29 and before 10:00;\n Clapham Junction after 04:29 before 10:00;\n Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;\n Not valid on services timed to depart :\n London Terminals (except those below) after 04:29 and before 09:30;\n London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;\n London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00\n London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Waterloo after 04:29 and before 09:00;\n Vauxhall after 04:29 and before 09:05;\n Clapham Junction after 04:29 and before 09:10;\n Stratford (London) after 04:29 and before 09:38 and after 16:34 until 18:42;\n Cowes East or Cowes West on Red Funnel Ferry services after 04:29 and before 09:14;\n CrossCountry services timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UU": {
+    "code": "UU",
+    "name": "UU",
+    "id": "EFD99F650099427DA9BA5CAE51E8B4F1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 except as listed below:</p><ul><li>06:55 (and all later services) Weymouth - London Waterloo: boarding at stations Weymouth - Bournemouth inclusive.</li><li>06:40 (and all later services) Exeter St Davids - Waterloo: boarding at stations Exeter St Davids - Tisbury inclusive.</li></ul><p>Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00 except as listed below:\n 06:55 (and all later services) Weymouth - London Waterloo: boarding at stations Weymouth - Bournemouth inclusive.\n 06:40 (and all later services) Exeter St Davids - Waterloo: boarding at stations Exeter St Davids - Tisbury inclusive.\n Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 except as listed below:</p><ul><li>06:55 (and all later services) Weymouth - Waterloo: boarding at stations Weymouth - Bournemouth inclusive.</li><li>06:40 (and all later services) Exeter St Davids - Waterloo: boarding at stations Exeter St Davids - Tisbury inclusive.</li></ul><p>Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00 except as listed below:\n 06:55 (and all later services) Weymouth - Waterloo: boarding at stations Weymouth - Bournemouth inclusive.\n 06:40 (and all later services) Exeter St Davids - Waterloo: boarding at stations Exeter St Davids - Tisbury inclusive.\n Not valid on Red Funnel ferry services departing Cowes East or Cowes West before 09:15."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UV": {
+    "code": "UV",
+    "name": "UV",
+    "id": "9A8748D6DC494C10B39F795AD5A8F2DE",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uv",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 09:51.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03;</li><li>Clapham Junction after 04:29 and before 09:09;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 09:51.\n Not valid on services timed to  depart :\n London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03;\n Clapham Junction after 04:29 and before 09:09;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 09:51.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03;</li><li>Clapham Junction after 04:29 and before 09:09;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to arrive London Terminals after 04:29 and before 09:51.\n Not valid on services timed to depart :\n London Terminals (except Paddington or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03;\n Clapham Junction after 04:29 and before 09:09;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UW": {
+    "code": "UW",
+    "name": "UW",
+    "id": "B317F4279CF24473A1328AD0EE8FC161",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uw",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p><strong>Journeys towards, away from, or via London:</strong></p><p>Not valid on services timed to <strong>arrive</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 10:00;</li><li>London Kings Cross after 04:29 and before 10:03;</li><li>London St Pancras International after 04:29 and before 10:03;</li><li>London Waterloo after 04:29 and before 09:52. </li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;</li></ul><p>Not valid on trains timed to <strong>depart</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 09:30;</li><li>London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;</li><li>London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;</li><li>London Paddington after 04:29 and before 09:29 and after 16:00 and before 18:59;</li><li>London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Vauxhall after 04:29 and before 09:05;</li><li>Clapham Junction after 04:29 and before 09:10;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42.</li></ul><p><strong>Other journeys:</strong></p><p>Not timed to <strong>depart:</strong></p><ul><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14</li><li>CrossCountry: services timed to depart after 04:29 and before 08:45</li><li>Guildford: after 04:29 and before 09:11 (towards Redhill); after 04:29 and before 08:44 (towards Reading)</li><li>Dorking Deepdene: after 04:29 and before 09:29 (towards Redhill); after 04:29 and before 08:24 (towards Reading)</li><li>Reading: after 04:29 and before 08:25 (towards Redhill)</li><li>Wokingham: after 04:29 and before 08:34 (towards Redhill)</li></ul><p></p>",
+        "outwardText": "Journeys towards, away from, or via London:\n Not valid on services timed to arrive :\n London Terminals (except those below) after 04:29 and before 10:00;\n London Kings Cross after 04:29 and before 10:03;\n London St Pancras International after 04:29 and before 10:03;\n London Waterloo after 04:29 and before 09:52. \n Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;\n Not valid on trains timed to depart :\n London Terminals (except those below) after 04:29 and before 09:30;\n London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;\n London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;\n London Paddington after 04:29 and before 09:29 and after 16:00 and before 18:59;\n London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Waterloo after 04:29 and before 09:00;\n Vauxhall after 04:29 and before 09:05;\n Clapham Junction after 04:29 and before 09:10;\n Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42.\n Other journeys:\n Not timed to depart:\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14\n CrossCountry: services timed to depart after 04:29 and before 08:45\n Guildford: after 04:29 and before 09:11 (towards Redhill); after 04:29 and before 08:44 (towards Reading)\n Dorking Deepdene: after 04:29 and before 09:29 (towards Redhill); after 04:29 and before 08:24 (towards Reading)\n Reading: after 04:29 and before 08:25 (towards Redhill)\n Wokingham: after 04:29 and before 08:34 (towards Redhill)",
+        "returnHtml": "<p><strong>Journeys towards, away from, or via London:</strong></p><p>Not valid on services timed to <strong>arrive</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 10:00;</li><li>London Kings Cross after 04:29 and before 10:03;</li><li>London St Pancras International after 04:29 and before 10:03;</li><li>London Waterloo after 04:29 and before 09:52. </li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;</li></ul><p>Not valid on trains timed to <strong>depart</strong>:</p><ul><li>London Terminals (except those below) after 04:29 and before 09:30;</li><li>London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;</li><li>London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;</li><li>London Paddington after 04:29 and before 09:29 and after 16:00 and before 18:59;</li><li>London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>Vauxhall after 04:29 and before 09:05;</li><li>Clapham Junction after 04:29 and before 09:10;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42.</li></ul><p><strong>Other journeys:</strong></p><p>Not timed to <strong>depart:</strong></p><ul><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14</li><li>CrossCountry: services timed to depart after 04:29 and before 08:45</li><li>Guildford: after 04:29 and before 09:11 (towards Redhill); after 04:29 and before 08:44 (towards Reading)</li><li>Dorking Deepdene: after 04:29 and before 09:29 (towards Redhill); after 04:29 and before 08:24 (towards Reading)</li><li>Reading: after 04:29 and before 08:25 (towards Redhill)</li><li>Wokingham: after 04:29 and before 08:34 (towards Redhill)</li></ul><p></p><p></p>",
+        "returnText": "Journeys towards, away from, or via London:\n Not valid on services timed to arrive :\n London Terminals (except those below) after 04:29 and before 10:00;\n London Kings Cross after 04:29 and before 10:03;\n London St Pancras International after 04:29 and before 10:03;\n London Waterloo after 04:29 and before 09:52. \n Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42;\n Not valid on trains timed to depart :\n London Terminals (except those below) after 04:29 and before 09:30;\n London Euston after 04:29 and before 08:45 and after 16:43 and before 19:01;\n London Kings Cross after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Liverpool Street after 04:29 and before 09:30 and after 16:27 and before 18:35;\n London Paddington after 04:29 and before 09:29 and after 16:00 and before 18:59;\n London St Pancras International after 04:29 and before 09:00 and after 16:28 and before 19:02;\n London Waterloo after 04:29 and before 09:00;\n Vauxhall after 04:29 and before 09:05;\n Clapham Junction after 04:29 and before 09:10;\n Stratford (London) after 04:29 and before 09:38 and after 16:34 and before 18:42.\n Other journeys:\n Not timed to depart:\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14\n CrossCountry: services timed to depart after 04:29 and before 08:45\n Guildford: after 04:29 and before 09:11 (towards Redhill); after 04:29 and before 08:44 (towards Reading)\n Dorking Deepdene: after 04:29 and before 09:29 (towards Redhill); after 04:29 and before 08:24 (towards Reading)\n Reading: after 04:29 and before 08:25 (towards Redhill)\n Wokingham: after 04:29 and before 08:34 (towards Redhill)"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UX": {
+    "code": "UX",
+    "name": "UX",
+    "id": "4627AB7358F74053BA7547002C22239C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ux",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 09:51.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>stations within London Zones 1-6 after 04:29 and before 09:30;</li><li>London Terminals (except those below) after 04:29 and before 09:30;</li><li>London Paddington after 04:29 and before 09:20 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>​​​​​​​Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 09:51.\n Not valid on services timed to depart :\n stations within London Zones 1-6 after 04:29 and before 09:30;\n London Terminals (except those below) after 04:29 and before 09:30;\n London Paddington after 04:29 and before 09:20 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n ​​​​​​​Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 09:51.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>stations within London Zones 1-6 after 04:29 and before 09:30;</li><li>London Terminals (except those below) after 04:29 and before 09:30;</li><li>London Paddington after 04:29 and before 09:20 and after 15:59 and before 19:00;</li><li>London Waterloo after 04:29 and before 09:00;</li><li>​​​​​​​Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 09:51.\n Not valid on services timed to depart :\n stations within London Zones 1-6 after 04:29 and before 09:30;\n London Terminals (except those below) after 04:29 and before 09:30;\n London Paddington after 04:29 and before 09:20 and after 15:59 and before 19:00;\n London Waterloo after 04:29 and before 09:00;\n ​​​​​​​Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UY": {
+    "code": "UY",
+    "name": "UY",
+    "id": "ED9A5A5069C84DC292F697481B827B4C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uy",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains timed to arrive:</p><ul><li>London Terminals after 04:29 and before 11:00.</li><li>Clapham Junction after 04:29 and before 10:52.</li></ul><p>Not valid on any train timed to depart:</p><p><strong>London Waterloo</strong> after 04:29 and before 09:00; or after 16:15 and before 19:46, except:</p><ul><li>08:50 to Salisbury if travelling to Overton and beyond;</li></ul><p><strong>Vauxhall</strong> after 04:29 and before 09:03; or after after 16:00 and before 20:05.</p><p><strong>Clapham Junction</strong> after 04:29 and before 09:08; or after 16:20 and before 19:51.</p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Terminals after 04:29 and before 11:00.\n Clapham Junction after 04:29 and before 10:52.\n Not valid on any train timed to depart:\n London Waterloo after 04:29 and before 09:00; or after 16:15 and before 19:46, except:\n 08:50 to Salisbury if travelling to Overton and beyond;\n Vauxhall after 04:29 and before 09:03; or after after 16:00 and before 20:05.\n Clapham Junction after 04:29 and before 09:08; or after 16:20 and before 19:51.",
+        "returnHtml": "<p> Not valid on trains timed to arrive:</p><ul><li>London Terminals after 04:29 and before 11:00.</li><li>Clapham Junction after 04:29 and before 10:52.</li></ul><p>Not valid on any train timed to depart:</p><p><strong>London Waterloo</strong> after 04:29 and before 09:00; or after 16:15 and before 19:46, except:</p><ul><li>08:50 to Salisbury if travelling to Overton and beyond;</li></ul><p><strong>Vauxhall</strong> after 04:29 and before 09:03; or after after 16:00 and before 20:05.</p><p><strong>Clapham Junction</strong> after 04:29 and before 09:08; or after 16:20 and before 19:51.</p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals after 04:29 and before 11:00.\n Clapham Junction after 04:29 and before 10:52.\n Not valid on any train timed to depart:\n London Waterloo  after 04:29 and before 09:00; or after 16:15 and before 19:46, except:\n 08:50 to Salisbury if travelling to Overton and beyond;\n Vauxhall  after 04:29 and before 09:03; or after after 16:00 and before 20:05.\n Clapham Junction  after 04:29 and before 09:08; or after 16:20 and before 19:51."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "UZ": {
+    "code": "UZ",
+    "name": "UZ",
+    "id": "DFAA9E4289D94B1FAF386308C22CDE4D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/uz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 09:51.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);</li><li>London Terminals (except Euston, Kings Cross, Liverpool Street, Paddington, St Pancras International or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03 and after 16:03 and before 19:05;</li><li>Clapham Junction after 04:29 and before 09:09 and after 16:06 and before 19:10;</li><li>London Euston after 04:29 and before 08:45 and after 16:44 and before 19:01;</li><li>London Kings Cross after 04:29 and before 09:00 and after 16:29 and before 19:02;</li><li>London Liverpool Street after 04:29 and before 09:30 and after 16:28 and before 18:35;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London St Pancras International after 04:29 and before 09:00 and after 16:29 and before 19:02;</li><li>London Waterloo after 04:29 and before 09:00 and after 15:59 and before 19:01;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:35 and before 18:42;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 09:51.\n Not valid on services timed to depart :\n any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);\n London Terminals (except Euston, Kings Cross, Liverpool Street, Paddington, St Pancras International or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03 and after 16:03 and before 19:05;\n Clapham Junction after 04:29 and before 09:09 and after 16:06 and before 19:10;\n London Euston after 04:29 and before 08:45 and after 16:44 and before 19:01;\n London Kings Cross after 04:29 and before 09:00 and after 16:29 and before 19:02;\n London Liverpool Street after 04:29 and before 09:30 and after 16:28 and before 18:35;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London St Pancras International after 04:29 and before 09:00 and after 16:29 and before 19:02;\n London Waterloo after 04:29 and before 09:00 and after 15:59 and before 19:01;\n Stratford (London) after 04:29 and before 09:38 and after 16:35 and before 18:42;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to <strong>arrive</strong> London Terminals after 04:29 and before 09:51.</p><p>Not valid on services timed to <strong>depart</strong>:</p><ul><li>any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);</li><li>London Terminals (except Euston, Kings Cross, Liverpool Street, Paddington, St Pancras International or Waterloo) after 04:29 and before 09:30;</li><li>Vauxhall after 04:29 and before 09:03 and after 16:03 and before 19:05;</li><li>Clapham Junction after 04:29 and before 09:09 and after 16:06 and before 19:10;</li><li>London Euston after 04:29 and before 08:45 and after 16:44 and before 19:01;</li><li>London Kings Cross after 04:29 and before 09:00 and after 16:29 and before 19:02;</li><li>London Liverpool Street after 04:29 and before 09:30 and after 16:28 and before 18:35;</li><li>London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;</li><li>London St Pancras International after 04:29 and before 09:00 and after 16:29 and before 19:02;</li><li>London Waterloo after 04:29 and before 09:00 and after 15:59 and before 19:01;</li><li>Stratford (London) after 04:29 and before 09:38 and after 16:35 and before 18:42;</li><li>Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.</li><li>CrossCountry services timed to depart after 04:29 and before 08:45.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to  arrive  London Terminals after 04:29 and before 09:51.\n Not valid on services timed to depart :\n any station within London Zones 1-6 after 04:29 and before 09:30 (except those stations listed below, or on any South Western Railway service to connect to services in the \"Easements\" section);\n London Terminals (except Euston, Kings Cross, Liverpool Street, Paddington, St Pancras International or Waterloo) after 04:29 and before 09:30;\n Vauxhall after 04:29 and before 09:03 and after 16:03 and before 19:05;\n Clapham Junction after 04:29 and before 09:09 and after 16:06 and before 19:10;\n London Euston after 04:29 and before 08:45 and after 16:44 and before 19:01;\n London Kings Cross after 04:29 and before 09:00 and after 16:29 and before 19:02;\n London Liverpool Street after 04:29 and before 09:30 and after 16:28 and before 18:35;\n London Paddington after 04:29 and before 09:30 and after 15:59 and before 19:00;\n London St Pancras International after 04:29 and before 09:00 and after 16:29 and before 19:02;\n London Waterloo after 04:29 and before 09:00 and after 15:59 and before 19:01;\n Stratford (London) after 04:29 and before 09:38 and after 16:35 and before 18:42;\n Cowes East or Cowes West on Red Funnel ferry services after 04:29 and before 09:14.\n CrossCountry services timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "V1": {
+    "code": "V1",
+    "name": "V1",
+    "id": "5BBC2F34EA97473D8E52D50E38207046",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/v1",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><strong>Travel over the Christmas / New Year period:</strong> Restrictions are lifted on Great Western Railway services from Thursday 24 December 2015 to Friday 1 January 2016 inclusive.</p>",
+    "seasonalVariationsText": "Travel over the Christmas / New Year period: Restrictions are lifted on Great Western Railway services from Thursday 24 December 2015 to Friday 1 January 2016 inclusive.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30, excluding from London Paddington or Waterloo.</p><p>Not valid on trains timed to depart London Paddington or Waterloo after 04:29 and before 09:30</p><p>Not valid on the following departures from London Paddington (or Reading in brackets):</p><ul><li>16:00 (16:27) to Bristol Temple Meads</li><li>16:06 (16:33) to Penzance</li><li>16:15 (16:41) to Swansea</li><li>16:30 (16:57) to Taunton</li><li>16:36 (17:04) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)</li><li>16:45 (17:11) to Swansea</li><li>16:49 (17:20) to Oxford</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:32) to Penzance</li><li>17:15 (17:41) to Carmarthen</li><li>17:22 (17:50) to Hereford</li><li>17:30 (17:56) to Taunton</li><li>17:33 (18:04) to Paignton</li><li>17:45 (18:11) to Swansea</li><li>17:48 (18:16) to Cheltenham Spa</li><li>17:50 (18:22) to Worcester Shrub Hill</li><li>18:00 (18:27) to Bristol Temple Meads</li><li>18:03 (18:33) to Penzance</li><li>18:15 (18:41) to Swansea</li><li>18:22 (18:50) to Hereford</li><li>18:30 (18:56) to Weston-Super-Mare</li><li>18:33 (19:02) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)</li><li>18:45 (19:11) to Swansea</li><li>18:47 (19:18) to Cheltenham Spa</li><li>18:51 (19:22) to Oxford</li><li>19:00 (19:27) to Bristol Temple Meads</li><li>19:03 (19:33) to Plymouth (Mondays to Thursdays) / Penzance (Fridays)</li><li>19:15 (19:41) to Swansea</li></ul>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30, excluding from London Paddington or Waterloo.\n Not valid on trains timed to depart London Paddington or Waterloo after 04:29 and before 09:30\n Not valid on the following departures from London Paddington (or Reading in brackets):\n 16:00 (16:27) to Bristol Temple Meads\n 16:06 (16:33) to Penzance\n 16:15 (16:41) to Swansea\n 16:30 (16:57) to Taunton\n 16:36 (17:04) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)\n 16:45 (17:11) to Swansea\n 16:49 (17:20) to Oxford\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:32) to Penzance\n 17:15 (17:41) to Carmarthen\n 17:22 (17:50) to Hereford\n 17:30 (17:56) to Taunton\n 17:33 (18:04) to Paignton\n 17:45 (18:11) to Swansea\n 17:48 (18:16) to Cheltenham Spa\n 17:50 (18:22) to Worcester Shrub Hill\n 18:00 (18:27) to Bristol Temple Meads\n 18:03 (18:33) to Penzance\n 18:15 (18:41) to Swansea\n 18:22 (18:50) to Hereford\n 18:30 (18:56) to Weston-Super-Mare\n 18:33 (19:02) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)\n 18:45 (19:11) to Swansea\n 18:47 (19:18) to Cheltenham Spa\n 18:51 (19:22) to Oxford\n 19:00 (19:27) to Bristol Temple Meads\n 19:03 (19:33) to Plymouth (Mondays to Thursdays) / Penzance (Fridays)\n 19:15 (19:41) to Swansea",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30, excluding from London Paddington or Waterloo.</p><p>Not valid on trains timed to depart London Paddington or Waterloo after 04:29 and before 09:30</p><p>Not valid on the following departures from London Paddington (or Reading in brackets):</p><ul><li>16:00 (16:27) to Bristol Temple Meads</li><li>16:06 (16:33) to Penzance</li><li>16:15 (16:41) to Swansea</li><li>16:30 (16:57) to Taunton</li><li>16:36 (17:04) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)</li><li>16:45 (17:11) to Swansea</li><li>16:49 (17:20) to Oxford</li><li>17:00 (17:26) to Bristol Temple Meads</li><li>17:03 (17:32) to Penzance</li><li>17:15 (17:41) to Carmarthen</li><li>17:22 (17:50) to Hereford</li><li>17:30 (17:56) to Taunton</li><li>17:33 (18:04) to Paignton</li><li>17:45 (18:11) to Swansea</li><li>17:48 (18:16) to Cheltenham Spa</li><li>17:50 (18:22) to Worcester Shrub Hill</li><li>18:00 (18:27) to Bristol Temple Meads</li><li>18:03 (18:33) to Penzance</li><li>18:15 (18:41) to Swansea</li><li>18:22 (18:50) to Hereford</li><li>18:30 (18:56) to Weston-Super-Mare</li><li>18:33 (19:02) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)</li><li>18:45 (19:11) to Swansea</li><li>18:47 (19:18) to Cheltenham Spa</li><li>18:51 (19:22) to Oxford</li><li>19:00 (19:27) to Bristol Temple Meads</li><li>19:03 (19:33) to Plymouth (Mondays to Thursdays) / Penzance (Fridays)</li><li>19:15 (19:41) to Swansea</li></ul>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30, excluding from London Paddington or Waterloo.\n Not valid on trains timed to depart London Paddington or Waterloo after 04:29 and before 09:30\n Not valid on the following departures from London Paddington (or Reading in brackets):\n 16:00 (16:27) to Bristol Temple Meads\n 16:06 (16:33) to Penzance\n 16:15 (16:41) to Swansea\n 16:30 (16:57) to Taunton\n 16:36 (17:04) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)\n 16:45 (17:11) to Swansea\n 16:49 (17:20) to Oxford\n 17:00 (17:26) to Bristol Temple Meads\n 17:03 (17:32) to Penzance\n 17:15 (17:41) to Carmarthen\n 17:22 (17:50) to Hereford\n 17:30 (17:56) to Taunton\n 17:33 (18:04) to Paignton\n 17:45 (18:11) to Swansea\n 17:48 (18:16) to Cheltenham Spa\n 17:50 (18:22) to Worcester Shrub Hill\n 18:00 (18:27) to Bristol Temple Meads\n 18:03 (18:33) to Penzance\n 18:15 (18:41) to Swansea\n 18:22 (18:50) to Hereford\n 18:30 (18:56) to Weston-Super-Mare\n 18:33 (19:02) to Exeter St Davids (Mondays to Thursdays) / Plymouth (Fridays)\n 18:45 (19:11) to Swansea\n 18:47 (19:18) to Cheltenham Spa\n 18:51 (19:22) to Oxford\n 19:00 (19:27) to Bristol Temple Meads\n 19:03 (19:33) to Plymouth (Mondays to Thursdays) / Penzance (Fridays)\n 19:15 (19:41) to Swansea"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "V2": {
+    "code": "V2",
+    "name": "V2",
+    "id": "AD29B691FDEC4E56995B4A766724B54A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/v2",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday </p><p><strong>(This code is only used during engineering work when Off-Peak ticket easements are in place.)</strong></p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday\n (This code is only used during engineering work when Off-Peak ticket easements are in place.)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:15."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "V3": {
+    "code": "V3",
+    "name": "V3",
+    "id": "F958C567048B4528BE7E762A8D0D1975",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/v3",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday </p><p><strong>(This code is only used during engineering work when Off-Peak ticket easements are in place.)</strong></p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday\n (This code is only used during engineering work when Off-Peak ticket easements are in place.)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "V4": {
+    "code": "V4",
+    "name": "V4",
+    "id": "E87A7C9A045241E5A3B938C458400DC4",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/v4",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday </p><p><strong>(This code is only used during engineering work when Off-Peak ticket easements are in place.)</strong></p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday\n (This code is only used during engineering work when Off-Peak ticket easements are in place.)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Outward Travel  </p><p>Not valid on trains timed to depart after 04:29 and before 08:44.</p>",
+        "outwardText": "Outward Travel\n Not valid on trains timed to depart after 04:29 and before 08:44.",
+        "returnHtml": "<p>Return Travel  </p><p>Not valid on trains timed to depart after 04:29 and before 08:44.</p>",
+        "returnText": "Return Travel\n Not valid on trains timed to depart after 04:29 and before 08:44."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

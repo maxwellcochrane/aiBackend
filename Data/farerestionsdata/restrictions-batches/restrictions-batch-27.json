@@ -1,0 +1,522 @@
+{
+  "V5": {
+    "code": "V5",
+    "name": "V5",
+    "id": "C4DBCA67F4EE4200B6174A4434A20C23",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/v5",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday </p><p><strong>(This code is only used during engineering work when Off-Peak ticket easements are in place.)</strong></p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday\n (This code is only used during engineering work when Off-Peak ticket easements are in place.)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "V9": {
+    "code": "V9",
+    "name": "V9",
+    "id": "F3BEF77FA915478C8B0BF27CAE110876",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/v9",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VA": {
+    "code": "VA",
+    "name": "VA",
+    "id": "5544BC9AC4F24EBFA843024A1E21C40B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/va",
+    "applicableDaysHtml": "<p>All days</p>",
+    "applicableDaysText": "All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Avanti West Coast (TOC Code: VT) services (and connecting services were applicable)</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Avanti West Coast (TOC Code: VT) services (and connecting services were applicable)\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VB": {
+    "code": "VB",
+    "name": "VB",
+    "id": "FB5FE284BB97414B81DA0054B3F71EDB",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vb",
+    "applicableDaysHtml": "<p>All days, including public holidays</p>",
+    "applicableDaysText": "All days, including public holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>No restrictions at any time</p>",
+        "outwardText": "No restrictions at any time",
+        "returnHtml": "<p>No restrictions at any time</p>",
+        "returnText": "No restrictions at any time"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VC": {
+    "code": "VC",
+    "name": "VC",
+    "id": "A23CE3AEAC2A4FE08AA0ABE2C78A4D6F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Sunday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Sunday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on booked outward service</p>",
+        "outwardText": "Valid on booked outward service",
+        "returnHtml": "<p>Valid for 1 calendar month</p>",
+        "returnText": "Valid for 1 calendar month"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VE": {
+    "code": "VE",
+    "name": "VE",
+    "id": "3ED6F0C9CB7C4035B4D39DADE9F86E12",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ve",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on Valley Lines services until 18.30.</p>",
+        "outwardText": "Not valid for travel on Valley Lines services until 18.30.",
+        "returnHtml": "<p>Valid on any Valley Lines train the same evening and the first departing train back to the origin the next morning.</p>",
+        "returnText": "Valid on any Valley Lines train the same evening and the first departing train back to the origin the next morning."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VF": {
+    "code": "VF",
+    "name": "VF",
+    "id": "EA00871F22064A71B56543BC29D7B5C7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid any time within 5 days.</p>",
+        "outwardText": "Valid any time within 5 days.",
+        "returnHtml": "<p>Valid any time within one calendar month.</p>",
+        "returnText": "Valid any time within one calendar month."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VG": {
+    "code": "VG",
+    "name": "VG",
+    "id": "640FA14BCBA0411592DE7F2FEE275F6A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:15",
+        "returnHtml": "<p>Not valid on trains timed to depart between 16:00 and 17:05</p>",
+        "returnText": "Not valid on trains timed to depart between 16:00 and 17:05"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VJ": {
+    "code": "VJ",
+    "name": "VJ",
+    "id": "2F885453D63C4A3BA6BA255908953F56",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vj",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 10:00;(Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 10:20;(Restrictions do not apply on Fridays)</li><li><strong>Watford Junction</strong> after 04:29 until 10:20;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 09:40;</li><li><strong>London Marylebone</strong> after 04:29 until 10:00;</li><li><strong>London</strong><strong>Paddington</strong> before 10:10;</li></ul><p>Break of journey is not permitted.</p><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Euston after 04:29 until 10:00;(Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 10:20;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 10:20;(Restrictions do not apply on Fridays)\n Reading before 09:40;\n London Marylebone after 04:29 until 10:00;\n London Paddington before 10:10;\n Break of journey is not permitted.\n For travel on CrossCountry services use 2V .",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 09:01;(Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 10:20;(Restrictions do not apply on Fridays)</li><li><strong>Watford Junction</strong> after 04:29 until 09:00;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 08:35 and after 17:10 until 19:01;</li><li><strong>London Marylebone</strong> after 04:29 until 09:05;</li><li><strong>London</strong><strong>Paddington</strong> before 08:10 and after 16:40 until 18:31.</li></ul><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "returnText": "Not valid on trains timed to depart:\n London Euston after 04:29 until 09:01;(Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 10:20;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 09:00;(Restrictions do not apply on Fridays)\n Reading before 08:35 and after 17:10 until 19:01;\n London Marylebone after 04:29 until 09:05;\n London Paddington before 08:10 and after 16:40 until 18:31.\n For travel on CrossCountry services use 2V ."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VK": {
+    "code": "VK",
+    "name": "VK",
+    "id": "62F94A4077BD41B1A18FE42C3C162876",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vk",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 10:00 (Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 10:00;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 until 10:20;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 09:40;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 until 10:25;</li><li><strong>London</strong><strong>Paddington</strong> before 10:10;</li></ul><p>Break of journey is not permitted.   </p><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Euston after 04:29 until 10:00 (Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 10:00;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 10:20;(Restrictions do not apply on Fridays)\n Reading before 09:40;\n London Marylebone after 04:29 until 10:25;\n London Paddington before 10:10;\n Break of journey is not permitted.   \n For travel on CrossCountry services use 2V .",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 08:59 (Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 09:05;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 until 09:00;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 08:35 and after 17:10 until 19:01;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 until 09:05;</li><li><strong>London</strong><strong>Paddington</strong> before 08:10 and after 16:40 until 18:31.</li></ul><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "returnText": "Not valid on trains timed to depart:\n London Euston after 04:29 until 08:59 (Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 09:05;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 09:00;(Restrictions do not apply on Fridays)\n Reading before 08:35 and after 17:10 until 19:01;\n London Marylebone after 04:29 until 09:05;\n London Paddington before 08:10 and after 16:40 until 18:31.\n For travel on CrossCountry services use 2V ."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VL": {
+    "code": "VL",
+    "name": "VL",
+    "id": "39F0F7BA0AD741D691825B09C4B20511",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vl",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p><strong>Not valid on trains timed to depart:</strong></p><ul><li><strong>Stevenage</strong> between 04:30 and 09:30 inclusive;</li><li><strong>London King's Cross</strong> between 04:30 and 09:30 inclusive and between 16:30 and 190:01 inclusive.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart:\n Stevenage between 04:30 and 09:30 inclusive;\n London King's Cross between 04:30 and 09:30 inclusive and between 16:30 and 190:01 inclusive.",
+        "returnHtml": "<p><strong>Not valid on trains timed to depart:</strong></p><ul><li><strong>Stevenage</strong> between 04:30 and 09:30 inclusive;</li><li><strong>London King's Cross</strong> between 04:30 and 09:30 inclusive and between 16:30 and 19:01 inclusive.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n Stevenage between 04:30 and 09:30 inclusive;\n London King's Cross between 04:30 and 09:30 inclusive and between 16:30 and 19:01 inclusive."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VM": {
+    "code": "VM",
+    "name": "VM",
+    "id": "48B15A2EE4E94536970EEA2CBDF19F49",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vm",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 09:01;(Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 09:00;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 until 09:00;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 08:35 and after 17:10 until 19:01;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 until 09:05;</li><li><strong>London</strong><strong>Paddington</strong> before 08:10 and after 16:40 until 18:31.</li></ul><p>Break of journey is not permitted.   </p><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Euston after 04:29 until 09:01;(Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 09:00;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 09:00;(Restrictions do not apply on Fridays)\n Reading before 08:35 and after 17:10 until 19:01;\n London Marylebone after 04:29 until 09:05;\n London Paddington before 08:10 and after 16:40 until 18:31.\n Break of journey is not permitted.   \n For travel on CrossCountry services use 2V .",
+        "returnHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 10:00;(Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 10:00;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 until 10:20;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 09:40;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 until 10:00;</li><li><strong>London</strong><strong>Paddington</strong> before 10:10;</li></ul><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Euston after 04:29 until 10:00;(Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 10:00;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 10:20;(Restrictions do not apply on Fridays)\n Reading before 09:40;\n London Marylebone after 04:29 until 10:00;\n London Paddington before 10:10;\n For travel on CrossCountry services use 2V ."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VN": {
+    "code": "VN",
+    "name": "VN",
+    "id": "EA0D0D35CFFF4F56A097B060DEFCF537",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vn",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 08:59 (Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 09:05;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 until 09:00;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 08:35 and after 17:10 until 19:01;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 until 09:05;</li><li><strong>London</strong><strong>Paddington</strong> before 08:10 and after 16:40 until 19:01;</li></ul><p>Break of journey is not permitted.   </p><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Euston after 04:29 until 08:59 (Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 09:05;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 09:00;(Restrictions do not apply on Fridays)\n Reading before 08:35 and after 17:10 until 19:01;\n London Marylebone after 04:29 until 09:05;\n London Paddington before 08:10 and after 16:40 until 19:01;\n Break of journey is not permitted.   \n For travel on CrossCountry services use 2V .",
+        "returnHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 until 10:00;(Restrictions do not apply on Fridays)</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 until 10:00;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 until 10:20;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 09:40;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 until 10:25;</li><li><strong>London</strong><strong>Paddington</strong> before 10:10;</li></ul><p>For travel on CrossCountry services use <a href=\"https://www.nationalrail.co.uk/xmlcms/62059.xml\" title=\"\">2V</a>.</p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Euston after 04:29 until 10:00;(Restrictions do not apply on Fridays)\n Milton Keynes Central after 04:29 until 10:00;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 until 10:20;(Restrictions do not apply on Fridays)\n Reading before 09:40;\n London Marylebone after 04:29 until 10:25;\n London Paddington before 10:10;\n For travel on CrossCountry services use 2V ."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VR": {
+    "code": "VR",
+    "name": "VR",
+    "id": "527342EE52FD4B2E8499B35163F56841",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vr",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Avanti West Coast (TOC Code: VT) services (and connecting services were applicable)</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Avanti West Coast (TOC Code: VT) services (and connecting services were applicable)\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VS": {
+    "code": "VS",
+    "name": "VS",
+    "id": "62197D16EE95490AB5C92966471BB6F0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vs",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart London Terminals:</p><ul><li>before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)</li><li>before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)</li></ul><p>Not valid on trains timed to arrive at London Terminals:</p><ul><li>before 12:00 (Mondays to Fridays)</li><li>before 11:00 (Saturdays and Sundays)</li></ul>",
+        "outwardText": "Not valid on trains timed to depart London Terminals:\n before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)\n before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)\n Not valid on trains timed to arrive at London Terminals:\n before 12:00 (Mondays to Fridays)\n before 11:00 (Saturdays and Sundays)",
+        "returnHtml": "<p>Not valid on trains timed to depart London Terminals:</p><ul><li>before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)</li><li>before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)</li></ul><p>Not valid on trains timed to arrive at London Terminals:</p><ul><li>before 12:00 (Mondays to Fridays)</li><li>before 11:00 (Saturdays and Sundays)</li></ul>",
+        "returnText": "Not valid on trains timed to depart London Terminals:\n before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)\n before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)\n Not valid on trains timed to arrive at London Terminals:\n before 12:00 (Mondays to Fridays)\n before 11:00 (Saturdays and Sundays)"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VT": {
+    "code": "VT",
+    "name": "VT",
+    "id": "38765EA2C86A48C2B04E258C495E71B9",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vt",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive at London Terminals:  </p><ul><li>before 12:00 (Mondays to Fridays)</li><li>before 11:00 (Saturdays and Sundays)</li></ul><p>Not valid on trains timed to depart London Terminals:  </p><ul><li>before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)</li><li>before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)</li></ul>",
+        "outwardText": "Not valid on trains timed to arrive at London Terminals:\n before 12:00 (Mondays to Fridays)\n before 11:00 (Saturdays and Sundays)\n Not valid on trains timed to depart London Terminals:\n before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)\n before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)",
+        "returnHtml": "<p>Not valid on trains timed to arrive at London Terminals:  </p><ul><li>before 12:00 (Mondays to Fridays)</li><li>before 11:00 (Saturdays and Sundays)</li></ul><p>Not valid on trains timed to depart London Terminals:  </p><ul><li>before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)</li><li>before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)</li></ul>",
+        "returnText": "Not valid on trains timed to arrive at London Terminals:\n before 12:00 (Mondays to Fridays)\n before 11:00 (Saturdays and Sundays)\n Not valid on trains timed to depart London Terminals:\n before 11:00 and after 14:00 until 20:00 (Mondays to Fridays)\n before 11:00 and after 16:30 until 18:30 (Saturdays and Sundays)"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VU": {
+    "code": "VU",
+    "name": "VU",
+    "id": "2607AB7697E34327A5073A1E8DF4B4CF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Avanti West Coast (TOC Code: VT) services and connecting services were applicable.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Avanti West Coast (TOC Code: VT) services and connecting services were applicable.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VV": {
+    "code": "VV",
+    "name": "VV",
+    "id": "DE93B126244B478784614785C591CC4C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vv",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Avanti West Coast (TOC code: VT) services and connecting services.</p><p>Seat reservations are compulsory.</p><p>Restrictions apply on connecting trains from Kent into London St. Pancras International and vice versa via line High Speed 1 (HS1) on Mondays to Fridays as follows:</p><ul><li>Not valid on HS1 trains timed to arrive in London St. Pancras International before 09:59;</li><li>Not valid on HS1 trains timed to depart London St. Pancras International after 15:59 until 19:00.</li></ul>",
+        "outwardText": "Valid on Avanti West Coast (TOC code: VT) services and connecting services.\n Seat reservations are compulsory.\n Restrictions apply on connecting trains from Kent into London St. Pancras International and vice versa via line High Speed 1 (HS1) on Mondays to Fridays as follows:\n Not valid on HS1 trains timed to arrive in London St. Pancras International before 09:59;\n Not valid on HS1 trains timed to depart London St. Pancras International after 15:59 until 19:00.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VW": {
+    "code": "VW",
+    "name": "VW",
+    "id": "894A3B37FCD9459B9E488FE55A3A132E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vw",
+    "applicableDaysHtml": "<p>Saturday, Sunday and Public Holidays</p><br /><p>Saturdays, Sundays and Bank Holidays</p>",
+    "applicableDaysText": "Saturday, Sunday and Public Holidays\n Saturdays, Sundays and Bank Holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on any Avanti West Coast services only.</p><p>Valid only on the train on/for which it was purchased.</p><p>Not valid at all Mondays to Fridays except Bank Holidays.</p>",
+        "outwardText": "Valid on any Avanti West Coast services only.\n Valid only on the train on/for which it was purchased.\n Not valid at all Mondays to Fridays except Bank Holidays.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "VX": {
+    "code": "VX",
+    "name": "VX",
+    "id": "581C72CE2BD840D7809ACD0895ADF39F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Avanti West Coast (TOC Code: VT) services (and connecting services were applicable).</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Avanti West Coast (TOC Code: VT) services (and connecting services were applicable).\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

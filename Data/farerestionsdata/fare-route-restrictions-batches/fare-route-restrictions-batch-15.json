@@ -1,0 +1,502 @@
+{
+  "402": {
+    "code": 402,
+    "name": "AP HIGH WYCOMBE",
+    "description": "AP HIGH WYCOMBE",
+    "startDate": "2023-11-15",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "40153": {
+    "code": 40153,
+    "name": "AAA LEWISHAM",
+    "description": "AAA LEWISHAM",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Lewisham.",
+    "rspDisplayName": "Also valid to or from Lewisham",
+    "enabledForMapPlotting": true
+  },
+  "40154": {
+    "code": 40154,
+    "name": "AAA BOROUGH GRN",
+    "description": "AAA BOROUGH GRN",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Borough Green.",
+    "rspDisplayName": "Also valid to or from Borough Green",
+    "enabledForMapPlotting": true
+  },
+  "40155": {
+    "code": 40155,
+    "name": "AAA ELTHAM",
+    "description": "AAA ELTHAM",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Eltham.",
+    "rspDisplayName": "Also valid to or from Eltham",
+    "enabledForMapPlotting": true
+  },
+  "40156": {
+    "code": 40156,
+    "name": "AAA GROVE PARK",
+    "description": "AAA GROVE PARK",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Grove Park.",
+    "rspDisplayName": "Also valid to or from Grove Park",
+    "enabledForMapPlotting": true
+  },
+  "40157": {
+    "code": 40157,
+    "name": "AAA BEXLEYHEATH",
+    "description": "AAA BEXLEYHEATH",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Bexleyheath.",
+    "rspDisplayName": "Also valid to or from Bexleyheath",
+    "enabledForMapPlotting": true
+  },
+  "40158": {
+    "code": 40158,
+    "name": "AAA WOOLWCH ARNL",
+    "description": "AAA WOOLWCH ARNL",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Woolwich Arsenal.",
+    "rspDisplayName": "Also valid to or from Woolwich Arsenal",
+    "enabledForMapPlotting": true
+  },
+  "40159": {
+    "code": 40159,
+    "name": "AAA WELLING",
+    "description": "AAA WELLING",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Welling.",
+    "rspDisplayName": "Also valid to or from Welling",
+    "enabledForMapPlotting": true
+  },
+  "40160": {
+    "code": 40160,
+    "name": "AAA PADDOCK WOOD",
+    "description": "AAA PADDOCK WOOD",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Paddock Wood.",
+    "rspDisplayName": "Also valid to or from Paddock Wood",
+    "enabledForMapPlotting": true
+  },
+  "40161": {
+    "code": 40161,
+    "name": "AAA ERIDGE",
+    "description": "AAA ERIDGE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Eridge.",
+    "rspDisplayName": "Also valid to or from Eridge",
+    "enabledForMapPlotting": true
+  },
+  "40162": {
+    "code": 40162,
+    "name": "AAA ALBANY PARK",
+    "description": "AAA ALBANY PARK",
+    "startDate": "2019-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Albany Park",
+    "rspDisplayName": "Also valid to or from Albany Park",
+    "enabledForMapPlotting": true
+  },
+  "40163": {
+    "code": 40163,
+    "name": "AAA BLACKHEATH",
+    "description": "AAA BLACKHEATH",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Blackheath.",
+    "rspDisplayName": "Also valid to or from Blackheath",
+    "enabledForMapPlotting": true
+  },
+  "40164": {
+    "code": 40164,
+    "name": "AAA TULSE HILL",
+    "description": "AAA TULSE HILL",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Tulse Hill.",
+    "rspDisplayName": "Also valid to or from Tulse Hill",
+    "enabledForMapPlotting": true
+  },
+  "40165": {
+    "code": 40165,
+    "name": "AAA DIDCOT PKWAY",
+    "description": "AAA DIDCOT PKWAY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Didcot Parkway.",
+    "rspDisplayName": "Also valid to or from Didcot Parkway",
+    "enabledForMapPlotting": true
+  },
+  "40166": {
+    "code": 40166,
+    "name": "AAA PANGBOURNE",
+    "description": "AAA PANGBOURNE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Pangbourne.",
+    "rspDisplayName": "Also valid to or from Pangbourne",
+    "enabledForMapPlotting": true
+  },
+  "40167": {
+    "code": 40167,
+    "name": "AAA HADDNHM T PW",
+    "description": "AAA HADDNHM T PW",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Haddenham & Thame Parkway.",
+    "rspDisplayName": "Also to/from Haddenham & Thame Parkway",
+    "enabledForMapPlotting": true
+  },
+  "40168": {
+    "code": 40168,
+    "name": "AAA AYLESBURY",
+    "description": "AAA AYLESBURY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Aylesbury.",
+    "rspDisplayName": "Also valid to or from Aylesbury",
+    "enabledForMapPlotting": true
+  },
+  "40169": {
+    "code": 40169,
+    "name": "AAA LETCHWORTH",
+    "description": "AAA LETCHWORTH",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Letchworth.",
+    "rspDisplayName": "Also valid to or from Letchworth",
+    "enabledForMapPlotting": true
+  },
+  "40170": {
+    "code": 40170,
+    "name": "AAA BIGGLESWADE",
+    "description": "AAA BIGGLESWADE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Biggleswade.",
+    "rspDisplayName": "Also valid to or from Biggleswade",
+    "enabledForMapPlotting": true
+  },
+  "40171": {
+    "code": 40171,
+    "name": "AAA ASHWELL & MD",
+    "description": "AAA ASHWELL + MD",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Ashwell & Morden.",
+    "rspDisplayName": "Also valid to or from Ashwell & Morden",
+    "enabledForMapPlotting": true
+  },
+  "40172": {
+    "code": 40172,
+    "name": "AAA WARE",
+    "description": "AAA WARE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Ware.",
+    "rspDisplayName": "Also valid to or from Ware",
+    "enabledForMapPlotting": true
+  },
+  "40173": {
+    "code": 40173,
+    "name": "AAA ST NEOTS",
+    "description": "AAA ST NEOTS",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from St Neots.",
+    "rspDisplayName": "Also valid to or from St Neots",
+    "enabledForMapPlotting": true
+  },
+  "40174": {
+    "code": 40174,
+    "name": "AAA ST MARG HTS",
+    "description": "AAA ST MARG HTS",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from St Margarets (Herts).",
+    "rspDisplayName": "Also to/from St Margarets (Herts)",
+    "enabledForMapPlotting": true
+  },
+  "40175": {
+    "code": 40175,
+    "name": "AAA ARLESEY",
+    "description": "AAA ARLESEY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Arlesey.",
+    "rspDisplayName": "Also valid to or from Arlesey",
+    "enabledForMapPlotting": true
+  },
+  "40176": {
+    "code": 40176,
+    "name": "AAA HARLOW TOWN",
+    "description": "AAA HARLOW TOWN",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Harlow Town.",
+    "rspDisplayName": "Also valid to or from Harlow Town",
+    "enabledForMapPlotting": true
+  },
+  "40177": {
+    "code": 40177,
+    "name": "AAA CAMBRIDGE",
+    "description": "AAA CAMBRIDGE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Cambridge.",
+    "rspDisplayName": "Also valid to or from Cambridge",
+    "enabledForMapPlotting": true
+  },
+  "40178": {
+    "code": 40178,
+    "name": "AAA BISHOPS STFD",
+    "description": "AAA BISHOPS STFD",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Bishops Stortford.",
+    "rspDisplayName": "Also valid to/from Bishops Stortford",
+    "enabledForMapPlotting": true
+  },
+  "40179": {
+    "code": 40179,
+    "name": "AAA BEDFORD STNS",
+    "description": "AAA BEDFORD STNS",
+    "startDate": "1997-11-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Bedford Stations.",
+    "rspDisplayName": "Also valid to or from Bedford Stations",
+    "enabledForMapPlotting": true
+  },
+  "40180": {
+    "code": 40180,
+    "name": "AAA WELLINGBORO",
+    "description": "AAA WELLINGBORO",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Wellingborough.",
+    "rspDisplayName": "Also valid to or from Wellingborough",
+    "enabledForMapPlotting": true
+  },
+  "40181": {
+    "code": 40181,
+    "name": "AAA ST ALBANS",
+    "description": "AAA ST ALBANS",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from St Albans.",
+    "rspDisplayName": "Also valid to or from St Albans",
+    "enabledForMapPlotting": true
+  },
+  "40182": {
+    "code": 40182,
+    "name": "AAA CHELMSFORD",
+    "description": "AAA CHELMSFORD",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Chelmsford.",
+    "rspDisplayName": "Also valid to or from Chelmsford",
+    "enabledForMapPlotting": true
+  },
+  "40183": {
+    "code": 40183,
+    "name": "AAA WITHAM",
+    "description": "AAA WITHAM",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Witham.",
+    "rspDisplayName": "Also valid to or from Witham",
+    "enabledForMapPlotting": true
+  },
+  "40184": {
+    "code": 40184,
+    "name": "AAA BENFLEET",
+    "description": "AAA BENFLEET",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Benfleet.",
+    "rspDisplayName": "Also valid to or from Benfleet",
+    "enabledForMapPlotting": true
+  },
+  "40185": {
+    "code": 40185,
+    "name": "AAA RAYLEIGH",
+    "description": "AAA RAYLEIGH",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Rayleigh.",
+    "rspDisplayName": "Also valid to or from Rayleigh",
+    "enabledForMapPlotting": true
+  },
+  "40186": {
+    "code": 40186,
+    "name": "AAA THORPE BAY",
+    "description": "AAA THORPE BAY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Thorpe Bay.",
+    "rspDisplayName": "Also valid to or from Thorpe Bay",
+    "enabledForMapPlotting": true
+  },
+  "40187": {
+    "code": 40187,
+    "name": "AAA BASILDON",
+    "description": "AAA BASILDON",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Basildon.",
+    "rspDisplayName": "Also valid to or from Basildon",
+    "enabledForMapPlotting": true
+  },
+  "40188": {
+    "code": 40188,
+    "name": "AAA INGATESTONE",
+    "description": "AAA INGATESTONE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Ingatestone.",
+    "rspDisplayName": "Also valid to or from Ingatestone",
+    "enabledForMapPlotting": true
+  },
+  "40189": {
+    "code": 40189,
+    "name": "AAA PITSEA",
+    "description": "AAA PITSEA",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Pitsea.",
+    "rspDisplayName": "Also valid to or from Pitsea",
+    "enabledForMapPlotting": true
+  },
+  "40190": {
+    "code": 40190,
+    "name": "AAA MARKS TEY",
+    "description": "AAA MARKS TEY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Marks Tey.",
+    "rspDisplayName": "Also valid to or from Marks Tey",
+    "enabledForMapPlotting": true
+  },
+  "40191": {
+    "code": 40191,
+    "name": "AAA WEST HORNDON",
+    "description": "AAA WEST HORNDON",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from West Horndon.",
+    "rspDisplayName": "Also valid to or from West Horndon",
+    "enabledForMapPlotting": true
+  },
+  "40192": {
+    "code": 40192,
+    "name": "AAA SOUTHND STNS",
+    "description": "AAA SOUTHND STNS",
+    "startDate": "1997-11-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Southend Stations.",
+    "rspDisplayName": "Also valid to/from Southend Stations",
+    "enabledForMapPlotting": true
+  },
+  "40193": {
+    "code": 40193,
+    "name": "AAA ALTHORNE",
+    "description": "AAA ALTHORNE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Althorne.",
+    "rspDisplayName": "Also valid to or from Althorne",
+    "enabledForMapPlotting": true
+  },
+  "40194": {
+    "code": 40194,
+    "name": "AAA SOUTHMINSTER",
+    "description": "AAA SOUTHMINSTER",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Southminster.",
+    "rspDisplayName": "Also valid to or from Southminster",
+    "enabledForMapPlotting": true
+  },
+  "40195": {
+    "code": 40195,
+    "name": "AAA WICKFORD",
+    "description": "AAA WICKFORD",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Wickford.",
+    "rspDisplayName": "Also valid to or from Wickford",
+    "enabledForMapPlotting": true
+  },
+  "40196": {
+    "code": 40196,
+    "name": "AAA WOODHAM FERR",
+    "description": "AAA WOODHAM FERR",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Woodham Ferrers.",
+    "rspDisplayName": "Also valid to or from Woodham Ferrers",
+    "enabledForMapPlotting": true
+  },
+  "40197": {
+    "code": 40197,
+    "name": "AAA WALTON ON NA",
+    "description": "AAA WALTON ON NA",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Walton-on-the-Naze.",
+    "rspDisplayName": "Also valid to/from Walton-on-the-Naze",
+    "enabledForMapPlotting": true
+  },
+  "40198": {
+    "code": 40198,
+    "name": "AAA HATFIELD PEV",
+    "description": "AAA HATFIELD PEV",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Hatfield Peverel.",
+    "rspDisplayName": "Also valid to or from Hatfield Peverel",
+    "enabledForMapPlotting": true
+  },
+  "40199": {
+    "code": 40199,
+    "name": "AAA WESTCLIFF",
+    "description": "AAA WESTCLIFF",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Westcliff.",
+    "rspDisplayName": "Also valid to or from Westcliff",
+    "enabledForMapPlotting": true
+  },
+  "40200": {
+    "code": 40200,
+    "name": "AAA FAMBRIDGE",
+    "description": "AAA FAMBRIDGE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Fambridge.",
+    "rspDisplayName": "Also valid to or from Fambridge",
+    "enabledForMapPlotting": true
+  },
+  "40201": {
+    "code": 40201,
+    "name": "AAA BILLERICAY",
+    "description": "AAA BILLERICAY",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Also valid for travel to or from Billericay.",
+    "rspDisplayName": "Also valid to or from Billericay",
+    "enabledForMapPlotting": true
+  }
+}

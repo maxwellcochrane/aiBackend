@@ -1,0 +1,392 @@
+{
+  "Z6": {
+    "code": "Z6",
+    "name": "Z6",
+    "id": "A4F6BCE6EF73428EA7FE5C6DFCB63BA3",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/z6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 inclusive.</p><p>Also not valid on the following departures from London Paddington:​​​​​​​</p><ul><li>16:00 to Bristol Temple Meads </li><li>16:03 to Penzance</li><li>16:05 to Newbury</li><li>16:12 to Bristol Parkway</li><li>16:23 to Oxford </li><li>16:30 to Taunton</li><li>16:33 to Cheltenham</li><li>16:36 to Plymouth</li><li>16:48 to Swansea</li><li>16:50 to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 to Bristol Temple Meads</li><li>17:03 to Penzance</li><li>17:05 to Newbury</li><li>17:18 to Swansea</li><li>17:20 to Didcot </li><li>17:30 to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 to Hereford</li><li>17:36 to Plymouth</li><li>17:48 to Carmarthen</li><li>17:50 to Didcot Parkway</li><li>17:57 to Worcester Foregate Street </li><li>18:01 to Bristol Temple Meads</li><li>18:03 to Penzance</li><li>18:08 to Frome </li><li>18:18 to Swansea</li><li>18:20 to Didcot Parkway</li><li>18:23 to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 to Cheltenham Spa</li><li>18:36 to Plymouth</li><li>18:48 to Swansea</li><li>18:57 to Great Malvern</li><li>19:00 to Bristol Temple Meads</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30 inclusive.\n Also not valid on the following departures from London Paddington:​​​​​​​\n 16:00 to Bristol Temple Meads\n 16:03 to Penzance\n 16:05 to Newbury\n 16:12 to Bristol Parkway\n 16:23 to Oxford\n 16:30 to Taunton\n 16:33 to Cheltenham\n 16:36 to Plymouth\n 16:48 to Swansea\n 16:50 to Didcot\n 16:58 to Great Malvern\n 17:00 to Bristol Temple Meads\n 17:03 to Penzance\n 17:05 to Newbury\n 17:18 to Swansea\n 17:20 to Didcot\n 17:30 to Taunton\n 17:32 to Cheltenham Spa\n 17:34 to Hereford\n 17:36 to Plymouth\n 17:48 to Carmarthen\n 17:50 to Didcot Parkway\n 17:57 to Worcester Foregate Street\n 18:01 to Bristol Temple Meads\n 18:03 to Penzance\n 18:08 to Frome\n 18:18 to Swansea\n 18:20 to Didcot Parkway\n 18:23 to Banbury\n 18:30 to Weston Super Mare\n 18:34 to Cheltenham Spa\n 18:36 to Plymouth\n 18:48 to Swansea\n 18:57 to Great Malvern\n 19:00 to Bristol Temple Meads",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 inclusive.</p><p>Also not valid on the following departures from London Paddington:​​​​​​​</p><ul><li>16:00 to Bristol Temple Meads </li><li>16:03 to Penzance</li><li>16:05 to Newbury</li><li>16:12 to Bristol Parkway</li><li>16:23 to Oxford </li><li>16:30 to Taunton</li><li>16:33 to Cheltenham</li><li>16:36 to Plymouth</li><li>16:48 to Swansea</li><li>16:50 to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 to Bristol Temple Meads</li><li>17:03 to Penzance</li><li>17:05 to Newbury</li><li>17:18 to Swansea</li><li>17:20 to Didcot </li><li>17:30 to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 to Hereford</li><li>17:36 to Plymouth</li><li>17:48 to Carmarthen</li><li>17:50 to Didcot Parkway</li><li>17:57 to Worcester Foregate Street </li><li>18:01 to Bristol Temple Meads</li><li>18:03 to Penzance</li><li>18:08 to Frome </li><li>18:18 to Swansea</li><li>18:20 to Didcot Parkway</li><li>18:23 to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 to Cheltenham Spa</li><li>18:36 to Plymouth</li><li>18:48 to Swansea</li><li>18:57 to Great Malvern</li><li>19:00 to Bristol Temple Meads</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30 inclusive.\n Also not valid on the following departures from London Paddington:​​​​​​​\n 16:00 to Bristol Temple Meads\n 16:03 to Penzance\n 16:05 to Newbury\n 16:12 to Bristol Parkway\n 16:23 to Oxford\n 16:30 to Taunton\n 16:33 to Cheltenham\n 16:36 to Plymouth\n 16:48 to Swansea\n 16:50 to Didcot\n 16:58 to Great Malvern\n 17:00 to Bristol Temple Meads\n 17:03 to Penzance\n 17:05 to Newbury\n 17:18 to Swansea\n 17:20 to Didcot\n 17:30 to Taunton\n 17:32 to Cheltenham Spa\n 17:34 to Hereford\n 17:36 to Plymouth\n 17:48 to Carmarthen\n 17:50 to Didcot Parkway\n 17:57 to Worcester Foregate Street\n 18:01 to Bristol Temple Meads\n 18:03 to Penzance\n 18:08 to Frome\n 18:18 to Swansea\n 18:20 to Didcot Parkway\n 18:23 to Banbury\n 18:30 to Weston Super Mare\n 18:34 to Cheltenham Spa\n 18:36 to Plymouth\n 18:48 to Swansea\n 18:57 to Great Malvern\n 19:00 to Bristol Temple Meads"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "Z7": {
+    "code": "Z7",
+    "name": "Z7",
+    "id": "B91C19CAD9A3488FAF4E829DFFD872D1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/z7",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p><p>Also not valid on the following departures from London Paddington:​​​​​​​</p><ul><li>16:00 to Bristol Temple Meads </li><li>16:03 to Penzance</li><li>16:05 to Newbury</li><li>16:12 to Bristol Parkway</li><li>16:23 to Oxford </li><li>16:30 to Taunton</li><li>16:33 to Cheltenham</li><li>16:36 to Plymouth</li><li>16:48 to Swansea</li><li>16:50 to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 to Bristol Temple Meads</li><li>17:03 to Penzance</li><li>17:05 to Newbury</li><li>17:18 to Swansea</li><li>17:20 to Didcot </li><li>17:30 to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 to Hereford</li><li>17:36 to Plymouth</li><li>17:48 to Carmarthen</li><li>17:50 to Didcot Parkway</li><li>17:57 to Worcester Foregate Street </li><li>18:01 to Bristol Temple Meads</li><li>18:03 to Penzance</li><li>18:08 to Frome </li><li>18:18 to Swansea</li><li>18:20 to Didcot Parkway</li><li>18:23 to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 to Cheltenham Spa</li><li>18:36 to Plymouth</li><li>18:48 to Swansea</li><li>18:57 to Great Malvern</li><li>19:00 to Bristol Temple Meads</li><li>19:04 to Plymouth</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:45.\n Also not valid on the following departures from London Paddington:​​​​​​​\n 16:00 to Bristol Temple Meads\n 16:03 to Penzance\n 16:05 to Newbury\n 16:12 to Bristol Parkway\n 16:23 to Oxford\n 16:30 to Taunton\n 16:33 to Cheltenham\n 16:36 to Plymouth\n 16:48 to Swansea\n 16:50 to Didcot\n 16:58 to Great Malvern\n 17:00 to Bristol Temple Meads\n 17:03 to Penzance\n 17:05 to Newbury\n 17:18 to Swansea\n 17:20 to Didcot\n 17:30 to Taunton\n 17:32 to Cheltenham Spa\n 17:34 to Hereford\n 17:36 to Plymouth\n 17:48 to Carmarthen\n 17:50 to Didcot Parkway\n 17:57 to Worcester Foregate Street\n 18:01 to Bristol Temple Meads\n 18:03 to Penzance\n 18:08 to Frome\n 18:18 to Swansea\n 18:20 to Didcot Parkway\n 18:23 to Banbury\n 18:30 to Weston Super Mare\n 18:34 to Cheltenham Spa\n 18:36 to Plymouth\n 18:48 to Swansea\n 18:57 to Great Malvern\n 19:00 to Bristol Temple Meads\n 19:04 to Plymouth",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p><p>Also not valid on the following departures from London Paddington:​​​​​​​</p><ul><li>16:00 to Bristol Temple Meads </li><li>16:03 to Penzance</li><li>16:05 to Newbury</li><li>16:12 to Bristol Parkway</li><li>16:23 to Oxford </li><li>16:30 to Taunton</li><li>16:33 to Cheltenham</li><li>16:36 to Plymouth</li><li>16:48 to Swansea</li><li>16:50 to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 to Bristol Temple Meads</li><li>17:03 to Penzance</li><li>17:05 to Newbury</li><li>17:18 to Swansea</li><li>17:20 to Didcot </li><li>17:30 to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 to Hereford</li><li>17:36 to Plymouth</li><li>17:48 to Carmarthen</li><li>17:50 to Didcot Parkway</li><li>17:57 to Worcester Foregate Street </li><li>18:01 to Bristol Temple Meads</li><li>18:03 to Penzance</li><li>18:08 to Frome </li><li>18:18 to Swansea</li><li>18:20 to Didcot Parkway</li><li>18:23 to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 to Cheltenham Spa</li><li>18:36 to Plymouth</li><li>18:48 to Swansea</li><li>18:57 to Great Malvern</li><li>19:00 to Bristol Temple Meads</li><li>19:04 to Plymouth</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:45.\n Also not valid on the following departures from London Paddington:​​​​​​​\n 16:00 to Bristol Temple Meads\n 16:03 to Penzance\n 16:05 to Newbury\n 16:12 to Bristol Parkway\n 16:23 to Oxford\n 16:30 to Taunton\n 16:33 to Cheltenham\n 16:36 to Plymouth\n 16:48 to Swansea\n 16:50 to Didcot\n 16:58 to Great Malvern\n 17:00 to Bristol Temple Meads\n 17:03 to Penzance\n 17:05 to Newbury\n 17:18 to Swansea\n 17:20 to Didcot\n 17:30 to Taunton\n 17:32 to Cheltenham Spa\n 17:34 to Hereford\n 17:36 to Plymouth\n 17:48 to Carmarthen\n 17:50 to Didcot Parkway\n 17:57 to Worcester Foregate Street\n 18:01 to Bristol Temple Meads\n 18:03 to Penzance\n 18:08 to Frome\n 18:18 to Swansea\n 18:20 to Didcot Parkway\n 18:23 to Banbury\n 18:30 to Weston Super Mare\n 18:34 to Cheltenham Spa\n 18:36 to Plymouth\n 18:48 to Swansea\n 18:57 to Great Malvern\n 19:00 to Bristol Temple Meads\n 19:04 to Plymouth"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZB": {
+    "code": "ZB",
+    "name": "ZB",
+    "id": "172C4F30EA864E049488921379C0AED8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zb",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction LC usually applies. Validity will match LC unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction LC usually applies. Validity will match LC unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>07:46 from <strong>​​​​​​​Ashchurch for Tewkesbury</strong></li><li>08:20 from <strong>Avoncliff</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>08:39 from <strong>Bath Spa</strong></li><li>08:20 from <strong>Bradford on Avon</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>07:10 from <strong>Bridgwater</strong></li><li>08:55 from <strong>Bristol Parkway</strong> (also valid between 02:00 and 05:30)</li><li>08:26 from <strong>Bristol Temple Meads</strong> (also valid between 02:00 and 05:10)</li><li>08:30 from <strong>Castle Cary</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>08:21 from <strong>Cheltenham Spa</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)</li><li>08:46 from <strong>Chippenham</strong></li><li>07:25 from <strong>Dawlish</strong></li><li>07:56 from <strong>Exeter St Davids </strong>(also valid on the 07:20 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:44 service)</li><li>08:17 from <strong>Freshford</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>07:46 from <strong>Frome</strong></li><li>08:26 from <strong>Gloucester</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)</li><li>07:22 from <strong>Highbridge</strong></li><li>09:05 from <strong>Kemble</strong></li><li>08:30 from <strong>Keynsham</strong></li><li>08:10 from <strong>Nailsea & Backwell</strong></li><li>09:00 from <strong>Pewsey</strong></li><li>08:31 from <strong>Patchway</strong></li><li>​​​​​​​09:07 from <strong>Slough</strong></li><li>08:45 from <strong>Stonehouse</strong></li><li>08:50 from <strong>Stroud</strong></li><li>09:05 from <strong>Swindon</strong> (also valid between 02:00 and 05:45)</li><li>08:16 from <strong>Taunton</strong> (also valid on the 07:24 service via Bath Spa;  also valid on the 07:46 CrossCountry service changing at Bristol Temple Meads or Parkway)</li><li>07:20 from <strong>Teignmouth</strong></li><li>07:33 from <strong>Tiverton Parkway</strong></li><li>08:06 from <strong>Trowbridge</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>08:56 from <strong>Westbury</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>07:56 from <strong>Weston Milton</strong></li><li>07:45 from <strong>Weston-super-Mare</strong></li><li>07:56 from <strong>Worle</strong></li><li>07:55 from <strong>Yatton</strong></li></ul><p>Not valid on trains timed to arrive at <strong>London Waterloo</strong> after 04:29 and before 09:52.</p><p>Also not valid on trains that arrive at <strong>Birmingham New Street</strong> before 10:15.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 07:46 from  ​​​​​​​Ashchurch for Tewkesbury\n 08:20 from Avoncliff (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 08:39 from Bath Spa\n 08:20 from Bradford on Avon (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 07:10 from Bridgwater\n 08:55 from Bristol Parkway (also valid between 02:00 and 05:30)\n 08:26 from Bristol Temple Meads (also valid between 02:00 and 05:10)\n 08:30 from Castle Cary (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 08:21 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)\n 08:46 from Chippenham\n 07:25 from Dawlish\n 07:56 from Exeter St Davids (also valid on the 07:20 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:44 service)\n 08:17 from Freshford (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 07:46 from Frome\n 08:26 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)\n 07:22 from Highbridge\n 09:05 from Kemble\n 08:30 from Keynsham\n 08:10 from Nailsea & Backwell\n 09:00 from Pewsey\n 08:31 from Patchway\n ​​​​​​​09:07 from Slough\n 08:45 from Stonehouse\n 08:50 from Stroud\n 09:05 from Swindon (also valid between 02:00 and 05:45)\n 08:16 from Taunton (also valid on the 07:24 service via Bath Spa;  also valid on the 07:46 CrossCountry service changing at Bristol Temple Meads or Parkway)\n 07:20 from Teignmouth\n 07:33 from Tiverton Parkway\n 08:06 from Trowbridge (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 08:56 from Westbury (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 07:56 from Weston Milton\n 07:45 from Weston-super-Mare\n 07:56 from Worle\n 07:55 from Yatton\n Not valid on trains timed to arrive at London Waterloo after 04:29 and before 09:52.\n Also not valid on trains that arrive at Birmingham New Street before 10:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London Paddington</strong> after 04:29 and before 09:12 and after 16:38 until 18:34</li><li><strong>Reading</strong> after 04:29 and before 09:39 and after 17:03 and before 18:56</li><li><strong>Didcot</strong> after 04:29 and before 09:53</li><li><strong>Newbury</strong> after 04:29 and before 08:41</li><li><strong>London Waterloo</strong> after 04:29 and before 08:15</li><li><strong>Birmingham New Street</strong> after 02:29 and before 10:30</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 and after 16:38 until 18:34\n Reading after 04:29 and before 09:39 and after 17:03 and before 18:56\n Didcot after 04:29 and before 09:53\n Newbury after 04:29 and before 08:41\n London Waterloo after 04:29 and before 08:15\n Birmingham New Street after 02:29 and before 10:30"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZC": {
+    "code": "ZC",
+    "name": "ZC",
+    "id": "D2E433EA3648479198D348D748736232",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YC usually applies. Validity will match YC unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YC usually applies. Validity will match YC unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London Paddington</strong> after 04:29 and before 09:12 and after 16:40 until 18:34</li><li><strong>Reading</strong> after 04:29 and before 09:39 and after 17:03 until 18:56</li><li><strong>Didcot </strong>after 04:29 and before 09:53</li><li><strong>Newbury</strong> after 04:29 and before 08:39</li><li><strong>Slough</strong> after 04:29 and before 09:07 and after 16:40 until 18:25</li><li><strong>London Waterloo</strong> after 04:29 and before 08:15</li><li><strong>Birmingham New Street</strong> after 02:29 and before 10:30</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Paddington  after 04:29 and before 09:12 and after 16:40 until 18:34\n Reading  after 04:29 and before 09:39 and after 17:03 until 18:56\n Didcot after 04:29 and before 09:53\n Newbury after 04:29 and before 08:39\n Slough  after 04:29 and before 09:07 and after 16:40 until 18:25\n London Waterloo  after 04:29 and before 08:15\n Birmingham New Street  after 02:29 and before 10:30",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>Slough</strong> after 04:29 and before 09:07</li></ul><p>Not valid on trains timed to arrive at <strong>London Waterloo</strong> before 09:52.</p><p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>07:46 from <strong>Ashchurch for Tewkesbury</strong></li><li>09:00 from <strong>Avoncliff</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>08:39 from <strong>Bath Spa</strong></li><li>08:20 from <strong>Bradford on Avon</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station) (also valid on the 08:12 service)</li><li>07:10 from <strong>Bridgwater</strong></li><li>08:55 from <strong>Bristol Parkway</strong> (also valid between 02:00 and 05:30)</li><li>08:26 from <strong>Bristol Temple Meads</strong></li><li>08:30 from <strong>Castle Cary</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>08:21 from <strong>Cheltenham Spa</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)</li><li>08:46 from <strong>Chippenham</strong></li><li>07:25 from <strong>Dawlish</strong></li><li>07:56 from <strong>Exeter St Davids </strong>(also valid on the 07:20 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:44 service)</li><li>08:17 from <strong>Freshford</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>07:46 from <strong>Frome</strong></li><li>08:26 from <strong>Gloucester</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)</li><li>07:22 from <strong>Highbridge</strong></li><li>09:05 from <strong>Kemble</strong></li><li>08:59 from <strong>Keynsham</strong></li><li>08:10 from <strong>Nailsea & Backwell</strong></li><li>08:39 from <strong>Newbury</strong></li><li>08:31 from <strong>Patchway</strong></li><li>09:00 from <strong>Pewsey</strong></li><li>08:45 from <strong>Stonehouse</strong></li><li>08:50 from <strong>Stroud</strong></li><li>09:05 from <strong>Swindon</strong> (also valid between 02:00 and 05:45)</li><li>08:18 from <strong>Taunton (</strong>also valid on the 07:24 service via Bath Spa; also valid on the 07:46 CrossCountry service changing at Bristol Temple Meads or Parkway)</li><li>07:20 from <strong>Teignmouth</strong></li><li>07:33 from <strong>Tiverton Parkway</strong></li><li>​​​​​​​09:11 from <strong>Trowbridge </strong>(also valid on the 08:06 service)​​​​​​​ (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>08:16 from <strong>Westbury</strong> (if travel via Bath Spa, restriction time shown applies eastbound from this station)</li><li>07:56 from <strong>Weston Milton</strong></li><li>07:45 from <strong>Weston-super-Mare</strong></li><li>07:56 from <strong>Worle</strong></li><li>07:56 from <strong>Yatton</strong></li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n Slough after 04:29 and before 09:07\n Not valid on trains timed to arrive at London Waterloo before 09:52.\n Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 07:46 from Ashchurch for Tewkesbury\n 09:00 from Avoncliff (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 08:39 from Bath Spa\n 08:20 from Bradford on Avon  (if travel via Bath Spa, restriction time shown applies eastbound from this station) (also valid on the 08:12 service)\n 07:10 from Bridgwater\n 08:55 from Bristol Parkway (also valid between 02:00 and 05:30)\n 08:26 from Bristol Temple Meads\n 08:30 from Castle Cary  (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 08:21 from Cheltenham Spa  (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)\n 08:46 from Chippenham\n 07:25 from Dawlish\n 07:56 from Exeter St Davids (also valid on the 07:20 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:44 service)\n 08:17 from Freshford  (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 07:46 from Frome\n 08:26 from Gloucester  (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station)\n 07:22 from Highbridge\n 09:05 from Kemble\n 08:59 from Keynsham\n 08:10 from  Nailsea & Backwell\n 08:39 from Newbury\n 08:31 from Patchway\n 09:00 from Pewsey\n 08:45 from Stonehouse\n 08:50 from Stroud\n 09:05 from Swindon (also valid between 02:00 and 05:45)\n 08:18 from  Taunton ( also valid on the 07:24 service via Bath Spa; also valid on the 07:46 CrossCountry service changing at Bristol Temple Meads or Parkway)\n 07:20 from Teignmouth\n 07:33 from Tiverton Parkway\n ​​​​​​​09:11 from  Trowbridge (also valid on the 08:06 service)​​​​​​​ (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 08:16 from  Westbury  (if travel via Bath Spa, restriction time shown applies eastbound from this station)\n 07:56 from  Weston Milton\n 07:45 from  Weston-super-Mare\n 07:56 from  Worle\n 07:56 from Yatton"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZD": {
+    "code": "ZD",
+    "name": "ZD",
+    "id": "492DD22871D14EEFB54ECF910019A865",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zd",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction LD usually applies. Validity will match LD unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction LD usually applies. Validity will match LD unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>07:15 from Dawlish</li><li>06:16 from Devonport;</li><li>06:16 from Dockyard;</li><li>07:56 from Exeter St Davids (also valid at 07:20 and from 07:26 to 07:44);</li><li>08:35 from Fareham;</li><li>06:41 from Ivybridge;</li><li>07:33 from Newton Abbot (also valid on the 0659 CrossCountry service, changing at Bristol Temple Meads or Parkway;  also valid on the 07:18 service)</li><li>07:01 from Paignton</li><li>07:20 from Plymouth (also valid on the 06:20 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 06:37 service)</li><li>08:50 from Salisbury;​​​​​​​</li><li>07:20 from Saltash;</li><li>08:50 from Southampton Central;</li><li>07:00 from St Germans;</li><li>08:16 from Taunton;</li><li>07:11 from Teignmouth</li><li>07:13 from Torquay</li><li>07:16 from Torre</li><li>06:46 from Totnes; </li><li>Newton St Cyres and all intermediate stations to Barnstaple - restriction applies at Exeter St Davids - see restriction code <a href=\"https://www.nationalrail.co.uk/xmlcms/64148.xml\" title=\"\">LC</a>.</li></ul><p>Not valid on trains timed to arrive at Waterloo after 02:29 and before 09:52.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 07:15 from Dawlish\n 06:16 from Devonport;\n 06:16 from Dockyard;\n 07:56 from Exeter St Davids (also valid at 07:20 and from 07:26 to 07:44);\n 08:35 from Fareham;\n 06:41 from Ivybridge;\n 07:33 from Newton Abbot (also valid on the 0659 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:18 service)\n 07:01 from Paignton\n 07:20 from Plymouth (also valid on the 06:20 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 06:37 service)\n 08:50 from Salisbury;​​​​​​​\n 07:20 from Saltash;\n 08:50 from Southampton Central;\n 07:00 from St Germans;\n 08:16 from Taunton;\n 07:11 from Teignmouth\n 07:13 from Torquay\n 07:16 from Torre\n 06:46 from Totnes; \n Newton St Cyres and all intermediate stations to Barnstaple - restriction applies at Exeter St Davids - see restriction code LC .\n Not valid on trains timed to arrive at Waterloo after 02:29 and before 09:52.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:12 and after 16:40 until 18:03</li><li>Reading after 04:29 and before 09:39 and after 17:03 until 18:28</li><li>London Waterloo after 02:29 and before 08:15</li></ul><p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>08:39 from Newbury;</li><li>08:50 from Salisbury;</li><li>08:50 from Southampton Central.</li></ul><p>Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.</p><p>Not valid on trains timed to arrive at Waterloo after 02:29 and before 09:52</p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 and after 16:40 until 18:03\n Reading after 04:29 and before 09:39 and after 17:03 until 18:28\n London Waterloo after 02:29 and before 08:15\n Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 08:39 from Newbury;\n 08:50 from Salisbury;\n 08:50 from Southampton Central.\n Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.\n Not valid on trains timed to arrive at Waterloo after 02:29 and before 09:52"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZE": {
+    "code": "ZE",
+    "name": "ZE",
+    "id": "43898AC97FD5428EB2BF0BEED56D386C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ze",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction XC usually applies. Validity will match XC unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction XC usually applies. Validity will match XC unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Outward Travel; Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations: </li><li>09:00 from <strong>Ashchurch</strong>;</li><li>09:10 from <strong>Avoncliff</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>10:00 from <strong>Bath Spa</strong>;</li><li>09:35 from <strong>Bradford on Avon</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:21 from <strong>Bridgwater</strong>;</li><li>10:11 from <strong>Bristol Parkway</strong>; (also valid between 02:00 and 05:30)</li><li>09:58 from <strong>Bristol Temple Meads</strong>; (also valid between 02:00 and 05:04)</li><li>09:40 from <strong>Castle Cary</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:15 from <strong>Cheltenham Spa</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>10:10 from <strong>Chippenham</strong>;</li><li>09:00 from <strong>Dawlish</strong>;</li><li>08:45 from <strong>Dawlish Warren</strong>;</li><li>09:20 from <strong>Exeter St Davids</strong>;</li><li>09:10 from <strong>Freshford</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:55 from <strong>Frome</strong>;</li><li>09:30 from <strong>Gloucester</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>09:00 from <strong>Highbridge</strong>;</li><li>09;00 from <strong>Ivybridge</strong>;</li><li>10:16 from <strong>Kemble</strong>;</li><li>09:10 from <strong>Nailsea & Backwell;</strong></li><li>09:30 from <strong>Patchway;</strong></li><li>10:30 from <strong>Pewsey</strong>;</li><li>08:45 from <strong>Starcross</strong>;</li><li>09:30 from <strong>Stonehouse</strong>;</li><li>09:50 from <strong>Stroud</strong>;</li><li>10:30 from <strong>Swindon</strong>; (also valid between 02:00 and 05:45)</li><li>09:50 from <strong>Taunton;</strong> ​​​​​</li><li>09:00 from <strong>Teignmouth</strong>;</li><li>09:35 from <strong>Tiverton Parkway</strong>;</li><li>09:23 from <strong>Trowbridge</strong>;</li><li>09:30 from <strong>Westbury</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:20 from <strong>Weston Milton</strong>;</li><li>09:00 from <strong>Weston-Super-Mare</strong>;</li><li>09:30 from <strong>Worle</strong>;</li><li>09:40 from <strong>Yatton</strong>.</li><li>Not valid on trains timed to arrive at Birmingham New Street before 10:15.</li><li>Not valid on trains timed to arrive at London Waterloo before 11:48.</li></ul><p></p>",
+        "outwardText": "Outward Travel; Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations: \n 09:00 from Ashchurch ;\n 09:10 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 10:00 from Bath Spa ;\n 09:35 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:21 from Bridgwater ;\n 10:11 from Bristol Parkway ; (also valid between 02:00 and 05:30)\n 09:58 from Bristol Temple Meads ; (also valid between 02:00 and 05:04)\n 09:40 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:15 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 10:10 from Chippenham ;\n 09:00 from Dawlish ;\n 08:45 from  Dawlish Warren ;\n 09:20 from Exeter St Davids ;\n 09:10 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:55 from Frome ;\n 09:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 09:00 from Highbridge ;\n 09;00 from Ivybridge ;\n 10:16 from Kemble ;\n 09:10 from Nailsea & Backwell;\n 09:30 from Patchway;\n 10:30 from Pewsey ;\n 08:45 from  Starcross ;\n 09:30 from Stonehouse ;\n 09:50 from Stroud ;\n 10:30 from Swindon ; (also valid between 02:00 and 05:45)\n 09:50 from Taunton;  ​​​​​\n 09:00 from Teignmouth ;\n 09:35 from Tiverton Parkway ;\n 09:23 from Trowbridge ;\n 09:30 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:20 from Weston Milton ;\n 09:00 from Weston-Super-Mare ;\n 09:30 from Worle ;\n 09:40 from Yatton .\n Not valid on trains timed to arrive at Birmingham New Street before 10:15.\n Not valid on trains timed to arrive at London Waterloo before 11:48.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London Paddington</strong> after 04:29 and before 10:10 and after 15:04 and before 19:01;</li><li><strong>Reading</strong> after 04:29 and before 10:30 and after 15:31 and before 19:01;</li><li><strong>London Waterloo</strong> after 04:29 and before 08:15 and after 15:59 and before 19:01;</li><li><strong>Birmingham New Street</strong> after 04:29 and before 10:30.</li></ul><p>Not valid on trains timed to arrive at:</p><ul><li><strong>Exeter St Davids</strong> ​​​​​​​after 04:59 and before 11:30</li><li><strong>Salisbury</strong> before 09:30 and after 17:39 and before 19:01.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 10:10 and after 15:04 and before 19:01;\n Reading after 04:29 and before 10:30 and after 15:31 and before 19:01;\n London Waterloo after 04:29 and before 08:15 and after 15:59 and before 19:01;\n Birmingham New Street after 04:29 and before 10:30.\n Not valid on trains timed to arrive at:\n Exeter St Davids  ​​​​​​​after 04:59 and before 11:30\n Salisbury before 09:30 and after 17:39 and before 19:01."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZF": {
+    "code": "ZF",
+    "name": "ZF",
+    "id": "B152AAA12A2A44348329AA61EBA40729",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YD usually applies. Validity will match YD unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YD usually applies. Validity will match YD unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>London Paddington before 09:12 and after 16:40 and before 18:03;</li><li>Reading before 09:39 and after 17:03 and before 18:28;</li><li>London Waterloo before 08:15.</li><li>09:53 from Didcot Parkway;</li><li>08:35 from Fareham;</li><li>08:39 from Newbury;</li><li>08:50 from Salisbury;</li><li>08:50 from Southampton.</li></ul><p>Not valid to arrive into London St Pancras before 10:05;</p><p>Not valid to arrive into Exeter St Davids before 11:30;</p><p>Not valid to arrive into Salisbury before 09:30.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n London Paddington before 09:12 and after 16:40 and before 18:03;\n Reading before 09:39 and after 17:03 and before 18:28;\n London Waterloo before 08:15.\n 09:53 from Didcot Parkway;\n 08:35 from Fareham;\n 08:39 from Newbury;\n 08:50 from Salisbury;\n 08:50 from Southampton.\n Not valid to arrive into London St Pancras before 10:05;\n Not valid to arrive into Exeter St Davids before 11:30;\n Not valid to arrive into Salisbury before 09:30.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>07:14 from Dawlish;</li><li>06:16 from Devonport;</li><li>06:16 from Dockyard;</li><li>07:55 from Exeter St Davids (also valid at 07:20 and from 07:26 to 07:44);</li><li>08:35 from Fareham;</li><li>06:41 from Ivybridge;</li><li>07:33 from Newton Abbot; (also valid on the 06:59 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:18 service)</li><li>07:20 from Plymouth (also valid on the 06:20 CrossCountry service changing at Bristol Temple Meads or Parkway; also valid on the 06:37 service);</li><li>08:50 from Salisibury;</li><li>07:15 from Saltash;</li><li>08:50 from Southampton Central;</li><li>07:00 from St Germans;</li><li>08:16 from Taunton;</li><li>07:11 from Teignmouth;</li><li>07:13 from Torquay;</li><li>07:15 from Torre;</li><li>06:46 from Totnes;</li><li>Newton St Cyres and all intermediate stations to Barnstaple - see restriction code <a href=\"https://www.nationalrail.co.uk/xmlcms/64148.xml\" title=\"\">LC</a>;</li></ul><p>Not valid on trains timed to arrive at Waterloo before 09:52.</p>",
+        "returnText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 07:14 from Dawlish;\n 06:16 from Devonport;\n 06:16 from Dockyard;\n 07:55 from Exeter St Davids (also valid at 07:20 and from 07:26 to 07:44);\n 08:35 from Fareham;\n 06:41 from Ivybridge;\n 07:33 from Newton Abbot; (also valid on the 06:59 CrossCountry service, changing at Bristol Temple Meads or Parkway; also valid on the 07:18 service)\n 07:20 from Plymouth (also valid on the 06:20 CrossCountry service changing at Bristol Temple Meads or Parkway; also valid on the 06:37 service);\n 08:50 from Salisibury;\n 07:15 from Saltash;\n 08:50 from Southampton Central;\n 07:00 from St Germans;\n 08:16 from Taunton;\n 07:11 from Teignmouth;\n 07:13 from Torquay;\n 07:15 from Torre;\n 06:46 from Totnes;\n Newton St Cyres and all intermediate stations to Barnstaple - see restriction code LC ;\n Not valid on trains timed to arrive at Waterloo before 09:52."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZG": {
+    "code": "ZG",
+    "name": "ZG",
+    "id": "4F0A96043806429FA95603B91CA3BF94",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction WP usually applies. Validity will match WP unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction WP usually applies. Validity will match WP unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>08:15 from St Germans;</li><li>08:25 from Saltash;</li><li>08:20 from Plymouth;</li><li>08:49 from Ivybridge;</li><li>08:45 from Totnes;</li><li>09:00 from Newton Abbot;</li><li>09:20 from Exeter St Davids;</li></ul><p>Not valid on trains timed to arrive at Waterloo before 11:48.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 08:15 from St Germans;\n 08:25 from Saltash;\n 08:20 from Plymouth;\n 08:49 from Ivybridge;\n 08:45 from Totnes;\n 09:00 from Newton Abbot;\n 09:20 from Exeter St Davids;\n Not valid on trains timed to arrive at Waterloo before 11:48.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:04 until 19:01;</li><li>Reading after 04:29 and before 10:30 and after 15:29 until 19:01;</li><li>London Waterloo after 04:29 and before 08:15 and after 15:59 until 19:01;</li><li>Clapham Junction after 04:29 and before 07:21 and after 15:59 until 19:01.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 10:10 and after 15:04 until 19:01;\n Reading after 04:29 and before 10:30 and after 15:29 until 19:01;\n London Waterloo after 04:29 and before 08:15 and after 15:59 until 19:01;\n Clapham Junction after 04:29 and before 07:21 and after 15:59 until 19:01."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZH": {
+    "code": "ZH",
+    "name": "ZH",
+    "id": "49FC060109DC494A916F640C63F75E5A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zh",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Great Western Railway (TOC Code: GWA/GWR) and most connecting services (see below).</p><p><strong>NOT</strong> valid on SouthEastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 and before 19:00, Monday to Friday.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Great Western Railway (TOC Code: GWA/GWR) and most connecting services (see below).\n NOT valid on SouthEastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 and before 19:00, Monday to Friday.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZJ": {
+    "code": "ZJ",
+    "name": "ZJ",
+    "id": "381771D0E8A343EB99E94FB3D9A5EE44",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zj",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Great Western Railway (TOC Code: GWA/GWR) and most connecting services (see below).</p><p><strong>NOT</strong> valid on SouthEastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 and before 19:00, Monday to Friday.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Great Western Railway (TOC Code: GWA/GWR) and most connecting services (see below).\n NOT valid on SouthEastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 and before 19:00, Monday to Friday.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable</p>",
+        "returnText": "Not applicable"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZK": {
+    "code": "ZK",
+    "name": "ZK",
+    "id": "9E838C83E13F42C992B49CF593354AD5",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zk",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Great Western Railway (TOC Code: GWA/GWR) and most connecting services (see below).</p><p><strong>NOT</strong> valid on SouthEastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 and before 19:00, Monday to Friday.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Great Western Railway (TOC Code: GWA/GWR) and most connecting services (see below).\n NOT valid on SouthEastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 and before 19:00, Monday to Friday.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZL": {
+    "code": "ZL",
+    "name": "ZL",
+    "id": "CFAA2AC8F6E74E1C9970BD96AD001A81",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zl",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YP usually applies. Validity will match YP unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YP usually applies. Validity will match YP unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart<strong>:</strong></p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:04 and before 19:01</li><li>Reading after 04:29 and before 10:30 and after 15:29 and before 19:01;</li><li>London Waterloo after 04:29 and before 08:16 and after 15:59 and before 19:01;</li><li>Clapham Junction after 04:29 and before 07:21 and after 15:59 and before 19:01.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart :\n London Paddington after 04:29 and before 10:10 and after 15:04 and before 19:01\n Reading after 04:29 and before 10:30 and after 15:29 and before 19:01;\n London Waterloo after 04:29 and before 08:16 and after 15:59 and before 19:01;\n Clapham Junction after 04:29 and before 07:21 and after 15:59 and before 19:01.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>08:15 from St Germans</li><li>08:25 from Saltash</li><li>08:18 from Plymouth</li><li>08:49 from Ivybridge</li><li>08:45 from Totnes</li><li>09:00 from Newton Abbot</li><li>09:20 from Exeter St Davids</li></ul><p>Not valid on trains timed to arrive at London Waterloo before 11:48.</p>",
+        "returnText": "Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 08:15 from St Germans\n 08:25 from Saltash\n 08:18 from Plymouth\n 08:49 from Ivybridge\n 08:45 from Totnes\n 09:00 from Newton Abbot\n 09:20 from Exeter St Davids\n Not valid on trains timed to arrive at London Waterloo before 11:48."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZO": {
+    "code": "ZO",
+    "name": "ZO",
+    "id": "C235118623A34CFEB1198A857376C9BC",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zo",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction WO usually applies.  Validity will match WO unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction WO usually applies. Validity will match WO unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p><strong>​​​​​​Travel from Wales</strong></p><ul><li>09:31 from Abergavenny</li><li>07:45 from Bridgend (also valid between 04:30 and 05:00);</li><li>08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);</li><li>07:15 from Carmarthen</li><li>07:15 from Chepstow;</li><li>08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);</li><li>08:30 from Llandaf (also valid between 04:30 and 05:45);</li><li>08:20 from Llanelli (also valid between 04:30 and 05:45);</li><li>08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);</li><li>07:25 from Neath</li><li>08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);</li><li>07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);</li><li>08:30 from Porth (also valid between 04:30 and 05:45);</li><li>08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);</li><li>07:15 from Swansea</li><li>08:15 from Whitland (also valid between 04:30 and 05:45);</li></ul><p>Travel from England</p><ul><li>07:42 from Ashchurch;</li><li>09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:30 from Bath Spa;</li><li>10:30 from Birmingham New Street;</li><li>08:00 from Bodmin Parkway;</li><li>07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:15 from Bridgwater;</li><li>08:45 from Bristol Parkway (also valid between 04:30 and 05:30);</li><li>08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);</li><li>05:40 from Camborne;</li><li>08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>09:20 from Chippenham;</li><li>07:35 from Dawlish;</li><li>09:30 from Didcot Parkway;</li><li>07:50 from Exeter St Davids;</li><li>08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:00 from Frome;</li><li>08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>05:40 from Hayle;</li><li>07:15 from Highbridge;</li><li>07:20 from Ivybridge;</li><li>09:05 from Kemble;</li><li>07:00 from Liskeard;</li><li>06:40 from Lostwithiel;</li><li>07:05 from Menheniot;</li><li>08:00 from Nailsea & Backwell;</li><li>09:15 from Newbury;</li><li>08:00 from Newton Abbot;</li><li>09:00 from Oxford;</li><li>07:30 from Paignton;</li><li>06:30 from Par;</li><li>05:30 from Penzance;</li><li>09:00 from Pewsey;</li><li>07:35 from Plymouth;</li><li>09:00 from Reading;</li><li>05:55 from Redruth;</li><li>07:15 from Saltash;</li><li>06:25 from St Austell;</li><li>05:35 from St Erth;</li><li>07:21 from St Germans;</li><li>08:45 from Stonehouse;</li><li>08:50 from Stroud;</li><li>09:15 from Swindon (also valid between 04:30 and 05:45);</li><li>08:40 from Taunton;</li><li>07:35 from Teignmouth;</li><li>08:30 from Tiverton Parkway;</li><li>07:35 from Torquay;</li><li>07:40 from Torre;</li><li>08:00 from Totnes;</li><li>07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>06:05 from Truro</li><li>07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:45 from Weston Milton;</li><li>07:35 from Weston-Super-Mare;</li><li>07:32 from Worcester Shrub Hill;</li><li>07:50 from Worle;</li><li>07:55 from Yatton.</li></ul><p>Not valid to arrive at Birmingham New Street before 10:15;</p><p>Not valid to arrive at Bristol Temple Meads before 08:48.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n ​​​​​​Travel from Wales\n 09:31 from Abergavenny\n 07:45 from Bridgend (also valid between 04:30 and 05:00);\n 08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);\n 07:15 from Carmarthen\n 07:15 from Chepstow;\n 08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);\n 08:30 from Llandaf (also valid between 04:30 and 05:45);\n 08:20 from Llanelli (also valid between 04:30 and 05:45);\n 08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);\n 07:25 from Neath\n 08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);\n 07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);\n 08:30 from Porth (also valid between 04:30 and 05:45);\n 08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);\n 07:15 from Swansea\n 08:15 from Whitland (also valid between 04:30 and 05:45);\n Travel from England\n 07:42 from Ashchurch;\n 09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:30 from Bath Spa;\n 10:30 from Birmingham New Street;\n 08:00 from Bodmin Parkway;\n 07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:15 from Bridgwater;\n 08:45 from Bristol Parkway (also valid between 04:30 and 05:30);\n 08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);\n 05:40 from Camborne;\n 08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 09:20 from Chippenham;\n 07:35 from Dawlish;\n 09:30 from Didcot Parkway;\n 07:50 from Exeter St Davids;\n 08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:00 from Frome;\n 08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 05:40 from Hayle;\n 07:15 from Highbridge;\n 07:20 from Ivybridge;\n 09:05 from Kemble;\n 07:00 from Liskeard;\n 06:40 from Lostwithiel;\n 07:05 from Menheniot;\n 08:00 from Nailsea & Backwell;\n 09:15 from Newbury;\n 08:00 from Newton Abbot;\n 09:00 from Oxford;\n 07:30 from Paignton;\n 06:30 from Par;\n 05:30 from Penzance;\n 09:00 from Pewsey;\n 07:35 from Plymouth;\n 09:00 from Reading;\n 05:55 from Redruth;\n 07:15 from Saltash;\n 06:25 from St Austell;\n 05:35 from St Erth;\n 07:21 from St Germans;\n 08:45 from Stonehouse;\n 08:50 from Stroud;\n 09:15 from Swindon (also valid between 04:30 and 05:45);\n 08:40 from Taunton;\n 07:35 from Teignmouth;\n 08:30 from Tiverton Parkway;\n 07:35 from Torquay;\n 07:40 from Torre;\n 08:00 from Totnes;\n 07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 06:05 from Truro\n 07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:45 from Weston Milton;\n 07:35 from Weston-Super-Mare;\n 07:32 from Worcester Shrub Hill;\n 07:50 from Worle;\n 07:55 from Yatton.\n Not valid to arrive at Birmingham New Street before 10:15;\n Not valid to arrive at Bristol Temple Meads before 08:48.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p><strong>​​​​​​Travel from Wales</strong></p><ul><li>09:31 from Abergavenny</li><li>07:45 from Bridgend (also valid between 04:30 and 05:00);</li><li>08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);</li><li>07:15 from Carmarthen</li><li>07:15 from Chepstow;</li><li>08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);</li><li>08:30 from Llandaf (also valid between 04:30 and 05:45);</li><li>08:20 from Llanelli (also valid between 04:30 and 05:45);</li><li>08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);</li><li>07:25 from Neath</li><li>08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);</li><li>07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);</li><li>08:30 from Porth (also valid between 04:30 and 05:45);</li><li>08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);</li><li>07:15 from Swansea</li><li>08:15 from Whitland (also valid between 04:30 and 05:45);</li></ul><p>Travel from England</p><ul><li>07:42 from Ashchurch;</li><li>09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:30 from Bath Spa;</li><li>10:30 from Birmingham New Street;</li><li>08:00 from Bodmin Parkway;</li><li>07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:15 from Bridgwater;</li><li>08:45 from Bristol Parkway (also valid between 04:30 and 05:30);</li><li>08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);</li><li>05:40 from Camborne;</li><li>08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>09:20 from Chippenham;</li><li>07:35 from Dawlish;</li><li>09:30 from Didcot Parkway;</li><li>07:50 from Exeter St Davids;</li><li>08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:00 from Frome;</li><li>08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>05:40 from Hayle;</li><li>07:15 from Highbridge;</li><li>07:20 from Ivybridge;</li><li>09:05 from Kemble;</li><li>07:00 from Liskeard;</li><li>06:40 from Lostwithiel;</li><li>07:05 from Menheniot;</li><li>08:00 from Nailsea & Backwell;</li><li>09:15 from Newbury;</li><li>08:00 from Newton Abbot;</li><li>09:00 from Oxford;</li><li>07:30 from Paignton;</li><li>06:30 from Par;</li><li>05:30 from Penzance;</li><li>09:00 from Pewsey;</li><li>07:35 from Plymouth;</li><li>09:00 from Reading;</li><li>05:55 from Redruth;</li><li>07:15 from Saltash;</li><li>06:25 from St Austell;</li><li>05:35 from St Erth;</li><li>07:21 from St Germans;</li><li>08:45 from Stonehouse;</li><li>08:50 from Stroud;</li><li>09:15 from Swindon (also valid between 04:30 and 05:45);</li><li>08:40 from Taunton;</li><li>07:35 from Teignmouth;</li><li>08:30 from Tiverton Parkway;</li><li>07:35 from Torquay;</li><li>07:40 from Torre;</li><li>08:00 from Totnes;</li><li>07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>06:05 from Truro</li><li>07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:45 from Weston Milton;</li><li>07:35 from Weston-Super-Mare;</li><li>07:32 from Worcester Shrub Hill;</li><li>07:50 from Worle;</li><li>07:55 from Yatton.</li></ul><p>Not valid to arrive at Birmingham New Street before 10:15;</p><p>Not valid to arrive at Bristol Temple Meads before 08:48.</p><p></p>",
+        "returnText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n ​​​​​​Travel from Wales\n 09:31 from Abergavenny\n 07:45 from Bridgend (also valid between 04:30 and 05:00);\n 08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);\n 07:15 from Carmarthen\n 07:15 from Chepstow;\n 08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);\n 08:30 from Llandaf (also valid between 04:30 and 05:45);\n 08:20 from Llanelli (also valid between 04:30 and 05:45);\n 08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);\n 07:25 from Neath\n 08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);\n 07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);\n 08:30 from Porth (also valid between 04:30 and 05:45);\n 08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);\n 07:15 from Swansea\n 08:15 from Whitland (also valid between 04:30 and 05:45);\n Travel from England\n 07:42 from Ashchurch;\n 09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:30 from Bath Spa;\n 10:30 from Birmingham New Street;\n 08:00 from Bodmin Parkway;\n 07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:15 from Bridgwater;\n 08:45 from Bristol Parkway (also valid between 04:30 and 05:30);\n 08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);\n 05:40 from Camborne;\n 08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 09:20 from Chippenham;\n 07:35 from Dawlish;\n 09:30 from Didcot Parkway;\n 07:50 from Exeter St Davids;\n 08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:00 from Frome;\n 08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 05:40 from Hayle;\n 07:15 from Highbridge;\n 07:20 from Ivybridge;\n 09:05 from Kemble;\n 07:00 from Liskeard;\n 06:40 from Lostwithiel;\n 07:05 from Menheniot;\n 08:00 from Nailsea & Backwell;\n 09:15 from Newbury;\n 08:00 from Newton Abbot;\n 09:00 from Oxford;\n 07:30 from Paignton;\n 06:30 from Par;\n 05:30 from Penzance;\n 09:00 from Pewsey;\n 07:35 from Plymouth;\n 09:00 from Reading;\n 05:55 from Redruth;\n 07:15 from Saltash;\n 06:25 from St Austell;\n 05:35 from St Erth;\n 07:21 from St Germans;\n 08:45 from Stonehouse;\n 08:50 from Stroud;\n 09:15 from Swindon (also valid between 04:30 and 05:45);\n 08:40 from Taunton;\n 07:35 from Teignmouth;\n 08:30 from Tiverton Parkway;\n 07:35 from Torquay;\n 07:40 from Torre;\n 08:00 from Totnes;\n 07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 06:05 from Truro\n 07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:45 from Weston Milton;\n 07:35 from Weston-Super-Mare;\n 07:32 from Worcester Shrub Hill;\n 07:50 from Worle;\n 07:55 from Yatton.\n Not valid to arrive at Birmingham New Street before 10:15;\n Not valid to arrive at Bristol Temple Meads before 08:48."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZU": {
+    "code": "ZU",
+    "name": "ZU",
+    "id": "06A0CF646E024B42B8C97035759DB654",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YU usually applies. Validity will match YU unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YU usually applies. Validity will match YU unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Outward Travel;  </p><p>Not valid on trains timed to depart:</p><ul><li><strong>London Paddington</strong> after 04:29 and before 10:10 and after 15:04 and before 19:01.</li><li><strong>Reading</strong> after 04:29 and before 10:30 and after 15:29 and before 19:01.</li><li><strong>Slough</strong> after 02:29 and before 09:40 and after 14:50 and before 18:25.</li><li><strong>London Waterloo</strong> after 04:29 and before 08:15 and after 15:59 and before 19:01;</li><li><strong>Birmingham New Street</strong> after 04:29 and before 10:30.</li></ul><p>Not valid on trains timed to arrive at:</p><ul><li><strong>Exeter St Davids</strong> after 04:59 and before 11:30</li><li><strong>Salisbury</strong> before 09:30 and after 17:40 and before 19:01.</li></ul>",
+        "outwardText": "Outward Travel;\n Not valid on trains timed to depart:\n London Paddington after 04:29 and before 10:10 and after 15:04 and before 19:01.\n Reading after 04:29 and before 10:30 and after 15:29 and before 19:01.\n Slough after 02:29 and before 09:40 and after 14:50 and before 18:25.\n London Waterloo after 04:29 and before 08:15 and after 15:59 and before 19:01;\n Birmingham New Street after 04:29 and before 10:30.\n Not valid on trains timed to arrive at:\n Exeter St Davids  after 04:59 and before 11:30\n Salisbury before 09:30 and after 17:40 and before 19:01.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>09:00 from <strong>Ashchurch for Tewkesbury</strong></li><li>09:40  from <strong>Avoncliff</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>10:00 from <strong>Bath</strong><strong>Spa</strong>;</li><li>09:35 from <strong>Bradford on Avon</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:21 from <strong>Bridgwater</strong>;</li><li>10:15 (also valid between 02:00 and 05:30) from <strong>Bristol Parkway</strong>;</li><li>09:45 (also valid between 02:00 and 05:10) from <strong>Bristol Temple Meads</strong>;</li><li>09:45 from <strong>Castle Cary</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:50 from <strong>Cheltenham Spa</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>10:10 from <strong>Chippenham</strong>;</li><li>09:00 from <strong>Dawlish and Dawlish Warren</strong>;</li><li>09:20 from <strong>Exeter St Davids</strong>;</li><li>09:30 from <strong>Exeter St Thomas</strong>;</li><li>09:40 from <strong>Freshford</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:55 from <strong>Frome</strong>;</li><li>09:29 from <strong>Gloucester</strong> (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>08:45 from <strong>Highbridge</strong>;</li><li>09;00 from I<strong>vybridge</strong>;</li><li>10:16 from <strong>Kemble</strong>;</li><li>09:30 from <strong>Nailsea & Backwell</strong>;</li><li>10:30 from <strong>Newbury</strong>;</li><li>09:30 from <strong>Patchway;</strong></li><li>09:30 from <strong>Pewsey</strong>;</li><li>09:30 from <strong>Stonehouse</strong>;</li><li>09:30 from <strong>Stroud</strong>;</li><li>10:30 (also valid between 02:00 and 05:45) from <strong>Swindon</strong>;</li><li>09:50 from <strong>Taunton</strong>; (also valid at 09:27)</li><li>08:50 from <strong>Teignmouth</strong>;</li><li>09:36 from <strong>Tiverton Parkway</strong>;</li><li>09:30 from <strong>Trowbridge</strong>;</li><li>09:31 from <strong>Westbury</strong> (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>09:20 from <strong>Weston Milton</strong>;</li><li>09:20 from <strong>Weston-Super-Mare</strong>;</li><li>09:20 from <strong>Worle</strong>;</li><li>09:30 from <strong>Yatton</strong>.</li></ul><p>Not valid on trains timed to arrive at <strong>Birmingham New Street</strong> before 10:15.</p><p>Not valid on trains timed to arrive at <strong>London Waterloo</strong> before 11:48.</p>",
+        "returnText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 09:00 from Ashchurch for Tewkesbury\n 09:40  from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 10:00 from Bath Spa ;\n 09:35 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:21 from Bridgwater ;\n 10:15 (also valid between 02:00 and 05:30) from Bristol Parkway ;\n 09:45 (also valid between 02:00 and 05:10) from Bristol Temple Meads ;\n 09:45 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 10:10 from Chippenham ;\n 09:00 from Dawlish and Dawlish Warren ;\n 09:20 from Exeter St Davids ;\n 09:30 from Exeter St Thomas ;\n 09:40 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:55 from Frome ;\n 09:29 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 08:45 from Highbridge ;\n 09;00 from I vybridge ;\n 10:16 from Kemble ;\n 09:30 from Nailsea & Backwell ;\n 10:30 from  Newbury ;\n 09:30 from Patchway;\n 09:30 from Pewsey ;\n 09:30 from Stonehouse ;\n 09:30 from Stroud ;\n 10:30 (also valid between 02:00 and 05:45) from Swindon ;\n 09:50 from Taunton ; (also valid at 09:27)\n 08:50 from Teignmouth ;\n 09:36 from Tiverton Parkway ;\n 09:30 from Trowbridge ;\n 09:31 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 09:20 from Weston Milton ;\n 09:20 from Weston-Super-Mare ;\n 09:20 from Worle ;\n 09:30 from Yatton .\n Not valid on trains timed to arrive at Birmingham New Street before 10:15.\n Not valid on trains timed to arrive at London Waterloo before 11:48."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ZX": {
+    "code": "ZX",
+    "name": "ZX",
+    "id": "93C6AE249BD94508B6A0737B1490E1FD",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/zx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>As advertised</p>",
+    "applicableDaysText": "Monday to Friday\n As advertised",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>As advertised</p>",
+        "outwardText": "As advertised",
+        "returnHtml": "<p>As advertised</p>",
+        "returnText": "As advertised"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

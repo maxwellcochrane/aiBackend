@@ -1,0 +1,522 @@
+{
+  "6D": {
+    "code": "6D",
+    "name": "6D",
+    "id": "6CCDAEC098734AD4B5BA01E2314CD822",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6d",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": "<p>No break of journey is permitted except for connection purposes.</p>",
+    "notesText": "No break of journey is permitted except for connection purposes.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are mandatory on the ship leg only.</p><p>Valid on date shown on ticket only.</p><p>Valid only on Stena Line shipping services.</p><p>No unaccompanied children under sixteen.</p>",
+        "outwardText": "Reservations are mandatory on the ship leg only.\n Valid on date shown on ticket only.\n Valid only on Stena Line shipping services.\n No unaccompanied children under sixteen.",
+        "returnHtml": "<p>Reservations are mandatory on the ship leg only.</p><p>Valid on date shown on ticket only.</p><p>Valid only on Stena Line shipping services.</p><p>No unaccompanied children under sixteen.</p>",
+        "returnText": "Reservations are mandatory on the ship leg only.\n Valid on date shown on ticket only.\n Valid only on Stena Line shipping services.\n No unaccompanied children under sixteen."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6E": {
+    "code": "6E",
+    "name": "6E",
+    "id": "3911DB99F9384BFC93F557F9BFCEFF67",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6e",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid only on daytime sailings between Liverpool and Belfast and vice versa.</p><p>Not subject to train service time restrictions.</p>",
+        "outwardText": "Valid only on daytime sailings between Liverpool and Belfast and vice versa.\n Not subject to train service time restrictions.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6F": {
+    "code": "6F",
+    "name": "6F",
+    "id": "7E79CD6A478A4DB0A2EBBF120385B92A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6f",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid only on night time sailings between Liverpool and Belfast and vice versa.</p><p>Not subject to train service time restrictions.</p>",
+        "outwardText": "Valid only on night time sailings between Liverpool and Belfast and vice versa.\n Not subject to train service time restrictions.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6I": {
+    "code": "6I",
+    "name": "6I",
+    "id": "B77FA6A59E364A7AAEFA5CA7799D91EC",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6i",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Swift services.</p><p>No unaccompanied children under sixteen</p>",
+        "outwardText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Swift services.\n No unaccompanied children under sixteen",
+        "returnHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Swift services.</p><p>No unaccompanied children under sixteen</p>",
+        "returnText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Swift services.\n No unaccompanied children under sixteen"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6J": {
+    "code": "6J",
+    "name": "6J",
+    "id": "8C060EDB979A4DEC9E58B67974CB420A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6j",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": "<p>No break of journey is permitted except for connection purposes or during disruption.</p>",
+    "notesText": "No break of journey is permitted except for connection purposes or during disruption.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Swift services.</p><p>No unaccompanied children under sixteen</p>",
+        "outwardText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Swift services.\n No unaccompanied children under sixteen",
+        "returnHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Swift services.</p><p>No unaccompanied children under sixteen.</p>",
+        "returnText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Swift services.\n No unaccompanied children under sixteen."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6K": {
+    "code": "6K",
+    "name": "6K",
+    "id": "6350B8DFE0A04D9EB6028B4EA13BF620",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6k",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": "<p>No break of journey is permitted except for connection purposes.</p>",
+    "notesText": "No break of journey is permitted except for connection purposes.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Ulysses services.</p><p>No unaccompanied children under sixteen</p><p>Not valid on Dublin Swift sailings.</p>",
+        "outwardText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Ulysses services.\n No unaccompanied children under sixteen\n Not valid on Dublin Swift sailings.",
+        "returnHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Ulysses services.</p><p>No unaccompanied children under sixteen</p><p>Not valid on Dublin Swift sailings.</p>",
+        "returnText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Ulysses services.\n No unaccompanied children under sixteen\n Not valid on Dublin Swift sailings."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6L": {
+    "code": "6L",
+    "name": "6L",
+    "id": "E9750EB9E8A841E183F1D49E38AE3CAA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6l",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": "<p>No break of journey is permitted except for connection purposes.</p>",
+    "notesText": "No break of journey is permitted except for connection purposes.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Ulysses services.</p><p>No unaccompanied children under sixteen</p><p>Not valid on Dublin Swift sailings.</p>",
+        "outwardText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Ulysses services.\n No unaccompanied children under sixteen\n Not valid on Dublin Swift sailings.",
+        "returnHtml": "<p>Reservations are compulsory on all legs.</p><p>Valid on date on ticket only.</p><p>Only valid on Irish Ferries Ulysses services.</p><p>No unaccompanied children under sixteen</p><p>Not valid on Dublin Swift sailings.</p>",
+        "returnText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Only valid on Irish Ferries Ulysses services.\n No unaccompanied children under sixteen\n Not valid on Dublin Swift sailings."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6N": {
+    "code": "6N",
+    "name": "6N",
+    "id": "58DD01D7D7AE492FAF9630EED86DB90A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6n",
+    "applicableDaysHtml": "<p>Saturday, Sunday and Public Holidays</p><br /><p>Fridays, Saturdays and Sundays.</p>",
+    "applicableDaysText": "Saturday, Sunday and Public Holidays\n Fridays, Saturdays and Sundays.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid June to September on the 'applicable days' shown above.</p>",
+        "outwardText": "Not valid June to September on the 'applicable days' shown above.",
+        "returnHtml": "<p>Not valid June to September on the 'applicable days' shown above.</p>",
+        "returnText": "Not valid June to September on the 'applicable days' shown above."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6R": {
+    "code": "6R",
+    "name": "6R",
+    "id": "1607CDFC9E98493B87F7CC38A0AD2A74",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6r",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": "<p>No break of journey is permitted except for connection purposes.</p>",
+    "notesText": "No break of journey is permitted except for connection purposes.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are compulsory on all legs.  </p><p>Valid on date on ticket only.  </p><p>Valid only on Stena Line shipping services.</p><p>No unaccompanied children under sixteen</p><p></p>",
+        "outwardText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Valid only on Stena Line shipping services.\n No unaccompanied children under sixteen",
+        "returnHtml": "<p>Reservations are compulsory on all legs.  </p><p>Valid on date on ticket only.  </p><p>Valid only on Stena Line shipping services.</p><p>No unaccompanied children under sixteen</p><p></p>",
+        "returnText": "Reservations are compulsory on all legs.\n Valid on date on ticket only.\n Valid only on Stena Line shipping services.\n No unaccompanied children under sixteen"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6S": {
+    "code": "6S",
+    "name": "6S",
+    "id": "A0B0E5AC7C5F40059AC3E01A6F591F8E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6s",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": "<p>No break of journey is permitted except for connection purposes.</p>",
+    "notesText": "No break of journey is permitted except for connection purposes.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Reservations are compulsory on the ship leg.</p><p>Valid on date on ticket only.</p><p>Valid only on Stena Line shipping services.</p><p>No unaccompanied children under sixteen.</p><p></p>",
+        "outwardText": "Reservations are compulsory on the ship leg.\n Valid on date on ticket only.\n Valid only on Stena Line shipping services.\n No unaccompanied children under sixteen.",
+        "returnHtml": "<p>Reservations are compulsory on the ship leg. </p><p>Valid on date on ticket only.</p><p>Valid only on Stena Line shipping services.</p><p>No unaccompanied children under sixteen.</p><p></p>",
+        "returnText": "Reservations are compulsory on the ship leg. \n Valid on date on ticket only.\n Valid only on Stena Line shipping services.\n No unaccompanied children under sixteen."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6T": {
+    "code": "6T",
+    "name": "6T",
+    "id": "11805BFA66E4400784E32704F9ACBF87",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6t",
+    "applicableDaysHtml": "<p>All days, including public holidays</p><br /><p>This restriction code only allows outward travel on a Friday and only allows return travel on a Monday</p>",
+    "applicableDaysText": "All days, including public holidays\n This restriction code only allows outward travel on a Friday and only allows return travel on a Monday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid for travel on <strong>Fridays only</strong></p>",
+        "outwardText": "Valid for travel on Fridays only",
+        "returnHtml": "<p>Valid for travel on <strong>Mondays only</strong></p>",
+        "returnText": "Valid for travel on Mondays only"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "6U": {
+    "code": "6U",
+    "name": "6U",
+    "id": "1A65A97A0F9F469C9CE9090005FF8B43",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/6u",
+    "applicableDaysHtml": "<p>All days, including public holidays</p><br /><p>Valid for outward travel on Saturdays only</p><p>Valid for return travel on Mondays only</p>",
+    "applicableDaysText": "All days, including public holidays\n Valid for outward travel on Saturdays only\n Valid for return travel on Mondays only",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid for travel on <strong>Saturdays only</strong></p>",
+        "outwardText": "Valid for travel on Saturdays only",
+        "returnHtml": "<p>Valid for travel on <strong>Mondays only</strong></p>",
+        "returnText": "Valid for travel on Mondays only"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "7B": {
+    "code": "7B",
+    "name": "7B",
+    "id": "0D78BFC4D8AF4EE2AF0940D5836353BD",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/7b",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on trains timed to arrive:</p><ul><li>London Terminals before 04:30 and after 09:59;</li><li>Stratford (London) before 04:30 and after 09:49.</li></ul><p>Valid on trains timed to depart:</p><ul><li>London Terminals (except those below) before 04:30 and after 09:29;</li><li>London Kings Cross before 04:30 and after 09:29 and before 16:29 and after 18:34;</li><li>London Euston before 04:30 and after 08:44 and before 16:44 and after 19:00;</li><li>Moorgate or pass through London St Pancras International before 04:30 and after 09:29 and before 17:30 and after 18:30;</li><li>Stratford (London) before 04:30 and after 09:29;.</li><li>London Paddington before 04:30 and after 09:19; but not to any station on long-distance services (to Plymouth, Bristol, Cardiff, Worcester or Cheltenham Spa and beyond) between 16:01 and 18:59.</li></ul><p></p>",
+        "outwardText": "Valid on trains timed to arrive:\n London Terminals before 04:30 and after 09:59;\n Stratford (London) before 04:30 and after 09:49.\n Valid on trains timed to depart:\n London Terminals (except those below) before 04:30 and after 09:29;\n London Kings Cross before 04:30 and after 09:29 and before 16:29 and after 18:34;\n London Euston before 04:30 and after 08:44 and before 16:44 and after 19:00;\n Moorgate or pass through London St Pancras International before 04:30 and after 09:29 and before 17:30 and after 18:30;\n Stratford (London) before 04:30 and after 09:29;.\n London Paddington before 04:30 and after 09:19; but not to any station on long-distance services (to Plymouth, Bristol, Cardiff, Worcester or Cheltenham Spa and beyond) between 16:01 and 18:59.",
+        "returnHtml": "<p>Valid on trains timed to arrive:</p><ul><li>London Terminals before 04:30 and after 09:59;</li><li>Stratford (London) before 04:30 and after 09:49.</li></ul><p>Valid on trains timed to depart:</p><ul><li>London Terminals (except those below) before 04:30 and after 09:29;</li><li>London Kings Cross before 04:30 and after 09:29 and before 16:29 and after 18:34;</li><li>London Euston before 04:30 and after 08:44 and before 16:44 and after 19:00;</li><li>Moorgate or pass through London St Pancras International before 04:30 and after 09:29 and before 17:30 and after 18:30;</li><li>Stratford (London) before 04:30 and after 09:29;.</li><li>London Paddington before 04:30 and after 09:19; but not to any station on long-distance services (to Plymouth, Bristol, Cardiff, Worcester or Cheltenham Spa and beyond) between 16:01 and 18:59.</li></ul><p></p>",
+        "returnText": "Valid on trains timed to arrive:\n London Terminals before 04:30 and after 09:59;\n Stratford (London) before 04:30 and after 09:49.\n Valid on trains timed to depart:\n London Terminals (except those below) before 04:30 and after 09:29;\n London Kings Cross before 04:30 and after 09:29 and before 16:29 and after 18:34;\n London Euston before 04:30 and after 08:44 and before 16:44 and after 19:00;\n Moorgate or pass through London St Pancras International before 04:30 and after 09:29 and before 17:30 and after 18:30;\n Stratford (London) before 04:30 and after 09:29;.\n London Paddington before 04:30 and after 09:19; but not to any station on long-distance services (to Plymouth, Bristol, Cardiff, Worcester or Cheltenham Spa and beyond) between 16:01 and 18:59."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "7E": {
+    "code": "7E",
+    "name": "7E",
+    "id": "277B801ACF6D437787E943C6D19F4B1E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/7e",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Journeys to <strong>London Paddington</strong> please use restrictions,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64097.aspx\" title=\"\">4N</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64112.aspx\" title=\"\">5K</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62360.aspx\" title=\"\">GK</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64148.aspx\" title=\"\">LC</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64151.aspx\" title=\"\">LD</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64181.aspx\" title=\"\">WH</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64190.aspx\" title=\"\">WV</a>,<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64226.aspx\" title=\"\">WX</a>.</p><p>If travel is NOT to/via the stations listed above or <strong>Peterborough</strong>, see restriction code<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62059.aspx\" title=\"\">2V</a></p>",
+    "notesText": "Journeys to London Paddington please use restrictions, 4N , 5K , GK , LC , LD , WH , WV , WX .\n If travel is NOT to/via the stations listed above or Peterborough , see restriction code 2V",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> after 07:19 and before 11:30;</li><li><strong>London</strong><strong>Kings Cross</strong> after 04:29 and before 10:08;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:02;</li><li><strong>Bedford</strong> after 04:29 and before 09:30;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 10:02;</li><li><strong>Stevenage</strong> after 03:59 and before 09:57.</li></ul>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Euston after 07:19 and before 11:30;\n London Kings Cross after 04:29 and before 10:08;\n London St Pancras International after 04:29 and before 10:02;\n Bedford after 04:29 and before 09:30;\n Luton or Luton Airport Parkway after 04:29 and before 10:02;\n Stevenage after 03:59 and before 09:57.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 or after 15:00 and before 18:45;</li><li><strong>London St Pancras International</strong> after 04:29 and before 08:46 or after 16:36 and before 18:46</li><li><strong>Bedford</strong> after 04:29 and before 09:01;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 or after 16:29 and before 18:59;</li><li><strong>London Kings Cross</strong> Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59.</li></ul>",
+        "returnText": "Not valid on trains timed to depart:\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45;\n London St Pancras International after 04:29 and before 08:46 or after 16:36 and before 18:46\n Bedford after 04:29 and before 09:01;\n Luton or Luton Airport Parkway after 04:29 and before 09:01 or after 16:29 and before 18:59;\n London Kings Cross Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "7W": {
+    "code": "7W",
+    "name": "7W",
+    "id": "D73E9E232F0C471E87C3C3F3AFD8877C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/7w",
+    "applicableDaysHtml": null,
+    "applicableDaysText": null,
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Text here</p>",
+        "outwardText": "Text here",
+        "returnHtml": null,
+        "returnText": null
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": false
+  },
+  "8A": {
+    "code": "8A",
+    "name": "8A",
+    "id": "F09AD3D03C8B40969829C4BC22726709",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/8a",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": "<p>Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.</p>",
+    "notesText": "Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>No time restriction</p>",
+        "outwardText": "No time restriction",
+        "returnHtml": "<p>No time restriction.</p>",
+        "returnText": "No time restriction."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "8D": {
+    "code": "8D",
+    "name": "8D",
+    "id": "F66A39E7BC414B64B982DA3F8A62BFA3",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/8d",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day.</p>",
+    "applicableDaysText": "Monday to Friday\n Any day.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Valid by any RailAir coach between Reading and Heathrow Airport.</li></ul>",
+        "outwardText": "Valid by any RailAir coach between Reading and Heathrow Airport.",
+        "returnHtml": "<ul><li> Valid by any RailAir coach between Reading and Heathrow Airport.</li></ul>",
+        "returnText": "Valid by any RailAir coach between Reading and Heathrow Airport."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "8E": {
+    "code": "8E",
+    "name": "8E",
+    "id": "FD3AF776CFAA4AB49141B1D2FADF8955",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/8e",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains timed to depart after 01:14 and before 04:01.</p>",
+        "outwardText": "Not valid on trains timed to depart after 01:14 and before 04:01.",
+        "returnHtml": "<p> Not valid on trains timed to depart after 01:14 and before 04:01.</p>",
+        "returnText": "Not valid on trains timed to depart after 01:14 and before 04:01."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "8F": {
+    "code": "8F",
+    "name": "8F",
+    "id": "D130A32833744FD49A51E4D5970CB19B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/8f",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": "<p>None</p>",
+    "notesText": "None",
+    "seasonalVariationsHtml": "<p>None</p>",
+    "seasonalVariationsText": "None",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:16, except the 07:04 and 09:00 Stranraer to Ayr, and the 0856 Inverness - Aberdeen service.​​​​​​​</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:16, except the 07:04 and 09:00 Stranraer to Ayr, and the 0856 Inverness - Aberdeen service.​​​​​​​",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:16, except the 07:04 and 09:00 Stranraer to Ayr, and the 0856 Inverness - Aberdeen service.​​​​​​​</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:16, except the 07:04 and 09:00 Stranraer to Ayr, and the 0856 Inverness - Aberdeen service.​​​​​​​"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "8H": {
+    "code": "8H",
+    "name": "8H",
+    "id": "D88B1F195C7D4FE9BD2BA6C501BCC583",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/8h",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": "<p>Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.</p>",
+    "notesText": "Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid by any train</p>",
+        "outwardText": "Valid by any train",
+        "returnHtml": "<p> Valid by any train.</p>",
+        "returnText": "Valid by any train."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

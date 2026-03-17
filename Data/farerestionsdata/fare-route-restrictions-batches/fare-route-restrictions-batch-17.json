@@ -1,0 +1,502 @@
+{
+  "41": {
+    "code": 41,
+    "name": "HT DIV RTE ONLY",
+    "description": "HT DIV RTE ONLY",
+    "startDate": "2006-06-11",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on diverted Hull Trains services.",
+    "rspDisplayName": "Valid on diverted Hull Trains only",
+    "enabledForMapPlotting": true
+  },
+  "42": {
+    "code": 42,
+    "name": "LNR & WMR ONLY",
+    "description": "LNR & WMR ONLY",
+    "startDate": "2025-03-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on London Northwestern Railway and West Midlands Railway services only.",
+    "rspDisplayName": "Valid on LNR & WMR services only",
+    "enabledForMapPlotting": true
+  },
+  "43": {
+    "code": 43,
+    "name": "AVANTI",
+    "description": "Avanti  West Coast",
+    "startDate": "2022-11-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Avanti West Coast services.",
+    "rspDisplayName": "Valid only Avanti West Coast services.",
+    "enabledForMapPlotting": true
+  },
+  "44": {
+    "code": 44,
+    "name": "TFW ONLY",
+    "description": "TRANSPORT FOR WALES ONLY",
+    "startDate": "2022-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Transport for Wales services.",
+    "rspDisplayName": "Only valid on booked trains",
+    "enabledForMapPlotting": true
+  },
+  "410": {
+    "code": 410,
+    "name": "AP A6 VIA PADDTN",
+    "description": "AP A6 VIA PADDTN",
+    "startDate": "2024-08-15",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and A6 coach via Paddington.",
+    "rspDisplayName": "On specified trains & A6 coach only",
+    "enabledForMapPlotting": true
+  },
+  "411": {
+    "code": 411,
+    "name": "AP SLOUGH",
+    "description": "AP SLOUGH",
+    "startDate": "2023-05-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "412": {
+    "code": 412,
+    "name": "AP NEWPT NOT LDN",
+    "description": "AP NEWPORT NOT LONDON",
+    "startDate": "2017-09-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "413": {
+    "code": 413,
+    "name": "AP SLOUGH NEWPRT",
+    "description": "AP SLOUGH NEWPORT",
+    "startDate": "2023-05-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "414": {
+    "code": 414,
+    "name": "AP SWINDN/NEWBRY",
+    "description": "AP SWINDON OR NEWBURY",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "415": {
+    "code": 415,
+    "name": "AP NOT LONDON",
+    "description": "AP NOT VIA LONDON",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "416": {
+    "code": 416,
+    "name": "AP WOKING",
+    "description": "AP WOKING",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "417": {
+    "code": 417,
+    "name": "AP KEMBL NOT LDN",
+    "description": "AP KEMBLE NOT LONDON",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "418": {
+    "code": 418,
+    "name": "AP KEMBLE SLOUGH",
+    "description": "AP KEMBLE SLOUGH",
+    "startDate": "2023-05-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "419": {
+    "code": 419,
+    "name": "AP BRIDGWATER",
+    "description": "AP BRIDGWATER",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "Only valid on booked trains",
+    "enabledForMapPlotting": true
+  },
+  "420": {
+    "code": 420,
+    "name": "AP GRTANG&CONCTS",
+    "description": "AP GRTANG&CONCTS",
+    "startDate": "2023-10-06",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Greater Anglia services and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "421": {
+    "code": 421,
+    "name": "AP BERWICK",
+    "description": "AP BERWICK",
+    "startDate": "2017-09-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked LNER trains and required connecting services (via Berwick-upon-Tweed).",
+    "rspDisplayName": "Specified LNER trains and connecting services.",
+    "enabledForMapPlotting": true
+  },
+  "422": {
+    "code": 422,
+    "name": "PETERBORO & LNER",
+    "description": "PETERBORO & LNER",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked LNER trains and required connecting services (via Peterborough).",
+    "rspDisplayName": "Specified LNER trains, and connecting services.",
+    "enabledForMapPlotting": true
+  },
+  "423": {
+    "code": 423,
+    "name": "LNER &CONNECTNS",
+    "description": "LNER &CONNECTNS",
+    "startDate": "2024-10-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on LNER and required connecting services within defined time period.",
+    "rspDisplayName": "On LNER & connections within defined time period.",
+    "enabledForMapPlotting": true
+  },
+  "424": {
+    "code": 424,
+    "name": "AP HULTRNS & EMR",
+    "description": "AP HULTRNS & EMR",
+    "startDate": "2022-11-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Hull Trains services and required connecting EMR services.",
+    "rspDisplayName": "On specified trains & EMR connections",
+    "enabledForMapPlotting": true
+  },
+  "425": {
+    "code": 425,
+    "name": "AP SHEFFIELD",
+    "description": "AP SHEFFIELD",
+    "startDate": "2014-11-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "426": {
+    "code": 426,
+    "name": "AP TFW&LM ONLY",
+    "description": "AP TFW&LM ONLY",
+    "startDate": "2022-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "Only valid on booked trains",
+    "enabledForMapPlotting": true
+  },
+  "427": {
+    "code": 427,
+    "name": "GREATER ANG ONLY",
+    "description": "LONDON EVENING OUT",
+    "startDate": "2022-11-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": true
+  },
+  "428": {
+    "code": 428,
+    "name": "AP GRT ANG ONLY",
+    "description": "AP GRT ANG ONLY",
+    "startDate": "2022-11-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Greater Anglia services and suitable connecting services.",
+    "rspDisplayName": "On specified GA trains only",
+    "enabledForMapPlotting": true
+  },
+  "429": {
+    "code": 429,
+    "name": "AP NORTHERN ONLY",
+    "description": "AP NORTHERN ONLY",
+    "startDate": "2022-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Northern services.",
+    "rspDisplayName": "Valid on specified Northern Trains only",
+    "enabledForMapPlotting": true
+  },
+  "430": {
+    "code": 430,
+    "name": "LNER & CONNECTNS",
+    "description": "LNER & CONNECTNS",
+    "startDate": "2026-02-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked London North Eastern Railway services and required connecting services.",
+    "rspDisplayName": "Specified LNER trains & connecting services.",
+    "enabledForMapPlotting": true
+  },
+  "431": {
+    "code": 431,
+    "name": "AP HULTRNS & TPE",
+    "description": "AP HULTRNS & TPE",
+    "startDate": "2022-11-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Hull Trains and TransPennine Express services.",
+    "rspDisplayName": "On specified trains & TPE connections",
+    "enabledForMapPlotting": true
+  },
+  "432": {
+    "code": 432,
+    "name": "AP H WYC & SHREW",
+    "description": "AP H WYC & SHREW",
+    "startDate": "2023-11-15",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "433": {
+    "code": 433,
+    "name": "AP EVESHAM",
+    "description": "AP EVESHAM",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "434": {
+    "code": 434,
+    "name": "AP TELFORD RUGBY",
+    "description": "AP TELFORD RUGBY",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "435": {
+    "code": 435,
+    "name": "AP CH & TFW ONLY",
+    "description": "AP CH & TFW ONLY",
+    "startDate": "2026-03-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Chiltern Railways and Transport for Wales trains, and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "436": {
+    "code": 436,
+    "name": "AP LONDON LEICES",
+    "description": "AP LONDON LEICESTER",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "437": {
+    "code": 437,
+    "name": "NORTHERN & EMR",
+    "description": "NORTHERN & EMR",
+    "startDate": "2022-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Northern & EMR services only",
+    "rspDisplayName": "Northern & EMR only",
+    "enabledForMapPlotting": true
+  },
+  "438": {
+    "code": 438,
+    "name": "AP SALISBURY",
+    "description": "AP SALISBURY",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "Only valid on booked trains",
+    "enabledForMapPlotting": true
+  },
+  "439": {
+    "code": 439,
+    "name": "XC  &CONNECTIONS",
+    "description": "CROSSCOUNTRY & CONNECTIONS",
+    "startDate": "2017-12-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked CrossCountry services and required connecting services.",
+    "rspDisplayName": "On specified XC trains & connections",
+    "enabledForMapPlotting": true
+  },
+  "440": {
+    "code": 440,
+    "name": "AP HONITON",
+    "description": "AP HONITON",
+    "startDate": "2017-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "441": {
+    "code": 441,
+    "name": "AP LONDN HONITON",
+    "description": "AP LONDON HONITON",
+    "startDate": "2017-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": true
+  },
+  "442": {
+    "code": 442,
+    "name": "SW RAILWAY ONLY",
+    "description": "SW RAILWAY ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked South Western Railway services and required connecting South Western Railway services",
+    "rspDisplayName": "South Western Railway only",
+    "enabledForMapPlotting": true
+  },
+  "443": {
+    "code": 443,
+    "name": "SWR & RAILAIR",
+    "description": "SWR & RAILAIR",
+    "startDate": "2017-08-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked South Western Railway services and connecting RailAir services.",
+    "rspDisplayName": "On specified SWR trains & RailAir only",
+    "enabledForMapPlotting": true
+  },
+  "444": {
+    "code": 444,
+    "name": "SWR & CONNECTION",
+    "description": "SWR & CONNECT",
+    "startDate": "2018-10-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked South Western Railway services and required connecting services.",
+    "rspDisplayName": "Specified SWR trains& connections only",
+    "enabledForMapPlotting": true
+  },
+  "445": {
+    "code": 445,
+    "name": "AP LNR/WMR&MRAIL",
+    "description": "AP LNR/WMR & MERSEY ONLY",
+    "startDate": "2025-03-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked London Northwestern Railway/West Midlands Railway and Merseyrail services.",
+    "rspDisplayName": "Specified LNR/WMR & Merseyrail services only",
+    "enabledForMapPlotting": true
+  },
+  "446": {
+    "code": 446,
+    "name": "AP SCOTRAIL ONLY",
+    "description": "AP SCOTRAIL ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked ScotRail services and required connecting ScotRail services.",
+    "rspDisplayName": "Only valid on booked ScotRail services",
+    "enabledForMapPlotting": true
+  },
+  "447": {
+    "code": 447,
+    "name": "ADVANCE+WIGHTLK",
+    "description": "ADVANCE+WIGHTLK",
+    "startDate": "2018-10-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and Wightlink crossing.",
+    "rspDisplayName": "Valid on specified services&Wightlink",
+    "enabledForMapPlotting": true
+  },
+  "448": {
+    "code": 448,
+    "name": "ADVANCE+HOVRTVL",
+    "description": "ADVANCE+HOVRTVL",
+    "startDate": "2023-11-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and Hovertravel crossing.",
+    "rspDisplayName": "Valid specified services & Hovertravel",
+    "enabledForMapPlotting": true
+  },
+  "40907": {
+    "code": 40907,
+    "name": "VT VIA WIGHTLINK",
+    "description": "VT VIA WIGHTLINK",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Avanti West Coast & Wightlink Only.",
+    "rspDisplayName": "Avanti West Coast & Wightlink only",
+    "enabledForMapPlotting": false
+  },
+  "40908": {
+    "code": 40908,
+    "name": "VT VIA HOVRTRAVL",
+    "description": "VT VIA HOVERTRAVEL",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Avanti West Coast & Hovertravel Only.",
+    "rspDisplayName": "Avanti West Coast & Hovertravel",
+    "enabledForMapPlotting": false
+  },
+  "40909": {
+    "code": 40909,
+    "name": "XC VIA WIGHTLINK",
+    "description": "XC VIA WIGHTLINK",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on CrossCountry services and Wightlink.",
+    "rspDisplayName": "Valid only on Crosscountry and Wightlink",
+    "enabledForMapPlotting": false
+  },
+  "40910": {
+    "code": 40910,
+    "name": "XC VIA HOVETRAVL",
+    "description": "XC VIA HOVERTRAVEL",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on CrossCountry services and Hovertravel.",
+    "rspDisplayName": "Valid only on Crosscountry and Hovertravel",
+    "enabledForMapPlotting": false
+  },
+  "40981": {
+    "code": 40981,
+    "name": "WIGHTLK PMH (FA)",
+    "description": "WIGHTLINK via PMH (FA)",
+    "startDate": "2019-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via any permitted route and Wightlink.",
+    "rspDisplayName": "Valid via any permitted route and Wightlink",
+    "enabledForMapPlotting": false
+  },
+  "40982": {
+    "code": 40982,
+    "name": "HOVERTRAVEL (FA)",
+    "description": "HOVERTRAVEL (FA)",
+    "startDate": "2019-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via any permitted route and Hovertravel.",
+    "rspDisplayName": "Valid via any permitted route and Hovertravel",
+    "enabledForMapPlotting": false
+  },
+  "40983": {
+    "code": 40983,
+    "name": "RED FUNNEL (FA)",
+    "description": "RED FUNNEL (FA)",
+    "startDate": "2019-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via any permitted route and Red Funnel.",
+    "rspDisplayName": "Valid via any permitted route and Red Funnel",
+    "enabledForMapPlotting": false
+  }
+}

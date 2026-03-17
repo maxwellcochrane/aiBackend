@@ -1,0 +1,522 @@
+{
+  "4C": {
+    "code": "4C",
+    "name": "4C",
+    "id": "7AEA3DF6B98E47F689B968BACB88352C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4c",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day</p>",
+    "applicableDaysText": "Monday to Friday\n Any day",
+    "notesHtml": "<p>Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.</p>",
+    "notesText": "Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>By any train.</p>",
+        "outwardText": "By any train.",
+        "returnHtml": "<p> By any train.</p>",
+        "returnText": "By any train."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4D": {
+    "code": "4D",
+    "name": "4D",
+    "id": "E9B0CAC197624C2A9FF62D22504261FC",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4d",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": "<p>In addition to the specific restrictions shown, for travel _to/_from London Paddington or Reading on part of the outward or return journey please also refer to Restriction Code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64112.aspx\" title=\"\">5K</a>.</p>",
+    "notesText": "In addition to the specific restrictions shown, for travel _to/_from London Paddington or Reading on part of the outward or return journey please also refer to Restriction Code  5K .",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p> Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4E": {
+    "code": "4E",
+    "name": "4E",
+    "id": "17EC34AD0B6E4750A362E5BCFB57F22B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4e",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>By any train from Marylebone.</p><p>Not valid from Paddington on any train timed to depart after 02:29 and before 09:16.</p><p>Not valid from Waterloo (via Reading) on any train timed to depart before 09:30.</p>",
+        "outwardText": "By any train from Marylebone.\n Not valid from Paddington on any train timed to depart after 02:29 and before 09:16.\n Not valid from Waterloo (via Reading) on any train timed to depart before 09:30.",
+        "returnHtml": "<p>Not valid after 04:29 and before 08:10 from Birmingham Snow Hill (08:47 from Leamington Spa) to Marylebone.</p><p>Not valid after 04:29 and before 07:24 from Stratford-upon-Avon (08:43 from Leamington Spa) to London Paddington.</p>",
+        "returnText": "Not valid after 04:29 and before 08:10 from Birmingham Snow Hill (08:47 from Leamington Spa) to Marylebone.\n Not valid after 04:29 and before 07:24 from Stratford-upon-Avon (08:43 from Leamington Spa) to London Paddington."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4F": {
+    "code": "4F",
+    "name": "4F",
+    "id": "F0584B9AFA4449A0BFCE57B7400DA795",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4f",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p> Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n  Mondays to Fridays",
+    "notesHtml": "<p>In addition to the specific restrictions shown, for travel <em>to/from</em> London St Pancras International on part of the outward or return journey please also refer to Restriction Code<a href=\"https://www.nationalrail.co.uk/ticket-types/validity/7e/\" title=\"\">7E</a> &<a href=\"https://www.nationalrail.co.uk/ticket-types/validity/9j/\" title=\"\">9J</a>.</p>",
+    "notesText": "In addition to the specific restrictions shown, for travel to/from London St Pancras International on part of the outward or return journey please also refer to Restriction Code 7E & 9J .",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4G": {
+    "code": "4G",
+    "name": "4G",
+    "id": "14C5769A5B574BD1BC95A34D156D832B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4g",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> By any train</p>",
+        "outwardText": "By any train",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4H": {
+    "code": "4H",
+    "name": "4H",
+    "id": "B47669AB31CC4B93988552BE1C25D0D4",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4h",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive London St. Pancras International before 10:00.</p>",
+        "outwardText": "Not valid on trains timed to arrive London St. Pancras International before 10:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30, except from any station (and connecting services) on:</p><ul><li>08:57 Newbury to Reading;</li><li>09:18 from Gillingham Dorset to London Waterloo;</li><li>09:19 Banbury to Reading.</li></ul>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30, except from any station (and connecting services) on:\n 08:57 Newbury to Reading;\n 09:18 from Gillingham Dorset to London Waterloo;\n 09:19 Banbury to Reading."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4I": {
+    "code": "4I",
+    "name": "4I",
+    "id": "C7B9B7B8A20B41229187598B5BAD2379",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4i",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> By any train.</p>",
+        "outwardText": "By any train.",
+        "returnHtml": "<p>Not valid after 04:29 and before 08:10 from Birmingham Snow Hill (08:47 from Leamington Spa) to Marylebone.</p><p>Not valid after 04:29 and before 07:24 from Stratford-upon-Avon (08:43 from Leamington Spa) to London Paddington.</p>",
+        "returnText": "Not valid after 04:29 and before 08:10 from Birmingham Snow Hill (08:47 from Leamington Spa) to Marylebone.\n Not valid after 04:29 and before 07:24 from Stratford-upon-Avon (08:43 from Leamington Spa) to London Paddington."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4J": {
+    "code": "4J",
+    "name": "4J",
+    "id": "9A2843D500B0463E82AED1FFF12E5011",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4j",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30, except: </p><ul><li>09:26 from Exeter St Davids</li><li>09:28 from Fratton</li><li>09:18 from Portsmouth Harbour</li><li>09:24 from Portsmouth and Southsea</li><li>09:10 from Southampton Central</li><li>09:28 from Swanwick</li><li>09:29 from Yeovil Junction</li></ul>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30, except: \n 09:26 from Exeter St Davids\n 09:28 from Fratton\n 09:18 from Portsmouth Harbour\n 09:24 from Portsmouth and Southsea\n 09:10 from Southampton Central\n 09:28 from Swanwick\n 09:29 from Yeovil Junction"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4K": {
+    "code": "4K",
+    "name": "4K",
+    "id": "D6E8AD6E1B8349D5959589AE7B505368",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4k",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:20.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:20.",
+        "returnHtml": "<p>Not valid on any train timed to depart after 04:29 and before 09:30, except as follows:</p><ul><li>08:55 & 09:20 from Banbury</li><li>09:07 from Bicester Town</li><li>09:27 from Bishopstone</li><li>09:29 from Didcot Parkway</li><li>09:29 from Eastbourne</li><li>09:26 from Exeter St Davids</li><li>09:28 from Fratton</li><li>08:52 from Hastings</li><li>09:19 from Islip</li><li>09:22 from London Paddington</li><li>09:22 from Newbury</li><li>09:24 from Newbury Racecourse</li><li>09:16 & 09:21 from Oxford</li><li>09:18 from Portsmouth Harbour</li><li>09:24 from Portsmouth & Southsea</li><li>09:25 from Seaford</li><li>09:10 from Southampton Central</li><li>09:28 from Swanwick</li><li>09:29 from Yeovil Junction</li></ul>",
+        "returnText": "Not valid on any train timed to depart after 04:29 and before 09:30, except as follows:\n 08:55 & 09:20 from Banbury\n 09:07 from Bicester Town\n 09:27 from Bishopstone\n 09:29 from Didcot Parkway\n 09:29 from Eastbourne\n 09:26 from Exeter St Davids\n 09:28 from Fratton\n 08:52 from Hastings\n 09:19 from Islip\n 09:22 from London Paddington\n 09:22 from Newbury\n 09:24 from Newbury Racecourse\n 09:16 & 09:21 from Oxford\n 09:18 from Portsmouth Harbour\n 09:24 from Portsmouth & Southsea\n 09:25 from Seaford\n 09:10 from Southampton Central\n 09:28 from Swanwick\n 09:29 from Yeovil Junction"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4L": {
+    "code": "4L",
+    "name": "4L",
+    "id": "DD499917301347C3876C8268F0524E17",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4l",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Overnight Break of Journey, restarting journey from an intermediate station: Outward (on day 2) - outward morning restrictions as above apply. </p><p>For journeys on CrossCountry services via Birmingham use restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62059.aspx\" title=\"\">2V</a> or<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62199.aspx\" title=\"\">8X</a> as appropriate.</p><p>For journeys to the Cambridge area via Ely, or for journeys not via London or Stevenage, restriction <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62066.aspx\" title=\"\">3V</a> applies.</p>",
+    "notesText": "Overnight Break of Journey, restarting journey from an intermediate station: Outward (on day 2) - outward morning restrictions as above apply. \n For journeys on CrossCountry services via Birmingham use restriction code  2V  or 8X  as appropriate.\n For journeys to the Cambridge area via Ely, or for journeys not via London or Stevenage, restriction  3V  applies.",
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 04:29 and before 11:17;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 11:26;</li><li><strong>London</strong><strong>Euston</strong> after 07:19 and before 11:30;</li><li><strong>Stevenage</strong> after 03:59 and before 10:55;</li><li><strong>Luton</strong> after 02:29 and before 11:03;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 11:16;</li><li><strong>Bedford</strong> after 04:29 and before 10:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 06:43 and before 10:45;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 06:39 and before 10:48.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Terminals  (except as shown below) after 04:29 and before 11:17;\n London Liverpool Street  after 04:29 and before 10:00;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International  after 04:29 and before 11:26;\n London Euston  after 07:19 and before 11:30;\n Stevenage  after 03:59 and before 10:55;\n Luton  after 02:29 and before 11:03;\n Luton Airport Parkway  after 02:29 and before 11:16;\n Bedford  after 04:29 and before 10:30 ;\n Watford Junction  after 06:43 and before 10:45;\n Milton Keynes Central  after 06:39 and before 10:48.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);</li><li><strong>London Liverpool Street</strong>  after 04:29 and before 09:30 or after 16:28 and before 18:35;</li><li><strong>City Thameslink, Farringdon, London Blackfriars, London Bridge and London St Pancras International</strong> after 04:29 and before 10:05 and after 15:36 and before 18:47;</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 and after 15:00 and before 18:45;</li><li><strong>Stevenage</strong> after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);</li><li><strong>Luton</strong> after 02:29 and before 10:25 and after 15:23 and before 19:23;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 10:51 and after 15:08 and before 19:10;</li><li><strong>Bedford</strong> after 04:29 and before 10:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 04:29 and before 09:38 and after 14:38 and before 18:38;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Terminals  (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);\n London Liverpool Street   after 04:29 and before 09:30 or after 16:28 and before 18:35;\n City Thameslink, Farringdon, London Blackfriars, London Bridge and London St Pancras International  after 04:29 and before 10:05 and after 15:36 and before 18:47;\n London Euston  after 04:29 and before 09:26 and after 15:00 and before 18:45;\n Stevenage  after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);\n Luton  after 02:29 and before 10:25 and after 15:23 and before 19:23;\n Luton Airport Parkway  after 02:29 and before 10:51 and after 15:08 and before 19:10;\n Bedford  after 04:29 and before 10:30 ;\n Watford Junction  after 04:29 and before 09:38 and after 14:38 and before 18:38;\n Milton Keynes Central  after 04:29 and before 09:51."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4N": {
+    "code": "4N",
+    "name": "4N",
+    "id": "C20DA26ED6C441A4A94C32E3230BFE61",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4n",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Restriction codes <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64078.aspx\" title=\"\">2C</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64133.aspx\" title=\"\">9I</a> apply to all journeys via London Euston</p><p>For travel on CrossCountry please use restriction 2V.</p>",
+    "notesText": "Restriction codes 2C / 9I apply to all journeys via London Euston\n For travel on CrossCountry please use restriction 2V.",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>08:45 from Ascott-Under-Wychwood</li><li>09:00 from Charlbury</li><li>08:00 from Colwall</li><li>09:00 from Combe (Oxon)</li><li>08:31 from Evesham</li><li>09:00 from Finstock</li><li>07:30 from Great Malvern</li><li>09:05 from Hanborough</li><li>07:00 from Hereford</li><li>08:31 from Honeybourne</li><li>08:55 from Kingham</li><li>07:05 from Ledbury</li><li>07:35 from Malvern Link</li><li>08:30 from Moreton-In-Marsh</li><li>08:31 from Pershore</li><li>08:45 from Shipton</li><li>08:00 from Worcester Foregate Street</li><li>08:05 from Worcester Shrub Hill</li><li>08:31 from Worcestershire Parkway</li><li>Not valid on trains timed to arrive at Euston, St Pancras International, Kings Cross, Liverpool Street, Farringdon or City Thameslink before 09:45.</li><li>Not valid on trains timed to arrive at London Marylebone before 10:00</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:\n 08:45 from Ascott-Under-Wychwood\n 09:00 from Charlbury\n 08:00 from Colwall\n 09:00 from Combe (Oxon)\n 08:31 from Evesham\n 09:00 from Finstock\n 07:30 from Great Malvern\n 09:05 from Hanborough\n 07:00 from Hereford\n 08:31 from Honeybourne\n 08:55 from Kingham\n 07:05 from Ledbury\n 07:35 from Malvern Link\n 08:30 from Moreton-In-Marsh\n 08:31 from Pershore\n 08:45 from Shipton\n 08:00 from Worcester Foregate Street\n 08:05 from Worcester Shrub Hill\n 08:31 from Worcestershire Parkway\n Not valid on trains timed to arrive at Euston, St Pancras International, Kings Cross, Liverpool Street, Farringdon or City Thameslink before 09:45.\n Not valid on trains timed to arrive at London Marylebone before 10:00",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:30 or after 16:38 and before 18:31;</li><li>Reading after 04:29 and before 09:30 or after 17:08 and before 19:01.</li></ul>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:30 or after 16:38 and before 18:31;\n Reading after 04:29 and before 09:30 or after 17:08 and before 19:01."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4P": {
+    "code": "4P",
+    "name": "4P",
+    "id": "9B7E192D2F904C9186C5998C178FCA85",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4p",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Restriction codes <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64078.aspx\" title=\"\">2C</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64133.aspx\" title=\"\">9I</a> apply to all journeys via London Euston</p><p>For travel on CrossCountry please use <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62059.aspx\" title=\"\">2V</a></p>",
+    "notesText": "Restriction codes 2C / 9I apply to all journeys via London Euston\n For travel on CrossCountry please use 2V",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p>06:56 from Hereford</p><p>07:11 from Ledbury</p><p>07:24 from Colwall</p><p>07:30 from Great Malvern</p><p>07:35 Malvern Link</p><p>08:00 from Worcester Foregate Street</p><p>08:05 from Worcester Shrub Hill</p><p>08:31 from Worcestershire Parkway</p><p>08:31 from Pershore</p><p>08:30 from Evesham</p><p>08:31 from Honeybourne</p><p>08:30 from Moreton-in-Marsh</p><p>08:55 from Kingham</p><p>08:45 from Shipton</p><p>08:45 from Ascott-under-Wychwood</p><p>09:00 from Charlbury</p><p>09:00 from Finstock</p><p>09:00 from Combe (Oxfordshire)</p><p>09:05 from Hanborough</p><p></p><p></p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:\n 06:56 from Hereford\n 07:11 from Ledbury\n 07:24 from Colwall\n 07:30 from Great Malvern\n 07:35 Malvern Link\n 08:00 from Worcester Foregate Street\n 08:05 from Worcester Shrub Hill\n 08:31 from Worcestershire Parkway\n 08:31 from Pershore\n 08:30 from Evesham\n 08:31 from Honeybourne\n 08:30 from Moreton-in-Marsh\n 08:55 from Kingham\n 08:45 from Shipton\n 08:45 from Ascott-under-Wychwood\n 09:00 from Charlbury\n 09:00 from Finstock\n 09:00 from Combe (Oxfordshire)\n 09:05 from Hanborough",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:12 or after 16:40 and before 18:32;</li><li>Reading after 04:29 and before 09:38 or after 17:03 and before 18:56.</li><li>Didcot after 04:29 and before 09:53</li></ul><p></p><p>Not valid on trains timed to arrive at London Kings Cross, London Liverpool Street, Farringdon or City Thameslink before 09:45.</p><p>Not valid on trains timed to arrive at London St Pancras before 10:05</p><p>Not valid on trains timed to arrive at London Euston before 11:30</p><p>Not valid on trains timed to arrive at London Marylebone before 10:00.</p><p>Not valid to depart from London Paddington after 04:29 and before 09:12 or after 16:40 and before 18:32;</p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 or after 16:40 and before 18:32;\n Reading after 04:29 and before 09:38 or after 17:03 and before 18:56.\n Didcot after 04:29 and before 09:53\n Not valid on trains timed to arrive at London Kings Cross, London Liverpool Street, Farringdon or City Thameslink before 09:45.\n Not valid on trains timed to arrive at London St Pancras before 10:05\n Not valid on trains timed to arrive at London Euston before 11:30\n Not valid on trains timed to arrive at London Marylebone before 10:00.\n Not valid to depart from London Paddington after 04:29 and before 09:12 or after 16:40 and before 18:32;"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4Q": {
+    "code": "4Q",
+    "name": "4Q",
+    "id": "92AEFC4FF1114784AB721040A7D6E37F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4q",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains timed to arrive at London Terminals before 10:00.</p>",
+        "outwardText": "Not valid on trains timed to arrive at London Terminals before 10:00.",
+        "returnHtml": "<p> Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4R": {
+    "code": "4R",
+    "name": "4R",
+    "id": "51A5045D53844A4994A1BF3C9D2BDDA1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4r",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Fridays (except Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Fridays (except Bank Holidays)",
+    "notesHtml": "<p>Overnight Break of Journey, restarting journey from an intermediate station: Outward (on day 2) - outward morning restrictions as above apply from/via the stations shown above. Recommencing from any other station en route that is north of the stations shown above must be on trains timed to depart 09:30 or later.</p>",
+    "notesText": "Overnight Break of Journey, restarting journey from an intermediate station: Outward (on day 2) - outward morning restrictions as above apply from/via the stations shown above. Recommencing from any other station en route that is north of the stations shown above must be on trains timed to depart 09:30 or later.",
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 and after 16:28 and before 18:35;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 10:05 and after 15:34 and before 18:47;</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 and after 15:00 and before 18:45;</li><li><strong>Stevenage</strong> after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);</li><li><strong>Luton</strong> after 02:29 and before 10:25 and after 15:23 and before 19:23;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 10:51 and after 15:08 and before 19:10</li><li><strong>Bedford</strong> after 04:29 and before 10:31<strong>;</strong></li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 and before 09:38 and after 14:38 and before 18:38;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Terminals  (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);\n London Liverpool Street  after 04:29 and before 09:30 and after 16:28 and before 18:35;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International  after 04:29 and before 10:05 and after 15:34 and before 18:47;\n London Euston  after 04:29 and before 09:26 and after 15:00 and before 18:45;\n Stevenage  after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);\n Luton  after 02:29 and before 10:25 and after 15:23 and before 19:23;\n Luton Airport Parkway  after 02:29 and before 10:51 and after 15:08 and before 19:10\n Bedford  after 04:29 and before 10:31 ;\n Watford Junction  after 04:29 and before 09:38 and after 14:38 and before 18:38;\n Milton Keynes Central  after 04:29 and before 09:51.",
+        "returnHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 04:29 and before 11:17;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 11:26;</li><li><strong>London Euston</strong> after 07:19 and before 11:30;</li><li><strong>Stevenage</strong> after 04:29 and before 10:55;</li><li><strong>Luton</strong> after 02:29 and before 11:04;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 11:16;</li><li><strong>Bedford</strong> after 04:29 and before 10:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 06:43 and before 10:48;</li><li><strong>Milton Keynes Central</strong> after 06:38 and before 10:49.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals  (except as shown below) after 04:29 and before 11:17;\n London Liverpool Street  after 04:29 and before 10:00;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International  after 04:29 and before 11:26;\n London Euston  after 07:19 and before 11:30;\n Stevenage  after 04:29 and before 10:55;\n Luton  after 02:29 and before 11:04;\n Luton Airport Parkway  after 02:29 and before 11:16;\n Bedford  after 04:29 and before 10:30 ;\n Watford Junction  after 06:43 and before 10:48;\n Milton Keynes Central  after 06:38 and before 10:49."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4S": {
+    "code": "4S",
+    "name": "4S",
+    "id": "89058ABCB0014684B808E33A0DFC786E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4s",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from London Kings Cross and Stevenage on an evening on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p><p>Usual time restrictions apply to other Train Operator's services and TfL tickets throughout unless advised otherwise.</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from London Kings Cross and Stevenage on an evening on a Friday until further notice. \n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.\n Usual time restrictions apply to other Train Operator's services and TfL tickets throughout unless advised otherwise.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London Terminals</strong> (except as shown below) after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 10:05;</li><li><strong>London Euston</strong> after 04:29 and before 10:05;</li><li><strong>Stevenage</strong> after 03:59 and before 09:57;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 10:04;</li><li><strong>Bedford</strong> after 04:29 and before 09:30;</li><li><strong>Watford Junction</strong> after 04:29 and before 10:20;</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 10:20.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Terminals (except as shown below) after 04:29 and before 10:08;\n London Liverpool Street after 04:29 and before 10:00;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International after 04:29 and before 10:05;\n London Euston after 04:29 and before 10:05;\n Stevenage after 03:59 and before 09:57;\n Luton or Luton Airport Parkway after 04:29 and before 10:04;\n Bedford after 04:29 and before 09:30;\n Watford Junction after 04:29 and before 10:20;\n Milton Keynes Central after 04:29 and before 10:20.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London Terminals</strong> (except as shown below) Mondays to Thursdays after 06:44 and before 07:59 and after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 or after 16:29 and before 18:59;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 08:59 or after 16:34 and before 18:47;</li><li><strong>London Euston</strong> after 04:29 and before 09:05 or after 15:01 and before 18:45;</li><li><strong>Stevenage</strong> Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15;</li><li><strong>Luton</strong> after 04:29 and before 09:01 or after 16:29 and before 18:59;</li><li><strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 or after 16:26 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 09:01;</li><li><strong>Watford Junction</strong> after 04:29 and before 09:00 or after 14:38 and before 18:38;</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 09:00.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Terminals (except as shown below) Mondays to Thursdays after 06:44 and before 07:59 and after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;\n London Liverpool Street after 04:29 and before 09:30 or after 16:29 and before 18:59;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International after 04:29 and before 08:59 or after 16:34 and before 18:47;\n London Euston after 04:29 and before 09:05 or after 15:01 and before 18:45;\n Stevenage Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15;\n Luton after 04:29 and before 09:01 or after 16:29 and before 18:59;\n Luton Airport Parkway after 04:29 and before 09:01 or after 16:26 and before 18:59;\n Bedford after 04:29 and before 09:01;\n Watford Junction after 04:29 and before 09:00 or after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4T": {
+    "code": "4T",
+    "name": "4T",
+    "id": "8D21D74BC18E4EE59F19E0B389EA4809",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4t",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) on Monday to Thursday after 06:44 and before 07:59 and after 15:54 and before 17:46 and Fridays after 06:44 and before 07:59;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 and after 16:29 and before 18:59;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 08:59 and after 16:34 and before 18:47;</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 and after 15:00 and before 18:45;</li><li><strong>Stevenage</strong> on Monday to Thursday after 07:14 and before 08:15 and after 16:17 and before 17:58 and Fridays after 07:14 and before 08:15;</li><li><strong>Luton</strong> after 04:29 and before 09:01 and after 16:26 and before 18:59;</li><li><strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 and after 16:29 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 09:01;</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 and before 09:38 and after 14:38 and before 18:38;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Terminals (except as shown below) on Monday to Thursday after 06:44 and before 07:59 and after 15:54 and before 17:46 and Fridays after 06:44 and before 07:59;\n London Liverpool Street after 04:29 and before 09:30 and after 16:29 and before 18:59;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International after 04:29 and before 08:59 and after 16:34 and before 18:47;\n London Euston after 04:29 and before 09:26 and after 15:00 and before 18:45;\n Stevenage on Monday to Thursday after 07:14 and before 08:15 and after 16:17 and before 17:58 and Fridays after 07:14 and before 08:15;\n Luton after 04:29 and before 09:01 and after 16:26 and before 18:59;\n Luton Airport Parkway after 04:29 and before 09:01 and after 16:29 and before 18:59;\n Bedford after 04:29 and before 09:01;\n Watford Junction after 04:29 and before 09:38 and after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:51.",
+        "returnHtml": "<p>\nNot valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>City Thameslink, Farringdon, London Blackfriars and London St Pancras International</strong> after 04:29 and before 10:05;</li><li><strong>London Euston</strong> after 04:29 and before 10:20;</li><li><strong>Stevenage</strong> after 03:59 and before 09:57;</li><li><strong>Luton</strong> after 04:29 and before 10:04;</li><li><strong>Luton Airport Parkway</strong> after 04:29 and before 10:04;</li><li><strong>Bedford</strong> after 04:29 and before 09:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 04:29 and before 10:20;</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 10:20.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to arrive:\n London Terminals (except as shown below) after 04:29 and before 10:08;\n London Liverpool Street after 04:29 and before 10:00;\n City Thameslink, Farringdon, London Blackfriars and London St Pancras International after 04:29 and before 10:05;\n London Euston after 04:29 and before 10:20;\n Stevenage after 03:59 and before 09:57;\n Luton after 04:29 and before 10:04;\n Luton Airport Parkway after 04:29 and before 10:04;\n Bedford after 04:29 and before 09:30 ;\n Watford Junction after 04:29 and before 10:20;\n Milton Keynes Central after 04:29 and before 10:20."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4U": {
+    "code": "4U",
+    "name": "4U",
+    "id": "7AE44C39572F4F239823FAAC59112BDC",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4u",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p><strong>For Travel from Monday 12 to Thursday 15 August 2024:</strong></p><p>Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>08:44 from Ascott-Under-Wychwood</li><li>08:56 from Bristol Parkway (also valid between 02:00 and 05:30)</li><li>09:00 from Charlbury</li><li>08:00 from Colwall</li><li>09:00 from Combe (Oxon)</li><li>08:31 from Evesham (also valid at 07:51)</li><li>09:00 from Finstock </li><li>07:13 from Great Malvern</li><li>09:05 from Hanborough</li><li>07:00 from Hereford</li><li>08:03 from Honeybourne (also valid at 07:57)</li><li>08:55 from Kingham (also valid at 08:26)</li><li>07:05 from Ledbury</li><li>07:16 from Malvern Link</li><li>08:30 from Moreton-In-Marsh (also valid at 08:23)</li><li>08:25 from Newport (South Wales) (also valid between 02:00 and 05:45) </li><li>08:31 from Pershore (also valid at 06:55)</li><li>08:23 from Shipton</li><li>08:00 from Worcester Foregate Street (also valid at 07:26)</li><li>08:05 from Worcester Shrub Hill (also valid at 07:31)</li><li>08:31 from Worcestershire Parkway (also valid at 07:38)</li><li>Not valid on trains timed to arrive at Euston before 11:30</li><li>Not valid on trains timed to arrive at St Pancras International, Kings Cross, Liverpool Street, Farringdon or City Thameslink before 09:45.</li><li>Not valid on trains timed to arrive at London Marylebone until 10:00</li></ul><p></p>",
+        "outwardText": "For Travel from Monday 12 to Thursday 15 August 2024:\n Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:\n 08:44 from Ascott-Under-Wychwood\n 08:56 from Bristol Parkway (also valid between 02:00 and 05:30)\n 09:00 from Charlbury\n 08:00 from Colwall\n 09:00 from Combe (Oxon)\n 08:31 from Evesham (also valid at 07:51)\n 09:00 from Finstock\n 07:13 from Great Malvern\n 09:05 from Hanborough\n 07:00 from Hereford\n 08:03 from Honeybourne (also valid at 07:57)\n 08:55 from Kingham (also valid at 08:26)\n 07:05 from Ledbury\n 07:16 from Malvern Link\n 08:30 from Moreton-In-Marsh (also valid at 08:23)\n 08:25 from Newport (South Wales) (also valid between 02:00 and 05:45)\n 08:31 from Pershore (also valid at 06:55)\n 08:23 from Shipton\n 08:00 from Worcester Foregate Street (also valid at 07:26)\n 08:05 from Worcester Shrub Hill (also valid at 07:31)\n 08:31 from Worcestershire Parkway (also valid at 07:38)\n Not valid on trains timed to arrive at Euston before 11:30\n Not valid on trains timed to arrive at St Pancras International, Kings Cross, Liverpool Street, Farringdon or City Thameslink before 09:45.\n Not valid on trains timed to arrive at London Marylebone until 10:00",
+        "returnHtml": "<p><strong>For Travel from Monday 12 to Thursday 15 August 2024:</strong></p><p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:30 or after 16:38 and before 18:31 <strong>(also valid on the 08:51 and 17:57 services)</strong>;</li><li>Reading after 04:29 and before 09:30 or after 17:08 and before 19:01 <strong>(also valid on the 09:18 and 18:24 services)</strong>.</li><li>London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45</li></ul><p></p>",
+        "returnText": "For Travel from Monday 12 to Thursday 15 August 2024:\n Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:30 or after 16:38 and before 18:31 (also valid on the 08:51 and 17:57 services) ;\n Reading after 04:29 and before 09:30 or after 17:08 and before 19:01 (also valid on the 09:18 and 18:24 services) .\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4V": {
+    "code": "4V",
+    "name": "4V",
+    "id": "B5C884D3298444188B929372539297F4",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4v",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>GWR Temporary Restriction used during engineering work.</p>",
+    "applicableDaysText": "Monday to Friday\n GWR Temporary Restriction used during engineering work.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p><strong>For Travel from Monday 12 to Thursday 15 August 2024:</strong></p><p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:12 or after 16:40 and before 18:32; (also valid at 08:51 and 17:57)</li><li>Reading after 04:29 and before 09:39 or after 17:04 and before 18:56. (also valid at 09:18 and 18:24)</li><li>Didcot after 04:29 and before 09:53</li><li>London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45</li></ul><p></p>",
+        "outwardText": "For Travel from Monday 12 to Thursday 15 August 2024:\n Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 or after 16:40 and before 18:32; (also valid at 08:51 and 17:57)\n Reading after 04:29 and before 09:39 or after 17:04 and before 18:56. (also valid at 09:18 and 18:24)\n Didcot after 04:29 and before 09:53\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p>06:56 from Hereford</p><p>07:11 from Ledbury</p><p>07:16 from Colwall</p><p>07:13 from Great Malvern</p><p>07:16 Malvern Link</p><p>08:00 from Worcester Foregate Street (also valid at 07:26)</p><p>08:00 from Worcester Shrub Hill (also valid at 07:31)</p><p>08:00 from Worcestershire Parkway (also valid at 07:38)</p><p>08:15 from Pershore (also valid at 07:44)</p><p>08:16 from Evesham (also valid at 07:51)</p><p>08:21 from Honeybourne (also valid at 07:57)</p><p>08:31 from Moreton-in-Marsh (also valid at 08:23)</p><p>08:45 from Kingham (also valid at 08:26)</p><p>09:00 from Shipton</p><p>07:35 from Ascott-under-Wychwood</p><p>08:45 from Charlbury</p><p>09:00 from Finstock</p><p>09:00 from Combe (Oxfordshire)</p><p>09:00 from Hanborough</p><p>Not valid on trains timed to arrive at Euston before 11:30</p><p>Not valid on trains timed to arrive at London St Pancras International, London Kings Cross, London Liverpool Street, Farringdon or City Thameslink before 09:45.</p><p>Not valid on trains timed to arrive at London Marylebone before 10:00.</p><p></p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before the times shown from the following stations:\n 06:56 from Hereford\n 07:11 from Ledbury\n 07:16 from Colwall\n 07:13 from Great Malvern\n 07:16 Malvern Link\n 08:00 from Worcester Foregate Street (also valid at 07:26)\n 08:00 from Worcester Shrub Hill (also valid at 07:31)\n 08:00 from Worcestershire Parkway (also valid at 07:38)\n 08:15 from Pershore (also valid at 07:44)\n 08:16 from Evesham (also valid at 07:51)\n 08:21 from Honeybourne (also valid at 07:57)\n 08:31 from Moreton-in-Marsh (also valid at 08:23)\n 08:45 from Kingham (also valid at 08:26)\n 09:00 from Shipton\n 07:35 from Ascott-under-Wychwood\n 08:45 from Charlbury\n 09:00 from Finstock\n 09:00 from Combe (Oxfordshire)\n 09:00 from Hanborough\n Not valid on trains timed to arrive at Euston before 11:30\n Not valid on trains timed to arrive at London St Pancras International, London Kings Cross, London Liverpool Street, Farringdon or City Thameslink before 09:45.\n Not valid on trains timed to arrive at London Marylebone before 10:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "4W": {
+    "code": "4W",
+    "name": "4W",
+    "id": "3BFB89462806462A9E8501E31A6CA84E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4w",
+    "applicableDaysHtml": null,
+    "applicableDaysText": null,
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Text here</p>",
+        "outwardText": "Text here",
+        "returnHtml": null,
+        "returnText": null
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": false
+  },
+  "4Y": {
+    "code": "4Y",
+    "name": "Chiltern Off-Peak (From London)",
+    "id": "6D062C4EAE0F4F9FAFDF34B7FD2BDFBF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/4y",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Ticket restrictions will be lifted as follows:</p><ul><li>Friday 3rd to Monday 6th April 2026</li><li>Monday 4th May 2026</li><li>Monday 25th May 2026</li><li>Monday 31st August 2026</li><li>Thursday 24th December 2026 to Friday 1st January 2027</li></ul><p></p>",
+    "seasonalVariationsText": "Ticket restrictions will be lifted as follows:\n Friday 3rd to Monday 6th April 2026\n Monday 4th May 2026\n Monday 25th May 2026\n Monday 31st August 2026\n Thursday 24th December 2026 to Friday 1st January 2027",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train timed to depart from London Marylebone after 04:29 and before 08:30.</p><p>Not valid on any train timed to arrive at other London Terminals after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on any train timed to depart from London Marylebone after 04:29 and before 08:30.\n Not valid on any train timed to arrive at other London Terminals after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on any train timed to arrive at London Marylebone after 04:29 and before 10:00.</p><p>Not valid on any train timed to depart from other London Terminals after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on any train timed to arrive at London Marylebone after 04:29 and before 10:00.\n Not valid on any train timed to depart from other London Terminals after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

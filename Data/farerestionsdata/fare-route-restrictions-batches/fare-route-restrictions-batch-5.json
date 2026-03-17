@@ -1,0 +1,502 @@
+{
+  "21": {
+    "code": 21,
+    "name": "GREATER ANG ONLY",
+    "description": "GREATER ANG ONLY",
+    "startDate": "2017-08-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on Greater Anglia services only.",
+    "rspDisplayName": "Valid on Greater Anglia only",
+    "enabledForMapPlotting": true
+  },
+  "22": {
+    "code": 22,
+    "name": "SCOTRAIL ONLY",
+    "description": "SCOTRAIL ONLY",
+    "startDate": "2013-01-31",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on ScotRail services.",
+    "rspDisplayName": "Only valid on ScotRail services",
+    "enabledForMapPlotting": true
+  },
+  "23": {
+    "code": 23,
+    "name": "LNR ONLY",
+    "description": "LNR ONLY",
+    "startDate": "2025-03-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on London Northwestern Railway services.",
+    "rspDisplayName": "Valid on London Northwestern Railway services only",
+    "enabledForMapPlotting": true
+  },
+  "202": {
+    "code": 202,
+    "name": "WATFORD NOT LOND",
+    "description": "WATFORD JUNCTION NOT LONDON",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Watford Junction, not valid via London Terminals.",
+    "rspDisplayName": "Via Watford Junction, not via London",
+    "enabledForMapPlotting": true
+  },
+  "203": {
+    "code": 203,
+    "name": "GWR SLEEPER&GWR",
+    "description": "GWR SLEEPER&GWR",
+    "startDate": "2015-11-03",
+    "endDate": "2999-09-18",
+    "ojpDisplayName": "Only valid on booked Great Western Railway sleeper service and required connecting services.",
+    "rspDisplayName": "Specified sleeper & connections only",
+    "enabledForMapPlotting": true
+  },
+  "204": {
+    "code": 204,
+    "name": "VIA INK",
+    "description": "VIA INK",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Inverkeithing.",
+    "rspDisplayName": "Valid only via Inverkeithing",
+    "enabledForMapPlotting": false
+  },
+  "205": {
+    "code": 205,
+    "name": "CH ONLY INC BZ.",
+    "description": "CHILTERN ONLY INCL BUSINESS ZONE",
+    "startDate": "2026-03-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "206": {
+    "code": 206,
+    "name": "VIA HIGHBURY & I",
+    "description": "VIA HIGHBURY & ISLINGTON (UND)",
+    "startDate": "2011-10-04",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Highbury & Islington.",
+    "rspDisplayName": "Valid only via Highbury & Islington",
+    "enabledForMapPlotting": true
+  },
+  "207": {
+    "code": 207,
+    "name": "SINGLE ON TRAIN",
+    "description": "SINGLE ON TRAIN",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Single On Train",
+    "rspDisplayName": "Single On Train",
+    "enabledForMapPlotting": true
+  },
+  "208": {
+    "code": 208,
+    "name": "NOT UNDERGROUND",
+    "description": "NOT VALID ON UNDERGROUND",
+    "startDate": "2021-12-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel on London Underground services.",
+    "rspDisplayName": "Not valid via London Underground",
+    "enabledForMapPlotting": true
+  },
+  "209": {
+    "code": 209,
+    "name": "VIA INK/KDY",
+    "description": "VIA INK/KDY",
+    "startDate": "2018-11-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Inverkeithing or Kirkcaldy.",
+    "rspDisplayName": "Only via Inverkeithing or Kirkcaldy",
+    "enabledForMapPlotting": false
+  },
+  "210": {
+    "code": 210,
+    "name": "VIA BLETCHLEY",
+    "description": "VIA BLETCHLEY",
+    "startDate": "2024-05-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Bletchley.",
+    "rspDisplayName": "Valid only via Bletchley",
+    "enabledForMapPlotting": true
+  },
+  "211": {
+    "code": 211,
+    "name": "VIA COVENTRY",
+    "description": "VIA COVENTRY",
+    "startDate": "2018-05-15",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Coventry.",
+    "rspDisplayName": "Valid only via Coventry",
+    "enabledForMapPlotting": true
+  },
+  "212": {
+    "code": 212,
+    "name": "VIA LUTON",
+    "description": "VIA LUTON",
+    "startDate": "2024-05-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Luton.",
+    "rspDisplayName": "Valid only via Luton",
+    "enabledForMapPlotting": true
+  },
+  "213": {
+    "code": 213,
+    "name": "VIA BEDFORD",
+    "description": "VIA BEDFORD",
+    "startDate": "2019-01-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Bedford.",
+    "rspDisplayName": "Valid only via Bedford",
+    "enabledForMapPlotting": true
+  },
+  "214": {
+    "code": 214,
+    "name": "VIA LONG BUCKBY",
+    "description": "VIA LONG BUCKBY",
+    "startDate": "2019-01-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Long Buckby.",
+    "rspDisplayName": "Valid only via Long Buckby",
+    "enabledForMapPlotting": true
+  },
+  "215": {
+    "code": 215,
+    "name": "BUSINESS ZONE",
+    "description": "BUSINESS ZONE",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": true
+  },
+  "216": {
+    "code": 216,
+    "name": "TFW ONLY HHD-MAN",
+    "description": "TFW ONLY HHD-MAN",
+    "startDate": "2024-05-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on booked TfW services only",
+    "rspDisplayName": "Valid on booked TfW services only",
+    "enabledForMapPlotting": true
+  },
+  "217": {
+    "code": 217,
+    "name": "TFW ONLY CDF-MAN",
+    "description": "TFW ONLY CDF-MAN",
+    "startDate": "2022-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on booked TfW services only",
+    "rspDisplayName": "Valid on booked TfW services only",
+    "enabledForMapPlotting": true
+  },
+  "218": {
+    "code": 218,
+    "name": "TFW UPG CDF-MAN",
+    "description": "TFW UPG CDF-MAN",
+    "startDate": "2024-08-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on booked TfW services only",
+    "rspDisplayName": "Valid on booked TfW services only",
+    "enabledForMapPlotting": true
+  },
+  "219": {
+    "code": 219,
+    "name": "VIA EDB/STG",
+    "description": "VIA EDB/STG",
+    "startDate": "2018-11-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Edinburgh or Stirling.",
+    "rspDisplayName": "Valid only via Edinburgh or Stirling",
+    "enabledForMapPlotting": false
+  },
+  "220": {
+    "code": 220,
+    "name": "VIA HYM/STG",
+    "description": "VIA HYM/STG",
+    "startDate": "2018-11-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Haymarket or Stirling.",
+    "rspDisplayName": "Valid only via Haymarket or Stirling",
+    "enabledForMapPlotting": false
+  },
+  "221": {
+    "code": 221,
+    "name": "VIA EDINBURGH",
+    "description": "VIA EDINBURGH",
+    "startDate": "2018-11-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Edinburgh.",
+    "rspDisplayName": "Valid only via Edinburgh",
+    "enabledForMapPlotting": false
+  },
+  "222": {
+    "code": 222,
+    "name": "FLEXITIME",
+    "description": "FLEXITIME",
+    "startDate": "2000-04-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Flexitime Season - specific time restrictions apply. Check details.",
+    "rspDisplayName": "Flexitime",
+    "enabledForMapPlotting": true
+  },
+  "223": {
+    "code": 223,
+    "name": "ECTL & GWR ONLY",
+    "description": "ECTL & GWR ONLY",
+    "startDate": "2021-07-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo and GWR services.",
+    "rspDisplayName": "Lumo and GWR services only",
+    "enabledForMapPlotting": false
+  },
+  "224": {
+    "code": 224,
+    "name": "VIA YORK/HULL",
+    "description": "VIA YORK/HULL",
+    "startDate": "2021-09-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) York or Hull",
+    "rspDisplayName": "Valid only via York or Hull",
+    "enabledForMapPlotting": false
+  },
+  "225": {
+    "code": 225,
+    "name": "VIA TGM X5/X22",
+    "description": "VIA TGM X5/X22",
+    "startDate": "2011-05-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the Teignmouth X5 or X22 bus service.",
+    "rspDisplayName": "Via Teignmouth X5 or X22 bus service",
+    "enabledForMapPlotting": true
+  },
+  "226": {
+    "code": 226,
+    "name": "NOT LONDN/EBBSFT",
+    "description": "NOT LONDN/EBBSFT",
+    "startDate": "2023-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) London Terminals or Ebbsfleet.",
+    "rspDisplayName": "Not via London Terminals or Ebbsfleet",
+    "enabledForMapPlotting": false
+  },
+  "227": {
+    "code": 227,
+    "name": "FIRST MANCHESTER",
+    "description": "FIRST MANCHESTER",
+    "startDate": "2017-01-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Via First Manchester",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "228": {
+    "code": 228,
+    "name": "FIRST LEEDS",
+    "description": "FIRST LEEDS",
+    "startDate": "2017-01-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Via First Leeds",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "229": {
+    "code": 229,
+    "name": "FIRST SHEFFIELD",
+    "description": "FIRST SHEFFIELD",
+    "startDate": "2017-01-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Via First Sheffield",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "230": {
+    "code": 230,
+    "name": "VIA EAGLESCLIFFE",
+    "description": "VIA EAGLESCLIFFE",
+    "startDate": "2018-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Eaglescliffe.",
+    "rspDisplayName": "Valid only via Eaglescliffe",
+    "enabledForMapPlotting": false
+  },
+  "231": {
+    "code": 231,
+    "name": "NOT EDINBURGH",
+    "description": "NOT EDINBURGH",
+    "startDate": "2018-11-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Edinburgh.",
+    "rspDisplayName": "Not valid via Edinburgh",
+    "enabledForMapPlotting": false
+  },
+  "232": {
+    "code": 232,
+    "name": "NOT VIA EDB/NCL",
+    "description": "NOT VIA EDB/NCL",
+    "startDate": "2018-11-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Edinburgh or Newcastle.",
+    "rspDisplayName": "Not valid via Edinburgh or Newcastle",
+    "enabledForMapPlotting": false
+  },
+  "2015": {
+    "code": 2015,
+    "name": "HULL&SOUTHEASTWU",
+    "description": "HULL&SOUTHEASTWU",
+    "startDate": "2023-03-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Southeastern services.",
+    "rspDisplayName": "Hull Trains and Southeastern services only",
+    "enabledForMapPlotting": true
+  },
+  "2017": {
+    "code": 2017,
+    "name": "AP LUMO & XC",
+    "description": "AP LUMO & XC",
+    "startDate": "2023-09-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2018": {
+    "code": 2018,
+    "name": "NWM CORP SCHEME",
+    "description": "NWM CORP SCHEME",
+    "startDate": "2015-01-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Nwm Corp Scheme",
+    "rspDisplayName": "Nwm Corp Scheme",
+    "enabledForMapPlotting": true
+  },
+  "2019": {
+    "code": 2019,
+    "name": "LUMO & XC ONLY",
+    "description": "LUMO & XC ONLY",
+    "startDate": "2023-09-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2020": {
+    "code": 2020,
+    "name": "AP LUMO & GWR",
+    "description": "AP LUMO & GWR",
+    "startDate": "2023-02-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2021": {
+    "code": 2021,
+    "name": "LUMO & GWR",
+    "description": "LUMO & GWR",
+    "startDate": "2023-02-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2022": {
+    "code": 2022,
+    "name": "AP LUMO & GTR",
+    "description": "AP LUMO & GTR",
+    "startDate": "2023-01-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2023": {
+    "code": 2023,
+    "name": "LUMO & GTR",
+    "description": "LUMO & GTR",
+    "startDate": "2023-01-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2024": {
+    "code": 2024,
+    "name": "AP LUMO & SOUTHE",
+    "description": "AP LUMO & SOUTHEASTERN",
+    "startDate": "2023-02-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2025": {
+    "code": 2025,
+    "name": "LUMO & SOUTHEAST",
+    "description": "LUMO & SOUTHEASTERN",
+    "startDate": "2023-02-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2026": {
+    "code": 2026,
+    "name": "AP LUMO & GA",
+    "description": "LUMO & GA AP",
+    "startDate": "2023-07-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2027": {
+    "code": 2027,
+    "name": "LUMO & GA ONLY",
+    "description": "LUMO & GA ONLY",
+    "startDate": "2023-07-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2028": {
+    "code": 2028,
+    "name": "LUMO & NRTH AP",
+    "description": "LUMO & NORTHERN AP",
+    "startDate": "2025-03-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2029": {
+    "code": 2029,
+    "name": "LUMO & NRTH ONLY",
+    "description": "LUMO & NORTHERN ONLY",
+    "startDate": "2025-03-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "2030": {
+    "code": 2030,
+    "name": "AP LNR&NTHN ONLY",
+    "description": "AP LNR & NORTHERN ONLY",
+    "startDate": "2025-03-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked London Northwestern Railway and Northern services.",
+    "rspDisplayName": "Specified LNR & Northern services only",
+    "enabledForMapPlotting": true
+  },
+  "2052": {
+    "code": 2052,
+    "name": "PLUSBUS OFFER",
+    "description": "PLUSBUS OFFER",
+    "startDate": "2010-04-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Plusbus Offer",
+    "rspDisplayName": "Plusbus Offer",
+    "enabledForMapPlotting": true
+  }
+}

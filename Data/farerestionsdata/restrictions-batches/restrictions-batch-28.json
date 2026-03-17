@@ -1,0 +1,522 @@
+{
+  "VY": {
+    "code": "VY",
+    "name": "VY",
+    "id": "99F7ED36ED8F4153BCDD7E2BB6ABA518",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/vy",
+    "applicableDaysHtml": "<p>Saturday</p><br /><p>Saturdays only</p>",
+    "applicableDaysText": "Saturday\n Saturdays only",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid only on the Avanti West Coast service on the date and time specified on the ticket.</p>",
+        "outwardText": "Valid only on the Avanti West Coast service on the date and time specified on the ticket.",
+        "returnHtml": "<p>Valid only on any Avanti West Coast service on the date specified on the ticket.</p>",
+        "returnText": "Valid only on any Avanti West Coast service on the date specified on the ticket."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W0": {
+    "code": "W0",
+    "name": "W0",
+    "id": "D0A1F8454D0946CD9895E506A795EBC8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w0",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 06:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 06:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 06:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W1": {
+    "code": "W1",
+    "name": "W1",
+    "id": "0C53D02FC5FF4D4587BE29B3D8FFBFDB",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w1",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W2": {
+    "code": "W2",
+    "name": "W2",
+    "id": "CF8DF00C4605479480796E2ADF5BAC54",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w2",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:15."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W3": {
+    "code": "W3",
+    "name": "W3",
+    "id": "512BD7019F12428AA6E14DF64EA4B0B6",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w3",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W4": {
+    "code": "W4",
+    "name": "W4",
+    "id": "B6A91CACC1F44BA2A19EB1B53CBD7966",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w4",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Outward Travel  </p><p>Not valid on trains timed to depart after 04:29 and before 08:44.</p>",
+        "outwardText": "Outward Travel\n Not valid on trains timed to depart after 04:29 and before 08:44.",
+        "returnHtml": "<p>Return Travel  </p><p>Not valid on trains timed to depart after 04:29 and before 08:44.</p>",
+        "returnText": "Return Travel\n Not valid on trains timed to depart after 04:29 and before 08:44."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W5": {
+    "code": "W5",
+    "name": "W5",
+    "id": "470024C2C1424296A68DB85E173448EA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w5",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W6": {
+    "code": "W6",
+    "name": "W6",
+    "id": "1B7489CAFF07444CA9079E5D287AD856",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:15."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W7": {
+    "code": "W7",
+    "name": "W7",
+    "id": "2703E295D17343B8BE209FE84CD78679",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w7",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W8": {
+    "code": "W8",
+    "name": "W8",
+    "id": "E66EF33A30B24B888226302D229F6310",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w8",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:45.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:45."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "W9": {
+    "code": "W9",
+    "name": "W9",
+    "id": "CCD8669CE0CD4A87BEA168EBF5335D5C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/w9",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WA": {
+    "code": "WA",
+    "name": "WA",
+    "id": "9FE790C984BB4CFD98111BC3FA971FA1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wa",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Not valid on trains timed to depart after 04:29 and before 09:10</li></ul>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:10",
+        "returnHtml": "<ul><li>Not valid on trains timed to depart after 04:29 and before 09:10</li></ul>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:10"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WB": {
+    "code": "WB",
+    "name": "WB",
+    "id": "3D332FC3211E4E588C367CF2C921645C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wb",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Sunday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Sunday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on West Midlands Railway/London Northwestern Railway services only.</p><p>This code is applied to a temporary single ticket called Anytime Advance available for sale up to 3 days before travel and which can be used at anytime for the date and journey shown on the ticket.</p>",
+        "outwardText": "Valid on West Midlands Railway/London Northwestern Railway services only.\n This code is applied to a temporary single ticket called Anytime Advance available for sale up to 3 days before travel and which can be used at anytime for the date and journey shown on the ticket.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WC": {
+    "code": "WC",
+    "name": "WC",
+    "id": "35A8B734F5D44BDAB10D8EC14F3F861D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:20.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:20.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:20.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:20."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WG": {
+    "code": "WG",
+    "name": "WG",
+    "id": "E1982667B4604B528F5396AFC05D730E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.</p>",
+    "notesText": "Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:33, unless travel is from a station listed below, where tickets are valid on all services timed to depart from time shown: </p><ul><li>09:30 from Avoncliff</li><li>09:30 from Avonmouth</li><li>08:30 from Barnstaple</li><li>09:00 from Bath Spa</li><li>09:15 from Bedminster</li><li>08:15 from Bradford-on-Avon</li><li>08:25 from Bridgwater​​​​​​​</li><li>09:11 from Bristol Parkway</li><li>08:30 from Bruton</li><li>08:30 from Bugle</li><li>09:00 from Camborne</li><li>08:38 from Castle Cary</li><li>08:30 from Chapleton</li><li>08:50 from Cheltenham Spa</li><li>08:50 from Chippenham</li><li>08:05 from Clifton Down</li><li>09:00 from Colwall</li><li>08:30 from Coombe Junction Halt</li><li>08:30 from Copplestone</li><li>08:15 from Crediton</li><li>08:30 from Crewkerne</li><li>09:00 from Dawlish</li><li>08:45 from Dawlish Warren</li><li>08:30 from Dean</li><li>08:30 from Devonport</li><li>08:11 from Digby and Sowton</li><li>08:30 from Dilton Marsh</li><li>08:30 from Dockyard (Devonport)</li><li>09:00 from Dorchester West</li><li>08:30 from Eggesford</li><li>08:20 from Exeter Central</li><li>08:41 from Exeter St Davids</li><li>08:50 from Exeter St Thomas</li><li>07:50 from Exmouth</li><li>08:00 from Exton</li><li>08:11 from Falmouth Docks</li><li>08:11 from Falmouth Town</li><li>09:30 from Filton Abbey Wood</li><li>09:00 from Freshford</li><li>08:30 from Frome</li><li>08:45 from Great Malvern</li><li>09:00 from Gunnislake</li><li>08:45 from Hayle</li><li>08:00 from Highbridge and Burnham</li><li>08:45 from Ivybridge</li><li>09:05 from Kemble</li><li>08:30 from Keyham</li><li>08:30 from Kings Nympton</li><li>08:30 from Lapford</li><li>08:15 from Lawrence Hill</li><li>08:45 from Ledbury</li><li>07:56 from Lympstone Commando</li><li>07:56 from Lympstone Village</li><li>08:45 from Malvern Link</li><li>08:10 from Menheniot</li><li>08:10 from Montpelier</li><li>08:28 from Nailsea and Backwell</li><li>08:25 from Newton Abbot</li><li>08:00 from Newton St Cyres</li><li>09:00 from Par</li><li>08:26 from Penryn</li><li>09:00 from Pewsey</li><li>09:00 from Plymouth</li><li>08:15 from Polsloe Bridge</li><li>08:06 from Redland</li><li>09:00 from Redruth</li><li>08:10 from Saltash</li><li>08:00 from Sea Mills</li><li>07:40 from Severn Beach</li><li>07:55 from Shirehampton</li><li>​​​​​​​07:45 from St Andrews Road</li><li>09:11 from St Austell</li><li>08:32 from St Budeaux Ferry Road</li><li>08:15 from St Germans</li><li>08:20 from St James Park (Exeter)</li><li>08:10 from Stapleton Road</li><li>09:20 from Swindon​​​​​​​</li><li>08:30 from Taunton</li><li>08:30 from Tiverton Parkway</li><li>08:05 from Topsham</li><li>08:20 from Westbury</li><li>08:20 from Weston-super-Mare</li><li>08:05 from Worcester Shrub Hill</li><li>08:05 from Worcestershire Parkway​​​​​​​</li></ul><p>Not valid on trains timed to arrive at Bath Spa before 09:13</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:33, unless travel is from a station listed below, where tickets are valid on all services timed to depart from time shown: \n 09:30 from Avoncliff\n 09:30 from Avonmouth\n 08:30 from Barnstaple\n 09:00 from Bath Spa\n 09:15 from Bedminster\n 08:15 from Bradford-on-Avon\n 08:25 from Bridgwater​​​​​​​\n 09:11 from Bristol Parkway\n 08:30 from Bruton\n 08:30 from Bugle\n 09:00 from Camborne\n 08:38 from Castle Cary\n 08:30 from Chapleton\n 08:50 from Cheltenham Spa\n 08:50 from Chippenham\n 08:05 from Clifton Down\n 09:00 from Colwall\n 08:30 from Coombe Junction Halt\n 08:30 from Copplestone\n 08:15 from Crediton\n 08:30 from Crewkerne\n 09:00 from Dawlish\n 08:45 from Dawlish Warren\n 08:30 from Dean\n 08:30 from Devonport\n 08:11 from Digby and Sowton\n 08:30 from Dilton Marsh\n 08:30 from Dockyard (Devonport)\n 09:00 from Dorchester West\n 08:30 from Eggesford\n 08:20 from Exeter Central\n 08:41 from Exeter St Davids\n 08:50 from Exeter St Thomas\n 07:50 from Exmouth\n 08:00 from Exton\n 08:11 from Falmouth Docks\n 08:11 from Falmouth Town\n 09:30 from Filton Abbey Wood\n 09:00 from Freshford\n 08:30 from Frome\n 08:45 from Great Malvern\n 09:00 from Gunnislake\n 08:45 from Hayle\n 08:00 from Highbridge and Burnham\n 08:45 from Ivybridge\n 09:05 from Kemble\n 08:30 from Keyham\n 08:30 from Kings Nympton\n 08:30 from Lapford\n 08:15 from Lawrence Hill\n 08:45 from Ledbury\n 07:56 from Lympstone Commando\n 07:56 from Lympstone Village\n 08:45 from Malvern Link\n 08:10 from Menheniot\n 08:10 from Montpelier\n 08:28 from Nailsea and Backwell\n 08:25 from Newton Abbot\n 08:00 from Newton St Cyres\n 09:00 from Par\n 08:26 from Penryn\n 09:00 from Pewsey\n 09:00 from Plymouth\n 08:15 from Polsloe Bridge\n 08:06 from Redland\n 09:00 from Redruth\n 08:10 from Saltash\n 08:00 from Sea Mills\n 07:40 from Severn Beach\n 07:55 from Shirehampton\n ​​​​​​​07:45 from St Andrews Road\n 09:11 from St Austell\n 08:32 from St Budeaux Ferry Road\n 08:15 from St Germans\n 08:20 from St James Park (Exeter)\n 08:10 from Stapleton Road\n 09:20 from Swindon​​​​​​​\n 08:30 from Taunton\n 08:30 from Tiverton Parkway\n 08:05 from Topsham\n 08:20 from Westbury\n 08:20 from Weston-super-Mare\n 08:05 from Worcester Shrub Hill\n 08:05 from Worcestershire Parkway​​​​​​​\n Not valid on trains timed to arrive at Bath Spa before 09:13",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:33, unless travel is from a station listed below, where tickets are valid on all services timed to depart from time shown: </p><ul><li>09:30 from Avoncliff</li><li>09:30 from Avonmouth</li><li>08:30 from Barnstaple</li><li>09:13 from Bath Spa</li><li>09:15 from Bedminster</li><li>08:15 from Bradford-on-Avon</li><li>08:25 from Bridgwater​​​​​​​</li><li>09:11 from Bristol Parkway</li><li>08:30 from Bruton</li><li>08:30 from Bugle</li><li>09:00 from Camborne</li><li>08:38 from Castle Cary</li><li>08:30 from Chapleton</li><li>08:50 from Cheltenham Spa</li><li>08:50 from Chippenham</li><li>08:05 from Clifton Down</li><li>09:00 from Colwall</li><li>08:30 from Coombe Junction Halt</li><li>08:30 from Copplestone</li><li>08:15 from Crediton</li><li>08:30 from Crewkerne</li><li>09:00 from Dawlish</li><li>08:45 from Dawlish Warren</li><li>08:30 from Dean</li><li>08:30 from Devonport</li><li>08:11 from Digby and Sowton</li><li>08:30 from Dilton Marsh</li><li>08:30 from Dockyard (Devonport)</li><li>09:00 from Dorchester West</li><li>08:30 from Eggesford</li><li>08:20 from Exeter Central</li><li>08:41 from Exeter St Davids</li><li>08:50 from Exeter St Thomas</li><li>07:50 from Exmouth</li><li>08:00 from Exton</li><li>08:11 from Falmouth Docks</li><li>08:11 from Falmouth Town</li><li>09:30 from Filton Abbey Wood</li><li>09:00 from Freshford</li><li>08:30 from Frome</li><li>08:45 from Great Malvern</li><li>09:00 from Gunnislake</li><li>08:45 from Hayle</li><li>08:00 from Highbridge and Burnham</li><li>08:45 from Ivybridge</li><li>09:05 from Kemble</li><li>08:30 from Keyham</li><li>08:30 from Kings Nympton</li><li>08:30 from Lapford</li><li>08:15 from Lawrence Hill</li><li>08:45 from Ledbury</li><li>07:56 from Lympstone Commando</li><li>07:56 from Lympstone Village</li><li>08:45 from Malvern Link</li><li>08:10 from Menheniot</li><li>08:10 from Montpelier</li><li>08:28 from Nailsea and Backwell</li><li>08:25 from Newton Abbot</li><li>08:00 from Newton St Cyres</li><li>09:00 from Par</li><li>08:26 from Penryn</li><li>09:00 from Pewsey</li><li>09:00 from Plymouth</li><li>08:15 from Polsloe Bridge</li><li>08:06 from Redland</li><li>09:00 from Redruth</li><li>08:10 from Saltash</li><li>08:00 from Sea Mills</li><li>07:40 from Severn Beach</li><li>07:55 from Shirehampton</li><li>​​​​​​​07:45 from St Andrews Road</li><li>09:11 from St Austell</li><li>08:32 from St Budeaux Ferry Road</li><li>08:15 from St Germans</li><li>08:20 from St James Park (Exeter)</li><li>08:10 from Stapleton Road</li><li>09:20 from Swindon​​​​​​​</li><li>08:30 from Taunton</li><li>08:30 from Tiverton Parkway</li><li>08:05 from Topsham</li><li>08:20 from Westbury</li><li>08:20 from Weston-super-Mare</li><li>08:05 from Worcester Shrub Hill</li><li>08:05 from Worcestershire Parkway​​​​​​​</li></ul><p>Not valid on trains timed to arrive at Bath Spa before 09:13</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:33, unless travel is from a station listed below, where tickets are valid on all services timed to depart from time shown: \n 09:30 from Avoncliff\n 09:30 from Avonmouth\n 08:30 from Barnstaple\n 09:13 from Bath Spa\n 09:15 from Bedminster\n 08:15 from Bradford-on-Avon\n 08:25 from Bridgwater​​​​​​​\n 09:11 from Bristol Parkway\n 08:30 from Bruton\n 08:30 from Bugle\n 09:00 from Camborne\n 08:38 from Castle Cary\n 08:30 from Chapleton\n 08:50 from Cheltenham Spa\n 08:50 from Chippenham\n 08:05 from Clifton Down\n 09:00 from Colwall\n 08:30 from Coombe Junction Halt\n 08:30 from Copplestone\n 08:15 from Crediton\n 08:30 from Crewkerne\n 09:00 from Dawlish\n 08:45 from Dawlish Warren\n 08:30 from Dean\n 08:30 from Devonport\n 08:11 from Digby and Sowton\n 08:30 from Dilton Marsh\n 08:30 from Dockyard (Devonport)\n 09:00 from Dorchester West\n 08:30 from Eggesford\n 08:20 from Exeter Central\n 08:41 from Exeter St Davids\n 08:50 from Exeter St Thomas\n 07:50 from Exmouth\n 08:00 from Exton\n 08:11 from Falmouth Docks\n 08:11 from Falmouth Town\n 09:30 from Filton Abbey Wood\n 09:00 from Freshford\n 08:30 from Frome\n 08:45 from Great Malvern\n 09:00 from Gunnislake\n 08:45 from Hayle\n 08:00 from Highbridge and Burnham\n 08:45 from Ivybridge\n 09:05 from Kemble\n 08:30 from Keyham\n 08:30 from Kings Nympton\n 08:30 from Lapford\n 08:15 from Lawrence Hill\n 08:45 from Ledbury\n 07:56 from Lympstone Commando\n 07:56 from Lympstone Village\n 08:45 from Malvern Link\n 08:10 from Menheniot\n 08:10 from Montpelier\n 08:28 from Nailsea and Backwell\n 08:25 from Newton Abbot\n 08:00 from Newton St Cyres\n 09:00 from Par\n 08:26 from Penryn\n 09:00 from Pewsey\n 09:00 from Plymouth\n 08:15 from Polsloe Bridge\n 08:06 from Redland\n 09:00 from Redruth\n 08:10 from Saltash\n 08:00 from Sea Mills\n 07:40 from Severn Beach\n 07:55 from Shirehampton\n ​​​​​​​07:45 from St Andrews Road\n 09:11 from St Austell\n 08:32 from St Budeaux Ferry Road\n 08:15 from St Germans\n 08:20 from St James Park (Exeter)\n 08:10 from Stapleton Road\n 09:20 from Swindon​​​​​​​\n 08:30 from Taunton\n 08:30 from Tiverton Parkway\n 08:05 from Topsham\n 08:20 from Westbury\n 08:20 from Weston-super-Mare\n 08:05 from Worcester Shrub Hill\n 08:05 from Worcestershire Parkway​​​​​​​\n Not valid on trains timed to arrive at Bath Spa before 09:13"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WH": {
+    "code": "WH",
+    "name": "WH",
+    "id": "4CC0667FCDEB49F6BA05CB87ABED9071",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wh",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64187.aspx\" title=\"\">WO</a> applies to all journeys via Newbury or Didcot Parkway, not passing through Reading.</p><p>Restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64154.aspx\" title=\"\">Q8</a> applies to all journeys via Fareham / Southampton / Salisbury.</p><p>Restriction codes <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64127.aspx\" title=\"\">7E</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64136.aspx\" title=\"\">9J</a> apply to all journeys via L</p>",
+    "notesText": "Restriction code WO applies to all journeys via Newbury or Didcot Parkway, not passing through Reading.\n Restriction code Q8 applies to all journeys via Fareham / Southampton / Salisbury.\n Restriction codes 7E / 9J apply to all journeys via L",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>06:01 from Carmarthen;</li><li>08:35 from Fareham;</li><li>06:46 from Ferryside;</li><li>07:15 from Gowerton</li><li>06:46 from Kidwelly</li><li>07:10 from Llanelli</li><li>07:05 from Pembrey & Burry Port;</li><li>08:50 from Salisbury;</li><li>08:50 from Southampton Central;</li><li>07:15 from Swansea</li></ul><p>Not valid on trains timed to arrive at Waterloo before 09:52. </p><p>Not valid on trains timed to arrive at St Pancras before 10:05.</p><p>​​​​​​​</p>",
+        "outwardText": "Not valid on trains timed to depart:\n Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 06:01 from Carmarthen;\n 08:35 from Fareham;\n 06:46 from Ferryside;\n 07:15 from Gowerton\n 06:46 from Kidwelly\n 07:10 from Llanelli\n 07:05 from Pembrey & Burry Port;\n 08:50 from Salisbury;\n 08:50 from Southampton Central;\n 07:15 from Swansea\n Not valid on trains timed to arrive at Waterloo before 09:52.\n Not valid on trains timed to arrive at St Pancras before 10:05.\n ​​​​​​​",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:12 and after 16:40 and before 18:32.</li><li>Reading after 04:29 and before 09:38 and after 17:03 and before 18:56.</li><li>London Waterloo after 04:29 and before 08:15.</li><li>Clapham Junction after 04:29 and before 08:20.</li><li>London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59</li></ul><p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>09:30 from Didcot Parkway</li><li>08:35 from Fareham</li><li>08:39 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton</li></ul><p>Not valid to arrive at St Pancras before 10:05</p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 and after 16:40 and before 18:32.\n Reading after 04:29 and before 09:38 and after 17:03 and before 18:56.\n London Waterloo after 04:29 and before 08:15.\n Clapham Junction after 04:29 and before 08:20.\n London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59\n Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 09:30 from Didcot Parkway\n 08:35 from Fareham\n 08:39 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton\n Not valid to arrive at St Pancras before 10:05"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WM": {
+    "code": "WM",
+    "name": "Chiltern Off-Peak (From West Midlands)",
+    "id": "76A3EE6812C9457186C9767AAA29244E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wm",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Ticket restrictions will be lifted as follows:</p><ul><li>Friday 3rd to Monday 6th April 2026</li><li>Monday 4th May 2026</li><li>Monday 25th May 2026</li><li>Monday 31st August 2026</li><li>Thursday 24th December 2026 to Friday 1st January 2027</li></ul><p>Off-Peak Day Travelcards and Family Travelcards are only valid on Transport for London services from 09:30 Mondays to Fridays. They are valid at any time at weekends and on public holidays.</p>",
+    "seasonalVariationsText": "Ticket restrictions will be lifted as follows:\n Friday 3rd to Monday 6th April 2026\n Monday 4th May 2026\n Monday 25th May 2026\n Monday 31st August 2026\n Thursday 24th December 2026 to Friday 1st January 2027\n Off-Peak Day Travelcards and Family Travelcards are only valid on Transport for London services from 09:30 Mondays to Fridays. They are valid at any time at weekends and on public holidays.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train timed to arrive at London Marylebone or London Paddington after 04:29 and before 10:00.</p>",
+        "outwardText": "Not valid on any train timed to arrive at London Marylebone or London Paddington after 04:29 and before 10:00.",
+        "returnHtml": "<p>No restriction from London Marylebone.</p><p>Not valid on any Great Western Railway services timed to depart London Paddington between 16:00 and 19:00.</p>",
+        "returnText": "No restriction from London Marylebone.\n Not valid on any Great Western Railway services timed to depart London Paddington between 16:00 and 19:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WN": {
+    "code": "WN",
+    "name": "WN",
+    "id": "B7B13C05D2FA4689A6A9344ACD2A728D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wn",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Super Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.</p><p>Restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64266.aspx\" title=\"\">2W</a> applies to all journeys via Newbury or Didcot Parkway, not passing through Reading.Restriction code<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64154.aspx\" title=\"\">Q8</a> applies to all journeys via Fareham / Southampton / Salisbury.Restriction codes<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/63018.aspx\" title=\"\">CI</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/CJ.aspx\" title=\"\">CJ</a> apply to all journeys via London St Pancras International.Restriction codes<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64078.aspx\" title=\"\">2C</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64133.aspx\" title=\"\">9I</a> apply to all journeys via London Euston.</p>",
+    "notesText": "Super Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.\n Restriction code 2W applies to all journeys via Newbury or Didcot Parkway, not passing through Reading.Restriction code Q8 applies to all journeys via Fareham / Southampton / Salisbury.Restriction codes CI / CJ apply to all journeys via London St Pancras International.Restriction codes 2C / 9I apply to all journeys via London Euston.",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>07:45 (also <strong>not</strong> valid between 04:00 and 04:29) from Carmarthen;</li><li>08:00 from Ferryside;</li><li>08:31 from Gowerton</li><li>07:16 from Haverfordwest;</li><li>08:00 from Kidwelly;</li><li>08:15 from Llanelli</li><li>08:05 from Pembrey & Burry Port;</li><li>08:35 from Swansea</li><li>07:36 from Whitland;​​​​​​​</li></ul><p>Not valid on trains timed to arrive at Waterloo before 11:48.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 07:45 (also not valid between 04:00 and 04:29) from Carmarthen;\n 08:00 from Ferryside;\n 08:31 from Gowerton\n 07:16 from Haverfordwest;\n 08:00 from Kidwelly;\n 08:15 from Llanelli\n 08:05 from Pembrey & Burry Port;\n 08:35 from Swansea\n 07:36 from Whitland;​​​​​​​\n Not valid on trains timed to arrive at Waterloo before 11:48.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:01 and before 19:01;</li><li>Reading after 04:29 and before 10:30 and after 15:29 and before 19:01;</li><li>London Waterloo after 04:29 and before 08:20 and after 15:59 and before 19:01;</li><li>Clapham Junction after 15:59 and before 19:01.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 10:10 and after 15:01 and before 19:01;\n Reading after 04:29 and before 10:30 and after 15:29 and before 19:01;\n London Waterloo after 04:29 and before 08:20 and after 15:59 and before 19:01;\n Clapham Junction after 15:59 and before 19:01."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WO": {
+    "code": "WO",
+    "name": "WO",
+    "id": "CF32255B69B3481CBD5B17B5D304082D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wo",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.</p>",
+    "notesText": "Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Eastbound Travel",
+    "returnDirection": "Westbound Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p><strong>​​​​​​Travel from Wales</strong></p><ul><li>09:31 from Abergavenny</li><li>07:45 from Bridgend (also valid between 04:30 and 05:00);</li><li>08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);</li><li>07:15 from Carmarthen</li><li>07:15 from Chepstow;</li><li>08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);</li><li>08:30 from Llandaf (also valid between 04:30 and 05:45);</li><li>08:20 from Llanelli (also valid between 04:30 and 05:45);</li><li>08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);</li><li>07:25 from Neath</li><li>08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);</li><li>07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);</li><li>08:30 from Porth (also valid between 04:30 and 05:45);</li><li>08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);</li><li>07:15 from Swansea</li><li>08:15 from Whitland (also valid between 04:30 and 05:45);</li></ul><p>Travel from England</p><ul><li>07:42 from Ashchurch;</li><li>09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:30 from Bath Spa;</li><li>10:30 from Birmingham New Street;</li><li>08:00 from Bodmin Parkway;</li><li>07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:15 from Bridgwater;</li><li>08:45 from Bristol Parkway (also valid between 04:30 and 05:30);</li><li>08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);</li><li>05:40 from Camborne;</li><li>08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>09:20 from Chippenham;</li><li>07:35 from Dawlish;</li><li>09:30 from Didcot Parkway;</li><li>07:50 from Exeter St Davids;</li><li>08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:00 from Frome;</li><li>08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>05:40 from Hayle;</li><li>07:15 from Highbridge;</li><li>07:20 from Ivybridge;</li><li>09:05 from Kemble;</li><li>07:00 from Liskeard;</li><li>06:40 from Lostwithiel;</li><li>07:05 from Menheniot;</li><li>08:00 from Nailsea & Backwell;</li><li>09:15 from Newbury;</li><li>08:00 from Newton Abbot;</li><li>09:00 from Oxford;</li><li>07:30 from Paignton;</li><li>06:30 from Par;</li><li>05:30 from Penzance;</li><li>09:00 from Pewsey;</li><li>07:35 from Plymouth;</li><li>09:00 from Reading;</li><li>05:55 from Redruth;</li><li>07:15 from Saltash;</li><li>06:25 from St Austell;</li><li>05:35 from St Erth;</li><li>07:21 from St Germans;</li><li>08:45 from Stonehouse;</li><li>08:50 from Stroud;</li><li>09:15 from Swindon (also valid between 04:30 and 05:45);</li><li>08:40 from Taunton;</li><li>07:35 from Teignmouth;</li><li>08:30 from Tiverton Parkway;</li><li>07:35 from Torquay;</li><li>07:40 from Torre;</li><li>08:00 from Totnes;</li><li>07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>06:05 from Truro</li><li>07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:45 from Weston Milton;</li><li>07:35 from Weston-Super-Mare;</li><li>07:32 from Worcester Shrub Hill;</li><li>07:50 from Worle;</li><li>07:55 from Yatton.</li></ul><p>Not valid to arrive at Birmingham New Street before 10:15;</p><p>Not valid to arrive at Bristol Temple Meads before 08:48.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n ​​​​​​Travel from Wales\n 09:31 from Abergavenny\n 07:45 from Bridgend (also valid between 04:30 and 05:00);\n 08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);\n 07:15 from Carmarthen\n 07:15 from Chepstow;\n 08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);\n 08:30 from Llandaf (also valid between 04:30 and 05:45);\n 08:20 from Llanelli (also valid between 04:30 and 05:45);\n 08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);\n 07:25 from Neath\n 08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);\n 07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);\n 08:30 from Porth (also valid between 04:30 and 05:45);\n 08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);\n 07:15 from Swansea\n 08:15 from Whitland (also valid between 04:30 and 05:45);\n Travel from England\n 07:42 from Ashchurch;\n 09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:30 from Bath Spa;\n 10:30 from Birmingham New Street;\n 08:00 from Bodmin Parkway;\n 07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:15 from Bridgwater;\n 08:45 from Bristol Parkway (also valid between 04:30 and 05:30);\n 08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);\n 05:40 from Camborne;\n 08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 09:20 from Chippenham;\n 07:35 from Dawlish;\n 09:30 from Didcot Parkway;\n 07:50 from Exeter St Davids;\n 08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:00 from Frome;\n 08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 05:40 from Hayle;\n 07:15 from Highbridge;\n 07:20 from Ivybridge;\n 09:05 from Kemble;\n 07:00 from Liskeard;\n 06:40 from Lostwithiel;\n 07:05 from Menheniot;\n 08:00 from Nailsea & Backwell;\n 09:15 from Newbury;\n 08:00 from Newton Abbot;\n 09:00 from Oxford;\n 07:30 from Paignton;\n 06:30 from Par;\n 05:30 from Penzance;\n 09:00 from Pewsey;\n 07:35 from Plymouth;\n 09:00 from Reading;\n 05:55 from Redruth;\n 07:15 from Saltash;\n 06:25 from St Austell;\n 05:35 from St Erth;\n 07:21 from St Germans;\n 08:45 from Stonehouse;\n 08:50 from Stroud;\n 09:15 from Swindon (also valid between 04:30 and 05:45);\n 08:40 from Taunton;\n 07:35 from Teignmouth;\n 08:30 from Tiverton Parkway;\n 07:35 from Torquay;\n 07:40 from Torre;\n 08:00 from Totnes;\n 07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 06:05 from Truro\n 07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:45 from Weston Milton;\n 07:35 from Weston-Super-Mare;\n 07:32 from Worcester Shrub Hill;\n 07:50 from Worle;\n 07:55 from Yatton.\n Not valid to arrive at Birmingham New Street before 10:15;\n Not valid to arrive at Bristol Temple Meads before 08:48.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p><strong>​​​​​​Travel from Wales</strong></p><ul><li>09:31 from Abergavenny</li><li>07:45 from Bridgend (also valid between 04:30 and 05:00);</li><li>08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);</li><li>07:15 from Carmarthen</li><li>07:15 from Chepstow;</li><li>08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);</li><li>08:30 from Llandaf (also valid between 04:30 and 05:45);</li><li>08:20 from Llanelli (also valid between 04:30 and 05:45);</li><li>08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);</li><li>07:25 from Neath</li><li>08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);</li><li>07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);</li><li>08:30 from Porth (also valid between 04:30 and 05:45);</li><li>08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);</li><li>07:15 from Swansea</li><li>08:15 from Whitland (also valid between 04:30 and 05:45);</li></ul><p>Travel from England</p><ul><li>07:42 from Ashchurch;</li><li>09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:30 from Bath Spa;</li><li>10:30 from Birmingham New Street;</li><li>08:00 from Bodmin Parkway;</li><li>07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:15 from Bridgwater;</li><li>08:45 from Bristol Parkway (also valid between 04:30 and 05:30);</li><li>08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);</li><li>05:40 from Camborne;</li><li>08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>09:20 from Chippenham;</li><li>07:35 from Dawlish;</li><li>09:30 from Didcot Parkway;</li><li>07:50 from Exeter St Davids;</li><li>08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>08:00 from Frome;</li><li>08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);</li><li>05:40 from Hayle;</li><li>07:15 from Highbridge;</li><li>07:20 from Ivybridge;</li><li>09:05 from Kemble;</li><li>07:00 from Liskeard;</li><li>06:40 from Lostwithiel;</li><li>07:05 from Menheniot;</li><li>08:00 from Nailsea & Backwell;</li><li>09:15 from Newbury;</li><li>08:00 from Newton Abbot;</li><li>09:00 from Oxford;</li><li>07:30 from Paignton;</li><li>06:30 from Par;</li><li>05:30 from Penzance;</li><li>09:00 from Pewsey;</li><li>07:35 from Plymouth;</li><li>09:00 from Reading;</li><li>05:55 from Redruth;</li><li>07:15 from Saltash;</li><li>06:25 from St Austell;</li><li>05:35 from St Erth;</li><li>07:21 from St Germans;</li><li>08:45 from Stonehouse;</li><li>08:50 from Stroud;</li><li>09:15 from Swindon (also valid between 04:30 and 05:45);</li><li>08:40 from Taunton;</li><li>07:35 from Teignmouth;</li><li>08:30 from Tiverton Parkway;</li><li>07:35 from Torquay;</li><li>07:40 from Torre;</li><li>08:00 from Totnes;</li><li>07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>06:05 from Truro</li><li>07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);</li><li>07:45 from Weston Milton;</li><li>07:35 from Weston-Super-Mare;</li><li>07:32 from Worcester Shrub Hill;</li><li>07:50 from Worle;</li><li>07:55 from Yatton.</li></ul><p>Not valid to arrive at Birmingham New Street before 10:15;</p><p>Not valid to arrive at Bristol Temple Meads before 08:48.</p><p></p>",
+        "returnText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n ​​​​​​Travel from Wales\n 09:31 from Abergavenny\n 07:45 from Bridgend (also valid between 04:30 and 05:00);\n 08:30 from Cardiff Central and Queen Street (also valid between 04:30 and 05:30);\n 07:15 from Carmarthen\n 07:15 from Chepstow;\n 08:30 from Ebbw Vale Parkway and Town (also valid between 04:30 and 05:45);\n 08:30 from Llandaf (also valid between 04:30 and 05:45);\n 08:20 from Llanelli (also valid between 04:30 and 05:45);\n 08:30 from Maesteg and Maesteg Ewenny Road (also valid between 04:30 and 05:45);\n 07:25 from Neath\n 08:30 from Newport (South Wales) (also valid between 04:30 and 05:45);\n 07:35 from Port Talbot Parkway (also valid from 04:30 to 04:45);\n 08:30 from Porth (also valid between 04:30 and 05:45);\n 08:30 from Severn Tunnel Junction (also valid between 04:30 and 05:45);\n 07:15 from Swansea\n 08:15 from Whitland (also valid between 04:30 and 05:45);\n Travel from England\n 07:42 from Ashchurch;\n 09:30 from Avoncliff (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:30 from Bath Spa;\n 10:30 from Birmingham New Street;\n 08:00 from Bodmin Parkway;\n 07:55 from Bradford on Avon (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:15 from Bridgwater;\n 08:45 from Bristol Parkway (also valid between 04:30 and 05:30);\n 08:50 from Bristol Temple Meads (also valid between 04:30 and 05:10);\n 05:40 from Camborne;\n 08:30 from Castle Cary (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:50 from Cheltenham Spa (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 09:20 from Chippenham;\n 07:35 from Dawlish;\n 09:30 from Didcot Parkway;\n 07:50 from Exeter St Davids;\n 08:00 from Freshford (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 08:00 from Frome;\n 08:30 from Gloucester (if travel is via Bristol Parkway, the restriction time shown for Bristol Parkway also applies for journeys eastbound from this station);\n 05:40 from Hayle;\n 07:15 from Highbridge;\n 07:20 from Ivybridge;\n 09:05 from Kemble;\n 07:00 from Liskeard;\n 06:40 from Lostwithiel;\n 07:05 from Menheniot;\n 08:00 from Nailsea & Backwell;\n 09:15 from Newbury;\n 08:00 from Newton Abbot;\n 09:00 from Oxford;\n 07:30 from Paignton;\n 06:30 from Par;\n 05:30 from Penzance;\n 09:00 from Pewsey;\n 07:35 from Plymouth;\n 09:00 from Reading;\n 05:55 from Redruth;\n 07:15 from Saltash;\n 06:25 from St Austell;\n 05:35 from St Erth;\n 07:21 from St Germans;\n 08:45 from Stonehouse;\n 08:50 from Stroud;\n 09:15 from Swindon (also valid between 04:30 and 05:45);\n 08:40 from Taunton;\n 07:35 from Teignmouth;\n 08:30 from Tiverton Parkway;\n 07:35 from Torquay;\n 07:40 from Torre;\n 08:00 from Totnes;\n 07:50 from Trowbridge (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 06:05 from Truro\n 07:53 from Westbury (if travel is via Bath Spa, the restriction time shown for Bath Spa also applies for journeys eastbound from this station);\n 07:45 from Weston Milton;\n 07:35 from Weston-Super-Mare;\n 07:32 from Worcester Shrub Hill;\n 07:50 from Worle;\n 07:55 from Yatton.\n Not valid to arrive at Birmingham New Street before 10:15;\n Not valid to arrive at Bristol Temple Meads before 08:48."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "WP": {
+    "code": "WP",
+    "name": "WP",
+    "id": "7F300812E7984CAE8169480C84E9D6A9",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/wp",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Super Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.</p><p>Restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64266.aspx\" title=\"\">2W</a> applies to all journeys via Newbury or Didcot Parkway, not passing through Reading.Restriction code<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64154.aspx\" title=\"\">Q8</a> applies to all journeys via Fareham / Southampton / Salisbury.Restriction codes<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/63018.aspx\" title=\"\">CI</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/CJ.aspx\" title=\"\">CJ</a> apply to all journeys via London St Pancras International.Restriction codes<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64078.aspx\" title=\"\">2C</a> /<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/64133.aspx\" title=\"\">9I</a> apply to all journeys via London Euston.</p>",
+    "notesText": "Super Off-Peak tickets from stations not listed are valid for connections into trains departing as shown above.\n Restriction code 2W applies to all journeys via Newbury or Didcot Parkway, not passing through Reading.Restriction code Q8 applies to all journeys via Fareham / Southampton / Salisbury.Restriction codes CI / CJ apply to all journeys via London St Pancras International.Restriction codes 2C / 9I apply to all journeys via London Euston.",
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>08:15 from St Germans;</li><li>08:25 from Saltash;</li><li>08:20 from Plymouth;</li><li>08:49 from Ivybridge;</li><li>08:45 from Totnes;</li><li>09:00 from Newton Abbot;</li><li>09:20 from Exeter St Davids;</li></ul><p>Not valid on trains timed to arrive at Waterloo before 11:48.</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n 08:15 from St Germans;\n 08:25 from Saltash;\n 08:20 from Plymouth;\n 08:49 from Ivybridge;\n 08:45 from Totnes;\n 09:00 from Newton Abbot;\n 09:20 from Exeter St Davids;\n Not valid on trains timed to arrive at Waterloo before 11:48.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:04 until 19:01;</li><li>Reading after 04:29 and before 10:30 and after 15:29 until 19:01;</li><li>London Waterloo after 04:29 and before 08:15 and after 15:59 until 19:01;</li><li>Clapham Junction after 04:29 and before 07:21 and after 15:59 until 19:01.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 10:10 and after 15:04 until 19:01;\n Reading after 04:29 and before 10:30 and after 15:29 until 19:01;\n London Waterloo after 04:29 and before 08:15 and after 15:59 until 19:01;\n Clapham Junction after 04:29 and before 07:21 and after 15:59 until 19:01."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

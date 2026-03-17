@@ -1,0 +1,522 @@
+{
+  "LZ": {
+    "code": "LZ",
+    "name": "LZ",
+    "id": "B92DCC9BB53B4AED9062FAE105CF1B3D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/lz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mother's Day (22 March 2020)</p>",
+    "applicableDaysText": "Monday to Friday\n Mother's Day (22 March 2020)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Mums Go Free tickets provide free travel for the holder when travelling with a child of any age. Proof of age or status not required. </p><p>This offer is only available on Sunday 22 March 2020.</p><p>This ticket is only available from stations or on-train if travelling from an unstaffed station.  Not available online or as an m-Ticket or e-Ticket. </p><p>Offer only available on selected journeys on the West Midlands Railway network.</p>",
+        "outwardText": "Mums Go Free tickets provide free travel for the holder when travelling with a child of any age. Proof of age or status not required. \n This offer is only available on Sunday 22 March 2020.\n This ticket is only available from stations or on-train if travelling from an unstaffed station.  Not available online or as an m-Ticket or e-Ticket. \n Offer only available on selected journeys on the West Midlands Railway network.",
+        "returnHtml": "<p>Mums Go Free tickets provide free travel for the holder when travelling with a child of any age. Proof of age or status not required. </p><p>This offer is only available on Sunday 22 March 2020. </p><p>This ticket is only available from stations or on-train if travelling from an unstaffed station.  Not available online or as an m-Ticket or e-Ticket. </p><p>Offer only available on selected journeys on the West Midlands Railway network.</p>",
+        "returnText": "Mums Go Free tickets provide free travel for the holder when travelling with a child of any age. Proof of age or status not required. \n This offer is only available on Sunday 22 March 2020. \n This ticket is only available from stations or on-train if travelling from an unstaffed station.  Not available online or as an m-Ticket or e-Ticket. \n Offer only available on selected journeys on the West Midlands Railway network."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "M2": {
+    "code": "M2",
+    "name": "M2",
+    "id": "EB7FF9FF5EFA4E3FA14E9E4A880739D0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/m2",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid only on the date, Great Western Railway Night Riviera service and in the specific sleeper berth(s) shown on the ticket.</p>",
+        "outwardText": "Valid only on the date, Great Western Railway Night Riviera service and in the specific sleeper berth(s) shown on the ticket.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "M3": {
+    "code": "M3",
+    "name": "M3",
+    "id": "737F17E931C94DD7BE41C9A15114B80A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/m3",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 except southbound only on the 08:41 Yarm to York TransPennine Express service.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00 except southbound only on the 08:41 Yarm to York TransPennine Express service.",
+        "returnHtml": "<p>No restriction.</p>",
+        "returnText": "No restriction."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "M4": {
+    "code": "M4",
+    "name": "M4",
+    "id": "ECF7F745960E415294621D85B66BE0C0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/m4",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45, except southbound only on the following TransPennine Express services:</p><ul><li>08:28 Middlesbrough to York,</li><li>08:33 Thornaby to York TransPennine Express services.</li></ul>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:45, except southbound only on the following TransPennine Express services:\n 08:28 Middlesbrough to York,\n 08:33 Thornaby to York TransPennine Express services.",
+        "returnHtml": "<p>No restriction.</p>",
+        "returnText": "No restriction."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "M6": {
+    "code": "M6",
+    "name": "M6",
+    "id": "84A7FBA2E0B6477AB1FC718B94AD15A0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/m6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be lifted between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and Monday 25 May 2026 in both directions.</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be lifted between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and Monday 25 May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid to depart the origin station shown on the ticket until 09:15</p>",
+        "outwardText": "Not valid to depart the origin station shown on the ticket until 09:15",
+        "returnHtml": "<p>Valid via any train</p>",
+        "returnText": "Valid via any train"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "MB": {
+    "code": "MB",
+    "name": "MB",
+    "id": "35FC92300DB04F439622BEB56EEC1B21",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/mb",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday and Thursday</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday and Thursday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains arriving into the following London stations after 04:29 and before 10:00</p><ul><li>LONDON EUSTON</li><li>LONDON MARYLEBONE</li><li>LONDON ST PANCRAS</li><li>LONDON PADDINGTON</li><li>LONDON WATERLOO</li><li>LONDON KINGS CROSS</li><li>LONDON LIVERPOOL STREET</li></ul><p></p>",
+        "outwardText": "Not valid on trains arriving into the following London stations after 04:29 and before 10:00\n LONDON EUSTON\n LONDON MARYLEBONE\n LONDON ST PANCRAS\n LONDON PADDINGTON\n LONDON WATERLOO\n LONDON KINGS CROSS\n LONDON LIVERPOOL STREET",
+        "returnHtml": "<p>Same as outward</p>",
+        "returnText": "Same as outward"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "MD": {
+    "code": "MD",
+    "name": "MD",
+    "id": "62CA791C3E4E497BB1757318C132D3AF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/md",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Thursdays.</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Thursdays.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on services timed to <em>arrive</em> London Terminals before 13:00.</p><p>Not valid for travel on services timed to <em>depart</em> London Euston before 10:30.</p><p>Not valid for travel on services timed to <em>depart</em> the origin station on the ticket after 16:29 and before 19:31 in either direction.</p><p>A connecting service can be used to complete a journey begun at a valid time.</p><p>Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.</p><p>Not valid for travel on any service on Fridays, Saturdays and Sundays.</p>",
+        "outwardText": "Not valid for travel on services timed to arrive London Terminals before 13:00.\n Not valid for travel on services timed to depart London Euston before 10:30.\n Not valid for travel on services timed to depart the origin station on the ticket after 16:29 and before 19:31 in either direction.\n A connecting service can be used to complete a journey begun at a valid time.\n Break of journey is not permitted except to change trains at an intermediate station or to access station facilities.\n Not valid for travel on any service on Fridays, Saturdays and Sundays.",
+        "returnHtml": "<p>Not valid for travel on services timed to <em>arrive</em> London Terminals before 13:00.</p><p>Not valid for travel on services timed to <em>depart</em> London Euston before 10:30.</p><p>Not valid for travel on services timed to <em>depart</em> the origin station on the ticket after 16:29 and before 19:31 in either direction.</p><p>A connecting service can be used to complete a journey begun at a valid time.</p><p>Break of journey is permitted.</p><p>Not valid for travel on any service on Fridays, Saturdays and Sundays.</p>",
+        "returnText": "Not valid for travel on services timed to arrive London Terminals before 13:00.\n Not valid for travel on services timed to depart London Euston before 10:30.\n Not valid for travel on services timed to depart the origin station on the ticket after 16:29 and before 19:31 in either direction.\n A connecting service can be used to complete a journey begun at a valid time.\n Break of journey is permitted.\n Not valid for travel on any service on Fridays, Saturdays and Sundays."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "MG": {
+    "code": "MG",
+    "name": "MG",
+    "id": "AF5794F38AE6416CBB06FFC9A4D8445C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/mg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart before 18:31.  </p><p>Minimum 1 adult and 1 child in group.  </p><p>No unaccompanied children permitted.</p>",
+        "outwardText": "Not valid on trains timed to depart before 18:31.\n Minimum 1 adult and 1 child in group.\n No unaccompanied children permitted.",
+        "returnHtml": "<p>Not valid on trains timed to depart before 18:31.  </p><p>Minimum 1 adult and 1 child in group.  </p><p>No unaccompanied children permitted.</p>",
+        "returnText": "Not valid on trains timed to depart before 18:31.\n Minimum 1 adult and 1 child in group.\n No unaccompanied children permitted."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "MK": {
+    "code": "MK",
+    "name": "MK",
+    "id": "B95C63DDB81E4A20A79474E6EF07939B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/mk",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive at London Euston after 04:29 and before 13:00.</p>",
+        "outwardText": "Not valid on trains timed to arrive at London Euston after 04:29 and before 13:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart London Euston after 04:29 and before 10:30 and after 15:59 and before 19:01</p>",
+        "returnText": "Not valid on trains timed to depart London Euston after 04:29 and before 10:30 and after 15:59 and before 19:01"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ML": {
+    "code": "ML",
+    "name": "ML",
+    "id": "BBC7677BDC4A490DA69324D0B566ACF2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ml",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": "<p>Maritime Line Day Ranger. Valid for travel from 09:00 departing Truro and from 08:45 departing Falmouth Docks.</p>",
+    "notesText": "Maritime Line Day Ranger. Valid for travel from 09:00 departing Truro and from 08:45 departing Falmouth Docks.",
+    "seasonalVariationsHtml": "<p>Easements to restrictions will be advertised when available.</p>",
+    "seasonalVariationsText": "Easements to restrictions will be advertised when available.",
+    "outwardDirection": "Southbound Travel",
+    "returnDirection": "Northbound Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>09:00</p>",
+        "outwardText": "09:00",
+        "returnHtml": "<p>08:45</p>",
+        "returnText": "08:45"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "N9": {
+    "code": "N9",
+    "name": "N9",
+    "id": "9C73FB178BD1449485CFB1669A12F415",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/n9",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": "<p>Seat reservations are compulsory.</p>",
+    "notesText": "Seat reservations are compulsory.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on London North Eastern Railway only</p>",
+        "outwardText": "Valid on London North Eastern Railway only",
+        "returnHtml": "<p>Valid on London North Eastern Railway only</p>",
+        "returnText": "Valid on London North Eastern Railway only"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NA": {
+    "code": "NA",
+    "name": "NA",
+    "id": "D02E668802134D5ABB2A8289C292662B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/na",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>The n-Network add-on season ticket can only be used for travel when an accompanying valid n-Network ticket is held.</p><p>The n-Network add-on provides rail travel only from selected stations to the nearest point in the West Midlands county by any permitted route.</p><p>The ticket restrictions applicable to the n-Network ticket also apply to the n-Network add-on.</p><p>n-Network Add-on tickets are <strong>not</strong> valid in conjunction with n-Train tickets.</p><p><strong>It is valid for travel:</strong></p><ul><li>On all train companies' services on the permitted routes.</li><li>Using the same restrictions applicable to the corresponding n-Network ticket.</li><li>On rail services only.</li><li>All day during the period of validity.</li></ul><p>Available from selected stations in the n-Network.</p>",
+        "outwardText": "The n-Network add-on season ticket can only be used for travel when an accompanying valid n-Network ticket is held.\n The n-Network add-on provides rail travel only from selected stations to the nearest point in the West Midlands county by any permitted route.\n The ticket restrictions applicable to the n-Network ticket also apply to the n-Network add-on.\n n-Network Add-on tickets are not valid in conjunction with n-Train tickets.\n It is valid for travel:\n On all train companies' services on the permitted routes.\n Using the same restrictions applicable to the corresponding n-Network ticket.\n On rail services only.\n All day during the period of validity.\n Available from selected stations in the n-Network.",
+        "returnHtml": "<p>The n-Network add-on season ticket can only be used for travel when an accompanying valid n-Network ticket is held.</p><p>The n-Network add-on provides rail travel only from selected stations to the nearest point in the West Midlands county by any permitted route.</p><p>The ticket restrictions applicable to the n-Network ticket also apply to the n-Network add-on.</p><p>n-Network Add-on tickets are <strong>not</strong> valid in conjunction with n-Train tickets.</p><p><strong>It is valid for travel:</strong></p><ul><li>On all train companies' services on the permitted routes.</li><li>Using the same restrictions applicable to the corresponding n-Network ticket.</li><li>On rail services only.</li><li>All day during the period of validity.</li></ul><p>Available from selected stations in the n-Network.</p>",
+        "returnText": "The n-Network add-on season ticket can only be used for travel when an accompanying valid n-Network ticket is held.\n The n-Network add-on provides rail travel only from selected stations to the nearest point in the West Midlands county by any permitted route.\n The ticket restrictions applicable to the n-Network ticket also apply to the n-Network add-on.\n n-Network Add-on tickets are not valid in conjunction with n-Train tickets.\n It is valid for travel:\n On all train companies' services on the permitted routes.\n Using the same restrictions applicable to the corresponding n-Network ticket.\n On rail services only.\n All day during the period of validity.\n Available from selected stations in the n-Network."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ND": {
+    "code": "ND",
+    "name": "ND",
+    "id": "BA872D5D044C49DAABB2C73CAFA9E648",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/nd",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NE": {
+    "code": "NE",
+    "name": "NE",
+    "id": "2409930D03FD409AA8230049BA5E3C71",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ne",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NF": {
+    "code": "NF",
+    "name": "NF",
+    "id": "520324707ACF45ED9393357E72E3562B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/nf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NG": {
+    "code": "NG",
+    "name": "NG",
+    "id": "30A85E109E14482093554EA816EF06CF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ng",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:45 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:45 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NH": {
+    "code": "NH",
+    "name": "NH",
+    "id": "4846C86DD7A74811B672335BA2457DF0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/nh",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:30 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30 or after 16:00 and before 18:30.</p><p>The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:30 or after 16:00 and before 18:30.\n The restriction after 16:00 and before 18:30 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NI": {
+    "code": "NI",
+    "name": "NI",
+    "id": "92151E7BE33549F9B0B9C3999F835504",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ni",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.</p><p>The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.\n The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.</p><p>The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.\n The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NJ": {
+    "code": "NJ",
+    "name": "NJ",
+    "id": "1528985AD8F2403187B566DC9C092F04",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/nj",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:00.</p><p>The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:00.\n The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:00.</p><p>The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:</p><ul><li>Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;</li><li>Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;</li><li>West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:15 or after 16:00 and before 18:00.\n The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) within the following areas:\n Transport for Greater Manchester area plus Alderley Edge, Birchwood, Burscough Bridge, Disley,  Dove Holes, Handforth, Hoscar, New Mills Central, New Mills Newtown, Padgate, Parbold, Styal, Warrington Bank Quay, Warrington Central, and Wilmslow;\n Travel South Yorkshire area plus, Darton, Denby Dale, Moorthorpe and South Elmsall;\n West Yorkshire Metro area plus Cononley, Harrogate,  Hornbeam Park, Knaresborough, Pannal, Skipton, Starbeck and Weeton.\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "NK": {
+    "code": "NK",
+    "name": "NK",
+    "id": "652EA88A39294D6CB52CCB5ED8066F95",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/nk",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:00.</p><p>The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) from the following stations:</p><ul><li>Blaydon</li><li>Corbridge</li><li>Dunston</li><li>Hexham</li><li>Metrocentre</li><li>Newcastle</li><li>Prudhoe</li><li>Riding Mill</li><li>Stocksfield</li><li>Wylam</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:00.\n The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) from the following stations:\n Blaydon\n Corbridge\n Dunston\n Hexham\n Metrocentre\n Newcastle\n Prudhoe\n Riding Mill\n Stocksfield\n Wylam\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website .",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:00.</p><p>The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) from the following stations:</p><ul><li>Blaydon</li><li>Corbridge</li><li>Dunston</li><li>Hexham</li><li>Metrocentre</li><li>Newcastle</li><li>Prudhoe</li><li>Riding Mill</li><li>Stocksfield</li><li>Wylam</li></ul><p>Valid trains can also be checked using the journey planner at <a href=\"http://www.nationalrail.co.uk\" title=\"\">www.nationalrail.co.uk</a></p><p>Further information including maps of the restricted areas can be found on the <a href=\"https://www.northernrailway.co.uk/tickets/28-off-peak\" title=\"\">Northern website</a>.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00 or after 16:00 and before 18:00.\n The restriction after 16:00 and before 18:00 includes any connecting train departing during this period (or re-commencing your journey following a break of journey) from the following stations:\n Blaydon\n Corbridge\n Dunston\n Hexham\n Metrocentre\n Newcastle\n Prudhoe\n Riding Mill\n Stocksfield\n Wylam\n Valid trains can also be checked using the journey planner at www.nationalrail.co.uk\n Further information including maps of the restricted areas can be found on the Northern website ."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

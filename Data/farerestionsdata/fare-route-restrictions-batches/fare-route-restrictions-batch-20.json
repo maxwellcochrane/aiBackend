@@ -1,0 +1,502 @@
+{
+  "54": {
+    "code": 54,
+    "name": "VIA ELY",
+    "description": "VIA ELY",
+    "startDate": "2024-04-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Ely.",
+    "rspDisplayName": "Valid only via Ely",
+    "enabledForMapPlotting": true
+  },
+  "55": {
+    "code": 55,
+    "name": "VIA FINSBURY PK",
+    "description": "VIA FINSBURY PK",
+    "startDate": "2022-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Finsbury Park.",
+    "rspDisplayName": "Valid only via Finsbury Park",
+    "enabledForMapPlotting": true
+  },
+  "56": {
+    "code": 56,
+    "name": "VIA GRANTHAM",
+    "description": "VIA GRANTHAM",
+    "startDate": "2013-03-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Grantham.",
+    "rspDisplayName": "Valid only via Grantham",
+    "enabledForMapPlotting": true
+  },
+  "57": {
+    "code": 57,
+    "name": "CLAPHAM (YORKS)",
+    "description": "CLAPHAM (YORKS)",
+    "startDate": "2018-04-04",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Clapham (Yorkshire).",
+    "rspDisplayName": "Valid only via Clapham (Yorkshire)",
+    "enabledForMapPlotting": true
+  },
+  "58": {
+    "code": 58,
+    "name": "VIA TROWBRIDGE",
+    "description": "VIA TROWBRIDGE",
+    "startDate": "2015-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Trowbridge.",
+    "rspDisplayName": "Valid only via Trowbridge",
+    "enabledForMapPlotting": true
+  },
+  "539": {
+    "code": 539,
+    "name": "NORTHERN & TPE",
+    "description": "NORTHERN & TPE",
+    "startDate": "2024-08-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "540": {
+    "code": 540,
+    "name": "VIA NUNHEAD",
+    "description": "VIA NUNHEAD",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Nunhead.",
+    "rspDisplayName": "Valid only via Nunhead",
+    "enabledForMapPlotting": true
+  },
+  "541": {
+    "code": 541,
+    "name": "VIA STROOD",
+    "description": "VIA STROOD",
+    "startDate": "2025-12-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Strood.",
+    "rspDisplayName": "Valid only via Strood",
+    "enabledForMapPlotting": true
+  },
+  "542": {
+    "code": 542,
+    "name": "VIA BANGOR",
+    "description": "VIA BANGOR inc Bus Leg",
+    "startDate": "2024-12-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Via Bangor inc Bus Leg",
+    "rspDisplayName": "Via Bangor inc Bus Leg",
+    "enabledForMapPlotting": true
+  },
+  "543": {
+    "code": 543,
+    "name": "VIA CAERNARFON",
+    "description": "VIA CAERNARFON",
+    "startDate": "2024-11-27",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "544": {
+    "code": 544,
+    "name": "VIA PITSEA",
+    "description": "VIA PITSEA",
+    "startDate": "2024-11-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "545": {
+    "code": 545,
+    "name": "CAL SLEEPER GRPS",
+    "description": "CALEDONIAN SLEEPER GROUPS",
+    "startDate": "2020-07-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "548": {
+    "code": 548,
+    "name": "LUMO & C2C ONLY",
+    "description": "LUMO & C2C ONLY",
+    "startDate": "2025-03-06",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "549": {
+    "code": 549,
+    "name": "LUMO & C2C AP",
+    "description": "LUMO & C2C AP",
+    "startDate": "2025-03-06",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "550": {
+    "code": 550,
+    "name": "LIPHOOK BUS",
+    "description": "LIPHOOK BUS",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Liphook Bus service.",
+    "rspDisplayName": "Valid via Liphook Bus service",
+    "enabledForMapPlotting": true
+  },
+  "551": {
+    "code": 551,
+    "name": "WINCHESTER BUS",
+    "description": "WINCHESTER BUS",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Winchester bus link.",
+    "rspDisplayName": "Valid via Winchester bus link",
+    "enabledForMapPlotting": true
+  },
+  "553": {
+    "code": 553,
+    "name": "VIA WOKING & RA2",
+    "description": "VIA WOKING & RA2",
+    "startDate": "2022-03-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Woking & RA2",
+    "rspDisplayName": "Valid only via Woking & RA2",
+    "enabledForMapPlotting": false
+  },
+  "555": {
+    "code": 555,
+    "name": "LIPBS-CLJ NT LDN",
+    "description": "LIPHOOK BUS-CLAPHAM JUNC NOT LONDON",
+    "startDate": "2021-12-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via Liphook Bus service and via (changing trains or passing through) Clapham Junction, not valid via London Terminals.",
+    "rspDisplayName": "Via Liphook bus-Clapham J / not London",
+    "enabledForMapPlotting": true
+  },
+  "556": {
+    "code": 556,
+    "name": "BUS LINK",
+    "description": "BUS LINK",
+    "startDate": "2000-04-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via the buslink.",
+    "rspDisplayName": "Valid via the buslink.",
+    "enabledForMapPlotting": true
+  },
+  "557": {
+    "code": 557,
+    "name": "HATFIELD UNO BUS",
+    "description": "HATFIELD UNO BUS",
+    "startDate": "2008-12-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Hatfield Uno bus service.",
+    "rspDisplayName": "Valid via Hatfield Uno bus service",
+    "enabledForMapPlotting": true
+  },
+  "558": {
+    "code": 558,
+    "name": "STALBANS UNO BUS",
+    "description": "STALBANS UNO BUS",
+    "startDate": "2008-12-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the St Albans Uno bus service.",
+    "rspDisplayName": "Valid via St Albans Uno bus service",
+    "enabledForMapPlotting": true
+  },
+  "559": {
+    "code": 559,
+    "name": "XC ONLY + BUS",
+    "description": "XC ONLY + BUS",
+    "startDate": "2018-03-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid by CrossCountry services and Bus only",
+    "rspDisplayName": "CrossCountry services and Bus only",
+    "enabledForMapPlotting": false
+  },
+  "560": {
+    "code": 560,
+    "name": "VIA RUGBY",
+    "description": "VIA RUGBY",
+    "startDate": "2019-01-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Rugby",
+    "rspDisplayName": "Valid only via Rugby",
+    "enabledForMapPlotting": false
+  },
+  "561": {
+    "code": 561,
+    "name": "VIA FARNBORO NTH",
+    "description": "VIA FARNBOROUGH NORTH",
+    "startDate": "2017-09-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Farnborough North.",
+    "rspDisplayName": "Valid only via Farnborough North",
+    "enabledForMapPlotting": true
+  },
+  "562": {
+    "code": 562,
+    "name": "LUMO ONLY",
+    "description": "LUMO ONLY",
+    "startDate": "2024-02-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on Lumo services.",
+    "rspDisplayName": "Lumo services only",
+    "enabledForMapPlotting": false
+  },
+  "563": {
+    "code": 563,
+    "name": "TPE ONLY.",
+    "description": "TPE ONLY.",
+    "startDate": "2025-07-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "564": {
+    "code": 564,
+    "name": "NOT VIA CLAPHM J",
+    "description": "NOT VIA CLAPHAM JUNCTION",
+    "startDate": "2021-12-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Clapham Junction.",
+    "rspDisplayName": "Not valid via Clapham Junction",
+    "enabledForMapPlotting": true
+  },
+  "565": {
+    "code": 565,
+    "name": "GC & NTH VIA DON",
+    "description": "GC & NTH VIA DON",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via Doncaster",
+    "rspDisplayName": "Grand Central & Northern via Doncaster",
+    "enabledForMapPlotting": false
+  },
+  "566": {
+    "code": 566,
+    "name": "GC&NTH VIA DON",
+    "description": "GC&NTH VIA DON",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via Doncaster",
+    "rspDisplayName": "Grand Central & Northern via Doncaster",
+    "enabledForMapPlotting": false
+  },
+  "567": {
+    "code": 567,
+    "name": "GC&NRTHN VIA DON",
+    "description": "GC&NRTHN VIA DON",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via Doncaster",
+    "rspDisplayName": "Grand Central & Northern via Doncaster",
+    "enabledForMapPlotting": false
+  },
+  "568": {
+    "code": 568,
+    "name": "GC&NTHN VIA DON",
+    "description": "GC&NTHN VIA DON",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via Doncaster",
+    "rspDisplayName": "Grand Central & Northern via Doncaster",
+    "enabledForMapPlotting": false
+  },
+  "569": {
+    "code": 569,
+    "name": "GC & NTH VIA YRK",
+    "description": "GC & NTH VIA YRK",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via York",
+    "rspDisplayName": "Only Grand Central & Northern via York",
+    "enabledForMapPlotting": false
+  },
+  "570": {
+    "code": 570,
+    "name": "GC&NTH VIA YRK",
+    "description": "GC&NTH VIA YRK",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via York",
+    "rspDisplayName": "Only Grand Central & Northern via York",
+    "enabledForMapPlotting": false
+  },
+  "571": {
+    "code": 571,
+    "name": "GC&NRTHN VIA YRK",
+    "description": "GC&NRTHN VIA YRK",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via York",
+    "rspDisplayName": "Only Grand Central & Northern via York",
+    "enabledForMapPlotting": false
+  },
+  "572": {
+    "code": 572,
+    "name": "GC&NTHN VIA YRK",
+    "description": "GC&NTHN VIA YRK",
+    "startDate": "2022-11-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Northern services via York",
+    "rspDisplayName": "Only Grand Central & Northern via York",
+    "enabledForMapPlotting": false
+  },
+  "573": {
+    "code": 573,
+    "name": "GC & NORTHERN",
+    "description": "GC & NORTHERN",
+    "startDate": "2019-05-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "574": {
+    "code": 574,
+    "name": "UPPER WARL WLEAF",
+    "description": "UPPER WARLINGHAM WHYTELEAFE",
+    "startDate": "2022-11-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel changing between Upper Warlingham and Whyteleafe stations.",
+    "rspDisplayName": "Only via Upper Warlingham-Whyteleaf",
+    "enabledForMapPlotting": true
+  },
+  "575": {
+    "code": 575,
+    "name": "XC & NORTHN ONLY",
+    "description": "XC & NORTHERN ONLY",
+    "startDate": "2019-04-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "CrossCountry and Northern train services only",
+    "rspDisplayName": "CrossCountry & Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "576": {
+    "code": 576,
+    "name": "GC & XC ONLY",
+    "description": "GC & XC ONLY",
+    "startDate": "2018-02-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on Grand Central and CrossCountry services only.",
+    "rspDisplayName": "Grand Central and CrossCountry only",
+    "enabledForMapPlotting": false
+  },
+  "577": {
+    "code": 577,
+    "name": "GC & TPE VIA DON",
+    "description": "GC & TPE VIA DON",
+    "startDate": "2018-02-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Transpennine Express services via (changing trains or passing through) Doncaster.",
+    "rspDisplayName": "Only Grand Central & TPE via Doncaster",
+    "enabledForMapPlotting": false
+  },
+  "578": {
+    "code": 578,
+    "name": "GC & TPE VIA YRK",
+    "description": "GC & TPE VIA YRK",
+    "startDate": "2021-09-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Transpennine Express services via (changing trains or passing through) York.",
+    "rspDisplayName": "Only Grand Central & TPE via York",
+    "enabledForMapPlotting": false
+  },
+  "579": {
+    "code": 579,
+    "name": "GC & TPE VIA MIR",
+    "description": "GC & TPE VIA MIR",
+    "startDate": "2023-02-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Grand Central and Transpennine Express services via (changing trains or passing through) Mirfield.",
+    "rspDisplayName": "Only Grand Central & TPE via Mirfield",
+    "enabledForMapPlotting": false
+  },
+  "580": {
+    "code": 580,
+    "name": "WC STD PREM",
+    "description": "WC Std Prem",
+    "startDate": "2025-07-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "581": {
+    "code": 581,
+    "name": "VIA TEDDINGTON",
+    "description": "VIA TEDDINGTON",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Teddington.",
+    "rspDisplayName": "Valid only via Teddington",
+    "enabledForMapPlotting": true
+  },
+  "582": {
+    "code": 582,
+    "name": "NOT VIA DERBY",
+    "description": "NOT VIA DERBY",
+    "startDate": "2017-09-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Derby.",
+    "rspDisplayName": "Not valid via Derby",
+    "enabledForMapPlotting": false
+  },
+  "583": {
+    "code": 583,
+    "name": "AP WMR ONLY",
+    "description": "AP WMR ONLY",
+    "startDate": "2025-08-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on West Midlands Railway services only",
+    "rspDisplayName": "Valid on West Midlands Railway services only",
+    "enabledForMapPlotting": false
+  },
+  "584": {
+    "code": 584,
+    "name": "LUMO & CHLTRN",
+    "description": "LUMO & CHILTERN ONLY",
+    "startDate": "2025-10-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "585": {
+    "code": 585,
+    "name": "LUMO & CHLTRN AP",
+    "description": "LUMO & CHILTERN AP",
+    "startDate": "2025-10-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "586": {
+    "code": 586,
+    "name": "NOT VIA SUTTON",
+    "description": "NOT VIA SUTTON",
+    "startDate": "2020-01-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Sutton.",
+    "rspDisplayName": "Not valid via Sutton",
+    "enabledForMapPlotting": true
+  },
+  "587": {
+    "code": 587,
+    "name": "CAL SLPR+SCOT",
+    "description": "CAL SLEEPER + SCOTRAIL",
+    "startDate": "2025-01-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  }
+}

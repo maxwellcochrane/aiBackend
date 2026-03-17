@@ -1,0 +1,522 @@
+{
+  "FT": {
+    "code": "FT",
+    "name": "FT",
+    "id": "D1BF986E5F2045658AFD460541DCA5CC",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ft",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Public Holidays</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Public Holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 12:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 12:00.",
+        "returnHtml": "<p>Travel at any time.</p>",
+        "returnText": "Travel at any time."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "FU": {
+    "code": "FU",
+    "name": "FU",
+    "id": "9F97CECE56204C768F3F2A795195BE72",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/fu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday (except Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday (except Bank Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Valid for travel after 09.30.</li></ul>",
+        "outwardText": "Valid for travel after 09.30.",
+        "returnHtml": "<ul><li>Valid for travel after 09.30.</li></ul>",
+        "returnText": "Valid for travel after 09.30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "FV": {
+    "code": "FV",
+    "name": "FV",
+    "id": "2F47C7CB821E4F2EA5D403C54B8A187E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/fv",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday (except Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday (except Bank Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Origin Description:</li><li>APPLEFORD D 08:40 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BASINGSTOKE D 08:59 </li><li>BEDWYN D 08:49 </li><li>BICESTER VILLAGE D 09:30 </li><li>BRAMLEY (HANTS) D 08:59 </li><li>CHARLBURY D 08:44 </li><li>DIDCOT PARKWAY D 09:26 </li><li>HANBOROUGH D 08:59 </li><li>HEYFORD D 08:59 </li><li>HONEYBOURNE D 08:40 </li><li>HUNGERFORD D 08:49 </li><li>ISLIP D 09:30 </li><li>KINGHAM D 08:44 </li><li>KINGS SUTTON D 08:59 </li><li>KINTBURY D 08:49 </li><li>MORETON-IN-MARSH D 08:44 </li><li>NEWBURY D 09:14 </li><li>NEWBURY RACECOURSE D 09:14 </li><li>OXFORD D 08:58 </li><li>OXFORD PARKWAY D 09:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>TACKLEY D 08:59</li><li>READING D 09:30</li><li>TILEHURST D 09:15</li><li>PANGBOURNE D 09:15</li><li>GORING & STREATLEY D 09:15 </li><li>CHOLSEY D 09:15</li></ul>",
+        "outwardText": "Origin Description:\n APPLEFORD D 08:40 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BASINGSTOKE D 08:59 \n BEDWYN D 08:49 \n BICESTER VILLAGE D 09:30 \n BRAMLEY (HANTS) D 08:59 \n CHARLBURY D 08:44 \n DIDCOT PARKWAY D 09:26 \n HANBOROUGH D 08:59 \n HEYFORD D 08:59 \n HONEYBOURNE D 08:40 \n HUNGERFORD D 08:49 \n ISLIP D 09:30 \n KINGHAM D 08:44 \n KINGS SUTTON D 08:59 \n KINTBURY D 08:49 \n MORETON-IN-MARSH D 08:44 \n NEWBURY D 09:14 \n NEWBURY RACECOURSE D 09:14 \n OXFORD D 08:58 \n OXFORD PARKWAY D 09:30\n RADLEY D 08:59\n SHIPTON D 08:44\n TACKLEY D 08:59\n READING D 09:30\n TILEHURST D 09:15\n PANGBOURNE D 09:15\n GORING & STREATLEY D 09:15 \n CHOLSEY D 09:15",
+        "returnHtml": "<p>Restriction Code; FVApplicable days; Mondays to Fridays  </p><p>Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions</p><ul><li>Origin Description:</li><li>APPLEFORD D 08:40 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BASINGSTOKE D 08:59 </li><li>BEDWYN D 08:49 </li><li>BICESTER VILLAGE D 09:30 </li><li>BRAMLEY (HANTS) D 08:59 </li><li>CHARLBURY D 08:44 </li><li>DIDCOT PARKWAY D 09:26 </li><li>HANBOROUGH D 08:59 </li><li>HEYFORD D 08:59 </li><li>HONEYBOURNE D 08:40 </li><li>HUNGERFORD D 08:49 </li><li>ISLIP D 09:30 </li><li>KINGHAM D 08:44 </li><li>KINGS SUTTON D 08:59 </li><li>KINTBURY D 08:49 </li><li>MORETON-IN-MARSH D 08:44 </li><li>NEWBURY D 09:14 </li><li>NEWBURY RACECOURSE D 09:14 </li><li>OXFORD D 08:58 </li><li>OXFORD PARKWAY D 09:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>TACKLEY D 08:59</li><li>READING D 09:30</li><li>TILEHURST D 09:15</li><li>PANGBOURNE D 09:15</li><li>GORING & STREATLEY D 09:15 </li><li>CHOLSEY D 09:15</li></ul>",
+        "returnText": "Restriction Code; FVApplicable days; Mondays to Fridays\n Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions\n Origin Description:\n APPLEFORD D 08:40 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BASINGSTOKE D 08:59 \n BEDWYN D 08:49 \n BICESTER VILLAGE D 09:30 \n BRAMLEY (HANTS) D 08:59 \n CHARLBURY D 08:44 \n DIDCOT PARKWAY D 09:26 \n HANBOROUGH D 08:59 \n HEYFORD D 08:59 \n HONEYBOURNE D 08:40 \n HUNGERFORD D 08:49 \n ISLIP D 09:30 \n KINGHAM D 08:44 \n KINGS SUTTON D 08:59 \n KINTBURY D 08:49 \n MORETON-IN-MARSH D 08:44 \n NEWBURY D 09:14 \n NEWBURY RACECOURSE D 09:14 \n OXFORD D 08:58 \n OXFORD PARKWAY D 09:30\n RADLEY D 08:59\n SHIPTON D 08:44\n TACKLEY D 08:59\n READING D 09:30\n TILEHURST D 09:15\n PANGBOURNE D 09:15\n GORING & STREATLEY D 09:15 \n CHOLSEY D 09:15"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "FW": {
+    "code": "FW",
+    "name": "FW",
+    "id": "5C8EAFCBC6DA4C2BB77960668A6139E1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/fw",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday (except Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday (except Bank Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Origin Description:</li><li>APPLEFORD D 08:40 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BASINGSTOKE D 08:59 </li><li>BEDWYN D 08:49 </li><li>BICESTER VILLAGE D 09:30 </li><li>BRAMLEY (HANTS) D 08:59 </li><li>CHARLBURY D 08:44 </li><li>DIDCOT PARKWAY D 09:26 </li><li>HANBOROUGH D 08:59 </li><li>HEYFORD D 08:59 </li><li>HONEYBOURNE D 08:40 </li><li>HUNGERFORD D 08:49 </li><li>ISLIP D 09:30 </li><li>KINGHAM D 08:44 </li><li>KINGS SUTTON D 08:59 </li><li>KINTBURY D 08:49 </li><li>MORETON-IN-MARSH D 08:44 </li><li>NEWBURY D 09:14 </li><li>NEWBURY RACECOURSE D 09:14 </li><li>OXFORD D 08:58 </li><li>OXFORD PARKWAY D 09:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>TACKLEY D 08:59</li><li>READING D 09:30</li><li>TILEHURST D 09:15</li><li>PANGBOURNE D 09:15</li><li>GORING & STREATLEY D 09:15 </li><li>CHOLSEY D 09:15</li></ul>",
+        "outwardText": "Origin Description:\n APPLEFORD D 08:40 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BASINGSTOKE D 08:59 \n BEDWYN D 08:49 \n BICESTER VILLAGE D 09:30 \n BRAMLEY (HANTS) D 08:59 \n CHARLBURY D 08:44 \n DIDCOT PARKWAY D 09:26 \n HANBOROUGH D 08:59 \n HEYFORD D 08:59 \n HONEYBOURNE D 08:40 \n HUNGERFORD D 08:49 \n ISLIP D 09:30 \n KINGHAM D 08:44 \n KINGS SUTTON D 08:59 \n KINTBURY D 08:49 \n MORETON-IN-MARSH D 08:44 \n NEWBURY D 09:14 \n NEWBURY RACECOURSE D 09:14 \n OXFORD D 08:58 \n OXFORD PARKWAY D 09:30\n RADLEY D 08:59\n SHIPTON D 08:44\n TACKLEY D 08:59\n READING D 09:30\n TILEHURST D 09:15\n PANGBOURNE D 09:15\n GORING & STREATLEY D 09:15 \n CHOLSEY D 09:15",
+        "returnHtml": "<ul><li>Origin Description:</li><li>APPLEFORD D 08:40 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BASINGSTOKE D 08:59 </li><li>BEDWYN D 08:49 </li><li>BICESTER VILLAGE D 09:30 </li><li>BRAMLEY (HANTS) D 08:59 </li><li>CHARLBURY D 08:44 </li><li>DIDCOT PARKWAY D 09:26 </li><li>HANBOROUGH D 08:59 </li><li>HEYFORD D 08:59 </li><li>HONEYBOURNE D 08:40 </li><li>HUNGERFORD D 08:49 </li><li>ISLIP D 09:30 </li><li>KINGHAM D 08:44 </li><li>KINGS SUTTON D 08:59 </li><li>KINTBURY D 08:49 </li><li>MORETON-IN-MARSH D 08:44 </li><li>NEWBURY D 09:14 </li><li>NEWBURY RACECOURSE D 09:14 </li><li>OXFORD D 08:58 </li><li>OXFORD PARKWAY D 09:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>TACKLEY D 08:59</li><li>READING D 09:30</li><li>TILEHURST D 09:15</li><li>PANGBOURNE D 09:15</li><li>GORING & STREATLEY D 09:15 </li><li>CHOLSEY D 09:15</li></ul>",
+        "returnText": "Origin Description:\n APPLEFORD D 08:40 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BASINGSTOKE D 08:59 \n BEDWYN D 08:49 \n BICESTER VILLAGE D 09:30 \n BRAMLEY (HANTS) D 08:59 \n CHARLBURY D 08:44 \n DIDCOT PARKWAY D 09:26 \n HANBOROUGH D 08:59 \n HEYFORD D 08:59 \n HONEYBOURNE D 08:40 \n HUNGERFORD D 08:49 \n ISLIP D 09:30 \n KINGHAM D 08:44 \n KINGS SUTTON D 08:59 \n KINTBURY D 08:49 \n MORETON-IN-MARSH D 08:44 \n NEWBURY D 09:14 \n NEWBURY RACECOURSE D 09:14 \n OXFORD D 08:58 \n OXFORD PARKWAY D 09:30\n RADLEY D 08:59\n SHIPTON D 08:44\n TACKLEY D 08:59\n READING D 09:30\n TILEHURST D 09:15\n PANGBOURNE D 09:15\n GORING & STREATLEY D 09:15 \n CHOLSEY D 09:15"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "FY": {
+    "code": "FY",
+    "name": "FY",
+    "id": "420C516874344C729785F3DFE4F79338",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/fy",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday (except Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday (except Bank Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Restriction Code; FY</li><li>Applicable days; Mondays to Fridays</li><li>Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions</li><li>Origin Description:</li><li>APPLEFORD D 08:59 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BROMSGROVE D 07:39 </li><li>CHARLBURY D 08:44 </li><li>COLWALL D 07:59 </li><li>COMBE OXON D 08:44 </li><li>CULHAM D 08:59 </li><li>DROITWICH SPA D 07:44 </li><li>EVESHAM D 08:44 </li><li>FINSTOCK D 08:44 </li><li>GREAT MALVERN D 07:59 </li><li>HANBOROUGH D 08:59 </li><li>HEREFORD D 06:59 </li><li>HONEYBOURNE D 08:44 </li><li>KINGHAM D 08:44 </li><li>LEDBURY D 07:59 </li><li>MALVERN LINK D 07:59 </li><li>MORETON-IN-MARSH D 08:44 </li><li>OXFORD D 09:03 </li><li>PERSHORE D 08:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>WORCESTERSHIRE PARKWAY D 08:30 </li><li>WORCESTER STATIONS D 08:15</li></ul>",
+        "outwardText": "Restriction Code; FY\n Applicable days; Mondays to Fridays\n Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions\n Origin Description:\n APPLEFORD D 08:59 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BROMSGROVE D 07:39 \n CHARLBURY D 08:44 \n COLWALL D 07:59 \n COMBE OXON D 08:44 \n CULHAM D 08:59 \n DROITWICH SPA D 07:44 \n EVESHAM D 08:44 \n FINSTOCK D 08:44 \n GREAT MALVERN D 07:59 \n HANBOROUGH D 08:59 \n HEREFORD D 06:59 \n HONEYBOURNE D 08:44 \n KINGHAM D 08:44 \n LEDBURY D 07:59 \n MALVERN LINK D 07:59 \n MORETON-IN-MARSH D 08:44 \n OXFORD D 09:03 \n PERSHORE D 08:30\n RADLEY D 08:59\n SHIPTON D 08:44\n WORCESTERSHIRE PARKWAY D 08:30 \n WORCESTER STATIONS D 08:15",
+        "returnHtml": "<ul><li>Restriction Code; FY</li><li>Applicable days; Mondays to Fridays</li><li>Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions</li><li>Origin Description:</li><li>APPLEFORD D 08:59 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BROMSGROVE D 07:39 </li><li>CHARLBURY D 08:44 </li><li>COLWALL D 07:59 </li><li>COMBE OXON D 08:44 </li><li>CULHAM D 08:59 </li><li>DROITWICH SPA D 07:44 </li><li>EVESHAM D 08:29 </li><li>FINSTOCK D 08:44 </li><li>GREAT MALVERN D 07:59 </li><li>HANBOROUGH D 08:59 </li><li>HEREFORD D 06:59 </li><li>HONEYBOURNE D 08:40 </li><li>KINGHAM D 08:44 </li><li>LEDBURY D 07:59 </li><li>MALVERN LINK D 07:59 </li><li>MORETON-IN-MARSH D 08:44 </li><li>OXFORD D 08:59 </li><li>PERSHORE D 08:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>WORCESTERSHIRE PARKWAY D 08:04 </li><li>WORCESTER STATIONS D 08:04</li></ul>",
+        "returnText": "Restriction Code; FY\n Applicable days; Mondays to Fridays\n Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions\n Origin Description:\n APPLEFORD D 08:59 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BROMSGROVE D 07:39 \n CHARLBURY D 08:44 \n COLWALL D 07:59 \n COMBE OXON D 08:44 \n CULHAM D 08:59 \n DROITWICH SPA D 07:44 \n EVESHAM D 08:29 \n FINSTOCK D 08:44 \n GREAT MALVERN D 07:59 \n HANBOROUGH D 08:59 \n HEREFORD D 06:59 \n HONEYBOURNE D 08:40 \n KINGHAM D 08:44 \n LEDBURY D 07:59 \n MALVERN LINK D 07:59 \n MORETON-IN-MARSH D 08:44 \n OXFORD D 08:59 \n PERSHORE D 08:30\n RADLEY D 08:59\n SHIPTON D 08:44\n WORCESTERSHIRE PARKWAY D 08:04 \n WORCESTER STATIONS D 08:04"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "FZ": {
+    "code": "FZ",
+    "name": "FZ",
+    "id": "E7723D2C15F743B48D588717BF7A783A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/fz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday (except Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday (except Bank Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<ul><li>Restriction Code; FZ</li><li>Applicable days; Mondays to Fridays</li><li>Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions</li><li>Origin Description:</li><li>APPLEFORD D 08:59 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BROMSGROVE D 07:39 </li><li>CHARLBURY D 08:44 </li><li>COLWALL D 07:59 </li><li>COMBE OXON D 08:44 </li><li>CULHAM D 08:59 </li><li>DROITWICH SPA D 07:44 </li><li>EVESHAM D 08:29 </li><li>FINSTOCK D 08:44 </li><li>GREAT MALVERN D 07:59 </li><li>HANBOROUGH D 08:59 </li><li>HEREFORD D 06:59 </li><li>HONEYBOURNE D 08:40 </li><li>KINGHAM D 08:44 </li><li>LEDBURY D 07:59 </li><li>MALVERN LINK D 07:59 </li><li>MORETON-IN-MARSH D 08:44 </li><li>OXFORD D 08:59 </li><li>PERSHORE D 08:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>WORCESTERSHIRE PARKWAY D 08:04 </li><li>WORCESTER STATIONS D 08:04</li></ul>",
+        "outwardText": "Restriction Code; FZ\n Applicable days; Mondays to Fridays\n Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions\n Origin Description:\n APPLEFORD D 08:59 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BROMSGROVE D 07:39 \n CHARLBURY D 08:44 \n COLWALL D 07:59 \n COMBE OXON D 08:44 \n CULHAM D 08:59 \n DROITWICH SPA D 07:44 \n EVESHAM D 08:29 \n FINSTOCK D 08:44 \n GREAT MALVERN D 07:59 \n HANBOROUGH D 08:59 \n HEREFORD D 06:59 \n HONEYBOURNE D 08:40 \n KINGHAM D 08:44 \n LEDBURY D 07:59 \n MALVERN LINK D 07:59 \n MORETON-IN-MARSH D 08:44 \n OXFORD D 08:59 \n PERSHORE D 08:30\n RADLEY D 08:59\n SHIPTON D 08:44\n WORCESTERSHIRE PARKWAY D 08:04 \n WORCESTER STATIONS D 08:04",
+        "returnHtml": "<ul><li>Restriction Code; FZ</li><li>Applicable days; Mondays to Fridays</li><li>Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions</li><li>Origin Description:</li><li>APPLEFORD D 08:59 </li><li>ASCOTT-UNDER-WYCHWOOD D 08:44 </li><li>BANBURY D 08:59 </li><li>BROMSGROVE D 07:39 </li><li>CHARLBURY D 08:44 </li><li>COLWALL D 07:59 </li><li>COMBE OXON D 08:44 </li><li>CULHAM D 08:59 </li><li>DROITWICH SPA D 07:44 </li><li>EVESHAM D 08:29 </li><li>FINSTOCK D 08:44 </li><li>GREAT MALVERN D 07:59 </li><li>HANBOROUGH D 08:59 </li><li>HEREFORD D 06:59 </li><li>HONEYBOURNE D 08:40 </li><li>KINGHAM D 08:44 </li><li>LEDBURY D 07:59 </li><li>MALVERN LINK D 07:59 </li><li>MORETON-IN-MARSH D 08:44 </li><li>OXFORD D 08:59 </li><li>PERSHORE D 08:30</li><li>RADLEY D 08:59</li><li>SHIPTON D 08:44</li><li>WORCESTERSHIRE PARKWAY D 08:04 </li><li>WORCESTER STATIONS D 08:04</li></ul>",
+        "returnText": "Restriction Code; FZ\n Applicable days; Mondays to Fridays\n Not valid on trains timed to depart after 04:29 and before 09:30 (08:30 on the Isle of Wight), except: Return Restrictions\n Origin Description:\n APPLEFORD D 08:59 \n ASCOTT-UNDER-WYCHWOOD D 08:44 \n BANBURY D 08:59 \n BROMSGROVE D 07:39 \n CHARLBURY D 08:44 \n COLWALL D 07:59 \n COMBE OXON D 08:44 \n CULHAM D 08:59 \n DROITWICH SPA D 07:44 \n EVESHAM D 08:29 \n FINSTOCK D 08:44 \n GREAT MALVERN D 07:59 \n HANBOROUGH D 08:59 \n HEREFORD D 06:59 \n HONEYBOURNE D 08:40 \n KINGHAM D 08:44 \n LEDBURY D 07:59 \n MALVERN LINK D 07:59 \n MORETON-IN-MARSH D 08:44 \n OXFORD D 08:59 \n PERSHORE D 08:30\n RADLEY D 08:59\n SHIPTON D 08:44\n WORCESTERSHIRE PARKWAY D 08:04 \n WORCESTER STATIONS D 08:04"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G1": {
+    "code": "G1",
+    "name": "G1",
+    "id": "39DB0E44B6BA424286C5E2FE93C67100",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g1",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>By any train except those timed to depart Mondays‐Fridays before 09:30 but if fare is £8.50 or more, an AnyTrain Offpeak must be issued.</p>",
+        "outwardText": "By any train except those timed to depart Mondays‐Fridays before 09:30 but if fare is £8.50 or more, an AnyTrain Offpeak must be issued.",
+        "returnHtml": "<p>By any train except those timed to depart Monday - Fridays before 09:30</p>",
+        "returnText": "By any train except those timed to depart Monday - Fridays before 09:30"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G2": {
+    "code": "G2",
+    "name": "G2",
+    "id": "4F85F0DEEB704BC6964C54F73F12A31F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g2",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>The evening peak restriction ONLY is lifted on Monday 24 December, Thursday 27 December, Friday 28 December and Monday 31 December 2018.</p>",
+    "seasonalVariationsText": "The evening peak restriction ONLY is lifted on Monday 24 December, Thursday 27 December, Friday 28 December and Monday 31 December 2018.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>By any train except those timed to depart Mondays‐Fridays before 09:26 but if fare is £8.50 or more, an AnyTrain Offpeak must be issued.</p><p>The restriction for this ticket is generally 09:30 but an easement applies to this journey.</p>",
+        "outwardText": "By any train except those timed to depart Mondays‐Fridays before 09:26 but if fare is £8.50 or more, an AnyTrain Offpeak must be issued.\n The restriction for this ticket is generally 09:30 but an easement applies to this journey.",
+        "returnHtml": "<p>By any train except those timed to depart Mondays - Fridays before 09:26</p>",
+        "returnText": "By any train except those timed to depart Mondays - Fridays before 09:26"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G3": {
+    "code": "G3",
+    "name": "G3",
+    "id": "F4217073762A407F9746508B7F33DDBA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g3",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>GWR Temporary Restriction Code used during engineering work.</p>",
+    "applicableDaysText": "Monday to Friday\n GWR Temporary Restriction Code used during engineering work.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p><strong>For Travel from Monday 12 to Thursday 15 August 2024:</strong></p><p>Travelling via Hereford and Oxford, not valid on trains to depart Hereford before 06:56.</p><p>Travelling via Newport (South Wales), not valid on trains timed to depart Newport (South Wales) before 02:00 or after 05:45 and before 08:46.</p><p>Not valid on trains timed to arrive at Euston before 11:30</p><p>Not valid on trains timed to arrive at London Waterloo before 09:52.</p>",
+        "outwardText": "For Travel from Monday 12 to Thursday 15 August 2024:\n Travelling via Hereford and Oxford, not valid on trains to depart Hereford before 06:56.\n Travelling via Newport (South Wales), not valid on trains timed to depart Newport (South Wales) before 02:00 or after 05:45 and before 08:46.\n Not valid on trains timed to arrive at Euston before 11:30\n Not valid on trains timed to arrive at London Waterloo before 09:52.",
+        "returnHtml": "<p><strong>For Travel from Monday 12 to Thursday 15 August 2024:</strong></p><p><strong>Travelling via Evesham</strong></p><p>Not valid on trains timed to depart:</p><ul><li>London Paddington before 09:12 and after 16:40 until 18:32. <strong>(also valid at 08:51 and 17:57)</strong></li><li>Reading before 09:39 and after 17:03 until 18:56. <strong>(also valid at 09:18 and 18:24)</strong></li><li>Didcot before 09:53</li><li>London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45</li></ul><p><strong>Travelling via Newport (South Wales)</strong></p><p>Not valid on trains timed to depart:</p><ul><li>London Paddington before 09:12 and after 16:40 until 18:32.</li><li>Reading before 09:39 and after 17:03 until 18:56.</li><li>Didcot before 09:53</li><li>London Waterloo before 08:15.</li><li>Clapham Junction before 08:20.</li></ul><p></p>",
+        "returnText": "For Travel from Monday 12 to Thursday 15 August 2024:\n Travelling via Evesham\n Not valid on trains timed to depart:\n London Paddington before 09:12 and after 16:40 until 18:32. (also valid at 08:51 and 17:57)\n Reading before 09:39 and after 17:03 until 18:56. (also valid at 09:18 and 18:24)\n Didcot before 09:53\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45\n Travelling via Newport (South Wales)\n Not valid on trains timed to depart:\n London Paddington before 09:12 and after 16:40 until 18:32.\n Reading before 09:39 and after 17:03 until 18:56.\n Didcot before 09:53\n London Waterloo before 08:15.\n Clapham Junction before 08:20."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G5": {
+    "code": "G5",
+    "name": "G5",
+    "id": "873FACD37C914D3EABC4935A5CF60369",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g5",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid to depart the origin station shown on the ticket until 09:30</p>",
+        "outwardText": "Not valid to depart the origin station shown on the ticket until 09:30",
+        "returnHtml": "<p>Valid via any train</p>",
+        "returnText": "Valid via any train"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G6": {
+    "code": "G6",
+    "name": "G6",
+    "id": "6A9B1DE72C424B5D8FCC00604A135B1E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid to depart the origin station shown on the ticket until 09:15</p>",
+        "outwardText": "Not valid to depart the origin station shown on the ticket until 09:15",
+        "returnHtml": "<p>Valid via any train</p>",
+        "returnText": "Valid via any train"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G7": {
+    "code": "G7",
+    "name": "G7",
+    "id": "97772C161608403C86AC2DF40733EF24",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g7",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid to depart the origin station shown on the ticket until 09:30</p>",
+        "outwardText": "Not valid to depart the origin station shown on the ticket until 09:30",
+        "returnHtml": "<p>Valid via any train</p>",
+        "returnText": "Valid via any train"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G8": {
+    "code": "G8",
+    "name": "G8",
+    "id": "4A796DBF5D2F4ADA8AB9409B8FFB5276",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g8",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction GJ usually applies. Validity will match GJ unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction GJ usually applies. Validity will match GJ unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the time shown from the following stations:</p><ul><li>08:30 from Ashchurch for Tewksbury</li><li>08:33 from Bristol Temple Meads and Bristol Parkway</li><li>08:33 from Cam & Dursley</li><li>08:25 from Cheltenham Spa</li><li>08:45 from Filton Abbey Wood</li><li>09:00 from Gloucester</li><li>08:05 from Swindon</li><li>07:16 from Worcester Foregate Street</li><li>08:05 from Worcester Shrub Hill</li><li>08:05 from Worcestershire Parkway</li><li>08:33 from Yate</li></ul><p>Not valid to arrive at Exeter Central, Exeter St Davids or Exeter St Thomas before 09:41</p><p>Not valid to arrive at Salisbury before 09:11</p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the time shown from the following stations:\n 08:30 from Ashchurch for Tewksbury\n 08:33 from Bristol Temple Meads and Bristol Parkway\n 08:33 from Cam & Dursley\n 08:25 from Cheltenham Spa\n 08:45 from Filton Abbey Wood\n 09:00 from Gloucester\n 08:05 from Swindon\n 07:16 from Worcester Foregate Street\n 08:05 from Worcester Shrub Hill\n 08:05 from Worcestershire Parkway\n 08:33 from Yate\n Not valid to arrive at Exeter Central, Exeter St Davids or Exeter St Thomas before 09:41\n Not valid to arrive at Salisbury before 09:11",
+        "returnHtml": "<p></p><p>Not valid for travel on trains timed to depart after 04:29 and before the time shown from the following stations:</p><ul><li>08:30 from Ashchurch for Tewksbury</li><li>08:33 from Bristol Temple Meads and Bristol Parkway</li><li>08:33 from Cam & Dursley</li><li>08:25 from Cheltenham Spa</li><li>08:45 from Filton Abbey Wood</li><li>09:00 from Gloucester</li><li>08:05 from Swindon</li><li>07:16 from Worcester Foregate Street</li><li>08:05 from Worcester Shrub Hill</li><li>08:05 from Worcestershire Parkway</li><li>08:33 from Yate</li></ul><p>Not valid to arrive at Exeter Central, Exeter St Davids or Exeter St Thomas before 09:41</p><p>Not valid to arrive at Salisbury before 09:11</p><p></p>",
+        "returnText": "Not valid for travel on trains timed to depart after 04:29 and before the time shown from the following stations:\n 08:30 from Ashchurch for Tewksbury\n 08:33 from Bristol Temple Meads and Bristol Parkway\n 08:33 from Cam & Dursley\n 08:25 from Cheltenham Spa\n 08:45 from Filton Abbey Wood\n 09:00 from Gloucester\n 08:05 from Swindon\n 07:16 from Worcester Foregate Street\n 08:05 from Worcester Shrub Hill\n 08:05 from Worcestershire Parkway\n 08:33 from Yate\n Not valid to arrive at Exeter Central, Exeter St Davids or Exeter St Thomas before 09:41\n Not valid to arrive at Salisbury before 09:11"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "G9": {
+    "code": "G9",
+    "name": "G9",
+    "id": "74DC59549AE94707B32D2C168E77911B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/g9",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>For journeys from/via Birmingham on CrossCountry, use restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62059.aspx\" title=\"\">2V</a>.For journeys via Nottingham, use restriction code<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62295.aspx\" title=\"\">CG</a>.</p>",
+    "notesText": "For journeys from/via Birmingham on CrossCountry, use restriction code 2V .For journeys via Nottingham, use restriction code CG .",
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Monday 23rd Dec through to Friday 3rd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Monday 23rd Dec through to Friday 3rd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> before 11:30;(Restrictions do not apply on Fridays)</li><li><strong>London</strong><strong>Paddington</strong> after 04:29 and before 10:44;</li><li><strong>London</strong><strong>Marylebone</strong> after 04:29 and before 11:30;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 10:48;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 and before 10:45(Restrictions do not apply on Fridays)</li></ul>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Euston before 11:30;(Restrictions do not apply on Fridays)\n London Paddington after 04:29 and before 10:44;\n London Marylebone after 04:29 and before 11:30;\n Milton Keynes Central after 04:29 and before 10:48;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 and before 10:45(Restrictions do not apply on Fridays)",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 and after 15:00 and before 18:45 (Restrictions do not apply on Fridays)</li><li><strong>London</strong><strong>Paddington</strong> after 04:29 and before 08:10 and after 16:40 and before 18:31;</li><li><strong>London</strong><strong>Marylebone</strong> after 05:59 until 09:00 or after 16:00 and before 19:00;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51;(Restrictions do not apply on Fridays)</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 and before 09:38 and after 15:00 and before 18:38.(Restrictions do not apply on Fridays)</li></ul>",
+        "returnText": "Not valid on trains timed to depart:\n London Euston after 04:29 and before 09:26 and after 15:00 and before 18:45 (Restrictions do not apply on Fridays)\n London Paddington after 04:29 and before 08:10 and after 16:40 and before 18:31;\n London Marylebone after 05:59 until 09:00 or after 16:00 and before 19:00;\n Milton Keynes Central after 04:29 and before 09:51;(Restrictions do not apply on Fridays)\n Watford Junction after 04:29 and before 09:38 and after 15:00 and before 18:38.(Restrictions do not apply on Fridays)"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "GA": {
+    "code": "GA",
+    "name": "GA",
+    "id": "711DD24D423A46FCAB5DE94008AE6C79",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ga",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on London North Eastern Railway (TOC Code: GR) and connecting services.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on London North Eastern Railway (TOC Code: GR) and connecting services.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "GC": {
+    "code": "GC",
+    "name": "GC",
+    "id": "D59B266DFB4E4B7E9B6055B489D1A5A8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/gc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on London North Eastern Railway (TOC Code: GR) and connecting services.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on London North Eastern Railway (TOC Code: GR) and connecting services.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "GD": {
+    "code": "GD",
+    "name": "GD",
+    "id": "48C080451F9B4B46A833D947BC717DE7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/gd",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on London North Eastern Railway and connecting services.</p><p>(Free) seat reservations are compulsory.</p><p>Restrictions apply on connecting trains from Kent into London St Pancras International and vice versa via line High Speed 1 (HS1) on Mondays to Fridays as follows:</p><ul><li>Not valid on HS1 trains timed to arrive in London St Pancras International after 04:29 and before 09:59;</li><li>Not valid on HS1 trains timed to depart London St Pancras International after 15:59 until 18:59.</li></ul>",
+        "outwardText": "Valid on London North Eastern Railway and connecting services.\n (Free) seat reservations are compulsory.\n Restrictions apply on connecting trains from Kent into London St Pancras International and vice versa via line High Speed 1 (HS1) on Mondays to Fridays as follows:\n Not valid on HS1 trains timed to arrive in London St Pancras International after 04:29 and before 09:59;\n Not valid on HS1 trains timed to depart London St Pancras International after 15:59 until 18:59.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "GF": {
+    "code": "GF",
+    "name": "GF",
+    "id": "D5075B2E02F74083B46268B11D13E401",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/gf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>The evening peak restriction ONLY is lifted on Monday 29 December, Tuesday 30 December and Wednesday 31 December 2025.</p>",
+    "seasonalVariationsText": "The evening peak restriction ONLY is lifted on Monday 29 December, Tuesday 30 December and Wednesday 31 December 2025.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart before 09:30.</p><p>In addition, not valid on any train departing Birmingham New Street, Birmingham Snow Hill, Birmingham Moor Street, Five Ways or Jewellery Quarter between 16:34 and 18:01.</p><p>This does not apply if passengers hold tickets for through journeys, i.e. if a change of train is required at one of these five stations to complete their journey.</p><p>If fare is £8.80 or more, an 'nNetwork Daytripper' should be issued.</p>",
+        "outwardText": "Not valid on trains timed to depart before 09:30.\n In addition, not valid on any train departing Birmingham New Street, Birmingham Snow Hill, Birmingham Moor Street, Five Ways or Jewellery Quarter between 16:34 and 18:01.\n This does not apply if passengers hold tickets for through journeys, i.e. if a change of train is required at one of these five stations to complete their journey.\n If fare is £8.80 or more, an 'nNetwork Daytripper' should be issued.",
+        "returnHtml": "<p>Not valid on trains timed to depart before 09:30.</p><p>In addition, not valid Mondays ‐ Fridays on any train departing Birmingham New Street, Birmingham Snow Hill, Birmingham Moor Street, Five Ways or Jewellery Quarter between 16:34 and 18:01.</p><p>This does not apply if passengers hold tickets for through journeys, i.e. if a change of train is required at one of these five stations to complete their journey.</p>",
+        "returnText": "Not valid on trains timed to depart before 09:30.\n In addition, not valid Mondays ‐ Fridays on any train departing Birmingham New Street, Birmingham Snow Hill, Birmingham Moor Street, Five Ways or Jewellery Quarter between 16:34 and 18:01.\n This does not apply if passengers hold tickets for through journeys, i.e. if a change of train is required at one of these five stations to complete their journey."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "GG": {
+    "code": "GG",
+    "name": "GG",
+    "id": "96903BED9F4F4C55999AAF9C55D894F4",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/gg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Every day</p>",
+    "applicableDaysText": "Monday to Friday\n Every day",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on the specific LNER service only</p>",
+        "outwardText": "Valid on the specific LNER service only",
+        "returnHtml": "<p>Not applicable</p>",
+        "returnText": "Not applicable"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "GI": {
+    "code": "GI",
+    "name": "GI",
+    "id": "544791FEAAD34E9BAEF5AD98C47BC3FD",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/gi",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart Newport (South Wales) after 05:45 and before 08:46.  (Also valid on the 07:37 service from Newport to London Paddington.)</p><p>Not valid on trains timed to arrive at London Waterloo before 09:52.</p>",
+        "outwardText": "Not valid on trains timed to depart Newport (South Wales) after 05:45 and before 08:46. (Also valid on the 07:37 service from Newport to London Paddington.)\n Not valid on trains timed to arrive at London Waterloo before 09:52.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington before 09:12 and after 16:40 until 18:32.</li><li>Reading before 09:39 and after 17:03 until 18:56.</li><li>Didcot before 09:53</li><li>London Waterloo before 08:15.</li><li>Clapham Junction before 08:20.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Paddington before 09:12 and after 16:40 until 18:32.\n Reading before 09:39 and after 17:03 until 18:56.\n Didcot before 09:53\n London Waterloo before 08:15.\n Clapham Junction before 08:20."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

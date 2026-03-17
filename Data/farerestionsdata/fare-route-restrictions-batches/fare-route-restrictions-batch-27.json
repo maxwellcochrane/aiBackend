@@ -1,0 +1,502 @@
+{
+  "91": {
+    "code": 91,
+    "name": "DUMFRIES NOT LDN",
+    "description": "DUMFRIES NOT LONDON",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Dumfries, not valid via London Terminals.",
+    "rspDisplayName": "Only via Dumfries/not valid via London",
+    "enabledForMapPlotting": true
+  },
+  "92": {
+    "code": 92,
+    "name": "VIA HUDDERSFIELD",
+    "description": "VIA HUDDERSFIELD",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Huddersfield.",
+    "rspDisplayName": "Valid only via Huddersfield",
+    "enabledForMapPlotting": true
+  },
+  "93": {
+    "code": 93,
+    "name": "VIA DUMFRIES",
+    "description": "VIA DUMFRIES",
+    "startDate": "2015-09-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Dumfries.",
+    "rspDisplayName": "Valid only via Dumfries",
+    "enabledForMapPlotting": true
+  },
+  "94": {
+    "code": 94,
+    "name": "CAL SLEEPER SEAT",
+    "description": "CAL SLEEPER SEAT",
+    "startDate": "2019-06-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on the Caledonian Sleeper service in seated accommodation.",
+    "rspDisplayName": "Caledonian Sleeper seated coach only",
+    "enabledForMapPlotting": true
+  },
+  "95": {
+    "code": 95,
+    "name": "VIA YORK",
+    "description": "VIA YORK",
+    "startDate": "2021-09-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) York.",
+    "rspDisplayName": "Valid only via York",
+    "enabledForMapPlotting": true
+  },
+  "96": {
+    "code": 96,
+    "name": "NOT VIA CARDIFF",
+    "description": "NOT VIA CARDIFF",
+    "startDate": "2019-07-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Cardiff.",
+    "rspDisplayName": "Not valid via Cardiff",
+    "enabledForMapPlotting": true
+  },
+  "97": {
+    "code": 97,
+    "name": "LONDN NOT DNCSTR",
+    "description": "LONDON NOT DONCASTER",
+    "startDate": "2017-06-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) London Terminals, not valid via Doncaster.",
+    "rspDisplayName": "Only via London, but not via Doncaster",
+    "enabledForMapPlotting": true
+  },
+  "901": {
+    "code": 901,
+    "name": "CROYDON TRAMLINK",
+    "description": "CROYDON TRAMLINK",
+    "startDate": "1999-05-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the London Tramlink service.",
+    "rspDisplayName": "Valid via the London Tramlink service",
+    "enabledForMapPlotting": true
+  },
+  "902": {
+    "code": 902,
+    "name": "DLR/NOT LONDON",
+    "description": "DLR/NOT LONDON",
+    "startDate": "2025-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid on High Speed services, not valid via London Terminals.",
+    "rspDisplayName": "Not valid on HS1 or via London",
+    "enabledForMapPlotting": true
+  },
+  "908": {
+    "code": 908,
+    "name": "M TO F 0400-0930",
+    "description": "M TO F 0400-0930",
+    "startDate": "2005-12-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid Monday to Friday 0400-0930",
+    "rspDisplayName": "Valid Monday to Friday 0400-0930",
+    "enabledForMapPlotting": true
+  },
+  "910": {
+    "code": 910,
+    "name": "FIRST X10/X30",
+    "description": "FIRST X10/X30",
+    "startDate": "2021-04-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the First X22 or X30 bus service.",
+    "rspDisplayName": "Via First X22 or X30 bus service",
+    "enabledForMapPlotting": true
+  },
+  "911": {
+    "code": 911,
+    "name": "VIA SEVERN TUNNL",
+    "description": "VIA SEVERN TUNNEL",
+    "startDate": "2019-12-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Severn Tunnel",
+    "rspDisplayName": "Valid only via Severn Tunnel",
+    "enabledForMapPlotting": false
+  },
+  "912": {
+    "code": 912,
+    "name": "VIA OXFORD PKWAY",
+    "description": "VIA OXFORD PARKWAY",
+    "startDate": "2024-09-06",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only via (changing trains or passing through) Oxford Parkway.",
+    "rspDisplayName": "Valid only via Oxford Parkway",
+    "enabledForMapPlotting": false
+  },
+  "920": {
+    "code": 920,
+    "name": "LONDON ZN3-6+HS1",
+    "description": "London Zones 3-6 Plus High Speed 1",
+    "startDate": "2018-12-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 3-6; also valid on Southeastern high speed services.",
+    "rspDisplayName": "Via London Zones 3-6; also High Speed",
+    "enabledForMapPlotting": false
+  },
+  "921": {
+    "code": 921,
+    "name": "VIA MAIDSTONE+HS",
+    "description": "VIA MAIDSTONE+HS",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Maidstone. Also valid on Southeastern high speed services.",
+    "rspDisplayName": "Only via Maidstone; also on High Speed",
+    "enabledForMapPlotting": true
+  },
+  "922": {
+    "code": 922,
+    "name": "LONDON ZN1-6+HS1",
+    "description": "LONDON ZN1-6+HS1",
+    "startDate": "2018-12-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 1-6; also valid on Southeastern high speed services.",
+    "rspDisplayName": "Via London Zones 1-6; also High Speed",
+    "enabledForMapPlotting": true
+  },
+  "923": {
+    "code": 923,
+    "name": "LONDON ZONES 1-6",
+    "description": "LONDON ZONES 1-6",
+    "startDate": "2023-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 1-6.",
+    "rspDisplayName": "Valid in London Fare Zones 1-6",
+    "enabledForMapPlotting": true
+  },
+  "926": {
+    "code": 926,
+    "name": "LONDON ZONES 2-6",
+    "description": "LONDON ZONES 2-6",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 2-6.",
+    "rspDisplayName": "Valid in London Fare Zones 2-6",
+    "enabledForMapPlotting": true
+  },
+  "928": {
+    "code": 928,
+    "name": "LONDON ZONES 3-6",
+    "description": "LONDON ZONES 3-6",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 3-6.",
+    "rspDisplayName": "Valid in London Fare Zones 3-6",
+    "enabledForMapPlotting": true
+  },
+  "929": {
+    "code": 929,
+    "name": "LONDON ZONES 4-6",
+    "description": "LONDON ZONES 4-6",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 4-6.",
+    "rspDisplayName": "Valid in London Fare Zones 4-6",
+    "enabledForMapPlotting": true
+  },
+  "930": {
+    "code": 930,
+    "name": "ZONE U1 LONDN",
+    "description": "ZONE U1 LONDN",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via London Underground services in Zone 1.",
+    "rspDisplayName": "Via London Underground Zone 1",
+    "enabledForMapPlotting": true
+  },
+  "931": {
+    "code": 931,
+    "name": "SCR & TPE ONLY",
+    "description": "Valid on ScotRail and TPE Only",
+    "startDate": "2023-07-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "932": {
+    "code": 932,
+    "name": "ZONE U12*  LONDN",
+    "description": "ZONE U12* LONDON",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via London Underground services in Zones 1 and 2.",
+    "rspDisplayName": "Via London Underground Zones 1 and 2",
+    "enabledForMapPlotting": true
+  },
+  "940": {
+    "code": 940,
+    "name": "ZONE U34* LONDN",
+    "description": "ZONE U34* LONDN",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via London Underground or Docklands Light Railway services in Zones 3 and 4.",
+    "rspDisplayName": "Via Underground/DLR Zones 3 and 4",
+    "enabledForMapPlotting": true
+  },
+  "945": {
+    "code": 945,
+    "name": "SWR&RA2 VIA WOK",
+    "description": "SWR & RA2 VIA WOKING",
+    "startDate": "2021-10-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "946": {
+    "code": 946,
+    "name": "VIA SWANSEA",
+    "description": "VIA SWANSEA",
+    "startDate": "2011-10-04",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Swansea.",
+    "rspDisplayName": "Valid only via Swansea",
+    "enabledForMapPlotting": true
+  },
+  "947": {
+    "code": 947,
+    "name": "VIA BARNHAM",
+    "description": "VIA BARNHAM",
+    "startDate": "2023-10-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Barnham.",
+    "rspDisplayName": "Valid only via Barnham",
+    "enabledForMapPlotting": true
+  },
+  "948": {
+    "code": 948,
+    "name": "FELTHAM TFL BUS",
+    "description": "FELTHAM TFL BUS",
+    "startDate": "2018-10-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid for travel via Feltham using the Transport for London bus service.",
+    "rspDisplayName": "Via Feltham Transport for London Bus",
+    "enabledForMapPlotting": true
+  },
+  "950": {
+    "code": 950,
+    "name": "LIPBS-RLAIR WOKG",
+    "description": "LIPHOOK BUS-RAILAIR WOKING",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via Liphook Bus service and Woking RailAir service.",
+    "rspDisplayName": "Via Liphook bus & Woking RailAir coach",
+    "enabledForMapPlotting": true
+  },
+  "951": {
+    "code": 951,
+    "name": "AP RAILAIR READG",
+    "description": "AP RAILAIR READING",
+    "startDate": "2018-10-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked trains and required connecting services.",
+    "rspDisplayName": "On specified trains & connections only",
+    "enabledForMapPlotting": true
+  },
+  "952": {
+    "code": 952,
+    "name": "HEATHROW AIRBUS",
+    "description": "HEATHROW AIRBUS SERVICE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Heathrow Airbus service.",
+    "rspDisplayName": "Valid via Heathrow Airbus service",
+    "enabledForMapPlotting": true
+  },
+  "953": {
+    "code": 953,
+    "name": "RAILAIR READING",
+    "description": "RAILAIR READING",
+    "startDate": "2018-10-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on the RailAir coach service via Reading.",
+    "rspDisplayName": "RailAir Coach via Reading",
+    "enabledForMapPlotting": true
+  },
+  "954": {
+    "code": 954,
+    "name": "RAILAIR WOKING",
+    "description": "RAILAIR WOKING",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on the RailAir coach service via Woking.",
+    "rspDisplayName": "RailAir Coach via Woking",
+    "enabledForMapPlotting": true
+  },
+  "955": {
+    "code": 955,
+    "name": "GWR ONLY (00955)",
+    "description": "GWR ONLY (00955)",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Great Western Only Group",
+    "rspDisplayName": "GREAT WESTERN ONLY GROUP",
+    "enabledForMapPlotting": true
+  },
+  "956": {
+    "code": 956,
+    "name": "GWR ONLY (00956)",
+    "description": "GWR ONLY (00956)",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "957": {
+    "code": 957,
+    "name": "VIA AIRDRIE",
+    "description": "VIA AIRDRIE",
+    "startDate": "2018-11-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Airdrie.",
+    "rspDisplayName": "Valid only via Airdrie",
+    "enabledForMapPlotting": false
+  },
+  "958": {
+    "code": 958,
+    "name": "PAISLEY COACH",
+    "description": "PAISLEY COACH",
+    "startDate": "2017-09-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the Glasgow Airport buslink service, interchanging at Paisley station.",
+    "rspDisplayName": "Via Paisley-Glasgow Airport coach",
+    "enabledForMapPlotting": true
+  },
+  "959": {
+    "code": 959,
+    "name": "VIA GLDFRD & RA2",
+    "description": "VIA GUILDFORD & RA2",
+    "startDate": "2023-04-27",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "960": {
+    "code": 960,
+    "name": "LONDON DAY OUT",
+    "description": "LONDON DAY OUT",
+    "startDate": "1996-06-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "London Day Out",
+    "rspDisplayName": "London Day Out",
+    "enabledForMapPlotting": true
+  },
+  "961": {
+    "code": 961,
+    "name": "BLAENAU FFEST FR",
+    "description": "BLAENAU FFESTINIOG (FFESTINIOG RLY)",
+    "startDate": "2017-09-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only via Blaenau Ffestiniog (Ffestiniog Railway)",
+    "rspDisplayName": "Via Blaenau Ffestiniog (Ffest Railway)",
+    "enabledForMapPlotting": true
+  },
+  "962": {
+    "code": 962,
+    "name": "MINFFORDD FR",
+    "description": "MINFFORDD (FFESTINIOG RLY)",
+    "startDate": "1995-06-10",
+    "endDate": "2999-09-18",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Minffordd (Ffestiniog Railway).",
+    "rspDisplayName": "Via Minffordd (Ffestiniog Railway)",
+    "enabledForMapPlotting": true
+  },
+  "963": {
+    "code": 963,
+    "name": "AP ECTL & GWR",
+    "description": "AP ECTL & GWR",
+    "startDate": "2021-07-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo and GWR services.",
+    "rspDisplayName": "Lumo & GWR only",
+    "enabledForMapPlotting": false
+  },
+  "965": {
+    "code": 965,
+    "name": "LONDON ZONES 5-6",
+    "description": "LONDON ZONES 5-6",
+    "startDate": "2009-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid in London Fare Zones 5-6.",
+    "rspDisplayName": "Valid in London Fare Zones 5-6",
+    "enabledForMapPlotting": true
+  },
+  "967": {
+    "code": 967,
+    "name": "AP LUMO & SWR",
+    "description": "AP LUMO & SWR",
+    "startDate": "2023-02-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo and South Western Railway services.",
+    "rspDisplayName": "Lumo & SWR only",
+    "enabledForMapPlotting": false
+  },
+  "968": {
+    "code": 968,
+    "name": "AP ECTL & TPE",
+    "description": "AP ECTL & TPE",
+    "startDate": "2021-07-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo and TransPennine Express services.",
+    "rspDisplayName": "Lumo & TPE only",
+    "enabledForMapPlotting": false
+  },
+  "969": {
+    "code": 969,
+    "name": "AP LUMO & SCOTRL",
+    "description": "AP LUMO & SCOTRAIL",
+    "startDate": "2023-02-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo and ScotRail services.",
+    "rspDisplayName": "Lumo & ScotRail only",
+    "enabledForMapPlotting": false
+  },
+  "970": {
+    "code": 970,
+    "name": "SPAL PBRO BUS",
+    "description": "SPALDING - PETERBOROUGH BUS",
+    "startDate": "2026-01-28",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Spalding-Peterborough bus service.",
+    "rspDisplayName": "Valid via Spalding-Peterborough bus",
+    "enabledForMapPlotting": true
+  },
+  "971": {
+    "code": 971,
+    "name": "SCOTTISH EXEC",
+    "description": "SCOTTISH EXECUTIVE",
+    "startDate": "1995-05-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Scottish Executive Ticket.",
+    "rspDisplayName": "Scottish Executive Ticket",
+    "enabledForMapPlotting": true
+  },
+  "972": {
+    "code": 972,
+    "name": "GWR ONLY (00972)",
+    "description": "GWR ONLY (00972)",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "90019": {
+    "code": 90019,
+    "name": "RST NATIONAL RA",
+    "description": "RST NATIONAL RAIL ONLY",
+    "startDate": "2021-04-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  }
+}

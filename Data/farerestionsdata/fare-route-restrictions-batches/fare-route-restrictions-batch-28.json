@@ -1,0 +1,162 @@
+{
+  "98": {
+    "code": 98,
+    "name": "NOT VIA DONCASTR",
+    "description": "NOT VIA DONCASTER",
+    "startDate": "2017-06-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Doncaster.",
+    "rspDisplayName": "Not valid via Doncaster",
+    "enabledForMapPlotting": true
+  },
+  "99": {
+    "code": 99,
+    "name": "NOT VIA DARLNGTN",
+    "description": "NOT VIA DARLINGTON",
+    "startDate": "2026-02-06",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Darlington.",
+    "rspDisplayName": "Not valid via Darlington",
+    "enabledForMapPlotting": true
+  },
+  "976": {
+    "code": 976,
+    "name": "COACH RTE LEEDS",
+    "description": "COACH ROUTE LEEDS",
+    "startDate": "2015-11-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via the Leeds-Bradford Airport buslink service, interchanging at Leeds station",
+    "rspDisplayName": "Via Leeds and Leeds-Bradford Airpt Bus",
+    "enabledForMapPlotting": true
+  },
+  "980": {
+    "code": 980,
+    "name": "HLYHD IRISHF CIV",
+    "description": "HLYHD IRISHF CIV",
+    "startDate": "2023-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead Irish Ferries service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead Irish Ferries (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "981": {
+    "code": 981,
+    "name": "ANY PERM+WIGHTLK",
+    "description": "ANY PERM+WIGHTLK",
+    "startDate": "2023-11-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel by any permitted route and Wightlink crossing.",
+    "rspDisplayName": "Valid by any permitted route&Wightlink",
+    "enabledForMapPlotting": true
+  },
+  "982": {
+    "code": 982,
+    "name": "ANY PERM+HOVRTVL",
+    "description": "ANY PERM+HOVRTVL",
+    "startDate": "2023-11-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the Hovertravel service.",
+    "rspDisplayName": "Valid via the Hovertravel service",
+    "enabledForMapPlotting": true
+  },
+  "983": {
+    "code": 983,
+    "name": "HLYHD STENA CIV",
+    "description": "HLYHD STENA CIV",
+    "startDate": "2023-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead Stena Line  HSS service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead Stena Line HSS (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "984": {
+    "code": 984,
+    "name": "HOLYHD STENA SHP",
+    "description": "HOLYHEAD STENA SHIP",
+    "startDate": "2023-03-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead Stena Line ship service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead Stena Ship (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "985": {
+    "code": 985,
+    "name": "FSHGRD STENA CIV",
+    "description": "FSHGRD STENA CIV",
+    "startDate": "2023-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Stena Line ferry service Fishguard Harbour-Rosslare. CIV rules apply.",
+    "rspDisplayName": "Via Fishguard Stena Line (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "989": {
+    "code": 989,
+    "name": "CAIRNRYAN STENA",
+    "description": "CAIRNRYAN STENA",
+    "startDate": "2023-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via the Stena Line ferry service Cairnryan-Belfast",
+    "rspDisplayName": "Via Cairnryan - Belfast Stena Line",
+    "enabledForMapPlotting": true
+  },
+  "990": {
+    "code": 990,
+    "name": "HLHD IF SHIP CIV",
+    "description": "HLHD IF SHIP CIV",
+    "startDate": "2023-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead-Dublin Irish Ferries ship service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead Irish Ferries Ship (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "991": {
+    "code": 991,
+    "name": "HLHD SL DLO CIV",
+    "description": "HLHD SL DLO CIV",
+    "startDate": "2023-06-30",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead-Dun Laoghaire Stena Line service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead-Dun Laoghaire Stena (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "992": {
+    "code": 992,
+    "name": "HLHD SL SHIP CIV",
+    "description": "HLHD SL SHIP CIV",
+    "startDate": "2023-03-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead Stena Line ship service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead Stena Line Ship (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "993": {
+    "code": 993,
+    "name": "HLHD IF SWFT CIV",
+    "description": "HLHD IF SWFT CIV",
+    "startDate": "2023-03-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Holyhead-Dublin Irish Ferries Swift service. CIV rules apply.",
+    "rspDisplayName": "Via Holyhead Irish Ferries SWIFT (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "996": {
+    "code": 996,
+    "name": "ISLE OF MAN SPC",
+    "description": "ISLE OF MAN STEAM PACKET COMPANY",
+    "startDate": "2023-06-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via Heysham or Liverpool and Isle of Man Steam Packet Company ferry service. Reservation is required before travel - obtain this directly from the Isle of Man Steam Packet Company",
+    "rspDisplayName": "Via Isle of Man Steam Packet Company",
+    "enabledForMapPlotting": true
+  },
+  "998": {
+    "code": 998,
+    "name": "VIA UNDERGRD/DLR",
+    "description": "VIA UNDERGRD/DLR",
+    "startDate": "2022-05-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on London Underground, Elizabeth line (Paddington-Abbey Wood), or DLR services.",
+    "rspDisplayName": "Only via London Underground/DLR",
+    "enabledForMapPlotting": true
+  }
+}

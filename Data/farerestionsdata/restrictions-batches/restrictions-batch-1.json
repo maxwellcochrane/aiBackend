@@ -1,0 +1,522 @@
+{
+  "22": {
+    "code": 22,
+    "name": "22",
+    "id": "5EA54CBA043B406EBC4013AD7314FB66",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/22",
+    "applicableDaysHtml": "<p>All days, including public holidays</p><br /><p>A</p>",
+    "applicableDaysText": "All days, including public holidays\n A",
+    "notesHtml": "<p>F</p>",
+    "notesText": "F",
+    "seasonalVariationsHtml": "<p>G</p>",
+    "seasonalVariationsText": "G",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>C</p>",
+        "outwardText": "C",
+        "returnHtml": "<p>D</p>",
+        "returnText": "D"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "23": {
+    "code": 23,
+    "name": "23",
+    "id": "1741BD5D868341AB89A96FE7949E9A96",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/23",
+    "applicableDaysHtml": "<p>All days, including public holidays</p><br /><p>A</p>",
+    "applicableDaysText": "All days, including public holidays\n A",
+    "notesHtml": "<p>F</p>",
+    "notesText": "F",
+    "seasonalVariationsHtml": "<p>G</p>",
+    "seasonalVariationsText": "G",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>C</p>",
+        "outwardText": "C",
+        "returnHtml": "<p>D</p>",
+        "returnText": "D"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "26": {
+    "code": 26,
+    "name": "26",
+    "id": "DAE17A4F7E3242F5BA7E4E7C7AE3BD04",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/26",
+    "applicableDaysHtml": "<p>All days, including public holidays</p><br /><p>A</p>",
+    "applicableDaysText": "All days, including public holidays\n A",
+    "notesHtml": "<p>E</p>",
+    "notesText": "E",
+    "seasonalVariationsHtml": "<p>F</p>",
+    "seasonalVariationsText": "F",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>B</p>",
+        "outwardText": "B",
+        "returnHtml": "<p>C</p>",
+        "returnText": "C"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1A": {
+    "code": "1A",
+    "name": "1A",
+    "id": "B6D99C656BC84F59B7B1E7B995EEF380",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1a",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>School Holidays - Evening peak restrictions on return journeys from London Liverpool Street and Stratford (London) (which only apply to Ipswich and beyond) and from Liverpool Street and Tottenham Hale (which only apply to Brandon and beyond via Cambridge) are lifted during school holidays and half-term weeks. Note that restrictions from London Kings Cross are not affected and remain in place.</p><p><strong>2024</strong></p><p>Summer: Monday 22 July to Tuesday 3 September</p><p>\nAutumn Half-Term: Friday 25 October to Friday 1 November</p><p>\nChristmas and New Year: Monday 23 December to Friday 3 January 2025.</p><p><strong>2025</strong></p><p>Half-Term: Monday 17 to Friday 21 February</p><p>\nEaster: Monday 7 to Tuesday 22 April (Friday 18 and Monday 21 April are public holidays)</p><p>\nHalf-Term: Tuesday 27 to Friday 30 May (Monday 26 May is a public holiday)</p><p>\nSummer: Starts 23 July</p><p>All dates are inclusive and are taken from the Norfolk County Council website.</p>",
+    "seasonalVariationsText": "School Holidays - Evening peak restrictions on return journeys from London Liverpool Street and Stratford (London) (which only apply to Ipswich and beyond) and from Liverpool Street and Tottenham Hale (which only apply to Brandon and beyond via Cambridge) are lifted during school holidays and half-term weeks. Note that restrictions from London Kings Cross are not affected and remain in place.\n 2024\n Summer: Monday 22 July to Tuesday 3 September\nAutumn Half-Term: Friday 25 October to Friday 1 November\nChristmas and New Year: Monday 23 December to Friday 3 January 2025.\n 2025\n Half-Term: Monday 17 to Friday 21 February\nEaster: Monday 7 to Tuesday 22 April (Friday 18 and Monday 21 April are public holidays)\nHalf-Term: Tuesday 27 to Friday 30 May (Monday 26 May is a public holiday)\nSummer: Starts 23 July\n All dates are inclusive and are taken from the Norfolk County Council website.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on any train timed to arrive at London Liverpool Street (or London Kings Cross or London St Pancras International from East Anglia via Cambridge) before 04:30 and after 09:59, and at Stratford (London) after 09:44 and Tottenham Hale after 09:45.</p>",
+        "outwardText": "Valid on any train timed to arrive at London Liverpool Street (or London Kings Cross or London St Pancras International from East Anglia via Cambridge) before 04:30 and after 09:59, and at Stratford (London) after 09:44 and Tottenham Hale after 09:45.",
+        "returnHtml": "<p>Valid on any train departing London Liverpool Street (or London Kings Cross or passing through London St Pancras International to East Anglia via Cambridge) after 09:29, except to Ipswich and beyond (or to Brandon and beyond via Cambridge) between 16:31 and 18:35.</p><p>Valid on north- or eastbound trains departing Stratford (London) after 09:29 except to Ipswich and beyond (or to Brandon and beyond via Cambridge) between 16:36 and 18:43.</p><p>Valid on northbound trains departing Tottenham Hale after 09:29 except, to Brandon and beyond via Cambridge, between 16:41 and 18:46.</p>",
+        "returnText": "Valid on any train departing London Liverpool Street (or London Kings Cross or passing through London St Pancras International to East Anglia via Cambridge) after 09:29, except to Ipswich and beyond (or to Brandon and beyond via Cambridge) between 16:31 and 18:35.\n Valid on north- or eastbound trains departing Stratford (London) after 09:29 except to Ipswich and beyond (or to Brandon and beyond via Cambridge) between 16:36 and 18:43.\n Valid on northbound trains departing Tottenham Hale after 09:29 except, to Brandon and beyond via Cambridge, between 16:41 and 18:46."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1C": {
+    "code": "1C",
+    "name": "1C",
+    "id": "13CC03C7A5B64F42B6DF58BB7857956B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1c",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays.</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive in London Liverpool Street or London Kings Cross after 04:29 and before 10:00.</p>",
+        "outwardText": "Not valid on trains timed to arrive in London Liverpool Street or London Kings Cross after 04:29 and before 10:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart London Terminals after 04:29 and before 09:30</p>",
+        "returnText": "Not valid on trains timed to depart London Terminals after 04:29 and before 09:30"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1D": {
+    "code": "1D",
+    "name": "1D",
+    "id": "B2D439D5F02346878B08B5EF1E2F382C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1d",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.</p><p>Customers must not travel on CrossCountry services before 09:30.</p>",
+    "notesText": "Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.\n Customers must not travel on CrossCountry services before 09:30.",
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n\nRestrictions will be eased on Monday 4th May and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. \n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\nRestrictions will be eased on Monday 4th May and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for arrivals into:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:03;</li><li><strong>London</strong><strong>Euston</strong> after 07:19 and before 11:30;</li><li><strong>Stevenage</strong> after 03:59 and before 09:57;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 10:04;</li><li><strong>Bedford</strong> after 04:29 and before 09:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 06:43 and before 10:45 except to Carlisle;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 06:38 and before 10:48.</li></ul>",
+        "outwardText": "Not valid for arrivals into:\n London Terminals (except as shown below) after 04:29 and before 10:08;\n London Liverpool Street after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 10:03;\n London Euston after 07:19 and before 11:30;\n Stevenage after 03:59 and before 09:57;\n Luton or Luton Airport Parkway after 04:29 and before 10:04;\n Bedford after 04:29 and before 09:30 ;\n Watford Junction after 06:43 and before 10:45 except to Carlisle;\n Milton Keynes Central after 06:38 and before 10:48.",
+        "returnHtml": "<p>Not valid for departures from:</p><ul><li><strong>London Terminals</strong> (except as shown below) Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 or after 16:29 and before 18:59;</li><li><strong>London St Pancras International</strong> after 04:29 and before 09:00 or after 16:34 and before 18:47;</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 or after 15:00 and before 18:45;</li><li><strong>Stevenage</strong> Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15</li><li><strong>Luton</strong> after 04:29 and before 09:01 or after 16:26 and before 18:59;</li><li><strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 or after 16:29 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 09:01;</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 and before 09:38 or after 14:38 and before 18:38;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51.</li></ul>",
+        "returnText": "Not valid for departures from:\n London Terminals (except as shown below) Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;\n London Liverpool Street after 04:29 and before 09:30 or after 16:29 and before 18:59;\n London St Pancras International after 04:29 and before 09:00 or after 16:34 and before 18:47;\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45;\n Stevenage Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15\n Luton after 04:29 and before 09:01 or after 16:26 and before 18:59;\n Luton Airport Parkway after 04:29 and before 09:01 or after 16:29 and before 18:59;\n Bedford after 04:29 and before 09:01;\n Watford Junction after 04:29 and before 09:38 or after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:51."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1E": {
+    "code": "1E",
+    "name": "1E",
+    "id": "4BCD5947256E4F06B00851806C7236CF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1e",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays.</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays.",
+    "notesHtml": "<p>Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.</p><p>Customers must not travel on CrossCountry services before 09:30.</p><p>Valid on all Caledonian Sleeper services (with supplement).</p>",
+    "notesText": "Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.\n Customers must not travel on CrossCountry services before 09:30.\n Valid on all Caledonian Sleeper services (with supplement).",
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice.\n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for arrivals into:</p><ul><li><strong>London Terminals</strong> (except as shown below) after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:05;</li><li><strong>London Euston</strong> after 04:29 and before 10:05, except on Caledonian Sleeper services (with supplement);</li><li><strong>Stevenage</strong> after 03:59 and before 09:57;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 10:04;</li><li><strong>Bedford</strong> after 04:29 and before 09:30;</li><li><strong>Watford Junction</strong> after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement);</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement).</li></ul>",
+        "outwardText": "Not valid for arrivals into:\n London Terminals (except as shown below) after 04:29 and before 10:08;\n London Liverpool Street after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 10:05;\n London Euston after 04:29 and before 10:05, except on Caledonian Sleeper services (with supplement);\n Stevenage after 03:59 and before 09:57;\n Luton or Luton Airport Parkway after 04:29 and before 10:04;\n Bedford after 04:29 and before 09:30;\n Watford Junction after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement);\n Milton Keynes Central after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement).",
+        "returnHtml": "<p>Not valid for departures from:</p><ul><li><strong>London Terminals</strong> (except as shown below) Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 or after 16:29 and before 18:59;</li><li><strong>London St Pancras International</strong> after 04:29 and before 09:00 or after 16:26 and before 18:59;</li><li><strong>London Euston</strong> after 04:29 and before 09:05 or after 15:00 and before 18:45;</li><li><strong>Stevenage</strong> Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 or after 16:26 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 09:02;</li><li><strong>Watford Junction</strong> after 04:29 and before 09:00 or after 14:38 and before 18:38;</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 09:00.</li></ul>",
+        "returnText": "Not valid for departures from:\n London Terminals (except as shown below) Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;\n London Liverpool Street after 04:29 and before 09:30 or after 16:29 and before 18:59;\n London St Pancras International after 04:29 and before 09:00 or after 16:26 and before 18:59;\n London Euston after 04:29 and before 09:05 or after 15:00 and before 18:45;\n Stevenage Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15\n Luton or Luton Airport Parkway after 04:29 and before 09:01 or after 16:26 and before 18:59;\n Bedford after 04:29 and before 09:02;\n Watford Junction after 04:29 and before 09:00 or after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1F": {
+    "code": "1F",
+    "name": "1F",
+    "id": "FC64AFC92A1B487A905864712BC59D93",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1f",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>As advertised</p>",
+    "applicableDaysText": "Monday to Friday\n As advertised",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>As advertised</p>",
+        "outwardText": "As advertised",
+        "returnHtml": "<p>Not applicable</p>",
+        "returnText": "Not applicable"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1K": {
+    "code": "1K",
+    "name": "1K",
+    "id": "54E3D6E053A14F4186D9123079895DC7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1k",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.</p><p>Customers must not travel on CrossCountry services before 09:30.</p>",
+    "notesText": "Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.\n Customers must not travel on CrossCountry services before 09:30.",
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice.\n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for arrivals into:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 04:29 and before 11:17;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>London St Pancras International</strong> after 04:29 and before 11:26;</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 10:05, except on Caledonian Sleepers (with supplement);</li><li><strong>Stevenage</strong> after 04:29 and before 10:55;</li><li><strong>Luton</strong> after 02:29 and before 11:04;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 11:16 and after 15:15 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 10:31<strong>;</strong></li><li><strong>Watford Junction</strong> after 04:29 and before 10:20, except on Caledonian Sleepers (with supplement);</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 10:20, except on Caledonian Sleepers (with supplement).</li></ul><p></p>",
+        "outwardText": "Not valid for arrivals into:\n London Terminals (except as shown below) after 04:29 and before 11:17;\n London Liverpool Street after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 11:26;\n London Euston after 04:29 and before 10:05, except on Caledonian Sleepers (with supplement);\n Stevenage after 04:29 and before 10:55;\n Luton after 02:29 and before 11:04;\n Luton Airport Parkway after 02:29 and before 11:16 and after 15:15 and before 18:59;\n Bedford after 04:29 and before 10:31 ;\n Watford Junction after 04:29 and before 10:20, except on Caledonian Sleepers (with supplement);\n Milton Keynes Central after 04:29 and before 10:20, except on Caledonian Sleepers (with supplement).",
+        "returnHtml": "<p>Not valid for departures from:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 and after 16:29 and before 18:34;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:05 and after 15:34 and before 18:47;</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:05;</li><li><strong>Stevenage</strong> after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);</li><li><strong>Luton</strong> after 02:29 and before 10:25 and after 15:23 and before 19:23;</li><li>​​​​​​​<strong>Luton Airport Parkway</strong> after 02:29 and before 10:51 and after 15:08 and before 19:10;</li><li><strong>Bedford</strong> after 04:29 and before 10:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 04:29 and before 09:00;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:00.</li></ul><p></p>",
+        "returnText": "Not valid for departures from:\n London Terminals (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);\n London Liverpool Street after 04:29 and before 09:30 and after 16:29 and before 18:34;\n London St Pancras International after 04:29 and before 10:05 and after 15:34 and before 18:47;\n London Euston after 04:29 and before 09:05;\n Stevenage after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);\n Luton after 02:29 and before 10:25 and after 15:23 and before 19:23;\n ​​​​​​​ Luton Airport Parkway after 02:29 and before 10:51 and after 15:08 and before 19:10;\n Bedford after 04:29 and before 10:30 ;\n Watford Junction after 04:29 and before 09:00;\n Milton Keynes Central after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1L": {
+    "code": "1L",
+    "name": "1L",
+    "id": "9B778045FFC54C76978345FBB135C7FA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1l",
+    "applicableDaysHtml": "<p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday",
+    "notesHtml": "<p>Break of journey is permitted: For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.</p><p>Customers must not travel on CrossCountry services before 09:30.</p><p>Valid on Caledonian Sleeper services (with supplement).</p>",
+    "notesText": "Break of journey is permitted: For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.\n Customers must not travel on CrossCountry services before 09:30.\n Valid on Caledonian Sleeper services (with supplement).",
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions. </p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice.\n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for arrivals into:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 04:29 and before 11:17;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>London St Pancras International</strong> after 04:29 and before 11:26 (including trains passing through);</li><li><strong>London</strong><strong>Euston</strong> after 07:19 and before 11:31;</li><li><strong>Stevenage</strong> after 04:29 and before 10:55;</li><li><strong>Luton</strong> after 02:29 and before 11:03;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 11:16;</li><li><strong>Bedford</strong> after 04:29 and before 10:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 06:43 and before 10:48;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 06:38 and before 10:49.</li></ul><p></p>",
+        "outwardText": "Not valid for arrivals into:\n London Terminals (except as shown below) after 04:29 and before 11:17;\n London Liverpool Street after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 11:26 (including trains passing through);\n London Euston after 07:19 and before 11:31;\n Stevenage after 04:29 and before 10:55;\n Luton after 02:29 and before 11:03;\n Luton Airport Parkway after 02:29 and before 11:16;\n Bedford after 04:29 and before 10:30 ;\n Watford Junction after 06:43 and before 10:48;\n Milton Keynes Central after 06:38 and before 10:49.",
+        "returnHtml": "<p>Not valid for departures from:</p><ul><li><strong>London</strong><strong>Terminals</strong> (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);</li><li><strong>London Liverpool Street</strong>  after 04:29 and before 09:30 or after 16:28 and before 18:35;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:05 and after 15:34 and before 18:47 (including trains passing through);</li><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 and after 15:00 and before 18:45;</li><li><strong>Stevenage</strong> after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);</li><li><strong>Luton</strong> after 02:29 and before 10:25 and after 15:23 and before 19:23;</li><li><strong>Luton Airport Parkway</strong> after 02:29 and before 10:51 and after 15:08 and before 19:10;</li><li><strong>Bedford</strong> after 04:29 and before 10:30<strong>;</strong></li><li><strong>Watford Junction</strong> after 04:29 and before 09:38 and after 14:38 and before 18:38;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51.</li></ul><p></p>",
+        "returnText": "Not valid for departures from:\n London Terminals (except as shown below) after 02:59 and before 09:06 and after 14:59 and before 18:59 (18:15 on Fridays);\n London Liverpool Street   after 04:29 and before 09:30 or after 16:28 and before 18:35;\n London St Pancras International after 04:29 and before 10:05 and after 15:34 and before 18:47 (including trains passing through);\n London Euston after 04:29 and before 09:26 and after 15:00 and before 18:45;\n Stevenage after 02:59 and before 09:19 and after 15:07 and before 19:01 (18:35 on Fridays);\n Luton after 02:29 and before 10:25 and after 15:23 and before 19:23;\n Luton Airport Parkway after 02:29 and before 10:51 and after 15:08 and before 19:10;\n Bedford after 04:29 and before 10:30 ;\n Watford Junction after 04:29 and before 09:38 and after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:51."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1S": {
+    "code": "1S",
+    "name": "1S",
+    "id": "6E0D8FD5C0EA471E951DBC17830B0C79",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1s",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": "<p>Valid by any train on Saturdays, Sundays and Bank Holidays.</p>",
+    "notesText": "Valid by any train on Saturdays, Sundays and Bank Holidays.",
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be lifted between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between 3rd April 2026 and 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.\n</p><p></p><p></p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be lifted between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between 3rd April 2026 and 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train Mon-Fri</p>",
+        "outwardText": "Not valid on any train Mon-Fri",
+        "returnHtml": "<p>Not valid on any train Mon-Fri</p>",
+        "returnText": "Not valid on any train Mon-Fri"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1T": {
+    "code": "1T",
+    "name": "1T",
+    "id": "6EE0E7AA3BD846F9AEF777F2CF47932C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1t",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.</p><p>Customers must not travel on CrossCountry services before 09:30.</p>",
+    "notesText": "Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.\n Customers must not travel on CrossCountry services before 09:30.",
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice.\n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for departures from:</p><ul><li><strong>London Terminals</strong> (except as shown below), Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 or after 16:29 and before 18:59;</li><li><strong>London St Pancras International</strong> after 04:29 and before 09:00 or after 16:34 and before 18:47;</li><li><strong>London Euston</strong> after 04:29 and before 09:26 or after 15:00 and before 18:45;</li><li><strong>Stevenage</strong>, Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15;</li><li><strong>Luton</strong> after 04:29 and before 09:01 or after 16:26 and before 18:59;</li><li><strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 or after 16:29 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 09:01;</li><li><strong>Watford Junction</strong> after 04:29 and before 09:38 or after 14:38 and before 18:38;</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 09:51.</li></ul>",
+        "outwardText": "Not valid for departures from:\n London Terminals (except as shown below), Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;\n London Liverpool Street after 04:29 and before 09:30 or after 16:29 and before 18:59;\n London St Pancras International after 04:29 and before 09:00 or after 16:34 and before 18:47;\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45;\n Stevenage , Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15;\n Luton  after 04:29 and before 09:01 or after 16:26 and before 18:59;\n Luton Airport Parkway after 04:29 and before 09:01 or after 16:29 and before 18:59;\n Bedford after 04:29 and before 09:01;\n Watford Junction after 04:29 and before 09:38 or after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:51.",
+        "returnHtml": "<p>Not valid for arrivals into:</p><ul><li><strong>London Terminals</strong> (except as shown below) after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:05;</li><li><strong>London Euston</strong> after 07:19 and before 11:30;</li><li><strong>Stevenage</strong> after 03:59 and before 09:57</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 10:04;</li><li><strong>Bedford</strong> after 04:29 and before 09:30;</li><li><strong>Watford Junction</strong> after 06:43 and before 10:45;</li><li><strong>Milton Keynes Central</strong> after 06:38 and before 10:48</li></ul>",
+        "returnText": "Not valid for arrivals into:\n London Terminals (except as shown below) after 04:29 and before 10:08;\n London Liverpool Street after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 10:05;\n London Euston after 07:19 and before 11:30;\n Stevenage after 03:59 and before 09:57\n Luton or Luton Airport Parkway after 04:29 and before 10:04;\n Bedford after 04:29 and before 09:30;\n Watford Junction after 06:43 and before 10:45;\n Milton Keynes Central after 06:38 and before 10:48"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1U": {
+    "code": "1U",
+    "name": "1U",
+    "id": "A17113F0514C4A36A19C6F5E9798297B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1u",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>For journeys to southern England on CrossCountry services via Birmingham use restriction code 2V or 8X as appropriate.</p>",
+    "notesText": "For journeys to southern England on CrossCountry services via Birmingham use restriction code 2V or 8X as appropriate.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to <strong>arrive</strong>:</p><ul><li><strong>London Kings Cross</strong> after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> before 10:00;</li><li><strong>London St Pancras Internationa</strong>l before 10:05;</li><li><strong>London Euston</strong> - after 07:19 and before 11:30;</li><li><strong>Stevenage</strong> after 03:59 and before 09:57;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> before 10:04;</li><li><strong>Bedford</strong> before 09:30;</li><li><strong>Watford Junction</strong> - after 06:43 and before 10:45;</li><li><strong>Milton Keynes Central</strong> - after 06:38 and before 10:48;</li></ul><p>.</p>",
+        "outwardText": "Not valid on trains timed to arrive :\n London Kings Cross after 04:29 and before 10:08;\n London Liverpool Street before 10:00;\n London St Pancras Internationa l before 10:05;\n London Euston - after 07:19 and before 11:30;\n Stevenage after 03:59 and before 09:57;\n Luton or Luton Airport Parkway before 10:04;\n Bedford before 09:30;\n Watford Junction - after 06:43 and before 10:45;\n Milton Keynes Central - after 06:38 and before 10:48;\n .",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London Liverpool Street</strong> before 09:30;</li><li><strong>London St Pancras International</strong> before 09:01 or after 16:26 until 18:59;</li><li><strong>London Euston</strong> - before 09:30 or after 15:00 until 18:45;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> before 09:01 or after 16:26 until 18:59;</li><li><strong>Bedford</strong> before 09:02;</li><li><strong>Watford Junction</strong> - before 09:38 or after 14:38 until 19:14;</li><li><strong>Milton Keynes Central</strong> - before 09:51 or after 15:14 until 19:14;</li><li><strong>Bath Spa</strong> before 08:57;</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n London Liverpool Street before 09:30;\n London St Pancras International before 09:01 or after 16:26 until 18:59;\n London Euston - before 09:30 or after 15:00 until 18:45;\n Luton or Luton Airport Parkway before 09:01 or after 16:26 until 18:59;\n Bedford before 09:02;\n Watford Junction - before 09:38 or after 14:38 until 19:14;\n Milton Keynes Central - before 09:51 or after 15:14 until 19:14;\n Bath Spa before 08:57;"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1V": {
+    "code": "1V",
+    "name": "1V",
+    "id": "491790D5A13D4BF98505ECA91D55C317",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1v",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.</p><p>Customers must not travel on CrossCountry services before 09:30.</p>",
+    "notesText": "Break of journey is permitted. For long-haul train journeys, if a customer begins their journey at such a time that the timetable does not facilitate completion of the journey into their destination, customers may break their journey overnight. The same time restrictions apply for any continuation of travel on day 2 in this scenario.\n Customers must not travel on CrossCountry services before 09:30.",
+    "seasonalVariationsHtml": "<p>Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice. </p><p>Restrictions will be eased on Monday 24th August 2026 in both directions. </p><p>Restrictions will be eased between 21nd December 2026 and 1st January 2027 in both directions.</p><p>Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be lifted for trains departing from and arriving at London Kings Cross and Stevenage on a Friday until further notice.\n Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21nd December 2026 and 1st January 2027 in both directions.\n Evening restrictions will be lifted for trains departing London Kings Cross and Stevenage on Thursday 2nd April 2026 due to the Easter Bank Holiday weekend. Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.\n Generally, Friday evening restriction easements apply on a Thursday before any Friday that is a Bank Holiday where travelling north from London Kings Cross or Stevenage.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for departures from:</p><ul><li><strong>London Terminals</strong> (except as shown below), Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 09:30 or after 16:29 and before 18:59;</li><li><strong>London St Pancras International</strong> after 04:29 and before 09:00 or after 16:26 and before 18:59;</li><li><strong>London Euston</strong> after 04:29 and before 09:05 or after 15:00 and before 18:45;</li><li><strong>Stevenage</strong>, Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 09:01 or after 16:26 and before 18:59;</li><li><strong>Bedford</strong> after 04:29 and before 09:02;</li><li><strong>Watford Junction</strong> after 04:29 and before 09:00 or after 14:38 and before 18:38;</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 09:00.</li></ul>",
+        "outwardText": "Not valid for departures from:\n London Terminals (except as shown below), Mondays to Thursdays after 06:44 and before 07:59 or after 15:57 and before 17:46 - or Fridays after 06:44 and before 07:59;\n London Liverpool Street  after 04:29 and before 09:30 or after 16:29 and before 18:59;\n London St Pancras International after 04:29 and before 09:00 or after 16:26 and before 18:59;\n London Euston after 04:29 and before 09:05 or after 15:00 and before 18:45;\n Stevenage , Mondays to Thursdays after 07:14 and before 08:15 or after 16:17 and before 17:58 - or Fridays after 07:14 and before 08:15;\n Luton or Luton Airport Parkway after 04:29 and before 09:01 or after 16:26 and before 18:59;\n Bedford after 04:29 and before 09:02;\n Watford Junction after 04:29 and before 09:00 or after 14:38 and before 18:38;\n Milton Keynes Central after 04:29 and before 09:00.",
+        "returnHtml": "<p>Not valid for arrivals into:</p><ul><li><strong>London Terminals</strong> (except as shown below) after 04:29 and before 10:08;</li><li><strong>London Liverpool Street</strong> after 04:29 and before 10:00;</li><li><strong>London St Pancras International</strong> after 04:29 and before 10:05;</li><li><strong>London Euston</strong> after 04:29 and before 10:05, except on Caledonian Sleeper services (with supplement);</li><li><strong>Stevenage</strong> after 03:59 and before 09:57</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> after 04:29 and before 10:04;</li><li><strong>Bedford</strong> after 04:29 and before 09:30;</li><li><strong>Watford Junction</strong> after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement);</li><li><strong>Milton Keynes Central</strong> after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement).</li></ul>",
+        "returnText": "Not valid for arrivals into:\n London Terminals (except as shown below) after 04:29 and before 10:08;\n London Liverpool Street after 04:29 and before 10:00;\n London St Pancras International after 04:29 and before 10:05;\n London Euston after 04:29 and before 10:05, except on Caledonian Sleeper services (with supplement);\n Stevenage after 03:59 and before 09:57\n Luton or Luton Airport Parkway after 04:29 and before 10:04;\n Bedford after 04:29 and before 09:30;\n Watford Junction after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement);\n Milton Keynes Central after 04:29 and before 10:20, except on Caledonian Sleeper services (with supplement)."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1X": {
+    "code": "1X",
+    "name": "1X",
+    "id": "3F57FDAB9FA340C8BF783DFFF79CA903",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1x",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": "<p>Break of journey is not permitted except to change trains.</p>",
+    "notesText": "Break of journey is not permitted except to change trains.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid at any time.</p>",
+        "outwardText": "Valid at any time.",
+        "returnHtml": "<p>Valid at any time.</p>",
+        "returnText": "Valid at any time."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "1Z": {
+    "code": "1Z",
+    "name": "1Z",
+    "id": "EC983E45029043F6A44393ECAF4B7C34",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/1z",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>No restrictions.</p><p>No refunds.</p>",
+        "outwardText": "No restrictions.\n No refunds.",
+        "returnHtml": "<p>No restrictions.</p><p>No refunds.</p>",
+        "returnText": "No restrictions.\n No refunds."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "2B": {
+    "code": "2B",
+    "name": "2B",
+    "id": "BCC06C8F301D4CCA996B6266C91294F8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/2b",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid after 04:29 and before 09:00.</p>",
+        "outwardText": "Not valid after 04:29 and before 09:00.",
+        "returnHtml": "<p>No restriction.</p>",
+        "returnText": "No restriction."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "2C": {
+    "code": "2C",
+    "name": "2C",
+    "id": "0C8144A68FC1460482A0800C2228944C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/2c",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>For Off-Peak travel via Hereford, Oxford & Newport see Restriction <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62360.aspx\" title=\"\">GK</a>/<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/92947.aspx\" title=\"\">GO</a>/<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/92829.aspx\" title=\"\">GN</a>.</p><p>For Super Off-Peak travel via Hereford, Oxford & Newport see Restriction <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/63008.aspx\" title=\"\">2Q</a>/<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/92953.aspx\" title=\"\">GQ</a>/<a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/92957.aspx\" title=\"\">GP</a>.</p><p>For journeys to/via Birmingham on CrossCountry see restriction code <a href=\"https://www.nationalrail.co.uk/times_fares/ticket_types/62059.aspx\" title=\"\">2V</a>.</p><p>Journeys between London and Liverpool are <strong>not</strong> valid via Manchester</p>",
+    "notesText": "For Off-Peak travel via Hereford, Oxford & Newport see Restriction GK / GO / GN .\n For Super Off-Peak travel via Hereford, Oxford & Newport see Restriction 2Q / GQ / GP .\n For journeys to/via Birmingham on CrossCountry see restriction code 2V .\n Journeys between London and Liverpool are not valid via Manchester",
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li><strong>London</strong><strong>Euston</strong> before 11:30 (Restrictions do not apply on Fridays)</li><li><strong>London</strong><strong>Kings Cross</strong> after 04:29<strong>and before</strong> 11:17;</li><li><strong>London Liverpool Street</strong> before 10:00;</li><li><strong>London</strong><strong>Marylebone</strong> before 11:30;</li><li><strong>London</strong><strong>Paddington</strong> before 10:10;</li><li><strong>London St Pancras International</strong> before 11:29;</li><li><strong>London</strong><strong>Waterloo</strong> before 10:00;</li><li><strong>Kensington Olympia</strong> before 11:00;</li><li><strong>Bedford</strong> before 09:30;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> before 10:04;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 06:38 and before 10:54 (Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> before 09:40;</li><li><strong>Stevenage</strong> after 03:59 and before 10:55;</li><li><strong>Stratford</strong> before 10:15;</li><li><strong>Watford</strong><strong>Junction</strong> after 06:43 and before 10:45 (Restrictions do not apply on Fridays)</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to arrive:\n London Euston before 11:30 (Restrictions do not apply on Fridays)\n London Kings Cross after 04:29 and before 11:17;\n London Liverpool Street before 10:00;\n London Marylebone before 11:30;\n London Paddington before 10:10;\n London St Pancras International before 11:29;\n London Waterloo before 10:00;\n Kensington Olympia before 11:00;\n Bedford before 09:30;\n Luton or Luton Airport Parkway before 10:04;\n Milton Keynes Central after 06:38 and before 10:54 (Restrictions do not apply on Fridays)\n Reading before 09:40;\n Stevenage after 03:59 and before 10:55;\n Stratford before 10:15;\n Watford Junction after 06:43 and before 10:45 (Restrictions do not apply on Fridays)",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li><strong>London</strong><strong>Euston</strong> after 04:29 and before 09:26 or after 15:00 and before 18:45 (Restrictions do not apply on Fridays)</li><li><strong>London Kings Cross</strong> after 02:59 and before 09:06 or after 14:59 and before 18:59 (18:15 on Fridays);</li><li><strong>London Liverpool Street</strong> before 09:31 or after 16:28 and before 18:35;</li><li><strong>London</strong><strong>Marylebone</strong> after 06:29 and before 09:00 or after 16:00 and before 19:00;</li><li><strong>London Paddington</strong> after 04:29 and before 08:10 and after 16:40 and before 18:31;</li><li><strong>London St Pancras International</strong> before 10:26 or after 15:15 and before 18:59;</li><li><strong>London</strong><strong>Waterloo</strong> before 08:15;</li><li><strong>Kensington Olympia</strong> before 09:15 or after 15:14 and before 18:12;</li><li><strong>Bedford</strong> after 04:29 and before 09:01;</li><li><strong>Luton</strong> or<strong>Luton Airport Parkway</strong> before 09:01 or after 16:29 and before 18:59;</li><li><strong>Milton Keynes</strong><strong>Central</strong> after 04:29 and before 09:51;(Restrictions do not apply on Fridays)</li><li><strong>Reading</strong> after 04:29 and before 08:35 and after 17:10 until 19:01;</li><li><strong>Stevenage</strong> after 02:59 and before 09:19 or after 15:06 and before 19:01 (18:35 on Fridays);</li><li><strong>Stratford</strong> after 17:04 and before 18:55;</li><li><strong>Watford</strong><strong>Junction</strong> after 04:29 and before 09:38 or after 15:00 and before 18:38.(Restrictions do not apply on Fridays)</li></ul>",
+        "returnText": "Not valid on trains timed to depart:\n London Euston after 04:29 and before 09:26 or after 15:00 and before 18:45 (Restrictions do not apply on Fridays)\n London Kings Cross after 02:59 and before 09:06 or after 14:59 and before 18:59 (18:15 on Fridays);\n London Liverpool Street before 09:31 or after 16:28 and before 18:35;\n London Marylebone after 06:29 and before 09:00 or after 16:00 and before 19:00;\n London Paddington after 04:29 and before 08:10 and after 16:40 and before 18:31;\n London St Pancras International before 10:26 or after 15:15 and before 18:59;\n London Waterloo before 08:15;\n Kensington Olympia before 09:15 or after 15:14 and before 18:12;\n Bedford after 04:29 and before 09:01;\n Luton or Luton Airport Parkway before 09:01 or after 16:29 and before 18:59;\n Milton Keynes Central after 04:29 and before 09:51;(Restrictions do not apply on Fridays)\n Reading after 04:29 and before 08:35 and after 17:10 until 19:01;\n Stevenage after 02:59 and before 09:19 or after 15:06 and before 19:01 (18:35 on Fridays);\n Stratford after 17:04 and before 18:55;\n Watford Junction after 04:29 and before 09:38 or after 15:00 and before 18:38.(Restrictions do not apply on Fridays)"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "2D": {
+    "code": "2D",
+    "name": "2D",
+    "id": "9D757FF0047C44FCA76ADC69DFCD1A40",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/2d",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan</li></ul><p></p>",
+    "seasonalVariationsText": "Peak Restrictions will be lifted from Friday 19th Dec through to Friday 2nd Jan",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive at London Euston before 11:25 (Restrictions do not apply on Fridays)</p>",
+        "outwardText": "Not valid on trains timed to arrive at London Euston before 11:25 (Restrictions do not apply on Fridays)",
+        "returnHtml": "<p>Not valid on trains timed to depart London Euston after 04:29 and before 09:27 or after 14:59 and before 18:46.(Restrictions do not apply on Fridays)</p>",
+        "returnText": "Not valid on trains timed to depart London Euston after 04:29 and before 09:27 or after 14:59 and before 18:46.(Restrictions do not apply on Fridays)"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "2L": {
+    "code": "2L",
+    "name": "2L",
+    "id": "3ADAE90B579E41508D04E87CD4873421",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/2l",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive</p>",
+    "seasonalVariationsText": "This restriction is lifted from 24th December 2021 until 03rd January 2022 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains scheduled to arrive in Leeds before 09:30.</p>",
+        "outwardText": "Not valid on trains scheduled to arrive in Leeds before 09:30.",
+        "returnHtml": "<p>By any train.</p>",
+        "returnText": "By any train."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

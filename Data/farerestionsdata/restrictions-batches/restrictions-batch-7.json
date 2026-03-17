@@ -1,0 +1,522 @@
+{
+  "AR": {
+    "code": "AR",
+    "name": "AR",
+    "id": "11ED24F563BC45789F1875C2926DA8B3",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ar",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on EMR (TOC Code: EMT) and connecting services.</p><p>Seat reservations are compulsory.</p><p>Restrictions apply on connecting trains from Kent into London St Pancras International and vice versa via line High Speed 1 (HS1) on Mondays to Fridays as follows:</p><ul><li>Not valid on HS1 trains timed to arrive in London St Pancras International before 09:59;</li><li>Not valid on HS1 trains timed to depart London St Pancras International after 15:59 until 19:00.</li></ul>",
+        "outwardText": "Valid on EMR (TOC Code: EMT) and connecting services.\n Seat reservations are compulsory.\n Restrictions apply on connecting trains from Kent into London St Pancras International and vice versa via line High Speed 1 (HS1) on Mondays to Fridays as follows:\n Not valid on HS1 trains timed to arrive in London St Pancras International before 09:59;\n Not valid on HS1 trains timed to depart London St Pancras International after 15:59 until 19:00.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "AS": {
+    "code": "AS",
+    "name": "AS",
+    "id": "B6C2390A500944A0992AC04C323195C5",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/as",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on EMR (TOC Code: EMR) services only.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on EMR (TOC Code: EMR) services only.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "AW": {
+    "code": "AW",
+    "name": "AW",
+    "id": "F04C0BF88E3F4C2AA660B9CD83A37142",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/aw",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mon-Fri excluding Bank Holidays</p>",
+    "applicableDaysText": "Monday to Friday\n Mon-Fri excluding Bank Holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Morning Travel",
+    "returnDirection": "Evening Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for journeys starting before 09.30</p>",
+        "outwardText": "Not valid for journeys starting before 09.30",
+        "returnHtml": "<p>Not valid for journeys starting between 16.00-18.29. Connections to journeys that started before 16.00 are unaffected by this restriction.</p>",
+        "returnText": "Not valid for journeys starting between 16.00-18.29. Connections to journeys that started before 16.00 are unaffected by this restriction."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B1": {
+    "code": "B1",
+    "name": "B1",
+    "id": "F18FADA8CCFD41F08BD7FF68891452DA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b1",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B2": {
+    "code": "B2",
+    "name": "B2",
+    "id": "AB61DD88DCAD425EABF8507635FE839B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b2",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:15."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B3": {
+    "code": "B3",
+    "name": "B3",
+    "id": "54AE173CE4714CD8ACD71CB2096CC48B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b3",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B4": {
+    "code": "B4",
+    "name": "B4",
+    "id": "5D7F6B7F89814B1B897B40B954632526",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b4",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B5": {
+    "code": "B5",
+    "name": "B5",
+    "id": "4604C8C3390B48C4AAEA262DE53B1314",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b5",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B6": {
+    "code": "B6",
+    "name": "B6",
+    "id": "66410FBE9E444FF3BBB17E0346F4F4C6",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b6",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays (excluding Bank Holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays (excluding Bank Holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:15."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B7": {
+    "code": "B7",
+    "name": "B7",
+    "id": "1D9E41955F77458F80A61B63D8A4E4C2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b7",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B8": {
+    "code": "B8",
+    "name": "B8",
+    "id": "FDD09D0B096C4032BEEE6758F9092235",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b8",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:45.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "B9": {
+    "code": "B9",
+    "name": "B9",
+    "id": "88FEB6F4F92A4728B663318B86948287",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/b9",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:30.",
+        "returnHtml": "<p> Not valid on trains timed to depart after 04:29 and before 07:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BB": {
+    "code": "BB",
+    "name": "BB",
+    "id": "D9BA03C026FE4CE7A289AF558411BAD8",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/bb",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart before 08.55</p>",
+        "outwardText": "Not valid on trains timed to depart before 08.55",
+        "returnHtml": "<p>Not valid on trains timed to depart before 08.55</p>",
+        "returnText": "Not valid on trains timed to depart before 08.55"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BC": {
+    "code": "BC",
+    "name": "BC",
+    "id": "58E907A2162E4D9FAE3EB51EC573045C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/bc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04.29 and before 09.00, except:  </p><p>Not valid on trains timed to depart Sevenoaks after 04.29 and before 09.10</p>",
+        "outwardText": "Not valid on trains timed to depart after 04.29 and before 09.00, except:\n Not valid on trains timed to depart Sevenoaks after 04.29 and before 09.10",
+        "returnHtml": "<p>Not valid on trains timed to depart before 09.00.</p>",
+        "returnText": "Not valid on trains timed to depart before 09.00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BD": {
+    "code": "BD",
+    "name": "BD",
+    "id": "379C16BEB44442DE9DE3F9B261EB2B4E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/bd",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Public Holidays</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Public Holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p></p><p></p>",
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive London Terminals after 04:29 and before 14:01.</p><p>Not valid to depart London Terminals after 04:29 and before 12:01, after 15:59 and before 19:01. Additionally, not valid to depart if boarding at the following stations:</p><ul><li>Clapham Junction: after 04:29 and before 12:01, after 15:59 and before 19:10</li><li>Vauxhall: after 04:29 and before 12:01, after 15:59 and before 19:05</li></ul><p>Not valid on CrossCountry services timed to depart after 04:29 and before 13:00</p>",
+        "outwardText": "Not valid on trains timed to arrive London Terminals after 04:29 and before 14:01.\n Not valid to depart London Terminals after 04:29 and before 12:01, after 15:59 and before 19:01. Additionally, not valid to depart if boarding at the following stations:\n Clapham Junction: after 04:29 and before 12:01, after 15:59 and before 19:10\n Vauxhall: after 04:29 and before 12:01, after 15:59 and before 19:05\n Not valid on CrossCountry services timed to depart after 04:29 and before 13:00",
+        "returnHtml": "<p>Not valid on trains timed to arrive London Terminals after 04:29 and before 14:01.</p><p>Not valid to depart London Terminals after 04:29 and before 12:01, after 15:59 and before 19:01. Additionally, not valid to depart if boarding at the following stations:</p><ul><li>Clapham Junction: after 04:29 and before 12:01, after 15:59 and before 19:10</li><li>Vauxhall: after 04:29 and before 12:01, after 15:59 and before 19:05</li></ul><p>Not valid on CrossCountry services timed to depart after 04:29 and before 13:00</p>",
+        "returnText": "Not valid on trains timed to arrive London Terminals after 04:29 and before 14:01.\n Not valid to depart London Terminals after 04:29 and before 12:01, after 15:59 and before 19:01. Additionally, not valid to depart if boarding at the following stations:\n Clapham Junction: after 04:29 and before 12:01, after 15:59 and before 19:10\n Vauxhall: after 04:29 and before 12:01, after 15:59 and before 19:05\n Not valid on CrossCountry services timed to depart after 04:29 and before 13:00"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BE": {
+    "code": "BE",
+    "name": "BE",
+    "id": "A0546B30EE3A400EB9114909EA4844A7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/be",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday and Saturday</p><br /><p>Mondays - Saturdays, including public holidays.</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday and Saturday\n Mondays - Saturdays, including public holidays.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive into London Terminals after 04:29 and before 14:00.</p><p>If the journey is not towards London Terminals, it is not valid on trains timed to depart after 04:30 and before 12:01.</p>",
+        "outwardText": "Not valid on trains timed to arrive into London Terminals after 04:29 and before 14:00.\n If the journey is not towards London Terminals, it is not valid on trains timed to depart after 04:30 and before 12:01.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:30 and before 19:01.</p><p>Additionally not valid if boarding at the following stations:</p><ul><li>Clapham Junction: after 15:59 and before 19:10</li><li>Vauxhall: after 15:59 and before 19:05</li><li>Waterloo: after 15:59 and before 19:01</li></ul><p>Evening Out Travelcards are valid at any time where journeys are wholly within London Zones 1-6.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:30 and before 19:01.\n Additionally not valid if boarding at the following stations:\n Clapham Junction: after 15:59 and before 19:10\n Vauxhall: after 15:59 and before 19:05\n Waterloo: after 15:59 and before 19:01\n Evening Out Travelcards are valid at any time where journeys are wholly within London Zones 1-6."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BI": {
+    "code": "BI",
+    "name": "BI",
+    "id": "13BD9EFE52D04E1A843DEAEE78EFFF96",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/bi",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BL": {
+    "code": "BL",
+    "name": "BL",
+    "id": "0F997EFAF9D9480A8212FEEFE33B1EA4",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/bl",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<ul><li>Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.</li></ul>",
+    "seasonalVariationsText": "Peak Restrictions may be lifted over the Christmas period. Check back for exact dates.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train timed to depart after 04:29 and before 08:30.</p>",
+        "outwardText": "Not valid on any train timed to depart after 04:29 and before 08:30.",
+        "returnHtml": "<p>Not valid on any train timed to depart after 04:29 and before 08:30.</p>",
+        "returnText": "Not valid on any train timed to depart after 04:29 and before 08:30."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BP": {
+    "code": "BP",
+    "name": "BP",
+    "id": "0EEEA6C95F07433CA40C7A3DE7A48980",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/bp",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays, excluding Bank Holidays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays, excluding Bank Holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><ul><li>Acton Main Line 09:30</li><li>Aldermaston 09:30Ash 09:00</li><li>Ashchurch 07:30</li><li>Avonmouth 09:15</li><li>Basingstoke 09:00</li><li>Bath Spa 09:15</li><li>Bedminster 09:15</li><li>Blackwater 09:00</li><li>Bourne End 08:45</li><li>Bramley (Hants) 09:00</li><li>Bristol Parkway 09:15</li><li>Bristol Temple Meads 09:15</li><li>Burnham 09:00</li><li>Caldicot 08:30</li><li>Cardiff Central 09:10 (also valid between 0430 and 0530 inclusive)</li><li>Castle Bar Park 09:30</li><li>Cheltenham Spa 07:4</li><li>5Chilworth 09:30</li><li>Chippenham 08:40</li><li>Cholsey 09:00</li><li>Clifton Down 09:15</li><li>Colwall 07:30</li><li>Cookham 08:45</li><li>Crowthorne 09:00</li><li>Didcot Parkway 09:00</li><li>Dorking 09:00</li><li>Dorking Deepdene 09:00</li><li>Dorking West 09:00</li><li>Drayton Green 09:30</li><li>Ealing Broadway 09:30</li><li>Evesham 08:45</li><li>Farnborough North 09:00</li><li>Filton Abbey Wood 09:15</li><li>Furze Platt 08:45</li><li>Gatwick Airport 09:00</li><li>Gloucester 07:48</li><li>Goring & Streatley 08:45</li><li>Great Malvern 07:30</li><li>Greenford 09:30</li><li>Guildford 09:30</li><li>Hanwell 09:30</li><li>Hayes & Harlington 09:30</li><li>Heathrow Rail 09:30</li><li>Henley On Thames 09:00</li><li>Hereford 07:00</li><li>Honeybourne 08:45</li><li>Iver 09:00</li><li>Kemble 09:05</li><li>Keynsham 09:15</li><li>Langley (Berks) 09:00</li><li>Lawrence Hill 09:15</li><li>Ledbury 07:30</li><li>London Paddington 09:20 (evening restrictions apply, see below)</li><li>Maidenhead 08:45</li><li>Malvern Link 07:30</li><li>Marlow 08:45</li><li>Melksham 09:15y</li><li>Midgham 09:25</li><li>Montpelier 09:15</li><li>Moreton-In-Marsh 08:45</li><li>Mortimer 09:00</li><li>Nailsea & Backwell 09:15</li><li>Newbury 08:50</li><li>Newbury Racecourse 09:15</li><li>Newport S. Wales 08:30 (also valid between 0430 and 0545 inclusive)</li><li>North Camp 09:00</li><li>Oldfield Park 09:15</li><li>Pangbourne 08:45</li><li>Parson Street 09:15</li><li>Patchway 09:15</li><li>Pershore 08:45</li><li>Pilning 09:15</li><li>Reading 09:00 (evening restrictions apply, see below)</li><li>Reading West 09:00</li><li>Redhill 09:30</li><li>Redland 09:15</li><li>Reigate 09:30</li><li>Sandhurst 09:00</li><li>Sea Mills 09:15</li><li>Severn Beach 09:15#</li><li>Severn Tunnel Junction 08:30</li><li>Shalford 09:30</li><li>Shiplake 09:00</li><li>Shirehampton 09:15</li><li>Slough 09:00</li><li>South Greenford 09:30</li><li>Southall 09:30</li><li>St Andrews 09:15</li><li>Stapleton Road 09:15</li><li>Stonehouse 08:45</li><li>Stroud 08:50</li><li>Swindon (Wilts) 09:05 (also valid between 0430 and 0545 inclusive)</li><li>Taplow 08:45</li><li>Thatcham 08:55</li><li>Theale 09:00</li><li>Tilehurst 08:59</li><li>Twyford 09:00</li><li>Wanborough 09:00</li><li>Wargrave 09:00</li><li>West Drayton 09:30</li><li>West Ealing 09:30</li><li>Weston Milton 09:15</li><li>Weston Super Mare 09:15</li><li>Windsor & Eton Central 09:00</li><li>Winnersh 09:00</li><li>Wokingham 09:00</li><li>Worcester Foregate Street 08:15</li><li>Worcester Shrub Hill 08:15</li><li>Worle 09:15</li><li>Yate 09:15</li><li>Yatton 09:15</li></ul><p></p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n Acton Main Line 09:30\n Aldermaston 09:30Ash 09:00\n Ashchurch 07:30\n Avonmouth 09:15\n Basingstoke 09:00\n Bath Spa 09:15\n Bedminster 09:15\n Blackwater 09:00\n Bourne End 08:45\n Bramley (Hants) 09:00\n Bristol Parkway 09:15\n Bristol Temple Meads 09:15\n Burnham 09:00\n Caldicot 08:30\n Cardiff Central 09:10 (also valid between 0430 and 0530 inclusive)\n Castle Bar Park 09:30\n Cheltenham Spa 07:4\n 5Chilworth 09:30\n Chippenham 08:40\n Cholsey 09:00\n Clifton Down 09:15\n Colwall 07:30\n Cookham 08:45\n Crowthorne 09:00\n Didcot Parkway 09:00\n Dorking 09:00\n Dorking Deepdene 09:00\n Dorking West 09:00\n Drayton Green 09:30\n Ealing Broadway 09:30\n Evesham 08:45\n Farnborough North 09:00\n Filton Abbey Wood 09:15\n Furze Platt 08:45\n Gatwick Airport 09:00\n Gloucester 07:48\n Goring & Streatley 08:45\n Great Malvern 07:30\n Greenford 09:30\n Guildford 09:30\n Hanwell 09:30\n Hayes & Harlington 09:30\n Heathrow Rail 09:30\n Henley On Thames 09:00\n Hereford 07:00\n Honeybourne 08:45\n Iver 09:00\n Kemble 09:05\n Keynsham 09:15\n Langley (Berks) 09:00\n Lawrence Hill 09:15\n Ledbury 07:30\n London Paddington 09:20 (evening restrictions apply, see below)\n Maidenhead 08:45\n Malvern Link 07:30\n Marlow 08:45\n Melksham 09:15y\n Midgham 09:25\n Montpelier 09:15\n Moreton-In-Marsh 08:45\n Mortimer 09:00\n Nailsea & Backwell 09:15\n Newbury 08:50\n Newbury Racecourse 09:15\n Newport S. Wales 08:30 (also valid between 0430 and 0545 inclusive)\n North Camp 09:00\n Oldfield Park 09:15\n Pangbourne 08:45\n Parson Street 09:15\n Patchway 09:15\n Pershore 08:45\n Pilning 09:15\n Reading 09:00 (evening restrictions apply, see below)\n Reading West 09:00\n Redhill 09:30\n Redland 09:15\n Reigate 09:30\n Sandhurst 09:00\n Sea Mills 09:15\n Severn Beach 09:15#\n Severn Tunnel Junction 08:30\n Shalford 09:30\n Shiplake 09:00\n Shirehampton 09:15\n Slough 09:00\n South Greenford 09:30\n Southall 09:30\n St Andrews 09:15\n Stapleton Road 09:15\n Stonehouse 08:45\n Stroud 08:50\n Swindon (Wilts) 09:05 (also valid between 0430 and 0545 inclusive)\n Taplow 08:45\n Thatcham 08:55\n Theale 09:00\n Tilehurst 08:59\n Twyford 09:00\n Wanborough 09:00\n Wargrave 09:00\n West Drayton 09:30\n West Ealing 09:30\n Weston Milton 09:15\n Weston Super Mare 09:15\n Windsor & Eton Central 09:00\n Winnersh 09:00\n Wokingham 09:00\n Worcester Foregate Street 08:15\n Worcester Shrub Hill 08:15\n Worle 09:15\n Yate 09:15\n Yatton 09:15",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:</p><p>Acton Main Line 09:30Aldermaston 09:30Ash 09:00Ashchurch 07:30Avonmouth 09:15Basingstoke 09:00Bath Spa 09:15Bedminster 09:15Blackwater 09:00Bourne End 08:45Bramley (Hants) 09:00Bristol Parkway 09:15Bristol Temple Meads 09:15Burnham 09:00Caldicot 08:30Cardiff Central 09:10 (also valid between 0430 and 0530 inclusive)Castle Bar Park 09:30Cheltenham Spa 07:45Chilworth 09:30Chippenham 08:40Cholsey 09:00Clifton Down 09:15Colwall 07:30Cookham 08:45Crowthorne 09:00Didcot Parkway 09:00Dorking 09:00Dorking Deepdene 09:00Dorking West 09:00Drayton Green 09:30Ealing Broadway 09:30Evesham 08:45Farnborough North 09:00Filton Abbey Wood 09:15Furze Platt 08:45Gatwick Airport 09:00Gloucester 07:48Goring & Streatley 08:45Great Malvern 07:30Greenford 09:30Guildford 09:30Hanwell 09:30Hayes & Harlington 09:30Heathrow Rail 09:30Henley On Thames 09:00Hereford 07:00Honeybourne 08:45Iver 09:00Kemble 09:05Keynsham 09:15Langley (Berks) 09:00Lawrence Hill 09:15Ledbury 07:30London Paddington 09:20 (evening restrictions apply, see below)Maidenhead 08:45Malvern Link 07:30Marlow 08:45Melksham 09:15Midgham 09:25Montpelier 09:15Moreton-In-Marsh 08:45Mortimer 09:00Nailsea & Backwell 09:15Newbury 08:50Newbury Racecourse 09:15Newport S. Wales 08:30 (also valid between 0430 and 0545 inclusive)North Camp 09:00Oldfield Park 09:15Pangbourne 08:45Parson Street 09:15Patchway 09:15Pershore 08:45Pilning 09:15Reading 09:00 (evening restrictions apply, see below)Reading West 09:00Redhill 09:30Redland 09:15Reigate 09:30Sandhurst 09:00Sea Mills 09:15Severn Beach 09:15Severn Tunnel Junction 08:30Shalford 09:30Shiplake 09:00Shirehampton 09:15Slough 09:00South Greenford 09:30Southall 09:30St Andrews 09:15Stapleton Road 09:15Stonehouse 08:45Stroud 08:50Swindon (Wilts) 09:05 (also valid between 0430 and 0545 inclusive)Taplow 08:45Thatcham 08:55Theale 09:00Tilehurst 08:59Twyford 09:00Wanborough 09:00Wargrave 09:00West Drayton 09:30West Ealing 09:30Weston Milton 09:15Weston Super Mare 09:15Windsor & Eton Central 09:00Winnersh 09:00Wokingham 09:00Worcester Foregate Street 08:15Worcester Shrub Hill 08:15Worle 09:15Yate 09:15Yatton 09:15</p>",
+        "returnText": "Not valid for travel on trains timed to depart after 04:29 and before the times shown from the following stations:\n Acton Main Line 09:30Aldermaston 09:30Ash 09:00Ashchurch 07:30Avonmouth 09:15Basingstoke 09:00Bath Spa 09:15Bedminster 09:15Blackwater 09:00Bourne End 08:45Bramley (Hants) 09:00Bristol Parkway 09:15Bristol Temple Meads 09:15Burnham 09:00Caldicot 08:30Cardiff Central 09:10 (also valid between 0430 and 0530 inclusive)Castle Bar Park 09:30Cheltenham Spa 07:45Chilworth 09:30Chippenham 08:40Cholsey 09:00Clifton Down 09:15Colwall 07:30Cookham 08:45Crowthorne 09:00Didcot Parkway 09:00Dorking 09:00Dorking Deepdene 09:00Dorking West 09:00Drayton Green 09:30Ealing Broadway 09:30Evesham 08:45Farnborough North 09:00Filton Abbey Wood 09:15Furze Platt 08:45Gatwick Airport 09:00Gloucester 07:48Goring & Streatley 08:45Great Malvern 07:30Greenford 09:30Guildford 09:30Hanwell 09:30Hayes & Harlington 09:30Heathrow Rail 09:30Henley On Thames 09:00Hereford 07:00Honeybourne 08:45Iver 09:00Kemble 09:05Keynsham 09:15Langley (Berks) 09:00Lawrence Hill 09:15Ledbury 07:30London Paddington 09:20 (evening restrictions apply, see below)Maidenhead 08:45Malvern Link 07:30Marlow 08:45Melksham 09:15Midgham 09:25Montpelier 09:15Moreton-In-Marsh 08:45Mortimer 09:00Nailsea & Backwell 09:15Newbury 08:50Newbury Racecourse 09:15Newport S. Wales 08:30 (also valid between 0430 and 0545 inclusive)North Camp 09:00Oldfield Park 09:15Pangbourne 08:45Parson Street 09:15Patchway 09:15Pershore 08:45Pilning 09:15Reading 09:00 (evening restrictions apply, see below)Reading West 09:00Redhill 09:30Redland 09:15Reigate 09:30Sandhurst 09:00Sea Mills 09:15Severn Beach 09:15Severn Tunnel Junction 08:30Shalford 09:30Shiplake 09:00Shirehampton 09:15Slough 09:00South Greenford 09:30Southall 09:30St Andrews 09:15Stapleton Road 09:15Stonehouse 08:45Stroud 08:50Swindon (Wilts) 09:05 (also valid between 0430 and 0545 inclusive)Taplow 08:45Thatcham 08:55Theale 09:00Tilehurst 08:59Twyford 09:00Wanborough 09:00Wargrave 09:00West Drayton 09:30West Ealing 09:30Weston Milton 09:15Weston Super Mare 09:15Windsor & Eton Central 09:00Winnersh 09:00Wokingham 09:00Worcester Foregate Street 08:15Worcester Shrub Hill 08:15Worle 09:15Yate 09:15Yatton 09:15"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "BR": {
+    "code": "BR",
+    "name": "BR",
+    "id": "683F340971D4460F978664733BCE5A22",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/br",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.</p>",
+        "outwardText": "Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.",
+        "returnHtml": "<p>Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.</p>",
+        "returnText": "Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

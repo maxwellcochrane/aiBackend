@@ -1,0 +1,522 @@
+{
+  "HB": {
+    "code": "HB",
+    "name": "HB",
+    "id": "D91937530BAE4736A875CF25407A0687",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hb",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Friday (excluding public holidays)</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Friday (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid after 06:29 and before 09:30; not valid after 15:59 and before 19:00.</p>",
+        "outwardText": "Not valid after 06:29 and before 09:30; not valid after 15:59 and before 19:00.",
+        "returnHtml": "<p>Not valid after 06:29 and before 09:30; not valid after 15:59 and before 19:00.</p>",
+        "returnText": "Not valid after 06:29 and before 09:30; not valid after 15:59 and before 19:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HC": {
+    "code": "HC",
+    "name": "HC",
+    "id": "3EB43992D8DD4ABD847CD429D5B4BCD5",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hc",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Grand Central services only.</p>",
+        "outwardText": "Valid on Grand Central services only.",
+        "returnHtml": "<p>Valid on Grand Central services only.</p>",
+        "returnText": "Valid on Grand Central services only."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HD": {
+    "code": "HD",
+    "name": "HD",
+    "id": "95E111F372A443D79E8F0840B21B4A8C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hd",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 11:30 or northbound services timed to depart London Kings Cross after 14:59 and before 18:49</p>",
+        "outwardText": "Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 11:30 or northbound services timed to depart London Kings Cross after 14:59 and before 18:49",
+        "returnHtml": "<p>Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 11:30 or northbound services timed to depart London Kings Cross after 14:59 and before 18:49</p>",
+        "returnText": "Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 11:30 or northbound services timed to depart London Kings Cross after 14:59 and before 18:49"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HE": {
+    "code": "HE",
+    "name": "HE",
+    "id": "39FE5786059440D788673CC27F6E8D07",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/he",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Thursdays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Thursdays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 10:00.</p><p>Not valid on Hull Trains northbound services timed to depart London Kings Cross after 14:59 and before 18:31.</p>",
+        "outwardText": "Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 10:00.\n Not valid on Hull Trains northbound services timed to depart London Kings Cross after 14:59 and before 18:31.",
+        "returnHtml": "<p>Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 10:00.</p><p>Not valid on Hull Trains northbound services timed to depart London Kings Cross after 14:59 and before 18:31.</p>",
+        "returnText": "Not valid on Hull Trains southbound services timed to arrive London Kings Cross before 10:00.\n Not valid on Hull Trains northbound services timed to depart London Kings Cross after 14:59 and before 18:31."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HF": {
+    "code": "HF",
+    "name": "HF",
+    "id": "2A3E1C027CBD494FAF4440151C245FB2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains (TOC Code: HT) services only.</p>",
+        "outwardText": "Valid on Hull Trains (TOC Code: HT) services only.",
+        "returnHtml": "<p>Valid on Hull Trains (TOC Code: HT) services only.</p>",
+        "returnText": "Valid on Hull Trains (TOC Code: HT) services only."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HG": {
+    "code": "HG",
+    "name": "HG",
+    "id": "A3FEBCAB1F354713BD1EE5361194789E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains and TPE services only.</p>",
+        "outwardText": "Valid on Hull Trains and TPE services only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HH": {
+    "code": "HH",
+    "name": "HH",
+    "id": "CD8CBAB721AA43EA81E4FC43920C0A4A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hh",
+    "applicableDaysHtml": "<p>Saturday, Sunday and Public Holidays</p><br /><p>Monday - Friday (excluding public holidays)</p>",
+    "applicableDaysText": "Saturday, Sunday and Public Holidays\n Monday - Friday (excluding public holidays)",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel Monday-Fridays (excluding public holidays). Only valid Saturday, Sunday and public holidays.</p>",
+        "outwardText": "Not valid for travel Monday-Fridays (excluding public holidays). Only valid Saturday, Sunday and public holidays.",
+        "returnHtml": "<p>No return restricions.</p>",
+        "returnText": "No return restricions."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HL": {
+    "code": "HL",
+    "name": "HL",
+    "id": "4C4B6A99E7EB49D5B16708920E54CB04",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hl",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains and GWR services only.</p>",
+        "outwardText": "Valid on Hull Trains and GWR services only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HM": {
+    "code": "HM",
+    "name": "HM",
+    "id": "4FE3BABD8306477493127E14FD09A657",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hm",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains and TPE services only.</p>",
+        "outwardText": "Valid on Hull Trains and TPE services only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HN": {
+    "code": "HN",
+    "name": "HN",
+    "id": "CC698936DF6D4466B4AE8E5B68F44D69",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hn",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains & Northern services only</p>",
+        "outwardText": "Valid on Hull Trains & Northern services only",
+        "returnHtml": "<p>N/A</p>",
+        "returnText": "N/A"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HO": {
+    "code": "HO",
+    "name": "HO",
+    "id": "179058858E43446C8294817CC0C56D05",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ho",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains and SWR services only.</p><p></p>",
+        "outwardText": "Valid on Hull Trains and SWR services only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HQ": {
+    "code": "HQ",
+    "name": "HQ",
+    "id": "0C54007E88FB4A328269807553FAC038",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hq",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Heathrow Express services on the date reserved only.</p>",
+        "outwardText": "Valid on Heathrow Express services on the date reserved only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HS": {
+    "code": "HS",
+    "name": "HS",
+    "id": "4B182394332142BCA8F3BB4E03F74B1C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hs",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains and Southeastern services only.</p>",
+        "outwardText": "Valid on Hull Trains and Southeastern services only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HT": {
+    "code": "HT",
+    "name": "HT",
+    "id": "9C101600B77848ABB2BAE597D2349EF1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ht",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains (TOC Code: HT) services only.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on Hull Trains (TOC Code: HT) services only.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HU": {
+    "code": "HU",
+    "name": "HU",
+    "id": "FB10C5C57D5F44E29C276FC3B6F89BFB",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains and Greater Anglia services only.</p>",
+        "outwardText": "Valid on Hull Trains and Greater Anglia services only.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HV": {
+    "code": "HV",
+    "name": "HV",
+    "id": "F5A1EE4302DB4A558942197F27237FF2",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hv",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Thursdays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Thursdays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on Hull Trains southbound services timed to arrive London King's Cross before 10:00</p><p>Not valid on Hull Trains northbound services timed to depart London King's Cross between 15:30 and 17:45</p>",
+        "outwardText": "Not valid on Hull Trains southbound services timed to arrive London King's Cross before 10:00\n Not valid on Hull Trains northbound services timed to depart London King's Cross between 15:30 and 17:45",
+        "returnHtml": "<p>Not valid on Hull Trains southbound services timed to arrive London King's Cross before 10:00</p><p>Not valid on Hull Trains northbound services timed to depart London King's Cross between 15:30 and 17:45</p>",
+        "returnText": "Not valid on Hull Trains southbound services timed to arrive London King's Cross before 10:00\n Not valid on Hull Trains northbound services timed to depart London King's Cross between 15:30 and 17:45"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HW": {
+    "code": "HW",
+    "name": "HW",
+    "id": "50F4176DEDDC4477885D9056045A2CE5",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hw",
+    "applicableDaysHtml": "<p>Monday and Friday</p><br /><p>Friday and Monday</p>",
+    "applicableDaysText": "Monday and Friday\n Friday and Monday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on Hull Trains southbound services timed to arrive at London Kings Cross before 10:00.</p>",
+        "outwardText": "Not valid on Hull Trains southbound services timed to arrive at London Kings Cross before 10:00.",
+        "returnHtml": "<p>Not valid on the 15:48 London Kings Cross to Hull service.</p><p></p>",
+        "returnText": "Not valid on the 15:48 London Kings Cross to Hull service."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HX": {
+    "code": "HX",
+    "name": "HX",
+    "id": "B660BA0E72334D5D879626F870D1D27E",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days</p>",
+    "applicableDaysText": "Monday to Friday\n All days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on Hull Trains services and connections.</p><p><strong>NOT</strong> valid on Southeastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 until 19:00, Monday to Friday.</p><p>Seat reservations are compulsory on board Hull Trains services.</p>",
+        "outwardText": "Valid on Hull Trains services and connections.\n NOT valid on Southeastern High Speed services (HS1) arriving at London St Pancras International after 04:29 and before 09:59, or departing London St Pancras International after 15:59 until 19:00, Monday to Friday.\n Seat reservations are compulsory on board Hull Trains services.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "HZ": {
+    "code": "HZ",
+    "name": "HZ",
+    "id": "C76495A792F34F7091BF8372823C5F98",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/hz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>NOT VALID TO DEPART BETWEEN 03:00 and 09:29</p>",
+        "outwardText": "NOT VALID TO DEPART BETWEEN 03:00 and 09:29",
+        "returnHtml": "<p>None</p>",
+        "returnText": "None"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "I0": {
+    "code": "I0",
+    "name": "I0",
+    "id": "08D916F7009C4E448A6A066A95DA1D02",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/i0",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday, excluding Bank Holidays</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday, excluding Bank Holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Monday - Friday - Not valid on trains timed to depart after 04:29 and before 10:00.</p>",
+        "outwardText": "Monday - Friday - Not valid on trains timed to depart after 04:29 and before 10:00.",
+        "returnHtml": "<p>Monday - Friday - Not valid on trains timed to depart after 04:29 and before 10:00.</p>",
+        "returnText": "Monday - Friday - Not valid on trains timed to depart after 04:29 and before 10:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

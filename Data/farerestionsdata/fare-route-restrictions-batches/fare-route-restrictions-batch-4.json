@@ -1,0 +1,502 @@
+{
+  "2": {
+    "code": 2,
+    "name": "NOT OTHER ZONES",
+    "description": "NOT OTHER ZONES",
+    "startDate": "2011-06-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via any zones other than the ones indicated on the ticket.",
+    "rspDisplayName": "Not valid via zones other than shown",
+    "enabledForMapPlotting": true
+  },
+  "17": {
+    "code": 17,
+    "name": "VIA. WORCESTER.",
+    "description": "VIA WORCESTER FGT/SHL",
+    "startDate": "2019-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Worcester Foregate St/Shrub Hill",
+    "rspDisplayName": "Valid only via Worcester Foregate St/Shrub Hill",
+    "enabledForMapPlotting": true
+  },
+  "18": {
+    "code": 18,
+    "name": "ANY TRAIN",
+    "description": "ANY TRAIN",
+    "startDate": "2011-09-29",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Any Train",
+    "rspDisplayName": "Any Train",
+    "enabledForMapPlotting": true
+  },
+  "19": {
+    "code": 19,
+    "name": "VIA HARROGATE",
+    "description": "VIA HARROGATE",
+    "startDate": "2015-11-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Harrogate.",
+    "rspDisplayName": "Valid only via Harrogate",
+    "enabledForMapPlotting": true
+  },
+  "20": {
+    "code": 20,
+    "name": "GREATER ANG ONLY",
+    "description": "Valid on Greater Anglia trains only",
+    "startDate": "2018-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Greater Anglia services.",
+    "rspDisplayName": "Valid on Greater Anglia only",
+    "enabledForMapPlotting": true
+  },
+  "164": {
+    "code": 164,
+    "name": "VIA MKM TU WE FR",
+    "description": "VIA MKM TU WE FR",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham on Tuesdays, Wednesdays and Fridays only.",
+    "rspDisplayName": "Via Melksham and on Tue, Wed, Fri only",
+    "enabledForMapPlotting": false
+  },
+  "165": {
+    "code": 165,
+    "name": "VIA MKM TU TH FR",
+    "description": "VIA MKM TU TH FR",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Tuesdays, Thursdays and Fridays only.",
+    "rspDisplayName": "Via Melksham and on Tue, Thu, Fri only",
+    "enabledForMapPlotting": false
+  },
+  "166": {
+    "code": 166,
+    "name": "VIA MKM WE TH FR",
+    "description": "VIA MKM WE TH FR",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Wednesdays, Thursdays and Fridays only.",
+    "rspDisplayName": "Via Melksham and on Wed, Thu, Fri only",
+    "enabledForMapPlotting": false
+  },
+  "167": {
+    "code": 167,
+    "name": "STANSTEDCITYLINK",
+    "description": "STANSTEDCITYLINK",
+    "startDate": "2018-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Via Stansted City Link",
+    "rspDisplayName": "Via Stansted City Link",
+    "enabledForMapPlotting": false
+  },
+  "168": {
+    "code": 168,
+    "name": "VIA LOWESTOFT",
+    "description": "VIA LOWESTOFT",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Lowestoft.",
+    "rspDisplayName": "Valid only via Lowestoft",
+    "enabledForMapPlotting": true
+  },
+  "169": {
+    "code": 169,
+    "name": "MID METRO ONLY",
+    "description": "MID METRO ONLY",
+    "startDate": "2015-11-12",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid via Midland Metro services.",
+    "rspDisplayName": "Valid only via Midland Metro services",
+    "enabledForMapPlotting": false
+  },
+  "170": {
+    "code": 170,
+    "name": "CROSS CNTRY ONLY",
+    "description": "CROSS CNTRY ONLY",
+    "startDate": "2022-11-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on CrossCountry services.",
+    "rspDisplayName": "Valid on CrossCountry trains only",
+    "enabledForMapPlotting": false
+  },
+  "171": {
+    "code": 171,
+    "name": "VIA CHELTENHAM",
+    "description": "VIA CHELTENHAM SPA",
+    "startDate": "2019-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Cheltenham.",
+    "rspDisplayName": "Valid only via Cheltenham",
+    "enabledForMapPlotting": false
+  },
+  "172": {
+    "code": 172,
+    "name": "SCR & TPE ONLY",
+    "description": "Valid on ScotRail and TPE Only",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Scotrail and TransPennine Express services.",
+    "rspDisplayName": "Valid on ScotRail and TPE only",
+    "enabledForMapPlotting": false
+  },
+  "173": {
+    "code": 173,
+    "name": "AP ITX GWR ONLY",
+    "description": "AP ITX GWR ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on the reserved Great Western Railway services (ITX)",
+    "rspDisplayName": "Valid on specified trains only (ITX)",
+    "enabledForMapPlotting": false
+  },
+  "174": {
+    "code": 174,
+    "name": "ITX GWR ONLY",
+    "description": "ITX GWR ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "ITX only valid on GWR services",
+    "rspDisplayName": "ITX only valid on GWR services",
+    "enabledForMapPlotting": false
+  },
+  "175": {
+    "code": 175,
+    "name": "ITX VIA SLOUGH",
+    "description": "ITX VIA SLOUGH",
+    "startDate": "2023-05-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "ITX only valid via Slough",
+    "rspDisplayName": "ITX only valid via Slough",
+    "enabledForMapPlotting": false
+  },
+  "176": {
+    "code": 176,
+    "name": "VIA MANSFIELD",
+    "description": "VIA MANSFIELD",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Mansfield.",
+    "rspDisplayName": "Valid only via Mansfield",
+    "enabledForMapPlotting": false
+  },
+  "177": {
+    "code": 177,
+    "name": "VIA BRADFORD",
+    "description": "VIA BRADFORD",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Bradford.",
+    "rspDisplayName": "Valid only via Bradford",
+    "enabledForMapPlotting": false
+  },
+  "178": {
+    "code": 178,
+    "name": "VIA DEWSBURY",
+    "description": "VIA DEWSBURY",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Dewsbury.",
+    "rspDisplayName": "Valid only via Dewsbury",
+    "enabledForMapPlotting": false
+  },
+  "179": {
+    "code": 179,
+    "name": "NOT VIA UNI/BHM",
+    "description": "NOT VIA UNI/BHM",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) University (Birmingham) or Birmingham New Street.",
+    "rspDisplayName": "Not via University/Birmingham New St",
+    "enabledForMapPlotting": false
+  },
+  "180": {
+    "code": 180,
+    "name": "HULLTRNS & GWR",
+    "description": "HULLTRNS & GWR",
+    "startDate": "2022-11-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Great Western Railway services.",
+    "rspDisplayName": "Hull Trains and Great Western only",
+    "enabledForMapPlotting": false
+  },
+  "181": {
+    "code": 181,
+    "name": "SWR VIA YEOVIL",
+    "description": "SWR VIA YEOVIL",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel on SWR services via Yeovil.",
+    "rspDisplayName": "Valid only on SWR services via Yeovil",
+    "enabledForMapPlotting": false
+  },
+  "182": {
+    "code": 182,
+    "name": "NOT VIA COV/BHM",
+    "description": "NOT VIA COV/BHM",
+    "startDate": "2019-05-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing or passing through) Coventry or Birmingham.",
+    "rspDisplayName": "Not valid via Coventry or Birmingham",
+    "enabledForMapPlotting": false
+  },
+  "183": {
+    "code": 183,
+    "name": "SWR +HOVERTRAVEL",
+    "description": "SWR +HOVERTRAVEL",
+    "startDate": "2023-11-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on South Western Railway and Hovertravel services.",
+    "rspDisplayName": "SWR and Hovertravel services only",
+    "enabledForMapPlotting": true
+  },
+  "184": {
+    "code": 184,
+    "name": "A6 VIA PADDINGTN",
+    "description": "A6 VIA PADDINGTN",
+    "startDate": "2024-08-15",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "By National Express A6 coach via Paddington",
+    "rspDisplayName": "Valid on A6 coach via Paddington",
+    "enabledForMapPlotting": false
+  },
+  "185": {
+    "code": 185,
+    "name": "VIA ROMFORD",
+    "description": "VIA ROMFORD",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Romford.",
+    "rspDisplayName": "Valid only via Romford",
+    "enabledForMapPlotting": true
+  },
+  "186": {
+    "code": 186,
+    "name": "MRAIL TRAIN ONLY",
+    "description": "MRAIL TRAIN ONLY",
+    "startDate": "2022-11-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Merseyrail services.",
+    "rspDisplayName": "Valid only on Merseyrail services",
+    "enabledForMapPlotting": false
+  },
+  "187": {
+    "code": 187,
+    "name": "TERM TIME 16-18",
+    "description": "TERM TIME 16-18",
+    "startDate": "2016-06-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid term time only - 16-18 year olds",
+    "rspDisplayName": "Valid term time only - 16-18 year olds",
+    "enabledForMapPlotting": false
+  },
+  "188": {
+    "code": 188,
+    "name": "VIA EARLESTOWN",
+    "description": "VIA EARLESTOWN",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Earlestown.",
+    "rspDisplayName": "Valid only via Earlestown",
+    "enabledForMapPlotting": false
+  },
+  "189": {
+    "code": 189,
+    "name": "VIA HEXHAM",
+    "description": "VIA HEXHAM",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Hexham.",
+    "rspDisplayName": "Valid only via Hexham",
+    "enabledForMapPlotting": false
+  },
+  "190": {
+    "code": 190,
+    "name": "VIA THORNABY",
+    "description": "VIA THORNABY",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Thornaby.",
+    "rspDisplayName": "Valid only via Thornaby",
+    "enabledForMapPlotting": false
+  },
+  "191": {
+    "code": 191,
+    "name": "VIA NORTHWICH",
+    "description": "VIA NORTHWICH",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Northwich.",
+    "rspDisplayName": "Valid only via Northwich",
+    "enabledForMapPlotting": false
+  },
+  "192": {
+    "code": 192,
+    "name": "HACKNEY CTL DOWN",
+    "description": "HACKNEY CENTRAL HACKNEY DOWNS",
+    "startDate": "2015-06-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only changing between Hackney Central and Hackney Downs stations.",
+    "rspDisplayName": "Only via Hackney Central-Hackney Downs",
+    "enabledForMapPlotting": true
+  },
+  "193": {
+    "code": 193,
+    "name": "VIA KIRKBY MSIDE",
+    "description": "VIA KIRKBY MERSEYSIDE",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Kirkby.",
+    "rspDisplayName": "Valid only via Kirkby",
+    "enabledForMapPlotting": false
+  },
+  "194": {
+    "code": 194,
+    "name": "VIA WANSTEAD PK",
+    "description": "VIA WANSTEAD PARK",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Wanstead Park.",
+    "rspDisplayName": "Valid only via Wanstead Park",
+    "enabledForMapPlotting": true
+  },
+  "195": {
+    "code": 195,
+    "name": "VIA CLAPTON",
+    "description": "VIA CLAPTON",
+    "startDate": "2015-06-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Clapton.",
+    "rspDisplayName": "Valid only via Clapton",
+    "enabledForMapPlotting": true
+  },
+  "196": {
+    "code": 196,
+    "name": "VIA HACKNEY DOWN",
+    "description": "VIA HACKNEY DOWNS",
+    "startDate": "2015-06-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Hackney Downs.",
+    "rspDisplayName": "Valid only via Hackney Downs",
+    "enabledForMapPlotting": true
+  },
+  "197": {
+    "code": 197,
+    "name": "VIA GOSPEL OAK",
+    "description": ".",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Gospel Oak.",
+    "rspDisplayName": "Valid only via Gospel Oak",
+    "enabledForMapPlotting": true
+  },
+  "198": {
+    "code": 198,
+    "name": "VIA ORMSKIRK",
+    "description": "VIA ORMSKIRK",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Ormskirk.",
+    "rspDisplayName": "Valid only via Ormskirk",
+    "enabledForMapPlotting": false
+  },
+  "199": {
+    "code": 199,
+    "name": "NOT LONDON CIV",
+    "description": "NOT LONDON CIV",
+    "startDate": "2015-10-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) London Terminals. CIV rules apply.",
+    "rspDisplayName": "Not valid via London Terminals (CIV)",
+    "enabledForMapPlotting": true
+  },
+  "200": {
+    "code": 200,
+    "name": "VIA LONDON",
+    "description": "VIA LONDON",
+    "startDate": "2015-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) London.",
+    "rspDisplayName": "Valid only via London",
+    "enabledForMapPlotting": true
+  },
+  "201": {
+    "code": 201,
+    "name": "NOT VIA BIRMNGHM",
+    "description": "NOT VIA BIRMINGHAM",
+    "startDate": "2019-05-17",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Birmingham.",
+    "rspDisplayName": "Not valid via Birmingham",
+    "enabledForMapPlotting": true
+  },
+  "2001": {
+    "code": 2001,
+    "name": "HT&GREATANGAP",
+    "description": "HT&GREATANGAP",
+    "startDate": "2023-03-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Greater Anglia services.",
+    "rspDisplayName": "Hull Trains and Greater Anglia services only",
+    "enabledForMapPlotting": true
+  },
+  "2004": {
+    "code": 2004,
+    "name": "HT&GREATANGWU",
+    "description": "HT&GREATANGWU",
+    "startDate": "2023-03-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Greater Anglia services.",
+    "rspDisplayName": "Hull Trains and Greater Anglia services only",
+    "enabledForMapPlotting": false
+  },
+  "2005": {
+    "code": 2005,
+    "name": "EASYJET STAFF",
+    "description": "EASYJET STAFF",
+    "startDate": "2009-07-31",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Easyjet Staff",
+    "rspDisplayName": "Easyjet Staff",
+    "enabledForMapPlotting": true
+  },
+  "2007": {
+    "code": 2007,
+    "name": "EMR & TLGN ONLY",
+    "description": "EMR & TLGN ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on EMR, Thameslink and Great Northern services.",
+    "rspDisplayName": "EMR, Thameslink, Great Northern only",
+    "enabledForMapPlotting": true
+  },
+  "2008": {
+    "code": 2008,
+    "name": "C2C RAIL ONLY",
+    "description": "C2C RAIL ONLY",
+    "startDate": "2015-07-07",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on c2c services.",
+    "rspDisplayName": "Valid on c2c services only",
+    "enabledForMapPlotting": true
+  },
+  "2010": {
+    "code": 2010,
+    "name": "LUMOFLEX",
+    "description": "LUMOFLEX",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on booked Lumo services",
+    "rspDisplayName": "Lumo only",
+    "enabledForMapPlotting": true
+  },
+  "2014": {
+    "code": 2014,
+    "name": "HULL&SOUTHEASTAP",
+    "description": "HULL&SOUTHEASTAP",
+    "startDate": "2023-03-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Southeastern services.",
+    "rspDisplayName": "Hull Trains and Southeastern services only",
+    "enabledForMapPlotting": true
+  }
+}

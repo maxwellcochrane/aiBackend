@@ -7,17 +7,13 @@
   },
   "servers": [
     {
-      "url": "https://{domain}",
-      "variables": {
-        "domain": {
-          "default": "example.netlify.app"
-        }
-      }
+      "url": "https://aibe.netlify.app"
     }
   ],
   "paths": {
     "/.netlify/functions/journey-plan": {
       "get": {
+        "operationId": "getJourneyPlan",
         "summary": "Get journey legs between two CRS codes",
         "description": "Calls the upstream journey-plan service and returns a simplified view of journeys with only leg-level details and minimal journey metadata.",
         "parameters": [
@@ -187,20 +183,20 @@
             "$ref": "#/components/schemas/LocationSummary"
           },
           "originPlatform": {
-            "type": ["string", "null"]
+            "type": "string",
+            "nullable": true
           },
           "destinationPlatform": {
-            "type": ["string", "null"]
+            "type": "string",
+            "nullable": true
           },
           "operator": {
-            "oneOf": [
-              {
-                "type": "null"
-              },
+            "allOf": [
               {
                 "$ref": "#/components/schemas/OperatorSummary"
               }
-            ]
+            ],
+            "nullable": true
           },
           "scheduledTime": {
             "$ref": "#/components/schemas/TimeWindow"

@@ -1,0 +1,522 @@
+{
+  "EB": {
+    "code": "EB",
+    "name": "EB",
+    "id": "B35E0901CE6646FC84B8F16464D69751",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/eb",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Only Standard Class Weekly (for any 7 consecutive days) and Monthly (for one calendar month) tickets are available.</p>",
+    "notesText": "Only Standard Class Weekly (for any 7 consecutive days) and Monthly (for one calendar month) tickets are available.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Towards London",
+    "returnDirection": "From London",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>\"Earlybird\" - only valid to London on the following trains:</p><p>Meopham to Victoria:</p><p>05:34</p><p>06:05</p><p>06:41</p><p>Not valid at other stations en route, except for customers travelling to Elephant & Castle or Blackfriars, who can change at Bromley South.</p>",
+        "outwardText": "\"Earlybird\" - only valid to London on the following trains:\n Meopham to Victoria:\n 05:34\n 06:05\n 06:41\n Not valid at other stations en route, except for customers travelling to Elephant & Castle or Blackfriars, who can change at Bromley South.",
+        "returnHtml": "<p>By any train, excluding Southeastern High Speed services.</p>",
+        "returnText": "By any train, excluding Southeastern High Speed services."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EC": {
+    "code": "EC",
+    "name": "EC",
+    "id": "48B8C9758DC344FEB7059D58C78126FC",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ec",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": "<p>Only Standard Class Weekly (for any 7 consecutive days) and Monthly (for one calendar month) tickets are available.</p>",
+    "notesText": "Only Standard Class Weekly (for any 7 consecutive days) and Monthly (for one calendar month) tickets are available.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Towards London",
+    "returnDirection": "From London",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>\"Earlybird\" - only valid to London on the following trains from Gravesend:</p><p>London Charing Cross</p><p>04:30</p><p>04:49</p><p>05:19</p><p>05:49</p><p>06:21</p><p>06:54</p><p>London Cannon Street</p><p>06:07</p><p>06:35</p><p>GTR services to London Bridge, Blackfriars and City Thameslink</p><p>04:55</p><p>05:28</p><p>05:58</p><p>06:28</p><p>06:58</p><p>Not valid at other stations en route.</p>",
+        "outwardText": "\"Earlybird\" - only valid to London on the following trains from Gravesend:\n London Charing Cross\n 04:30\n 04:49\n 05:19\n 05:49\n 06:21\n 06:54\n London Cannon Street\n 06:07\n 06:35\n GTR services to London Bridge, Blackfriars and City Thameslink\n 04:55\n 05:28\n 05:58\n 06:28\n 06:58\n Not valid at other stations en route.",
+        "returnHtml": "<p>By any train, excluding Southeastern High Speed services.</p>",
+        "returnText": "By any train, excluding Southeastern High Speed services."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EE": {
+    "code": "EE",
+    "name": "EE",
+    "id": "B57EBCB013D241E484232A927A734F5C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ee",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday to Friday</p>",
+    "applicableDaysText": "Monday to Friday\n Monday to Friday",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p>Restrictions will be eased on Monday 24th August 2026 in both directions.</p><p>Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.</p><p>Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.</p><p>Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.</p><p>\n\n</p>",
+    "seasonalVariationsText": "Restrictions will be eased on Monday 24th August 2026 in both directions.\n Restrictions will be eased between 21st December 2026 and 1st January 2027 in both directions.\n Restrictions will be eased between Friday 3rd April 2026 and Monday 6th April 2026 in both directions.\n Restrictions will be eased on Monday 4th May 2026 and 25th May 2026 in both directions.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to arrive:</p><ul><li>Into London Terminals  after 02:59 and before 10:59;</li></ul><p>Not valid on trains timed to depart:</p><ul><li>From London Terminals after 02:59 and before 09:54 or after 15:39 and before 19:02.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to arrive:\n Into London Terminals after 02:59 and before 10:59;\n Not valid on trains timed to depart:\n From London Terminals after 02:59 and before 09:54 or after 15:39 and before 19:02.",
+        "returnHtml": "<p>Not valid on trains timed to depart:</p><ul><li>From London Terminals  after 02:59 and before 09:54 or after 15:39 and before 19:02;</li></ul><p>Not valid on trains timed to arrive:</p><ul><li>Into London Terminals  after 02:59 and before 10:59.</li></ul><p></p>",
+        "returnText": "Not valid on trains timed to depart:\n From London Terminals after 02:59 and before 09:54 or after 15:39 and before 19:02;\n Not valid on trains timed to arrive:\n Into London Terminals after 02:59 and before 10:59."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EF": {
+    "code": "EF",
+    "name": "EF",
+    "id": "880BF571C49943D590F3F014D30C3CA9",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ef",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": "<p>Valid only between any two stations in the 'n-Network' area and for travel wholly within the 'n-Network' area i.e. not valid for travel out of the area and back in again, even if between two 'n-Network' area stations.</p>",
+    "notesText": "Valid only between any two stations in the 'n-Network' area and for travel wholly within the 'n-Network' area i.e. not valid for travel out of the area and back in again, even if between two 'n-Network' area stations.",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid only between any two stations in the 'n-Network' area (see notes)</p><p>Not valid on trains timed to depart before 18:30.</p>",
+        "outwardText": "Valid only between any two stations in the 'n-Network' area (see notes)\n Not valid on trains timed to depart before 18:30.",
+        "returnHtml": "<p>Valid only between any two stations in the 'n-Network' area (see notes).</p><p>Not valid on trains timed to depart before 18:30.</p><p>Return journey must be made the same evening as the outward journey.</p>",
+        "returnText": "Valid only between any two stations in the 'n-Network' area (see notes).\n Not valid on trains timed to depart before 18:30.\n Return journey must be made the same evening as the outward journey."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EG": {
+    "code": "EG",
+    "name": "EG",
+    "id": "3DB24816041A4A0D92EE02B53F9CEB85",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/eg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>All days.</p>",
+    "applicableDaysText": "Monday to Friday\n All days.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart London Euston before 09:15 or London St Pancras International before 09:00.</p><p>The n-Network Super Off-Peak (evening single/return fare) is a flat fare generally available after 18:30 but on this journey an easement applies allowing travel from 18:22 within the n-Network (Network West Midlands PTE) area.</p><p>It is available:</p><ul><li>Between any two stations in the Network West Midlands area but only after 18:30 Mondays to Sundays.</li><li>Return journeys must be made the same evening as the outward journey.</li><li>Available to adults, children and groups of 4 (children will be allowed as a part of the group as long as at least one adult is in the group). The group must travel together as only one ticket will be issued.</li><li>This fare is not available to unaccompanied children.</li></ul><p>Period of validity as per the date of travel shown on the ticket.</p><p>n-Network Super Off-Peak fares are available from staffed Ticket Offices and on-train when the customer has boarded at an unstaffed station.</p><p>n-Network Super Off-Peak fares cannot be purchased for travel on the last running rail service of the day.</p><p>No Railcard discounts allowed.</p>",
+        "outwardText": "Not valid on trains timed to depart London Euston before 09:15 or London St Pancras International before 09:00.\n The n-Network Super Off-Peak (evening single/return fare) is a flat fare generally available after 18:30 but on this journey an easement applies allowing travel from 18:22 within the n-Network (Network West Midlands PTE) area.\n It is available:\n Between any two stations in the Network West Midlands area but only after 18:30 Mondays to Sundays.\n Return journeys must be made the same evening as the outward journey.\n Available to adults, children and groups of 4 (children will be allowed as a part of the group as long as at least one adult is in the group). The group must travel together as only one ticket will be issued.\n This fare is not available to unaccompanied children.\n Period of validity as per the date of travel shown on the ticket.\n n-Network Super Off-Peak fares are available from staffed Ticket Offices and on-train when the customer has boarded at an unstaffed station.\n n-Network Super Off-Peak fares cannot be purchased for travel on the last running rail service of the day.\n No Railcard discounts allowed.",
+        "returnHtml": "<p>Not valid on trains timed to depart London Euston before 09:15 or London St Pancras International before 09:00.</p><p>The n-Network Super Off-Peak (evening single/return fare) is a flat fare generally available after 18:30 but on this journey an easement applies allowing travel from 18:22 within the n-Network (Network West Midlands PTE) area.</p><p>It is available:</p><ul><li>Between any two stations in the Network West Midlands area but only after 18:30 Mondays to Sundays.</li><li>Return journeys must be made the same evening as the outward journey.</li><li>Available to adults, children and groups of 4 (children will be allowed as a part of the group as long as at least one adult is in the group). The group must travel together as only one ticket will be issued.</li><li>This fare is not available to unaccompanied children.</li></ul><p>Period of validity as per the date of travel shown on the ticket.</p><p>n-Network Super Off-Peak fares are available from staffed Ticket Offices and on-train when the customer has boarded at an unstaffed station.</p><p>n-Network Super Off-Peak fares cannot be purchased for travel on the last running rail service of the day.</p><p>No Railcard discounts allowed.</p>",
+        "returnText": "Not valid on trains timed to depart London Euston before 09:15 or London St Pancras International before 09:00.\n The n-Network Super Off-Peak (evening single/return fare) is a flat fare generally available after 18:30 but on this journey an easement applies allowing travel from 18:22 within the n-Network (Network West Midlands PTE) area.\n It is available:\n Between any two stations in the Network West Midlands area but only after 18:30 Mondays to Sundays.\n Return journeys must be made the same evening as the outward journey.\n Available to adults, children and groups of 4 (children will be allowed as a part of the group as long as at least one adult is in the group). The group must travel together as only one ticket will be issued.\n This fare is not available to unaccompanied children.\n Period of validity as per the date of travel shown on the ticket.\n n-Network Super Off-Peak fares are available from staffed Ticket Offices and on-train when the customer has boarded at an unstaffed station.\n n-Network Super Off-Peak fares cannot be purchased for travel on the last running rail service of the day.\n No Railcard discounts allowed."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EH": {
+    "code": "EH",
+    "name": "EH",
+    "id": "F06E2F623E6941749ED9237F98D14B43",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/eh",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day</p>",
+    "applicableDaysText": "Monday to Friday\n Any day",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains arriving into London St. Pancras International or London Kings Cross after 04:29 and before 09:16.</p><p>Not valid on trains departing from London St. Pancras International or London Kings Cross after 16:29 and before 18:31.</p>",
+        "outwardText": "Not valid on trains arriving into London St. Pancras International or London Kings Cross after 04:29 and before 09:16.\n Not valid on trains departing from London St. Pancras International or London Kings Cross after 16:29 and before 18:31.",
+        "returnHtml": "<p> Valid by any train.</p>",
+        "returnText": "Valid by any train."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EI": {
+    "code": "EI",
+    "name": "EI",
+    "id": "1578C473CCC24DB587E5DF8E100C4246",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ei",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Monday - Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Monday - Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p> Restrictions are lifted from Wednesday 27 December 2017 - Monday 1 January 2018 inclusive</p>",
+    "seasonalVariationsText": "Restrictions are lifted from Wednesday 27 December 2017 - Monday 1 January 2018 inclusive",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train timed to depart after 04:29 and before 09:30 or after 1530 and before 1830</p>",
+        "outwardText": "Not valid on any train timed to depart after 04:29 and before 09:30 or after 1530 and before 1830",
+        "returnHtml": "<p>Not valid on any train timed to depart after 04:29 and before 09:30</p>",
+        "returnText": "Not valid on any train timed to depart after 04:29 and before 09:30"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EJ": {
+    "code": "EJ",
+    "name": "EJ",
+    "id": "67003C916F7940A5A3A409DB626B3C18",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ej",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on any train timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.</p>",
+        "outwardText": "Not valid on any train timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.",
+        "returnHtml": "<p>Not valid on any train timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on any train timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EK": {
+    "code": "EK",
+    "name": "EK",
+    "id": "4CC9906846C8471F9DCDAEAED23FA6D0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ek",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p> Restrictions are lifted from 23 December to 1 January 2020</p>",
+    "seasonalVariationsText": "Restrictions are lifted from 23 December to 1 January 2020",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on any train timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on any train timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p>Not valid on any train timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00.</p>",
+        "returnText": "Not valid on any train timed to depart after 04:29 and before 09:30 or after 16:00 and before 18:00."
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EL": {
+    "code": "EL",
+    "name": "EL",
+    "id": "C96847E65E954A558C13D15F02A7FCD0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/el",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 or after 15:28 and before 18:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30 or after 15:28 and before 18:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30 or after 15:28 and before 18:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30 or after 15:28 and before 18:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EN": {
+    "code": "EN",
+    "name": "EN",
+    "id": "8B807678E56141DA95898CBBE68614FF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/en",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays - Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays - Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not Valid on any train timed to depart after 04:29 and before 09:30</p>",
+        "outwardText": "Not Valid on any train timed to depart after 04:29 and before 09:30",
+        "returnHtml": "<p>Not valid on any train to depart after 04:29 and before 09:30 or after 15:30 and before 1830</p>",
+        "returnText": "Not valid on any train to depart after 04:29 and before 09:30 or after 15:30 and before 1830"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EP": {
+    "code": "EP",
+    "name": "EP",
+    "id": "B80DB3FA68BF4A80AEBD0042AFC5E327",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ep",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.</p>",
+        "outwardText": "Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.",
+        "returnHtml": "<p>Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.</p>",
+        "returnText": "Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EQ": {
+    "code": "EQ",
+    "name": "EQ",
+    "id": "BC10973EE9204A61AE60A662DEA9B48C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/eq",
+    "applicableDaysHtml": "<p>All days</p><br /><p>All Days</p>",
+    "applicableDaysText": "All days\n All Days",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid only between any two stations in the 'n-Network' area (see notes)</p><p>Not valid on trains timed to depart before 16:00</p>",
+        "outwardText": "Valid only between any two stations in the 'n-Network' area (see notes)\n Not valid on trains timed to depart before 16:00",
+        "returnHtml": "<p>Valid only between any two stations in the 'n-Network' area (see notes).</p><p>Not valid on trains timed to depart before 16:00.</p><p>Return journey must be made the same evening as the outward journey.</p>",
+        "returnText": "Valid only between any two stations in the 'n-Network' area (see notes).\n Not valid on trains timed to depart before 16:00.\n Return journey must be made the same evening as the outward journey."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ES": {
+    "code": "ES",
+    "name": "ES",
+    "id": "D9FFA1099F7A445483E1F7E405F808FE",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/es",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "From London",
+    "returnDirection": "Towards London",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>No restrictions.</p>",
+        "outwardText": "No restrictions.",
+        "returnHtml": "<p>Not valid on trains timed to depart before 12:00.</p>",
+        "returnText": "Not valid on trains timed to depart before 12:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "ET": {
+    "code": "ET",
+    "name": "ET",
+    "id": "F63B9B42E6B04E54855722E6D3CA569F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/et",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.  </p><p>Break of journey is not permitted except to change trains.</p>",
+        "outwardText": "Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.\n Break of journey is not permitted except to change trains.",
+        "returnHtml": "<p>Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing.</p>",
+        "returnText": "Available by any London North Eastern Railway train, also connecting trains of other operators where allowed by the ticket routeing."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EU": {
+    "code": "EU",
+    "name": "EU",
+    "id": "B46FBBE1DE3040458A7B8302CE99CC04",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/eu",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Any day</p>",
+    "applicableDaysText": "Monday to Friday\n Any day",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on services arriving into London St. Pancras International after 04:29 and before 10:11.</p>",
+        "outwardText": "Not valid on services arriving into London St. Pancras International after 04:29 and before 10:11.",
+        "returnHtml": "<p> Valid by any train.</p>",
+        "returnText": "Valid by any train."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EV": {
+    "code": "EV",
+    "name": "EV",
+    "id": "AA47491F29F54D32A9958489A28BEC15",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ev",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>As advertised</p>",
+    "applicableDaysText": "Monday to Friday\n As advertised",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>As advertised</p>",
+        "outwardText": "As advertised",
+        "returnHtml": "<p>As advertised</p>",
+        "returnText": "As advertised"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EX": {
+    "code": "EX",
+    "name": "EX",
+    "id": "067973891222485F96E78FBCBE2233AB",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ex",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>-</p>",
+    "applicableDaysText": "Monday to Friday\n -",
+    "notesHtml": "<p>Tickets using this restriction code are valid only in Standard Class accommodation.</p>",
+    "notesText": "Tickets using this restriction code are valid only in Standard Class accommodation.",
+    "seasonalVariationsHtml": "<p>-</p>",
+    "seasonalVariationsText": "-",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> CrossCountry off-peak restriction 2V applies. See www.nre.co.uk/2V</p>",
+        "outwardText": "CrossCountry off-peak restriction 2V applies. See www.nre.co.uk/2V",
+        "returnHtml": "<p>CrossCountry off-peak restriction 2V applies. See www.nre.co.uk/2V</p>",
+        "returnText": "CrossCountry off-peak restriction 2V applies. See www.nre.co.uk/2V"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EY": {
+    "code": "EY",
+    "name": "EY",
+    "id": "2E90A3480C644CEC9638037F5D2E62A7",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ey",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>As advertised</p>",
+    "applicableDaysText": "Monday to Friday\n As advertised",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>As advertised</p>",
+        "outwardText": "As advertised",
+        "returnHtml": "<p>Not applicable</p>",
+        "returnText": "Not applicable"
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "EZ": {
+    "code": "EZ",
+    "name": "EZ",
+    "id": "73E97369C5E8436CBD8EDA89B5FD966A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ez",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Available by any London North Eastern Railway train on the date shown.</p><p>No break of journey is allowed, except a ticket to/from Leeds can start/end/break at Wakefield Westgate.</p>",
+        "outwardText": "Available by any London North Eastern Railway train on the date shown.\n No break of journey is allowed, except a ticket to/from Leeds can start/end/break at Wakefield Westgate.",
+        "returnHtml": "<p>Not applicable.</p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

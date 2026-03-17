@@ -1,0 +1,502 @@
+{
+  "15": {
+    "code": 15,
+    "name": "VIA BRIDLINGTON",
+    "description": "VIA BRIDLINGTON",
+    "startDate": "2014-09-11",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Bridlington.",
+    "rspDisplayName": "Valid only via Bridlington",
+    "enabledForMapPlotting": true
+  },
+  "16": {
+    "code": 16,
+    "name": "VIA RUGELEY TV",
+    "description": "VIA RUGELEY TV",
+    "startDate": "2018-08-03",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Rugeley Trent Valley",
+    "rspDisplayName": "Valid only via Rugeley Trent Valley",
+    "enabledForMapPlotting": true
+  },
+  "146": {
+    "code": 146,
+    "name": "TU WE TH &WKND",
+    "description": "TU WE TH &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "VALID FOR TRAVEL ON TUESDAYS, WEDNESDAYS, THURSDAYS & WEEKENDS ONLY",
+    "rspDisplayName": "Valid Tue, Wed, Thu & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "147": {
+    "code": 147,
+    "name": "TU WE FR &WKND",
+    "description": "TU WE FR &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "VALID FOR TRAVEL ON TUESDAYS, WEDNESDAYS, FRIDAYS & WEEKENDS ONLY",
+    "rspDisplayName": "Valid Tue, Wed, Fri & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "148": {
+    "code": 148,
+    "name": "TU TH FR &WKND",
+    "description": "TU TH FR &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "VALID FOR TRAVEL ON TUESDAYS, THURSDAYS, FRIDAYS & WEEKENDS ONLY",
+    "rspDisplayName": "Valid Tue, Thu, Fri & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "149": {
+    "code": 149,
+    "name": "WE TH FR &WKND",
+    "description": "WE TH FR &WKND",
+    "startDate": "2011-02-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "VALID FOR TRAVEL ON WEDNESDAYS, THURSDAYS, FRIDAYS & WEEKENDS ONLY",
+    "rspDisplayName": "Valid Wed, Thu, Fri & weekend only",
+    "enabledForMapPlotting": true
+  },
+  "150": {
+    "code": 150,
+    "name": "HELICOPTER",
+    "description": "HELICOPTER",
+    "startDate": "2011-03-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the Isles of Scilly Helicopter service.",
+    "rspDisplayName": "Via Isles of Scilly Helicopter",
+    "enabledForMapPlotting": true
+  },
+  "151": {
+    "code": 151,
+    "name": "SKYBUS",
+    "description": "SKYBUS",
+    "startDate": "2011-03-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Skybus",
+    "rspDisplayName": "Skybus",
+    "enabledForMapPlotting": true
+  },
+  "152": {
+    "code": 152,
+    "name": "SCILLONIAN FERRY",
+    "description": "SCILLONIAN FERRY",
+    "startDate": "2011-03-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel via the Scillonian Ferry service between Penzance - Scilly Islands",
+    "rspDisplayName": "Via Scillonian Ferry",
+    "enabledForMapPlotting": true
+  },
+  "153": {
+    "code": 153,
+    "name": "VIA BRIGG",
+    "description": "VIA BRIGG",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Brigg.",
+    "rspDisplayName": "Valid only via Brigg",
+    "enabledForMapPlotting": false
+  },
+  "154": {
+    "code": 154,
+    "name": "RAILAIR WATERLOO",
+    "description": "RAILAIR WATERLOO",
+    "startDate": "2023-05-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid for travel on the RailAir coach service via London Waterloo",
+    "rspDisplayName": "Railair coach via London Waterloo",
+    "enabledForMapPlotting": false
+  },
+  "155": {
+    "code": 155,
+    "name": "VIA MKM MO TU WE",
+    "description": "VIA MKM MO TU WE",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Mondays, Tuesdays and Wednesdays only.",
+    "rspDisplayName": "Via Melksham and on Mon, Tue, Wed only",
+    "enabledForMapPlotting": false
+  },
+  "156": {
+    "code": 156,
+    "name": "VIA MKM MO TU TH",
+    "description": "VIA MKM MO TU TH",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Mondays, Tuesdays and Thursdays only.",
+    "rspDisplayName": "Via Melksham and on Mon, Tue, Thu only",
+    "enabledForMapPlotting": false
+  },
+  "157": {
+    "code": 157,
+    "name": "VIA MKM MO TU FR",
+    "description": "VIA MKM MO TU FR",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Mondays, Tuesdays and Fridays only.",
+    "rspDisplayName": "Via Melksham and on Mon, Tue, Fri only",
+    "enabledForMapPlotting": false
+  },
+  "158": {
+    "code": 158,
+    "name": "VIA HACKNEY WICK",
+    "description": "VIA HACKNEY WICK",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Hackney Wick.",
+    "rspDisplayName": "Valid only via Hackney Wick",
+    "enabledForMapPlotting": true
+  },
+  "159": {
+    "code": 159,
+    "name": "VIA SOUTH ACTON",
+    "description": "VIA SOUTH ACTON",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) South Acton.",
+    "rspDisplayName": "Valid only via South Acton",
+    "enabledForMapPlotting": true
+  },
+  "160": {
+    "code": 160,
+    "name": "VIA MKM MO WE TH",
+    "description": "VIA MKM MO WE TH",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Mondays, Wednesdays and Thursdays only.",
+    "rspDisplayName": "Via Melksham and on Mon, Wed, Thu only",
+    "enabledForMapPlotting": false
+  },
+  "161": {
+    "code": 161,
+    "name": "VIA MKM MO WE FR",
+    "description": "VIA MKM MO WE FR",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Mondays, Wednesdays and Fridays only.",
+    "rspDisplayName": "Via Melksham and on Mon, Wed, Fri only",
+    "enabledForMapPlotting": false
+  },
+  "162": {
+    "code": 162,
+    "name": "VIA MKM MO TH FR",
+    "description": "VIA MKM MO TH FR",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Mondays, Thursdays and Fridays only.",
+    "rspDisplayName": "Via Melksham and on Mon, Thu, Fri only",
+    "enabledForMapPlotting": false
+  },
+  "163": {
+    "code": 163,
+    "name": "VIA MKM TU WE TH",
+    "description": "VIA MKM TU WE TH",
+    "startDate": "2019-01-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid via Melksham and on Tuesdays, Wednesdays and Thursdays only.",
+    "rspDisplayName": "Via Melksham and on Tue, Wed, Thu only",
+    "enabledForMapPlotting": false
+  },
+  "1455": {
+    "code": 1455,
+    "name": "AP LUMOST& NRTHN",
+    "description": "AP LUMO FIRST STIRLING AND NORTHERN",
+    "startDate": "2025-12-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1475": {
+    "code": 1475,
+    "name": "LUMO STG FIXED",
+    "description": "LUMO STG FIXED (ADVANCED)",
+    "startDate": "2026-02-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1476": {
+    "code": 1476,
+    "name": "LUMO STG ONLY",
+    "description": "LUMO STG ONLY",
+    "startDate": "2026-02-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1477": {
+    "code": 1477,
+    "name": "LUMO ST& CH ONLY",
+    "description": "LUMO STIRLING & CHILTERN RAILWAY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1478": {
+    "code": 1478,
+    "name": "AP LUMO ST& CH",
+    "description": "AP LUMO STIRLING & CHILTERN RAILWAY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1479": {
+    "code": 1479,
+    "name": "LUMO ST& SR ONLY",
+    "description": "LUMO STIRLING & SCOTRAIL",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1480": {
+    "code": 1480,
+    "name": "AP LUMO ST& SR",
+    "description": "AP LUMO STIRLING & SCOTRAIL",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1481": {
+    "code": 1481,
+    "name": "LUMO ST& SE ONLY",
+    "description": "LUMO STIRLING & SOUTHEASTERN",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1482": {
+    "code": 1482,
+    "name": "AP LUMO ST& SE",
+    "description": "AP LUMO STIRLING & SOUTHEASTERN",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1483": {
+    "code": 1483,
+    "name": "LUMO ST&SWR ONLY",
+    "description": "LUMO ST & SWR ONLY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1484": {
+    "code": 1484,
+    "name": "AP LUMO ST & SWR",
+    "description": "AP LUMO ST & SWR",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1485": {
+    "code": 1485,
+    "name": "LUMO ST& GA ONLY",
+    "description": "LUMO ST & GA ONLY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1486": {
+    "code": 1486,
+    "name": "AP LUMO ST & GA",
+    "description": "AP LUMO ST & GA",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1487": {
+    "code": 1487,
+    "name": "LUMO ST&GWR ONLY",
+    "description": "LUMO ST&GWR ONLY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1488": {
+    "code": 1488,
+    "name": "AP LUMO ST&GWR",
+    "description": "AP LUMO ST&GWR",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1489": {
+    "code": 1489,
+    "name": "LUMO ST&C2C ONLY",
+    "description": "LUMO ST&C2C ONLY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1490": {
+    "code": 1490,
+    "name": "AP LUMO ST&C2C",
+    "description": "AP LUMO ST&C2C",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1491": {
+    "code": 1491,
+    "name": "LUMO ST&TFW ONLY",
+    "description": "LUMO ST&TFW ONLY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1492": {
+    "code": 1492,
+    "name": "AP LUMO ST&TFW",
+    "description": "AP LUMO ST&TFW",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1493": {
+    "code": 1493,
+    "name": "LUMO S&TLGN ONLY",
+    "description": "LUMO S&TLGN ONLY",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1494": {
+    "code": 1494,
+    "name": "AP LUMO S&TLGN",
+    "description": "AP LUMO S&TLGN",
+    "startDate": "2026-02-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "1500": {
+    "code": 1500,
+    "name": "HULLTRAINS &SWR",
+    "description": "HULL TRAINS & SWR ONLY",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid on Hull Trains and South Western Railway services only",
+    "rspDisplayName": "Valid on Hull Trains and SWR only",
+    "enabledForMapPlotting": false
+  },
+  "1509": {
+    "code": 1509,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1510": {
+    "code": 1510,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1511": {
+    "code": 1511,
+    "name": "HULTRNS&NORTHERN",
+    "description": "HULL TRAINS & NORTHERN ONLY",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1512": {
+    "code": 1512,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern Only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1513": {
+    "code": 1513,
+    "name": "HULTRNS&NORTHERN",
+    "description": "HULL TRAINS & NORTHERN ONLY",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "1514": {
+    "code": 1514,
+    "name": "HULTRNS&NORTHERN",
+    "description": "Hull Trains & Northern only",
+    "startDate": "2023-10-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains and Northern services.",
+    "rspDisplayName": "Hull Trains and Northern services only",
+    "enabledForMapPlotting": false
+  },
+  "15000": {
+    "code": 15000,
+    "name": "DIRECT DEBIT",
+    "description": "DIRECT DEBIT",
+    "startDate": "1997-02-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Direct Debit",
+    "rspDisplayName": "Direct Debit",
+    "enabledForMapPlotting": true
+  },
+  "15003": {
+    "code": 15003,
+    "name": "NWM DD TERM EX",
+    "description": "NWM DD TERM EX",
+    "startDate": "2008-10-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Nwm Dd Term Ex",
+    "rspDisplayName": "Nwm Dd Term Ex",
+    "enabledForMapPlotting": true
+  }
+}

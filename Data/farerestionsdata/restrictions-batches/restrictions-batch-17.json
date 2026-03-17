@@ -1,0 +1,522 @@
+{
+  "JF": {
+    "code": "JF",
+    "name": "JF",
+    "id": "1303745D35534318BDE11042DC525E23",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jf",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:45.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:45.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JG": {
+    "code": "JG",
+    "name": "JG",
+    "id": "F959BAAC156E4E34B390708992C03642",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jg",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:30.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JH": {
+    "code": "JH",
+    "name": "JH",
+    "id": "2777BF3C1B9F4F2AB7094ABD29929F0C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jh",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:15.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:15.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:15.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:15."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JI": {
+    "code": "JI",
+    "name": "JI",
+    "id": "4DE8D87DE41549DABB317FFA06F1C744",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/ji",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p> Not valid on trains timed to depart after 04:29 and before 08:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 08:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 08:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 08:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JJ": {
+    "code": "JJ",
+    "name": "JJ",
+    "id": "F29135DC38194E8680ACF0776C6433ED",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jj",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 07:45.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 and before 07:45.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 07:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JK": {
+    "code": "JK",
+    "name": "JK",
+    "id": "2E0C80145ECE4C1293B6D9092459703A",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jk",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 which arrive at London Terminals or Kensington Olympia before 10:00.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 which arrive at London Terminals or Kensington Olympia before 10:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart after 04:29 which arrive at London Terminals or Kensington Olympia before 10:00.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 which arrive at London Terminals or Kensington Olympia before 10:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JL": {
+    "code": "JL",
+    "name": "JL",
+    "id": "2DB964102E3B42E2A0D2053D213D40B3",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jl",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": "<p>In addition to the specific restrictions shown, for travel <em>to/from</em>:</p><p>London Paddington or Reading on part of the outward or return journey please also refer to Restriction Code <a href=\"http://internal.nationalrail.co.uk/times_fares/ticket_types/64112.aspx\" title=\"\">5K</a>.</p><p>London St Pancras International on part of the outward or return journey please also refer to Restriction Code <a href=\"http://internal.nationalrail.co.uk/times_fares/ticket_types/64127.aspx\" title=\"\">7E</a> &<a href=\"http://internal.nationalrail.co.uk/times_fares/ticket_types/64136.aspx\" title=\"\">9J</a>.</p>",
+    "notesText": "In addition to the specific restrictions shown, for travel to/from :\n London Paddington or Reading on part of the outward or return journey please also refer to Restriction Code  5K .\n London St Pancras International on part of the outward or return journey please also refer to Restriction Code  7E & 9J .",
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "outwardText": "Not valid on trains timed to depart after 04:29 and before 09:30.",
+        "returnHtml": "<p> Not valid on trains timed to depart after 04:29 and before 09:30.</p>",
+        "returnText": "Not valid on trains timed to depart after 04:29 and before 09:30."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": true,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JM": {
+    "code": "JM",
+    "name": "JM",
+    "id": "9FEC756C2CEE4EF3874E0D092E63BB5B",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jm",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on trains timed to arrive at London Euston from 10:00.</p><p>Not valid on trains timed to depart London Euston after 04:29 or before 08:45.</p>",
+        "outwardText": "Valid on trains timed to arrive at London Euston from 10:00.\n Not valid on trains timed to depart London Euston after 04:29 or before 08:45.",
+        "returnHtml": "<p>Valid on trains timed to arrive at London Euston from 10:00.</p><p>Not valid on trains timed to depart London Euston after 04:29 or before 08:45.</p>",
+        "returnText": "Valid on trains timed to arrive at London Euston from 10:00.\n Not valid on trains timed to depart London Euston after 04:29 or before 08:45."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JN": {
+    "code": "JN",
+    "name": "JN",
+    "id": "253D0B01420142D68177E3590ECEE5BF",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jn",
+    "applicableDaysHtml": "<p>Monday, Tuesday, Wednesday, Thursday, Friday and Saturday</p><br /><p>Mondays-Saturdays</p>",
+    "applicableDaysText": "Monday, Tuesday, Wednesday, Thursday, Friday and Saturday\n Mondays-Saturdays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart Manchester Piccadilly after 04:29 or before 10:30 and not between 16:00 to 19:00.</p><p>Not valid on trains timed to depart London Euston after 04:29 or before 10:30 and not between 16:00 to 19:00.</p>",
+        "outwardText": "Not valid on trains timed to depart Manchester Piccadilly after 04:29 or before 10:30 and not between 16:00 to 19:00.\n Not valid on trains timed to depart London Euston after 04:29 or before 10:30 and not between 16:00 to 19:00.",
+        "returnHtml": "<p>Not valid on trains timed to depart Manchester Piccadilly after 04:29 or before 10:30 and not between 16:00 to 19:00.</p><p>Not valid on trains timed to depart London Euston after 04:29 or before 10:30 and not between 16:00 to 19:00.</p>",
+        "returnText": "Not valid on trains timed to depart Manchester Piccadilly after 04:29 or before 10:30 and not between 16:00 to 19:00.\n Not valid on trains timed to depart London Euston after 04:29 or before 10:30 and not between 16:00 to 19:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JS": {
+    "code": "JS",
+    "name": "JS",
+    "id": "40507F0C056F4CD9A3789E1652FE9353",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/js",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays-Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays-Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Only valid on the following Grand Central services:</p><p>07:49 London Kings Cross towards Sunderland17:31 Sunderland towards London Kings Cross</p>",
+        "outwardText": "Only valid on the following Grand Central services:\n 07:49 London Kings Cross towards Sunderland17:31 Sunderland towards London Kings Cross",
+        "returnHtml": "<p>No return restriction.</p>",
+        "returnText": "No return restriction."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JX": {
+    "code": "JX",
+    "name": "JX",
+    "id": "708F382874E74C11AE2E060F989D415D",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YB usually applies. Validity will match YB unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YB usually applies. Validity will match YB unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:12 and after 16:40 and before 18:03.</li><li>Reading after 04:29 and before 09:39 and after 17:03 and before 18:28.</li><li>London Waterloo after 04:29 and before 08:15.</li><li>London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.</li></ul><p>Also not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>09:53 from Didcot Parkway</li><li>08:35 from Fareham</li><li>08:39 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton Central</li></ul><p>Not valid on trains timed to arrive at St Pancras before 10:05.</p><p>Not valid on trains timed to arrive at Exeter St Davids before 11:30</p><p>Not valid on trains timed to arrive at Salisbury before 09:30</p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 and after 16:40 and before 18:03.\n Reading after 04:29 and before 09:39 and after 17:03 and before 18:28.\n London Waterloo after 04:29 and before 08:15.\n London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.\n Also not valid for travel on trains timed to depart earlier than shown from the following stations:\n 09:53 from Didcot Parkway\n 08:35 from Fareham\n 08:39 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton Central\n Not valid on trains timed to arrive at St Pancras before 10:05.\n Not valid on trains timed to arrive at Exeter St Davids before 11:30\n Not valid on trains timed to arrive at Salisbury before 09:30",
+        "returnHtml": "<p>Not valid on trains timed to depart;</p><ul><li>London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.</li></ul><p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>05:30 from Penzance</li><li>05:35 from St Erth</li><li>05:40 from Hayle</li><li>05:40 from Camborne</li><li>05:55 from Redruth</li><li>06:05 from Truro</li><li>06:25 from St Austell</li><li>06:30 from Par</li><li>06:40 from Lostwithiel</li><li>06:45 from Bodmin Parkway</li><li>07:00 from Liskeard</li><li>07:05 from Menheniot</li><li>09:54 from Didcot Parkway</li><li>08:35 from Fareham</li><li>08:41 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton Central</li></ul><p>Not valid on trains timed to arrive at Waterloo before 09:52.</p>",
+        "returnText": "Not valid on trains timed to depart;\n London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.\n Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 05:30 from Penzance\n 05:35 from St Erth\n 05:40 from Hayle\n 05:40 from Camborne\n 05:55 from Redruth\n 06:05 from Truro\n 06:25 from St Austell\n 06:30 from Par\n 06:40 from Lostwithiel\n 06:45 from Bodmin Parkway\n 07:00 from Liskeard\n 07:05 from Menheniot\n 09:54 from Didcot Parkway\n 08:35 from Fareham\n 08:41 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton Central\n Not valid on trains timed to arrive at Waterloo before 09:52."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "JZ": {
+    "code": "JZ",
+    "name": "JZ",
+    "id": "142DA9DB71534D3896FCE0EB8471E8A5",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/jz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YB usually applies. Validity will match YB unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YB usually applies. Validity will match YB unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart:</p><ul><li>London Paddington after 04:29 and before 09:12 and after 16:40 and before 18:03.</li><li>Reading after 04:29 and before 09:39 and after 17:03 and before 18:28.</li><li>London Waterloo after 04:29 and before 08:15.</li><li>London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.</li></ul><p>Also not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>09:53 from Didcot Parkway</li><li>08:35 from Fareham</li><li>08:39 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton Central</li></ul><p>Not valid on trains timed to arrive at St Pancras before 10:05.</p><p>Not valid on trains timed to arrive at Exeter St Davids before 11:30</p><p>Not valid on trains timed to arrive at Salisbury before 09:30</p>",
+        "outwardText": "Not valid on trains timed to depart:\n London Paddington after 04:29 and before 09:12 and after 16:40 and before 18:03.\n Reading after 04:29 and before 09:39 and after 17:03 and before 18:28.\n London Waterloo after 04:29 and before 08:15.\n London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.\n Also not valid for travel on trains timed to depart earlier than shown from the following stations:\n 09:53 from Didcot Parkway\n 08:35 from Fareham\n 08:39 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton Central\n Not valid on trains timed to arrive at St Pancras before 10:05.\n Not valid on trains timed to arrive at Exeter St Davids before 11:30\n Not valid on trains timed to arrive at Salisbury before 09:30",
+        "returnHtml": "<p>Not valid on trains timed to depart;</p><ul><li>London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.</li></ul><p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>05:30 from Penzance</li><li>05:35 from St Erth</li><li>05:40 from Hayle</li><li>05:40 from Camborne</li><li>05:55 from Redruth</li><li>06:05 from Truro</li><li>06:25 from St Austell</li><li>06:30 from Par</li><li>06:40 from Lostwithiel</li><li>06:45 from Bodmin Parkway</li><li>07:00 from Liskeard</li><li>07:05 from Menheniot</li><li>09:54 from Didcot Parkway</li><li>08:35 from Fareham</li><li>08:41 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton Central</li></ul><p>Not valid on trains timed to arrive at Waterloo before 09:52.</p>",
+        "returnText": "Not valid on trains timed to depart;\n London St Pancras after 02:29 and before 09:00 and after 16:26 and before 18:59.\n Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 05:30 from Penzance\n 05:35 from St Erth\n 05:40 from Hayle\n 05:40 from Camborne\n 05:55 from Redruth\n 06:05 from Truro\n 06:25 from St Austell\n 06:30 from Par\n 06:40 from Lostwithiel\n 06:45 from Bodmin Parkway\n 07:00 from Liskeard\n 07:05 from Menheniot\n 09:54 from Didcot Parkway\n 08:35 from Fareham\n 08:41 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton Central\n Not valid on trains timed to arrive at Waterloo before 09:52."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "KF": {
+    "code": "KF",
+    "name": "KF",
+    "id": "D5227FD5BB584E5E9B0CC5D60CE5F28C",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/kf",
+    "applicableDaysHtml": "<p>All days, including public holidays</p>",
+    "applicableDaysText": "All days, including public holidays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Valid on London North Eastern Railway (TOC Code: GR) and connecting services.</p><p>Seat reservations are compulsory.</p>",
+        "outwardText": "Valid on London North Eastern Railway (TOC Code: GR) and connecting services.\n Seat reservations are compulsory.",
+        "returnHtml": "<p>Not applicable. </p>",
+        "returnText": "Not applicable."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "KM": {
+    "code": "KM",
+    "name": "KM",
+    "id": "2DF43BB612D54E7BB6F6A75B74719DC0",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/km",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart London Euston after 04:29 and before 10:30 and after 15:59 and before 19:01.</p>",
+        "outwardText": "Not valid on trains timed to depart London Euston after 04:29 and before 10:30 and after 15:59 and before 19:01.",
+        "returnHtml": "<p>Not valid on trains timed to arrive at London Euston after 04:29 and before 13:00.</p>",
+        "returnText": "Not valid on trains timed to arrive at London Euston after 04:29 and before 13:00."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "KP": {
+    "code": "KP",
+    "name": "KP",
+    "id": "CBCDA1DA771D41C09C5DB2D1ABEA9E89",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/kp",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YP usually applies. Validity will match YP unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YP usually applies. Validity will match YP unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart<strong>:</strong></p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:04 and before 19:01</li><li>Reading after 04:29 and before 10:30 and after 15:29 and before 19:01;</li><li>London Waterloo after 04:29 and before 08:16 and after 15:59 and before 19:01;</li><li>Clapham Junction after 04:29 and before 07:21 and after 15:59 and before 19:01.</li></ul><p></p>",
+        "outwardText": "Not valid on trains timed to depart :\n London Paddington after 04:29 and before 10:10 and after 15:04 and before 19:01\n Reading after 04:29 and before 10:30 and after 15:29 and before 19:01;\n London Waterloo after 04:29 and before 08:16 and after 15:59 and before 19:01;\n Clapham Junction after 04:29 and before 07:21 and after 15:59 and before 19:01.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>08:15 from St Germans</li><li>08:25 from Saltash</li><li>08:18 from Plymouth</li><li>08:49 from Ivybridge</li><li>08:45 from Totnes</li><li>09:00 from Newton Abbot</li><li>09:20 from Exeter St Davids</li></ul><p>Not valid on trains timed to arrive at London Waterloo before 11:48.</p>",
+        "returnText": "Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 08:15 from St Germans\n 08:25 from Saltash\n 08:18 from Plymouth\n 08:49 from Ivybridge\n 08:45 from Totnes\n 09:00 from Newton Abbot\n 09:20 from Exeter St Davids\n Not valid on trains timed to arrive at London Waterloo before 11:48."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "KX": {
+    "code": "KX",
+    "name": "KX",
+    "id": "74A832FED33741C68287068FC8A13362",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/kx",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YX usually applies. Validity will match YX unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YX usually applies. Validity will match YX unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart<strong>:</strong></p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:10 and before 19:01;</li><li>Reading after 04:29 and before 10:30 and after 15:35 and before 19:01;</li><li>London Waterloo after 04:29 and before 08:15 and after 15:59 and before 19:01;</li><li>Clapham Junction after 15:59 and before 19:01.</li><li>London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59;</li></ul><p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>10:30 from Didcot </li><li>08:35 from Fareham</li><li>10:30 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton</li></ul><p>Not valid on trains timed to arrive at London St Pancras before 11:29.</p><p>Not valid on trains timed to arrive at Salisbury before 09:30.</p><p>Not valid on trains timed to arrive at Exeter St Davids before 11:30.</p>",
+        "outwardText": "Not valid on trains timed to depart :\n London Paddington after 04:29 and before 10:10 and after 15:10 and before 19:01;\n Reading after 04:29 and before 10:30 and after 15:35 and before 19:01;\n London Waterloo after 04:29 and before 08:15 and after 15:59 and before 19:01;\n Clapham Junction after 15:59 and before 19:01.\n London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59;\n Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 10:30 from Didcot \n 08:35 from Fareham\n 10:30 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton\n Not valid on trains timed to arrive at London St Pancras before 11:29.\n Not valid on trains timed to arrive at Salisbury before 09:30.\n Not valid on trains timed to arrive at Exeter St Davids before 11:30.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>06:16 from Penzance</li><li>06:20 from St Erth</li><li>06:30 from Camborne</li><li>06:40 from Redruth</li><li>06:50 from Truro</li><li>07:10 from St Austell</li><li>07:15 from Par</li><li>07:20 from Lostwithiel</li><li>07:30 from Bodmin Parkway</li><li>07:40 from Liskeard</li><li>07:45 from Menheniot</li><li>08:35 from Fareham​​​​​​​</li><li>08:50 from Salisbury</li><li>09:50 from Southampton</li></ul><p>Not valid on trains timed to <strong>depart:</strong></p><ul><li>London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59</li></ul><p>Not valid on trains timed to <strong>arrive</strong> at London Waterloo before 11:48.</p><p>Not valid on trains timed to <strong>arrive</strong> at London St Pancras before 11:29.</p>",
+        "returnText": "Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 06:16 from Penzance\n 06:20 from St Erth\n 06:30 from Camborne\n 06:40 from Redruth\n 06:50 from Truro\n 07:10 from St Austell\n 07:15 from Par\n 07:20 from Lostwithiel\n 07:30 from Bodmin Parkway\n 07:40 from Liskeard\n 07:45 from Menheniot\n 08:35 from Fareham​​​​​​​\n 08:50 from Salisbury\n 09:50 from Southampton\n Not valid on trains timed to depart:\n London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59\n Not valid on trains timed to arrive at London Waterloo before 11:48.\n Not valid on trains timed to arrive at London St Pancras before 11:29."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "KZ": {
+    "code": "KZ",
+    "name": "KZ",
+    "id": "19B4A1A6C7FE403CA01D86275E31336F",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/kz",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p><strong>This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YX usually applies. Validity will match YX unless stated in the easement text.</strong></p>",
+    "applicableDaysText": "Monday to Friday\n This is a temporary restriction used on dates when engineering work is taking place, for routes where restriction YX usually applies. Validity will match YX unless stated in the easement text.",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid on trains timed to depart<strong>:</strong></p><ul><li>London Paddington after 04:29 and before 10:10 and after 15:10 and before 19:01;</li><li>Reading after 04:29 and before 10:30 and after 15:35 and before 19:01;</li><li>London Waterloo after 04:29 and before 08:15 and after 15:59 and before 19:01;</li><li>Clapham Junction after 15:59 and before 19:01.</li><li>London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59;</li></ul><p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>10:30 from Didcot </li><li>08:35 from Fareham</li><li>10:30 from Newbury</li><li>08:50 from Salisbury</li><li>08:50 from Southampton</li></ul><p>Not valid on trains timed to arrive at London St Pancras before 11:29.</p><p>Not valid on trains timed to arrive at Salisbury before 09:30.</p><p>Not valid on trains timed to arrive at Exeter St Davids before 11:30.</p>",
+        "outwardText": "Not valid on trains timed to depart :\n London Paddington after 04:29 and before 10:10 and after 15:10 and before 19:01;\n Reading after 04:29 and before 10:30 and after 15:35 and before 19:01;\n London Waterloo after 04:29 and before 08:15 and after 15:59 and before 19:01;\n Clapham Junction after 15:59 and before 19:01.\n London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59;\n Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 10:30 from Didcot \n 08:35 from Fareham\n 10:30 from Newbury\n 08:50 from Salisbury\n 08:50 from Southampton\n Not valid on trains timed to arrive at London St Pancras before 11:29.\n Not valid on trains timed to arrive at Salisbury before 09:30.\n Not valid on trains timed to arrive at Exeter St Davids before 11:30.",
+        "returnHtml": "<p>Not valid for travel on trains timed to depart earlier than shown from the following stations:</p><ul><li>06:16 from Penzance</li><li>06:20 from St Erth</li><li>06:30 from Camborne</li><li>06:40 from Redruth</li><li>06:50 from Truro</li><li>07:10 from St Austell</li><li>07:15 from Par</li><li>07:20 from Lostwithiel</li><li>07:30 from Bodmin Parkway</li><li>07:40 from Liskeard</li><li>07:45 from Menheniot</li><li>08:35 from Fareham​​​​​​​</li><li>08:50 from Salisbury</li><li>09:50 from Southampton</li></ul><p>Not valid on trains timed to <strong>depart:</strong></p><ul><li>London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59</li></ul><p>Not valid on trains timed to <strong>arrive</strong> at London Waterloo before 11:48.</p><p>Not valid on trains timed to <strong>arrive</strong> at London St Pancras before 11:29.</p>",
+        "returnText": "Not valid for travel on trains timed to depart earlier than shown from the following stations:\n 06:16 from Penzance\n 06:20 from St Erth\n 06:30 from Camborne\n 06:40 from Redruth\n 06:50 from Truro\n 07:10 from St Austell\n 07:15 from Par\n 07:20 from Lostwithiel\n 07:30 from Bodmin Parkway\n 07:40 from Liskeard\n 07:45 from Menheniot\n 08:35 from Fareham​​​​​​​\n 08:50 from Salisbury\n 09:50 from Southampton\n Not valid on trains timed to depart:\n London St Pancras after 02:29 and before 10:26 and after 15:15 and before 18:59\n Not valid on trains timed to arrive at London Waterloo before 11:48.\n Not valid on trains timed to arrive at London St Pancras before 11:29."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "L2": {
+    "code": "L2",
+    "name": "L2",
+    "id": "8B66119E5AA44726A7F413058D25B0F1",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/l2",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>No restriction.</p>",
+        "outwardText": "No restriction.",
+        "returnHtml": "<p>Not valid on trains timed to depart before 08:30</p>",
+        "returnText": "Not valid on trains timed to depart before 08:30"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "L4": {
+    "code": "L4",
+    "name": "L4",
+    "id": "C87CB069A24245EB9643C7512A91FC39",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/l4",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": null,
+    "seasonalVariationsText": null,
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 until the times shown from the following stations:</p><ul><li>09:08 from Waterbeach</li><li>09:00 from Cambridge North</li><li>08:55 from Cambridge</li><li>09:05 from Foxton</li><li>09:08 from Shepreth</li><li>09:11 from Meldreth</li><li>09:16 from Royston (Herts)</li><li>09:21 from Ashwell & Morden</li><li>08:46 from Peterborough</li><li>09:00 from Huntingdon</li><li>09:08 from St Neots</li><li>09:16 from Sandy</li><li>09:20 from Biggleswade</li><li>09:25 from Arlesey</li></ul><p></p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 until the times shown from the following stations:\n 09:08 from Waterbeach\n 09:00 from Cambridge North\n 08:55 from Cambridge\n 09:05 from Foxton\n 09:08 from Shepreth\n 09:11 from Meldreth\n 09:16 from Royston (Herts)\n 09:21 from Ashwell & Morden\n 08:46 from Peterborough\n 09:00 from Huntingdon\n 09:08 from St Neots\n 09:16 from Sandy\n 09:20 from Biggleswade\n 09:25 from Arlesey",
+        "returnHtml": "<p>Not valid on any services which are scheduled to depart after 04:29 and before 09:30, or those scheduled to depart London Kings Cross, London St Pancras International, Moorgate or pass through London St Pancras International after 16:29 and before 19:02, regardless of where you join or leave the service.</p>",
+        "returnText": "Not valid on any services which are scheduled to depart after 04:29 and before 09:30, or those scheduled to depart London Kings Cross, London St Pancras International, Moorgate or pass through London St Pancras International after 16:29 and before 19:02, regardless of where you join or leave the service."
+      }
+    ],
+    "hasSeasonalVariations": false,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  },
+  "L5": {
+    "code": "L5",
+    "name": "L5",
+    "id": "FB26C7EA36EE40ADAD97A67720DC08DA",
+    "detailUrl": "https://www.nationalrail.co.uk/ticket-types/validity/l5",
+    "applicableDaysHtml": "<p>Monday to Friday</p><br /><p>Mondays to Fridays</p>",
+    "applicableDaysText": "Monday to Friday\n Mondays to Fridays",
+    "notesHtml": null,
+    "notesText": null,
+    "seasonalVariationsHtml": "<p><u><strong>GWR Christmas and New Year Travel Restrictions 2025/26</strong></u></p><p><strong>Up to and including Friday 19 December:</strong> Usual ticket restrictions apply.</p><p><strong>Monday 22 to Wednesday 24 December: </strong></p><p>Off-Peak tickets valid all day.</p><p>Super Off-Peak tickets subject to normal restriction times.</p><p><strong>Monday 29 December to Friday 02 January * </strong>No ticket restrictions apply.</p><p><strong>Monday 05 January 2026 onwards </strong>Usual ticket restrictions apply.</p><p>Journey planners have been updated with the above information.</p><p><em>*Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.</em></p><p><em>Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.</em></p>",
+    "seasonalVariationsText": "GWR Christmas and New Year Travel Restrictions 2025/26\n Up to and including Friday 19 December: Usual ticket restrictions apply.\n Monday 22 to Wednesday 24 December:\n Off-Peak tickets valid all day.\n Super Off-Peak tickets subject to normal restriction times.\n Monday 29 December to Friday 02 January * No ticket restrictions apply.\n Monday 05 January 2026 onwards Usual ticket restrictions apply.\n Journey planners have been updated with the above information.\n *Please note this only applies to journeys priced by GWR. Flows within Wales, between Cheltenham and Gloucester and long-distance routes to areas not served by GWR are priced by other train companies, who may have different Christmas travel restrictions in place. Usual restrictions will apply to CPAY and may apply to other Operators’ services. Please check retail systems if unsure.\n Customers using Off-Peak travel cards and arriving at London Paddington before 09:30 on weekdays, will need to wait until 09:30 for onward travel from Paddington.",
+    "outwardDirection": "Outward Travel",
+    "returnDirection": "Return Travel",
+    "restrictions": [
+      {
+        "outwardHtml": "<p>Not valid for travel on trains timed to depart after 04:29 (inclusive) and before the time shown from the following stations:</p><ul><li>09:30 from Aldermaston</li><li>08:58 from Basingstoke</li><li>08:30 from Bedwyn</li><li>08:58 from Bramley</li><li>08:36 from Hungerford</li><li>08:40 from Kintbury</li><li>09:25 from Midgham</li><li>08:58 from Mortimer</li><li>09:15 from Newbury</li><li>09:15 from Newbury Racecourse</li><li>08:58 from Reading</li><li>08:58 from Reading Green Park</li><li>08:58 from Reading West</li><li>09:15 from Thatcham​​​​​​​</li><li>09:15 from Theale</li></ul><p></p><p></p>",
+        "outwardText": "Not valid for travel on trains timed to depart after 04:29 (inclusive) and before the time shown from the following stations:\n 09:30 from Aldermaston\n 08:58 from Basingstoke\n 08:30 from Bedwyn\n 08:58 from Bramley\n 08:36 from Hungerford\n 08:40 from Kintbury\n 09:25 from Midgham\n 08:58 from Mortimer\n 09:15 from Newbury\n 09:15 from Newbury Racecourse\n 08:58 from Reading\n 08:58 from Reading Green Park\n 08:58 from Reading West\n 09:15 from Thatcham​​​​​​​\n 09:15 from Theale",
+        "returnHtml": "<p>Not valid on trains timed to depart London Terminals after 04:29 and before 09:20 (not before 08:58 from Reading) or on the following <strong>departures</strong> from London Paddington:</p><ul><li>16:00 to Bristol Temple Meads </li><li>16:03 to Penzance</li><li>16:05 to Newbury</li><li>16:12 to Bristol Parkway</li><li>16:23 to Oxford </li><li>16:30 to Taunton</li><li>16:33 to Cheltenham</li><li>16:36 to Plymouth</li><li>16:48 to Swansea</li><li>16:50 to Didcot</li><li>16:58 to Great Malvern</li><li>17:00 to Bristol Temple Meads</li><li>17:03 to Penzance</li><li>17:05 to Newbury</li><li>17:18 to Swansea</li><li>17:20 to Didcot </li><li>17:30 to Taunton </li><li>17:32 to Cheltenham Spa</li><li>17:34 to Hereford</li><li>17:36 to Plymouth</li><li>17:48 to Carmarthen</li><li>17:50 to Didcot Parkway</li><li>17:57 to Worcester Foregate Street </li><li>18:01 to Bristol Temple Meads</li><li>18:03 to Penzance</li><li>18:08 to Frome </li><li>18:18 to Swansea</li><li>18:20 to Didcot Parkway</li><li>18:23 to Banbury </li><li>18:30 to Weston Super Mare</li><li>18:34 to Cheltenham Spa</li><li>18:36 to Plymouth</li><li>18:48 to Swansea</li><li>18:57 to Great Malvern</li><li>19:00 to Bristol Temple Meads</li></ul><p>Not valid on trains timed to depart London Waterloo after 02:30 and before 09:20 inclusive</p><p></p><p></p>",
+        "returnText": "Not valid on trains timed to depart London Terminals after 04:29 and before 09:20 (not before 08:58 from Reading) or on the following departures from London Paddington:\n 16:00 to Bristol Temple Meads\n 16:03 to Penzance\n 16:05 to Newbury\n 16:12 to Bristol Parkway\n 16:23 to Oxford\n 16:30 to Taunton\n 16:33 to Cheltenham\n 16:36 to Plymouth\n 16:48 to Swansea\n 16:50 to Didcot\n 16:58 to Great Malvern\n 17:00 to Bristol Temple Meads\n 17:03 to Penzance\n 17:05 to Newbury\n 17:18 to Swansea\n 17:20 to Didcot\n 17:30 to Taunton\n 17:32 to Cheltenham Spa\n 17:34 to Hereford\n 17:36 to Plymouth\n 17:48 to Carmarthen\n 17:50 to Didcot Parkway\n 17:57 to Worcester Foregate Street\n 18:01 to Bristol Temple Meads\n 18:03 to Penzance\n 18:08 to Frome\n 18:18 to Swansea\n 18:20 to Didcot Parkway\n 18:23 to Banbury\n 18:30 to Weston Super Mare\n 18:34 to Cheltenham Spa\n 18:36 to Plymouth\n 18:48 to Swansea\n 18:57 to Great Malvern\n 19:00 to Bristol Temple Meads\n Not valid on trains timed to depart London Waterloo after 02:30 and before 09:20 inclusive"
+      }
+    ],
+    "hasSeasonalVariations": true,
+    "hasNotes": false,
+    "hasOutwardRestrictions": true,
+    "hasReturnRestrictions": true
+  }
+}

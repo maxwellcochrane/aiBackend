@@ -1,0 +1,502 @@
+{
+  "7": {
+    "code": 7,
+    "name": "NOT VIA CHELTNHM",
+    "description": "NOT VIA CHELTENHAM",
+    "startDate": "2018-01-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Cheltenham.",
+    "rspDisplayName": "Not valid via Cheltenham",
+    "enabledForMapPlotting": true
+  },
+  "69": {
+    "code": 69,
+    "name": "VIA PENRITH",
+    "description": "VIA PENRITH",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Penrith.",
+    "rspDisplayName": "Valid only via Penrith",
+    "enabledForMapPlotting": true
+  },
+  "70": {
+    "code": 70,
+    "name": "VIA LINCOLN",
+    "description": "VIA LINCOLN",
+    "startDate": "2014-11-19",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Lincoln.",
+    "rspDisplayName": "Valid only via Lincoln",
+    "enabledForMapPlotting": true
+  },
+  "71": {
+    "code": 71,
+    "name": "HULL TRAINS ONLY",
+    "description": "HULL TRAINS ONLY",
+    "startDate": "2022-11-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Hull Trains services.",
+    "rspDisplayName": "Valid only on Hull Trains services",
+    "enabledForMapPlotting": true
+  },
+  "72": {
+    "code": 72,
+    "name": "VIA NEWCASTLE",
+    "description": "VIA NEWCASTLE",
+    "startDate": "2015-07-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Newcastle.",
+    "rspDisplayName": "Valid only via Newcastle",
+    "enabledForMapPlotting": true
+  },
+  "73": {
+    "code": 73,
+    "name": "VIA BROUGH",
+    "description": "VIA BROUGH",
+    "startDate": "2014-09-11",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Brough.",
+    "rspDisplayName": "Valid only via Brough",
+    "enabledForMapPlotting": true
+  },
+  "74": {
+    "code": 74,
+    "name": "VIA NORWICH",
+    "description": "VIA NORWICH",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Norwich.",
+    "rspDisplayName": "Valid only via Norwich",
+    "enabledForMapPlotting": true
+  },
+  "75": {
+    "code": 75,
+    "name": "NOT VIA LEICESTR",
+    "description": "NOT VIA LEICESTER",
+    "startDate": "2014-11-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) Leicester.",
+    "rspDisplayName": "Not valid via Leicester",
+    "enabledForMapPlotting": true
+  },
+  "686": {
+    "code": 686,
+    "name": "VIA CANTERBURY",
+    "description": "VIA CANTERBURY",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Canterbury.",
+    "rspDisplayName": "Valid only via Canterbury",
+    "enabledForMapPlotting": true
+  },
+  "687": {
+    "code": 687,
+    "name": "VIA MINSTER",
+    "description": "VIA MINSTER",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Minster.",
+    "rspDisplayName": "Valid only via Minster",
+    "enabledForMapPlotting": true
+  },
+  "688": {
+    "code": 688,
+    "name": "VIA PADDOCK WOOD",
+    "description": "VIA PADDOCK WOOD",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Paddock Wood.",
+    "rspDisplayName": "Valid only via Paddock Wood",
+    "enabledForMapPlotting": true
+  },
+  "689": {
+    "code": 689,
+    "name": "VIA NEWARK NGATE",
+    "description": "VIA NEWARK NORTHGATE",
+    "startDate": "2025-10-08",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through Newark Northgate).",
+    "rspDisplayName": "Valid only for travel via (changing trains or passing through Newark Northgate).",
+    "enabledForMapPlotting": false
+  },
+  "694": {
+    "code": 694,
+    "name": "VIA SELLING",
+    "description": "VIA SELLING",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Selling.",
+    "rspDisplayName": "Valid only via Selling",
+    "enabledForMapPlotting": true
+  },
+  "696": {
+    "code": 696,
+    "name": "HORSHAM THREE BR",
+    "description": "HORSHAM THREE BRIDGES",
+    "startDate": "2019-03-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Horsham and Three Bridges.",
+    "rspDisplayName": "Valid only via Horsham & Three Bridges",
+    "enabledForMapPlotting": true
+  },
+  "699": {
+    "code": 699,
+    "name": "GATWICK EXP MOB",
+    "description": "GATWICK EXP MOB",
+    "startDate": "2018-12-22",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Gatwick Express Mobile",
+    "rspDisplayName": "Gatwick Express Mobile",
+    "enabledForMapPlotting": true
+  },
+  "700": {
+    "code": 700,
+    "name": "NOT VIA LONDON",
+    "description": "NOT VIA LONDON",
+    "startDate": "2017-09-09",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Not valid for travel via (changing trains or passing through) London Terminals.",
+    "rspDisplayName": "Not valid via London Terminals",
+    "enabledForMapPlotting": true
+  },
+  "701": {
+    "code": 701,
+    "name": "VIA SELBY",
+    "description": "VIA SELBY",
+    "startDate": "2020-09-25",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Selby",
+    "rspDisplayName": "Valid only via Selby",
+    "enabledForMapPlotting": false
+  },
+  "702": {
+    "code": 702,
+    "name": "BATTLE NOT HS1",
+    "description": "BATTLE NOT HS1",
+    "startDate": "2023-10-11",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Battle. Not valid on Southeastern high speed services.",
+    "rspDisplayName": "Only via Battle; not valid on HS1",
+    "enabledForMapPlotting": true
+  },
+  "703": {
+    "code": 703,
+    "name": "LONDON NOT UND",
+    "description": "LONDON NOT INCL. UNDERGROUND",
+    "startDate": "2023-05-23",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via London Terminals, but not valid on Underground or Elizabeth line services.",
+    "rspDisplayName": "Via London. Not valid on Underground/Elizabeth line",
+    "enabledForMapPlotting": true
+  },
+  "704": {
+    "code": 704,
+    "name": "LDN NOT GATWKEXP",
+    "description": "LONDON BUT NOT BY GATWICK EXPRESS",
+    "startDate": "2018-05-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) London Terminals, not valid on Gatwick Express services.",
+    "rspDisplayName": "Via London; not valid on Gatwick Exp",
+    "enabledForMapPlotting": true
+  },
+  "705": {
+    "code": 705,
+    "name": "LUMO & SCOTRAIL",
+    "description": "LUMO & SCOTRAIL ONLY",
+    "startDate": "2023-02-01",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on Lumo and ScotRail services.",
+    "rspDisplayName": "Lumo & ScotRail only",
+    "enabledForMapPlotting": false
+  },
+  "706": {
+    "code": 706,
+    "name": "LUMO & SWR ONLY",
+    "description": "LUMO & SWR ONLY",
+    "startDate": "2022-11-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Only valid on Lumo and South Western Railway services.",
+    "rspDisplayName": "Lumo & SWR only",
+    "enabledForMapPlotting": false
+  },
+  "707": {
+    "code": 707,
+    "name": "VIA HARRIETSHAM",
+    "description": "VIA HARRIETSHAM",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Harrietsham.",
+    "rspDisplayName": "Valid only via Harrietsham",
+    "enabledForMapPlotting": true
+  },
+  "708": {
+    "code": 708,
+    "name": "VIA KEARSNEY",
+    "description": "VIA KEARSNEY",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Kearsney.",
+    "rspDisplayName": "Valid only via Kearsney",
+    "enabledForMapPlotting": true
+  },
+  "710": {
+    "code": 710,
+    "name": "VIA TURNHAMGREEN",
+    "description": "VIA TURNHAM GREEN",
+    "startDate": "2011-10-04",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Turnham Green (Underground).",
+    "rspDisplayName": "Only via Turnham Green (Underground)",
+    "enabledForMapPlotting": true
+  },
+  "712": {
+    "code": 712,
+    "name": "VIA FAVERSHAM",
+    "description": "VIA FAVERSHAM",
+    "startDate": "2018-05-04",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Faversham.",
+    "rspDisplayName": "Valid only via Faversham",
+    "enabledForMapPlotting": true
+  },
+  "714": {
+    "code": 714,
+    "name": "VIA PLUMPTON",
+    "description": "VIA PLUMPTON",
+    "startDate": "2011-10-07",
+    "endDate": "2999-09-18",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Plumpton.",
+    "rspDisplayName": "Valid only via Plumpton",
+    "enabledForMapPlotting": true
+  },
+  "715": {
+    "code": 715,
+    "name": "VIA BRIGHTON",
+    "description": "VIA BRIGHTON",
+    "startDate": "2024-07-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Brighton.",
+    "rspDisplayName": "Valid only via Brighton",
+    "enabledForMapPlotting": true
+  },
+  "716": {
+    "code": 716,
+    "name": "VIA EDENBRIDGE",
+    "description": "VIA EDENBRIDGE",
+    "startDate": "2021-12-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Edenbridge.",
+    "rspDisplayName": "Valid only via Edenbridge",
+    "enabledForMapPlotting": true
+  },
+  "717": {
+    "code": 717,
+    "name": "VIA EDENB/POLEG",
+    "description": "VIA EDENB/POLEG",
+    "startDate": "2021-12-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Edenbridge or Polegate.",
+    "rspDisplayName": "Valid only via Edenbridge or Polegate",
+    "enabledForMapPlotting": true
+  },
+  "718": {
+    "code": 718,
+    "name": "VIA EPSOM",
+    "description": "VIA EPSOM",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Epsom.",
+    "rspDisplayName": "Valid only via Epsom",
+    "enabledForMapPlotting": true
+  },
+  "719": {
+    "code": 719,
+    "name": "VIA EAST CROYDON",
+    "description": "VIA EAST CROYDON",
+    "startDate": "2015-02-18",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) East Croydon.",
+    "rspDisplayName": "Valid only via East Croydon",
+    "enabledForMapPlotting": true
+  },
+  "720": {
+    "code": 720,
+    "name": "VIA POLEGATE",
+    "description": "VIA POLEGATE",
+    "startDate": "2021-12-21",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Polegate.",
+    "rspDisplayName": "Valid only via Polegate",
+    "enabledForMapPlotting": true
+  },
+  "721": {
+    "code": 721,
+    "name": "VIA NORWOOD JUNC",
+    "description": "VIA NORWOOD JUNCTION",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Norwood Junction.",
+    "rspDisplayName": "Valid only via Norwood Junction",
+    "enabledForMapPlotting": true
+  },
+  "722": {
+    "code": 722,
+    "name": "VIA EASTLEIGH",
+    "description": "VIA EASTLEIGH",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Eastleigh.",
+    "rspDisplayName": "Valid only via Eastleigh",
+    "enabledForMapPlotting": true
+  },
+  "723": {
+    "code": 723,
+    "name": "VIA GATWICK AIRP",
+    "description": "VIA GATWICK AIRPORT",
+    "startDate": "2015-01-14",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Gatwick Airport.",
+    "rspDisplayName": "Valid only via Gatwick Airport",
+    "enabledForMapPlotting": true
+  },
+  "724": {
+    "code": 724,
+    "name": "GATWICK EXP ONLY",
+    "description": "GATWICK EXPRESS ONLY",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only on Gatwick Express services.",
+    "rspDisplayName": "Valid only on Gatwick Express services",
+    "enabledForMapPlotting": true
+  },
+  "725": {
+    "code": 725,
+    "name": "VIA HAYWARDS HTH",
+    "description": "VIA HAYWARDS HEATH",
+    "startDate": "2023-10-11",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Haywards Heath.",
+    "rspDisplayName": "Valid only via Haywards Heath",
+    "enabledForMapPlotting": true
+  },
+  "726": {
+    "code": 726,
+    "name": "VIA HORSHAM",
+    "description": "VIA HORSHAM",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Horsham.",
+    "rspDisplayName": "Valid only via Horsham",
+    "enabledForMapPlotting": true
+  },
+  "730": {
+    "code": 730,
+    "name": "LONDON BATTLE",
+    "description": "LONDON AND BATTLE",
+    "startDate": "2015-11-20",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) London Terminals and Battle",
+    "rspDisplayName": "Valid only via London and Battle",
+    "enabledForMapPlotting": true
+  },
+  "732": {
+    "code": 732,
+    "name": "VIA CRYSTAL PAL",
+    "description": "VIA CRYSTAL PALACE",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Crystal Palace.",
+    "rspDisplayName": "Valid only via Crystal Palace",
+    "enabledForMapPlotting": true
+  },
+  "734": {
+    "code": 734,
+    "name": "VIA VIRGINIA WTR",
+    "description": "VIA VIRGINIA WATER",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Virginia Water.",
+    "rspDisplayName": "Valid only via Virginia Water",
+    "enabledForMapPlotting": true
+  },
+  "735": {
+    "code": 735,
+    "name": "VIA STAINES",
+    "description": "VIA STAINES",
+    "startDate": "2017-05-24",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Staines.",
+    "rspDisplayName": "Valid only via Staines",
+    "enabledForMapPlotting": true
+  },
+  "736": {
+    "code": 736,
+    "name": "STAINES & LONDON",
+    "description": "VIA STAINES & LONDON",
+    "startDate": "2025-05-10",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only via Staines and London",
+    "rspDisplayName": "Valid only via Staines and London",
+    "enabledForMapPlotting": false
+  },
+  "738": {
+    "code": 738,
+    "name": "VIA WADDON",
+    "description": "VIA WADDON",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Waddon.",
+    "rspDisplayName": "Valid only via Waddon",
+    "enabledForMapPlotting": true
+  },
+  "739": {
+    "code": 739,
+    "name": "VIA ASHFORD KENT",
+    "description": "VIA ASHFORD KENT",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Ashford (Kent).",
+    "rspDisplayName": "Valid only via Ashford (Kent)",
+    "enabledForMapPlotting": true
+  },
+  "748": {
+    "code": 748,
+    "name": "VIA LEWISHAM",
+    "description": "VIA LEWISHAM",
+    "startDate": "2015-01-02",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via (changing trains or passing through) Lewisham.",
+    "rspDisplayName": "Valid only via Lewisham",
+    "enabledForMapPlotting": true
+  },
+  "750": {
+    "code": 750,
+    "name": "NOT VIA  LONDON.",
+    "description": "NOT VIA  LONDON.",
+    "startDate": "2026-03-13",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "",
+    "rspDisplayName": "",
+    "enabledForMapPlotting": false
+  },
+  "751": {
+    "code": 751,
+    "name": "DARTFORD_NOT HS1",
+    "description": "DARTFORD NOT HS1",
+    "startDate": "2023-09-05",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only via Dartford, but not valid on Southeastern high speed services.",
+    "rspDisplayName": "Only via Dartford; not valid on HS1",
+    "enabledForMapPlotting": true
+  },
+  "752": {
+    "code": 752,
+    "name": "NEW CROSS N X GT",
+    "description": "NEW CROSS NEW CROSS GATE",
+    "startDate": "2017-09-26",
+    "endDate": "2999-12-31",
+    "ojpDisplayName": "Valid only for travel via New Cross or New Cross Gate stations.",
+    "rspDisplayName": "Via New Cross or New Cross Gate",
+    "enabledForMapPlotting": true
+  }
+}
