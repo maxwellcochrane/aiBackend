@@ -17,15 +17,42 @@ exports.handler = async function () {
       }
     );
 
-    const contentType = response.headers.get("content-type") || "application/json";
-    const body = await response.text();
+    const rawBody = await response.text();
+
+    // If the upstream call failed, bubble through the status and body
+    if (!response.ok) {
+      return {
+        statusCode: response.status,
+        headers: {
+          "Content-Type": response.headers.get("content-type") || "application/json",
+        },
+        body: rawBody,
+      };
+    }
+
+    // Parse and project only the required disruption fields
+    const data = JSON.parse(rawBody);
+    const disruptions = Array.isArray(data)
+      ? data.map((d) => ({
+          id: d.id,
+          summary: d.summary,
+          description: d.description,
+          isPlanned: d.isPlanned,
+          isAlert: d.isAlert,
+          severity: d.severity,
+          affectedOperators: d.affectedOperators,
+          affectedRoutes: d.affectedRoutes,
+          startDateTime: d.startDateTime,
+          lastModifiedDateTime: d.lastModifiedDateTime,
+        }))
+      : [];
 
     return {
-      statusCode: response.status,
+      statusCode: 200,
       headers: {
-        "Content-Type": contentType,
+        "Content-Type": "application/json",
       },
-      body,
+      body: JSON.stringify(disruptions),
     };
   } catch (error) {
     return {
