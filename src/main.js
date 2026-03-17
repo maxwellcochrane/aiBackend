@@ -2,11 +2,14 @@ const messagesEl = document.getElementById('chat-messages');
 const form = document.getElementById('chat-form');
 const input = document.getElementById('chat-input');
 const sendBtn = document.getElementById('send-btn');
+const welcome = document.getElementById('welcome');
 
 let threadId = null;
 let busy = false;
 
 function addMessage(role, text) {
+  if (welcome) welcome.remove();
+
   const div = document.createElement('div');
   div.className = `message ${role}`;
   div.textContent = text;
@@ -30,19 +33,24 @@ function hideTyping() {
 
 function setBusy(val) {
   busy = val;
-  sendBtn.disabled = val;
+  updateSendButton();
   input.disabled = val;
+}
+
+function updateSendButton() {
+  sendBtn.disabled = busy || !input.value.trim();
 }
 
 input.addEventListener('input', () => {
   input.style.height = 'auto';
   input.style.height = Math.min(input.scrollHeight, 120) + 'px';
+  updateSendButton();
 });
 
 input.addEventListener('keydown', (e) => {
   if (e.key === 'Enter' && !e.shiftKey) {
     e.preventDefault();
-    form.requestSubmit();
+    if (!busy && input.value.trim()) form.requestSubmit();
   }
 });
 
