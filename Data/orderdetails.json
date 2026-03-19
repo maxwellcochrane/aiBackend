@@ -1,0 +1,3395 @@
+{
+    "pagination": {
+        "limit": 10,
+        "page": 1,
+        "totalCount": 47,
+        "totalPages": 5,
+        "moreResultsAvailable": true
+    },
+    "result": [
+        {
+            "id": 171528,
+            "deviceToken": "d7827e25-3c43-4087-b9e6-4871b565898d",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "wZDfK1aDMz1qopjOqm7MDsjvS5c=",
+                "displayName": "Collect from station",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00005",
+                "price": null,
+                "address": null,
+                "collectionLocation": "/data/stations/5124",
+                "collectionStartDate": "2026-03-19T18:47:48Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": "B47JT8LB",
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 5780,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2026-03-19T18:46:27Z",
+            "purchaseDate": "2026-03-19T18:48:00Z",
+            "lastUpdated": "2026-03-19T18:48:01Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/171528/trips/184177",
+                "/orders/171528/trips/184178",
+                "/orders/171528/trips/184179"
+            ],
+            "expiry": "2026-03-20T18:46:27Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 81646,
+                        "amount": 5780,
+                        "transactionId": "10242485788",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": true,
+            "refundCanBeAttemptedOffline": true,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 171399,
+            "deviceToken": "c58b1d2c-7d67-4d18-9399-5a74377e4722",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2026-03-18T11:54:37Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 270,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2026-03-18T11:53:57Z",
+            "purchaseDate": "2026-03-18T11:54:51Z",
+            "lastUpdated": "2026-03-18T11:54:53Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/171399/trips/184029"
+            ],
+            "expiry": "2026-03-18T12:02:00Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 81380,
+                        "amount": 270,
+                        "transactionId": "10242483287",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": true,
+            "refundCanBeAttemptedOffline": true,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 168969,
+            "deviceToken": "83454418-11f4-494c-b418-2b2c461bafe4",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2026-01-30T13:37:17Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 555,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2026-01-30T13:37:05Z",
+            "purchaseDate": "2026-01-30T13:37:29Z",
+            "lastUpdated": "2026-01-30T13:37:32Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/168969/trips/181193"
+            ],
+            "expiry": "2026-01-31T13:37:05Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 76175,
+                        "amount": 555,
+                        "transactionId": "10239088905",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": true,
+            "refundCanBeAttemptedOffline": true,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 168968,
+            "deviceToken": "ac45d45e-5162-485f-907f-85606e10aab3",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2026-01-30T13:16:37Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 555,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2026-01-30T13:16:15Z",
+            "purchaseDate": "2026-01-30T13:16:57Z",
+            "lastUpdated": "2026-01-30T13:16:59Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/168968/trips/181192"
+            ],
+            "expiry": "2026-01-31T13:16:15Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 76171,
+                        "amount": 555,
+                        "transactionId": "10239088799",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": true,
+            "refundCanBeAttemptedOffline": true,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 168967,
+            "deviceToken": "9f69db44-130d-484a-9694-051093a4be97",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2026-01-30T13:14:43Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 555,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2026-01-30T13:14:34Z",
+            "purchaseDate": "2026-01-30T13:15:01Z",
+            "lastUpdated": "2026-01-30T13:15:03Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/168967/trips/181191"
+            ],
+            "expiry": "2026-01-31T13:14:34Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 76170,
+                        "amount": 555,
+                        "transactionId": "10239088784",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": false,
+            "refundCanBeAttemptedOffline": false,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 168130,
+            "deviceToken": "6f746a86-1f3b-46d4-a8aa-70a2bee65cc1",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2026-01-19T12:00:29Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 2395,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2026-01-19T12:00:15Z",
+            "purchaseDate": "2026-01-19T12:00:39Z",
+            "lastUpdated": "2026-01-19T12:00:42Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/168130/trips/180226"
+            ],
+            "expiry": "2026-01-19T12:30:17Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 74526,
+                        "amount": 2395,
+                        "transactionId": "10238554680",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": false,
+            "refundCanBeAttemptedOffline": false,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 166267,
+            "deviceToken": "b0b53132-7abe-4df6-9129-950d2fe1f918",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2025-12-10T09:16:38Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 1835,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2025-12-10T09:16:29Z",
+            "purchaseDate": "2025-12-10T09:16:48Z",
+            "lastUpdated": "2025-12-10T09:17:11Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/166267/trips/178150"
+            ],
+            "expiry": "2025-12-10T09:47:11Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 71756,
+                        "amount": 1835,
+                        "transactionId": "10238509325",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": false,
+            "refundCanBeAttemptedOffline": false,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 166265,
+            "deviceToken": "3b740325-9eda-4603-92a5-c920ca9991f3",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2025-12-10T09:05:45Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 1880,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2025-12-10T09:05:39Z",
+            "purchaseDate": "2025-12-10T09:05:57Z",
+            "lastUpdated": "2025-12-10T09:06:02Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/166265/trips/178148"
+            ],
+            "expiry": "2025-12-11T09:05:39Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 71755,
+                        "amount": 1880,
+                        "transactionId": "10238509291",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": false,
+            "refundCanBeAttemptedOffline": false,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 166264,
+            "deviceToken": "1c48de1a-340a-4085-9dcb-00ae2cf59a42",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2025-12-10T09:03:07Z",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": null,
+            "totalPrice": 2770,
+            "leftToPay": 0,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2025-12-10T09:00:46Z",
+            "purchaseDate": "2025-12-10T09:03:57Z",
+            "lastUpdated": "2025-12-10T09:04:08Z",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/166264/trips/178146",
+                "/orders/166264/trips/178147"
+            ],
+            "expiry": "2025-12-10T09:19:00Z",
+            "payments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": [
+                    {
+                        "id": 71754,
+                        "amount": 2770,
+                        "transactionId": "10238509288",
+                        "cardPan": "1111",
+                        "cardType": "VISA",
+                        "created": "2026-03-19T18:58:19Z",
+                        "refunded": false,
+                        "latest": false
+                    }
+                ],
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [],
+            "refundCanBeAttemptedOnline": false,
+            "refundCanBeAttemptedOffline": false,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        },
+        {
+            "id": 161414,
+            "deviceToken": "f2133428-2079-42a3-9632-64d086b4abf8",
+            "customerName": "Mr Maxwel TEST",
+            "customerId": 27091,
+            "delivery": {
+                "deliveryMethodId": "XIR3rMzhUMueuKEdL6PcIPahyi0=",
+                "displayName": "eTicket",
+                "isTrackable": null,
+                "isSignedFor": null,
+                "fulfilmentMethod": "00006",
+                "price": null,
+                "address": null,
+                "collectionLocation": null,
+                "collectionStartDate": "2025-10-17T14:56:16+01:00",
+                "collectionWindowDays": null,
+                "isPrintedEticket": false
+            },
+            "nlc": "7869",
+            "brand": "southeastern",
+            "channel": "web",
+            "referrer": null,
+            "campaign": null,
+            "collectionReference": null,
+            "email": "Maxwell.cochrane+ww@ontrackretail.co.uk",
+            "telephoneNumber": "00000000000",
+            "totalPrice": 2990,
+            "leftToPay": 1000,
+            "amendPriceDiff": 0,
+            "state": "Fulfilled",
+            "creationDate": "2025-10-17T14:56:03+01:00",
+            "purchaseDate": "2025-10-17T14:57:38+01:00",
+            "lastUpdated": "2025-10-17T14:57:38+01:00",
+            "refundRejectionDate": null,
+            "refundRejectReason": null,
+            "trips": [
+                "/orders/161414/trips/172634"
+            ],
+            "expiry": "2025-10-17T15:26:40+01:00",
+            "payments": {
+                "cards": [
+                    {
+                        "id": 43156,
+                        "cardType": "MC_DEBIT",
+                        "pan": "990000******5159",
+                        "expiryDate": "01/2025",
+                        "amount": 3385,
+                        "underReview": false,
+                        "transactionReference": "10236915520",
+                        "customerReference": "southeastern_1cf8a63ffda109cc990ba442f145b871a2efa57595c87aa526d196fa142dbb7f",
+                        "addressId": 56979,
+                        "created": "2025-10-17T14:56:17+01:00",
+                        "cardHolderName": "wljnflkew lkhwel",
+                        "refunded": false,
+                        "sessionId": null,
+                        "latest": false,
+                        "cardArtUrl": null
+                    }
+                ],
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "sundries": null,
+            "amendedTickets": [
+                {
+                    "amendedOrderId": 3630,
+                    "amendedTicket": 533272,
+                    "newTicket": 533273,
+                    "amended": true,
+                    "amendedTrip": "/orders/161414/trips/172633/amended"
+                }
+            ],
+            "refundCanBeAttemptedOnline": false,
+            "refundCanBeAttemptedOffline": false,
+            "refundsLocked": false,
+            "discount": null,
+            "isInterop": false,
+            "totalRewardPoints": 0,
+            "rewardPointUid": null,
+            "rewardName": null,
+            "rewardExpiryDate": null,
+            "promotionalDiscount": null,
+            "canBeChangedOver": false,
+            "changeoverPayments": {
+                "cards": null,
+                "warrants": null,
+                "paypal": null,
+                "applePay": null,
+                "googlePay": null,
+                "amazonPay": null,
+                "hostedCards": null,
+                "cardCheckout": null
+            },
+            "changeoverTickets": [],
+            "charity": null
+        }
+    ],
+    "links": {
+        "/data/railcards/TST": {
+            "code": "TST",
+            "name": "26-30 Railcard",
+            "minAdults": 1,
+            "maxAdults": 1,
+            "minChildren": 0,
+            "maxChildren": 0
+        },
+        "/data/routes/00000": {
+            "name": "ANY PERMITTED",
+            "code": "00000",
+            "description": "Travel is allowed via any permitted route."
+        },
+        "/data/routes/00208": {
+            "name": "NOT UNDERGROUND",
+            "code": "00208",
+            "description": "Not valid for travel on London Underground services."
+        },
+        "/data/routes/00430": {
+            "name": "LNER & CONNECTNS",
+            "code": "00430",
+            "description": "Only valid on booked London North Eastern Railway services and required connecting services."
+        },
+        "/data/routes/00459": {
+            "name": "AP LNR/WMR & TFW",
+            "code": "00459",
+            "description": "Only valid on booked London Northwestern Railway/West Midlands Railway and Transport for Wales rail services."
+        },
+        "/data/routes/00564": {
+            "name": "NOT VIA CLAPHM J",
+            "code": "00564",
+            "description": "Not valid for travel via (changing trains or passing through) Clapham Junction."
+        },
+        "/data/routes/00703": {
+            "name": "LONDON NOT UND",
+            "code": "00703",
+            "description": "Valid only for travel via London Terminals, but not valid on Underground or Elizabeth line services."
+        },
+        "/data/routes/01435": {
+            "name": "LUMO FIXED TRAIN",
+            "code": "01435",
+            "description": "Only valid on booked Lumo services."
+        },
+        "/data/stations/0035": {
+            "name": "London Travelcard Zones 1-6",
+            "nlc": "0035",
+            "crs": "",
+            "categories": [
+                "NationalRail",
+                "LondonUnderground",
+                "LondonOverground",
+                "TflRail",
+                "DLR",
+                "LondonTramlink"
+            ],
+            "stationType": "group",
+            "gazetteer": {
+                "londonZones": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": true,
+                "isOpen": false,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "smartcardData": {},
+            "ticketData": {},
+            "oysterData": {},
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/1072": {
+            "name": "London Terminals",
+            "nlc": "1072",
+            "crs": "",
+            "latitude": 51.510107,
+            "longitude": -0.134674,
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "group",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "smartcardData": {},
+            "ticketData": {},
+            "oysterData": {},
+            "tlGroupCode": "182",
+            "isGroupStation": true,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/1243": {
+            "name": "Crewe",
+            "nlc": "1243",
+            "crs": "CRE",
+            "latitude": 53.0895825,
+            "longitude": -2.4338663,
+            "address": "Crewe station\nNantwich Road\nCrewe\nCheshire\nCW2 6HR",
+            "facilities": [
+                "SeatedArea",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "PostBox",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": false,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "J267",
+            "operator": "VT",
+            "nreAlert": "<p>The lifts between platform 5 and the concourse are currently out of order at Crewe station.</p>",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": true,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>Ticket machines can be found in the Booking hall.</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>Category A - This station has step-free access to all platforms</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": false
+        },
+        "/data/stations/1444": {
+            "name": "London Euston",
+            "nlc": "1444",
+            "crs": "EUS",
+            "latitude": 51.52837626,
+            "longitude": -0.134558479,
+            "address": "London Euston station\nEuston Road\nLondon\nGreater London\nNW1 2RT",
+            "facilities": [
+                "WaitingRoom",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "Showers",
+                "WiFi",
+                "PostBox",
+                "TouristInformation",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground",
+                "LondonOverground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "NR",
+            "nreAlert": "<p>London Euston station's assisted travel lounge is temporarily located between the entrance to platforms 11 and 12, while improvement work takes place. </p>",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": false,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>The travel centre is on the left as you enter through the main entrance.</p><p>Advanced bookings are available:</p><p>Monday to Friday - 06:30 to 21:00Saturday - 08:30 to 21:00Sunday - 07:30 to 21:00</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": true,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>Suitable for disabled passengers. Level access to all platforms via ramps. Lifts provided between concourse, taxi & car park and London Underground ticket hall.</p><p>Lift access is available to the Underground ticket hall, however the Underground station itself has only escalators & stairs. Nearby Euston Square station has step-free access Westbound only to the Circle, Hammersmith & City and Metropolitan Lines. </p><p>For more information on the accessibility on London Transport <a href=\"https://tfl.gov.uk/transport-accessibility/\" title=\"\">click here</a>.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/2968": {
+            "name": "Manchester Piccadilly",
+            "nlc": "2968",
+            "crs": "MAN",
+            "latitude": 53.47671998,
+            "longitude": -2.228977818,
+            "address": "Manchester Piccadilly station\nPiccadilly Station Approach\nManchester\nGreater Manchester\nM60 7RA",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "PostBox",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "ManchesterMetrolink"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": false,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "J819",
+            "operator": "NR",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": false,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>Main Concourse</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p><strong>Visually Impaired</strong></p><p>All platforms have tactile warning strips.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": false
+        },
+        "/data/stations/5124": {
+            "name": "Sevenoaks",
+            "nlc": "5124",
+            "crs": "SEV",
+            "latitude": 51.27686256,
+            "longitude": 0.18168053,
+            "address": "Sevenoaks station\nTubs Hill\nSevenoaks\nKent\nTN13 1DP",
+            "facilities": [
+                "SeatedArea",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "K720",
+            "operator": "SE",
+            "nreAlert": "Sevenoaks Lift Upgrade work <p>The lifts at Sevenoaks station are being replaced and step-free access will be reduced on the dates below:</p><ul><li>Phase One until 8 May 2026 will see the replacement of the lifts to the Car Park, Concourse, and platforms 3 & 4.</li><li>Phase Two commencing May 2026 will see the lifts serving platforms 1 & 2 replaced and will be completed by 30 September 2026.</li></ul><p>More information and travel advice is available at <a href=\"http://www.networkrail.co.uk/sevenoaks\" title=\"\">www.networkrail.co.uk/sevenoaks</a></p><p>The nearest stations with step-free access are Hildenborough and Chelsfield, or Otford for Thameslink services. <strong>Toilets update </strong> All toilets are out of service until further notice whilst repairs are made. </p><p><strong></strong></p>",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": true,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>On way in to access trains from Tubbs Hill entrance</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "partialStation",
+                "stepFreeAccessNote": "<p>Category B1. This station has a degree of step-free access to the platform, which may be in both directions or in one direction only - please check details - Step free access to booking hall via steep ramp to station entrance. Lift access to booking hall available from Blue badge parking area. Step free access to all platforms via lift from overbridge. Stepped access to all platforms via overbridge. Only stepped access from car park adjacent to Platform 4 to the overbridge.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5143": {
+            "name": "London Charing Cross",
+            "nlc": "5143",
+            "crs": "CHX",
+            "latitude": 51.50768803,
+            "longitude": -0.124105728,
+            "address": "London Charing Cross station\nThe Strand\nLondon\nGreater London\nWC2N 5HF",
+            "facilities": [
+                "WaitingRoom",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "NR",
+            "nreAlert": "<p>​​​​​​​​​​​​​​On weekdays, the busiest times at this station are generally between 06:30 and 09:30 and between 16:30 and 19:30.</p>",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": true,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>The ticket office is situated on the concourse</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": true,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>Yes, the station is all on one level and all platforms are reachable by disabled passengers.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5148": {
+            "name": "London Bridge",
+            "nlc": "5148",
+            "crs": "LBG",
+            "latitude": 51.50509647,
+            "longitude": -0.085060385,
+            "address": "London Bridge station\nTooley Street / St Thomas Street\nLondon\nGreater London\nSE1 3QX",
+            "facilities": [
+                "SeatedArea",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "NR",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": true,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>The ticket office is located on the lower concourse.</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": true,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>This is a Category A station. This station has step-free level access to all platforms via lifts.</p><p>The Assistance Meeting Point varies - please check with your operator.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5158": {
+            "name": "London Waterloo East",
+            "nlc": "5158",
+            "crs": "WAE",
+            "latitude": 51.50408038,
+            "longitude": -0.108893287,
+            "address": "London Waterloo East station\nSandell Street\nLondon\nSE1 8NH",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "SE",
+            "nreAlert": "<p>The ladies toilets on Platform C are out of use.</p>",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": true,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "partialStation",
+                "stepFreeAccessNote": "<p>Category B1. This station has a degree of step-free access to the platform, which may be in both directions or in one direction only - please check details - Step free access to Waterloo East is only through use of lift at Waterloo Main. Ramps access to the platforms is steep. There is no ticket office. Full ticket office facilities available in Waterloo Main station.</p><p>There is an entrance from Southwark underground station but this involves either steps or an escalator. </p><p>There is also a step only access available from the Sandall Street entrance onto the overbridge connection between Waterloo East and Waterloo main stations. </p><p>Taxis and direct road access only available from Waterloo main station which is connected via ramps and an overbridge  to Waterloo East station.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5268": {
+            "name": "Brighton",
+            "nlc": "5268",
+            "crs": "BTN",
+            "latitude": 50.82895322,
+            "longitude": -0.141225193,
+            "address": "Brighton station\nQueens Road\nBrighton\nEast Sussex\nBN1 3XP",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "StationBuffet",
+                "Toilets",
+                "PostBox",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "H276",
+            "operator": "SN",
+            "nreAlert": "Changing trains at Brighton <p>If you are changing trains at Brighton, you may need to exit through the ticket gates and re-enter using the correct ticket for the next leg of your journey. </p><p>Please allow extra time if you are changing trains at Brighton. </p>",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": true,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "tlGroupCode": "18",
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>This is a Category A station: This station has step-free access to all platforms.</p><p>The Assistance Meeting Point is on the concourse outside WH Smith.</p>"
+            },
+            "isGroupStation": true,
+            "weeklyCapAvailable": false
+        },
+        "/data/stations/5416": {
+            "name": "Gatwick Airport",
+            "nlc": "5416",
+            "crs": "GTW",
+            "latitude": 51.15648532,
+            "longitude": -0.161040264,
+            "address": "Gatwick Airport station\nSouth Terminal\nGatwick Airport\nWest Sussex\nRH6 0RD",
+            "facilities": [
+                "WaitingRoom",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "PostBox",
+                "AtmMachine",
+                "BureauDeChange",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "Airport"
+            ],
+            "stationType": "airport",
+            "gazetteer": {
+                "londonZones": [
+                    "G"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "J132",
+            "operator": "GX",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": true,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>Concourse</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": true,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>This is a Category A station: This station has step-free access to all platforms. </p><p>The assistance meeting point is at the assistance desk on the main concourse. </p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5426": {
+            "name": "London Victoria",
+            "nlc": "5426",
+            "crs": "VIC",
+            "latitude": 51.49526139,
+            "longitude": -0.144540593,
+            "address": "London Victoria station\nVictoria Street\nLondon\nGreater London\nSW1V 1JU",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "TouristInformation",
+                "AtmMachine",
+                "BureauDeChange",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "NR",
+            "nreAlert": "<p>The information screens at the entrance to platform 1 at London Victoria are being upgraded. Please use the main departure boards on the concourse or the National Rail app for travel information. </p>",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": true,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>On concourse</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>There is step free access at London Victoria Rail Station to the Victoria Line on the Underground. This can be accessed via the Cardinal Place entrance to the underground.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5598": {
+            "name": "London Waterloo",
+            "nlc": "5598",
+            "crs": "WAT",
+            "latitude": 51.503507,
+            "longitude": -0.113897,
+            "address": "London Waterloo station\nStation Approach\nLondon\nGreater London.\nSE1 8SW",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "PostBox",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "NR",
+            "nreAlert": "<p>London Waterloo station is not open 24 hours, opening hours are detailed below, the station is closed overnight with no waiting facilities available.</p>",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": true,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>There is step free access from the main concourse to all platforms, shops and facilities.</p><p>Step free exits are exit 1 (Station approach), exit 2 (with a lift to Waterloo Road and lift access to the London Underground Jubilee line), and exit 3 for taxis and onward travel towards the South Bank.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5631": {
+            "name": "Guildford",
+            "nlc": "5631",
+            "crs": "GLD",
+            "latitude": 51.23696786,
+            "longitude": -0.580420682,
+            "address": "Guildford station\nStation Approach\nGuildford\nSurrey\nGU1 4UT",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "PostBox",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "J140",
+            "operator": "NR",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": true,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>In main Booking Hall</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "tlGroupCode": "85",
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>There is level access to the booking hall and all platforms from the main entrance in Walnut Tree Close. There is no step free access from the Guildford Park Road entrance.</p><p>There is step free access to and interchange between all platforms via steep ramps. A staff operated powered wheelchair is available for customers. Please speak to a member of staff or our Assisted Travel team.</p>"
+            },
+            "isGroupStation": true,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/5685": {
+            "name": "Woking",
+            "nlc": "5685",
+            "crs": "WOK",
+            "latitude": 51.31846927,
+            "longitude": -0.556954188,
+            "address": "Woking station\nStation Approach\nWoking\nSurrey\nGU22 7AE",
+            "facilities": [
+                "SeatedArea",
+                "WaitingRoom",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "J294",
+            "operator": "SW",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": true,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>A Ticket Vending Machine with a video help link is located in booking hall of both entrances.</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>Step-free category A Station - This station has step-free access to all platforms.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/6121": {
+            "name": "London Kings Cross",
+            "nlc": "6121",
+            "crs": "KGX",
+            "latitude": 51.53088842,
+            "longitude": -0.122921342,
+            "address": "London Kings Cross station\nEuston Road\nLondon\nGreater London\nN1 9AL",
+            "facilities": [
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "Showers",
+                "WiFi",
+                "AtmMachine",
+                "BureauDeChange",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "LondonUnderground"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "londonZones": [
+                    "1"
+                ],
+                "withinGoldcardArea": true,
+                "smartcardsAvailable": true,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "operator": "NR",
+            "smartcardData": {
+                "smartcardIssued": false,
+                "smartcardValidator": false,
+                "smartcardTopup": false
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>In the Main Concourse opposite the shops</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": true,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "wholeStation",
+                "stepFreeAccessNote": "<p>This is a Category A station. This station has step-free level access to all platforms.</p><p>Lifts also provided between concourse up to the Mezzanine and down to the London Underground ticket hall.</p><p>The Assistance Meeting Point varies - please check with your operator.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": true
+        },
+        "/data/stations/7728": {
+            "name": "Newcastle",
+            "nlc": "7728",
+            "crs": "NCL",
+            "latitude": 54.96822056,
+            "longitude": -1.617285496,
+            "address": "Newcastle-upon-Tyne station\nNeville Street\nNewcastle-upon-Tyne\nTyne & Wear\nNE1 5DL",
+            "facilities": [
+                "SeatedArea",
+                "Trolleys",
+                "StationBuffet",
+                "Toilets",
+                "BabyChange",
+                "WiFi",
+                "PostBox",
+                "AtmMachine",
+                "Shops"
+            ],
+            "categories": [
+                "NationalRail",
+                "TyneWearMetro"
+            ],
+            "stationType": "regular",
+            "gazetteer": {
+                "withinGoldcardArea": false,
+                "smartcardsAvailable": false,
+                "isZonalOrGroup": false,
+                "isOpen": true,
+                "isClosed": false,
+                "isOpeningSoon": false
+            },
+            "plusbusNlc": "J927",
+            "operator": "GR",
+            "smartcardData": {
+                "smartcardIssued": true,
+                "smartcardValidator": false,
+                "smartcardTopup": true
+            },
+            "ticketData": {
+                "ticketMachine": true,
+                "ticketOfficeNote": "<p>Ticket office is in the main concourse, under the departure information boards.</p>",
+                "prepurchaseCollection": true
+            },
+            "oysterData": {
+                "oysterPrePay": false,
+                "oysterValidator": false,
+                "oysterTopup": false
+            },
+            "accessibilityData": {
+                "stepFreeAccessCoverage": "partialStation",
+                "stepFreeAccessNote": "<p>Please note that although this station is classified step-free, the bridge between the platforms is quite steep. Lifts are available using a subway but only to platforms 1-4 and platforms 9-12. Staff are available to assist using the footbridge.</p><p>This station is a category B2 station according to the Office of Rail and Road station classification system <a href=\"https://www.orr.gov.uk/media/10955\" title=\"\">https://www.orr.gov.uk/media/10955</a>.</p><p>Newcastle has a RNIB 'Map for All' located at the entrances to the Station. </p><p>Staff can deploy station ramps at all times when trains are operating through this station to help customers who need step-free access board any train at this station. Where in circumstances beyond our control station staff are not available, on train staff can deploy the on board ramp if necessary.</p>"
+            },
+            "isGroupStation": false,
+            "weeklyCapAvailable": false
+        },
+        "/data/ticket-types/BPS": {
+            "name": "Advance Single",
+            "code": "BPS",
+            "isReturn": false,
+            "isSeason": false,
+            "isAdvance": true,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "64"
+        },
+        "/data/ticket-types/C1S": {
+            "name": "Advance Single",
+            "code": "C1S",
+            "isReturn": false,
+            "isSeason": false,
+            "isAdvance": true,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "64"
+        },
+        "/data/ticket-types/CDR": {
+            "name": "Off-Peak Day Return",
+            "code": "CDR",
+            "isReturn": true,
+            "isSeason": false,
+            "isAdvance": false,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "85"
+        },
+        "/data/ticket-types/CDS": {
+            "name": "Off-Peak Day Single",
+            "code": "CDS",
+            "isReturn": false,
+            "isSeason": false,
+            "isAdvance": false,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "88"
+        },
+        "/data/ticket-types/L8H": {
+            "name": "LumoFixed (Standard Class)",
+            "code": "L8H",
+            "isReturn": false,
+            "isSeason": false,
+            "isAdvance": true,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "64"
+        },
+        "/data/ticket-types/L8O": {
+            "name": "LumoFixed (Standard Class)",
+            "code": "L8O",
+            "isReturn": false,
+            "isSeason": false,
+            "isAdvance": true,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "64"
+        },
+        "/data/ticket-types/ODT": {
+            "name": "Off-Peak Day Travelcard",
+            "code": "ODT",
+            "isReturn": true,
+            "isSeason": false,
+            "isAdvance": false,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "81"
+        },
+        "/data/ticket-types/SDR": {
+            "name": "Anytime Day Return",
+            "code": "SDR",
+            "isReturn": true,
+            "isSeason": false,
+            "isAdvance": false,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "81"
+        },
+        "/data/ticket-types/SDS": {
+            "name": "Anytime Day Single",
+            "code": "SDS",
+            "isReturn": false,
+            "isSeason": false,
+            "isAdvance": false,
+            "isPackage": false,
+            "isCarnet": false,
+            "isFlexi": false,
+            "isFirstClass": false,
+            "validityCode": "87"
+        },
+        "/data/tocs/AW": {
+            "code": "AW",
+            "name": "Transport for Wales"
+        },
+        "/data/tocs/GR": {
+            "code": "GR",
+            "name": "London North Eastern Railway"
+        },
+        "/data/tocs/GW": {
+            "code": "GW",
+            "name": "Great Western Railway"
+        },
+        "/data/tocs/LD": {
+            "code": "LD",
+            "name": "Lumo"
+        },
+        "/data/tocs/LM": {
+            "code": "LM",
+            "name": "LNR & WMR"
+        },
+        "/data/tocs/LT": {
+            "code": "LT",
+            "name": "London Underground"
+        },
+        "/data/tocs/SE": {
+            "code": "SE",
+            "name": "Southeastern"
+        },
+        "/data/tocs/SW": {
+            "code": "SW",
+            "name": "South Western Railway"
+        },
+        "/data/tocs/TL": {
+            "code": "TL",
+            "name": "Thameslink"
+        },
+        "/orders/161414/trips/172633/amended": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 207448,
+                    "tripId": 172633,
+                    "origin": "/data/stations/7728",
+                    "destination": "/data/stations/6121",
+                    "routeCode": "/data/routes/01435",
+                    "ticketTypeCode": "/data/ticket-types/L8H",
+                    "crossLondon": false,
+                    "restrictionCode": "YO",
+                    "outwardJourney": {
+                        "validFrom": "2025-11-28T00:00:00",
+                        "validTo": "2025-11-28T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 223526,
+                                "origin": "/data/stations/7728",
+                                "destination": "/data/stations/6121",
+                                "departure": "2025-11-28T12:51:00",
+                                "arrival": "2025-11-28T15:44:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/LD",
+                                "seats": [
+                                    {
+                                        "coach": "B",
+                                        "seat": "3",
+                                        "attributes": [
+                                            "IDR",
+                                            "POWE"
+                                        ],
+                                        "supplement": {
+                                            "code": "XFS"
+                                        }
+                                    }
+                                ],
+                                "bikeSeats": [],
+                                "seatReservation": "Booked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Compulsory",
+                                "facilities": "T",
+                                "rsid": "LD100300",
+                                "tuid": "W28161",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 533272,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 3385,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 1705,
+                            "refunded": false,
+                            "amended": true,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "unknown",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": null,
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/161414/trips/172634": {
+            "bookingStatus": "OK",
+            "bookingReference": "TQ636366",
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 207449,
+                    "tripId": 172634,
+                    "origin": "/data/stations/7728",
+                    "destination": "/data/stations/6121",
+                    "routeCode": "/data/routes/01435",
+                    "ticketTypeCode": "/data/ticket-types/L8O",
+                    "crossLondon": false,
+                    "restrictionCode": "YO",
+                    "outwardJourney": {
+                        "validFrom": "2025-11-28T00:00:00",
+                        "validTo": "2025-11-28T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 223527,
+                                "origin": "/data/stations/7728",
+                                "destination": "/data/stations/6121",
+                                "departure": "2025-11-28T21:35:00",
+                                "arrival": "2025-11-29T01:05:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/LD",
+                                "seats": [
+                                    {
+                                        "coach": "C",
+                                        "seat": "21",
+                                        "attributes": [
+                                            "IDR",
+                                            "POWE"
+                                        ],
+                                        "supplement": {
+                                            "code": "XFS"
+                                        }
+                                    }
+                                ],
+                                "bikeSeats": [],
+                                "seatReservation": "Booked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Compulsory",
+                                "facilities": "T",
+                                "rsid": "LD100500",
+                                "tuid": "W28167",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 533273,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 2990,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 1500,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": null,
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/166264/trips/178146": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 213546,
+                    "tripId": 178146,
+                    "origin": "/data/stations/5685",
+                    "destination": "/data/stations/1072",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/SDS",
+                    "crossLondon": false,
+                    "restrictionCode": "",
+                    "outwardJourney": {
+                        "validFrom": "2025-12-10T00:00:00",
+                        "validTo": "2025-12-10T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 229336,
+                                "origin": "/data/stations/5685",
+                                "destination": "/data/stations/5598",
+                                "departure": "2025-12-10T09:19:00",
+                                "arrival": "2025-12-10T09:50:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "SW142401",
+                                "tuid": "L47472",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 545287,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 1200,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 320,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "SDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/166264/trips/178147": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": {
+                    "fareId": 213547,
+                    "tripId": 178147,
+                    "origin": "/data/stations/5685",
+                    "destination": "/data/stations/1072",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/CDR",
+                    "crossLondon": false,
+                    "restrictionCode": "US",
+                    "outwardJourney": {
+                        "validFrom": "2025-12-10T00:00:00",
+                        "validTo": "2025-12-10T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 229337,
+                                "origin": "/data/stations/5685",
+                                "destination": "/data/stations/5598",
+                                "departure": "2025-12-10T09:56:00",
+                                "arrival": "2025-12-10T10:26:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "SW122600",
+                                "tuid": "L46946",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": {
+                        "validFrom": "2025-12-10T00:00:00",
+                        "validTo": "2025-12-10T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 229338,
+                                "origin": "/data/stations/5598",
+                                "destination": "/data/stations/5685",
+                                "departure": "2025-12-10T14:00:00",
+                                "arrival": "2025-12-10T14:24:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "SW164100",
+                                "tuid": "L47782",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "tickets": [
+                        {
+                            "id": 545288,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 1570,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 790,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "CDR",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                },
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": null
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/166265/trips/178148": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": {
+                    "fareId": 213548,
+                    "tripId": 178148,
+                    "origin": "/data/stations/5685",
+                    "destination": "/data/stations/1072",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/SDR",
+                    "crossLondon": false,
+                    "restrictionCode": "",
+                    "outwardJourney": {
+                        "validFrom": "2025-12-11T00:00:00",
+                        "validTo": "2025-12-11T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 229339,
+                                "origin": "/data/stations/5685",
+                                "destination": "/data/stations/5598",
+                                "departure": "2025-12-11T09:15:00",
+                                "arrival": "2025-12-11T09:41:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "SW199400",
+                                "tuid": "L51952",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": {
+                        "validFrom": "2025-12-11T00:00:00",
+                        "validTo": "2025-12-11T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 229340,
+                                "origin": "/data/stations/5598",
+                                "destination": "/data/stations/5685",
+                                "departure": "2025-12-11T14:00:00",
+                                "arrival": "2025-12-11T14:24:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "SW164100",
+                                "tuid": "L47782",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "tickets": [
+                        {
+                            "id": 545289,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 1880,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 950,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "SDR",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                },
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": null
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/166267/trips/178150": {
+            "bookingStatus": "OK",
+            "bookingReference": "IJ426618",
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 213551,
+                    "tripId": 178150,
+                    "origin": "/data/stations/6121",
+                    "destination": "/data/stations/7728",
+                    "routeCode": "/data/routes/00430",
+                    "ticketTypeCode": "/data/ticket-types/BPS",
+                    "crossLondon": false,
+                    "restrictionCode": "GC",
+                    "outwardJourney": {
+                        "validFrom": "2025-12-10T00:00:00",
+                        "validTo": "2025-12-10T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 229343,
+                                "origin": "/data/stations/6121",
+                                "destination": "/data/stations/7728",
+                                "departure": "2025-12-10T13:30:00",
+                                "arrival": "2025-12-10T16:39:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/GR",
+                                "seats": [
+                                    {
+                                        "coach": "J",
+                                        "seat": "67",
+                                        "attributes": [
+                                            "ODR",
+                                            "TABL",
+                                            "WIND"
+                                        ],
+                                        "supplement": {
+                                            "code": "XFS"
+                                        }
+                                    }
+                                ],
+                                "bikeSeats": [],
+                                "seatReservation": "Booked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Compulsory",
+                                "facilities": "BF",
+                                "rsid": "GR640000",
+                                "tuid": "Y23444",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 545292,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 1835,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 925,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": null,
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/168130/trips/180226": {
+            "bookingStatus": "OK",
+            "bookingReference": "FP207188",
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 215881,
+                    "tripId": 180226,
+                    "origin": "/data/stations/1444",
+                    "destination": "/data/stations/2968",
+                    "routeCode": "/data/routes/00459",
+                    "ticketTypeCode": "/data/ticket-types/C1S",
+                    "crossLondon": false,
+                    "restrictionCode": "CY",
+                    "outwardJourney": {
+                        "validFrom": "2026-01-29T00:00:00",
+                        "validTo": "2026-01-29T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 231427,
+                                "origin": "/data/stations/1444",
+                                "destination": "/data/stations/1243",
+                                "departure": "2026-01-29T10:46:00",
+                                "arrival": "2026-01-29T12:54:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/LM",
+                                "seats": [
+                                    {
+                                        "coach": "***",
+                                        "seat": "***",
+                                        "attributes": [],
+                                        "supplement": {
+                                            "code": "XFS"
+                                        }
+                                    }
+                                ],
+                                "bikeSeats": [],
+                                "seatReservation": "Booked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "",
+                                "rsid": "LM102500",
+                                "tuid": "W05525",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            },
+                            {
+                                "id": 231428,
+                                "origin": "/data/stations/1243",
+                                "destination": "/data/stations/2968",
+                                "departure": "2026-01-29T13:30:00",
+                                "arrival": "2026-01-29T14:13:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/AW",
+                                "seats": [
+                                    {
+                                        "coach": "***",
+                                        "seat": "***",
+                                        "attributes": [],
+                                        "supplement": {
+                                            "code": "XFS"
+                                        }
+                                    }
+                                ],
+                                "bikeSeats": [],
+                                "seatReservation": "Booked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "BF",
+                                "rsid": "AW101200",
+                                "tuid": "L64810",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 549734,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 2395,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 1205,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": null,
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/168967/trips/181191": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 216942,
+                    "tripId": 181191,
+                    "origin": "/data/stations/5124",
+                    "destination": "/data/stations/1072",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/CDS",
+                    "crossLondon": false,
+                    "restrictionCode": "PW",
+                    "outwardJourney": {
+                        "validFrom": "2026-02-11T00:00:00",
+                        "validTo": "2026-02-11T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 232470,
+                                "origin": "/data/stations/5124",
+                                "destination": "/data/stations/5143",
+                                "departure": "2026-02-11T13:20:00",
+                                "arrival": "2026-02-11T14:19:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "No",
+                                "facilities": "",
+                                "rsid": "SE921100",
+                                "tuid": "P75216",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 551605,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 555,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 285,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "not-online-exceeded-refund-validity-days",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "CDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/168968/trips/181192": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 216943,
+                    "tripId": 181192,
+                    "origin": "/data/stations/5124",
+                    "destination": "/data/stations/1072",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/CDS",
+                    "crossLondon": false,
+                    "restrictionCode": "PW",
+                    "outwardJourney": {
+                        "validFrom": "2026-02-20T00:00:00",
+                        "validTo": "2026-02-20T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 232471,
+                                "origin": "/data/stations/5124",
+                                "destination": "/data/stations/5143",
+                                "departure": "2026-02-20T13:20:00",
+                                "arrival": "2026-02-20T14:19:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "No",
+                                "facilities": "",
+                                "rsid": "SE921100",
+                                "tuid": "P75216",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 551606,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 555,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 285,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "refundable",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "CDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/168969/trips/181193": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 216944,
+                    "tripId": 181193,
+                    "origin": "/data/stations/5124",
+                    "destination": "/data/stations/1072",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/CDS",
+                    "crossLondon": false,
+                    "restrictionCode": "PW",
+                    "outwardJourney": {
+                        "validFrom": "2026-02-21T00:00:00",
+                        "validTo": "2026-02-21T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 232472,
+                                "origin": "/data/stations/5124",
+                                "destination": "/data/stations/5143",
+                                "departure": "2026-02-21T13:47:00",
+                                "arrival": "2026-02-21T14:21:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "",
+                                "rsid": "SE913800",
+                                "tuid": "P63490",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 551607,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 555,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 285,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "refundable",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "CDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/171399/trips/184029": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 220067,
+                    "tripId": 184029,
+                    "origin": "/data/stations/5148",
+                    "destination": "/data/stations/5143",
+                    "routeCode": "/data/routes/00208",
+                    "ticketTypeCode": "/data/ticket-types/SDS",
+                    "crossLondon": false,
+                    "restrictionCode": "",
+                    "outwardJourney": {
+                        "validFrom": "2026-03-25T00:00:00",
+                        "validTo": "2026-03-25T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 235605,
+                                "origin": "/data/stations/5148",
+                                "destination": "/data/stations/5143",
+                                "departure": "2026-03-25T12:02:00",
+                                "arrival": "2026-03-25T12:10:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "No",
+                                "facilities": "",
+                                "rsid": "SE835800",
+                                "tuid": "P64318",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 557094,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 270,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 140,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "refundable",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "SDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/171528/trips/184177": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": {
+                    "fareId": 220231,
+                    "tripId": 184177,
+                    "origin": "/data/stations/5124",
+                    "destination": "/data/stations/0035",
+                    "routeCode": "/data/routes/00000",
+                    "ticketTypeCode": "/data/ticket-types/ODT",
+                    "crossLondon": false,
+                    "restrictionCode": "BC",
+                    "outwardJourney": {
+                        "validFrom": "2026-05-26T00:00:00",
+                        "validTo": "2026-05-26T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 235763,
+                                "origin": "/data/stations/5124",
+                                "destination": "/data/stations/5143",
+                                "departure": "2026-05-26T19:01:00",
+                                "arrival": "2026-05-26T19:33:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "",
+                                "rsid": "SE226500",
+                                "tuid": "P85541",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": {
+                        "validFrom": "2026-05-26T00:00:00",
+                        "validTo": "2026-05-26T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 235764,
+                                "origin": "/data/stations/5143",
+                                "destination": "/data/stations/5426",
+                                "departure": null,
+                                "arrival": null,
+                                "transferTime": 27,
+                                "mode": "Metro",
+                                "toc": "/data/tocs/LT",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "No",
+                                "facilities": "",
+                                "rsid": "",
+                                "tuid": "",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            },
+                            {
+                                "id": 235765,
+                                "origin": "/data/stations/5426",
+                                "destination": "/data/stations/5124",
+                                "departure": "2026-05-27T00:25:00",
+                                "arrival": "2026-05-27T01:08:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "",
+                                "rsid": "SE608200",
+                                "tuid": "J83285",
+                                "isTemporaryTrain": true,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "tickets": [
+                        {
+                            "id": 557372,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 1490,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 750,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "refundable",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "ODT",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                },
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": null
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/171528/trips/184178": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 220232,
+                    "tripId": 184178,
+                    "origin": "/data/stations/5124",
+                    "destination": "/data/stations/5685",
+                    "routeCode": "/data/routes/00703",
+                    "ticketTypeCode": "/data/ticket-types/CDS",
+                    "crossLondon": false,
+                    "restrictionCode": "B1",
+                    "outwardJourney": {
+                        "validFrom": "2026-05-28T00:00:00",
+                        "validTo": "2026-05-28T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 235766,
+                                "origin": "/data/stations/5124",
+                                "destination": "/data/stations/5158",
+                                "departure": "2026-05-28T19:01:00",
+                                "arrival": "2026-05-28T19:29:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SE",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "",
+                                "rsid": "SE226500",
+                                "tuid": "P85541",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            },
+                            {
+                                "id": 235767,
+                                "origin": "/data/stations/5158",
+                                "destination": "/data/stations/5598",
+                                "departure": null,
+                                "arrival": null,
+                                "transferTime": 20,
+                                "mode": "Walk",
+                                "toc": null,
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "No",
+                                "facilities": "",
+                                "rsid": "",
+                                "tuid": "",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            },
+                            {
+                                "id": 235768,
+                                "origin": "/data/stations/5598",
+                                "destination": "/data/stations/5685",
+                                "departure": "2026-05-28T20:00:00",
+                                "arrival": "2026-05-28T20:24:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/SW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "SW166500",
+                                "tuid": "L79772",
+                                "isTemporaryTrain": true,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 557373,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 2040,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 1030,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "refundable",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "CDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        },
+        "/orders/171528/trips/184179": {
+            "bookingStatus": null,
+            "bookingReference": null,
+            "itso": false,
+            "selfPrintPassenger": null,
+            "fares": {
+                "return": null,
+                "plusBus": {},
+                "fareOnly": null,
+                "season": null,
+                "returnSingle": null,
+                "outwardSingle": {
+                    "fareId": 220233,
+                    "tripId": 184179,
+                    "origin": "/data/stations/5268",
+                    "destination": "/data/stations/5631",
+                    "routeCode": "/data/routes/00564",
+                    "ticketTypeCode": "/data/ticket-types/SDS",
+                    "crossLondon": false,
+                    "restrictionCode": "",
+                    "outwardJourney": {
+                        "validFrom": "2026-05-28T00:00:00",
+                        "validTo": "2026-05-28T23:59:59",
+                        "validityPeriod": "0001",
+                        "legs": [
+                            {
+                                "id": 235769,
+                                "origin": "/data/stations/5268",
+                                "destination": "/data/stations/5416",
+                                "departure": "2026-05-28T08:09:00",
+                                "arrival": "2026-05-28T08:45:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/TL",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Possible",
+                                "facilities": "B",
+                                "rsid": "TL374700",
+                                "tuid": "W45478",
+                                "isTemporaryTrain": true,
+                                "callingPoints": [],
+                                "split": false
+                            },
+                            {
+                                "id": 235770,
+                                "origin": "/data/stations/5416",
+                                "destination": "/data/stations/5631",
+                                "departure": "2026-05-28T09:00:00",
+                                "arrival": "2026-05-28T09:43:00",
+                                "transferTime": 0,
+                                "mode": "Train",
+                                "toc": "/data/tocs/GW",
+                                "seats": [],
+                                "bikeSeats": [],
+                                "seatReservation": "NotBooked",
+                                "bikeSeatReservation": "NotBooked",
+                                "reservable": "Recommended",
+                                "facilities": "B",
+                                "rsid": "GW530900",
+                                "tuid": "G15127",
+                                "isTemporaryTrain": false,
+                                "callingPoints": [],
+                                "split": false
+                            }
+                        ]
+                    },
+                    "returnJourney": null,
+                    "tickets": [
+                        {
+                            "id": 557374,
+                            "adults": 1,
+                            "children": 0,
+                            "price": 2250,
+                            "statusCode": 43,
+                            "promoCode": null,
+                            "railcard": "/data/railcards/TST",
+                            "railcardDiscount": 1130,
+                            "refunded": false,
+                            "amended": false,
+                            "printed": false,
+                            "supplements": [],
+                            "passenger": null,
+                            "discount": null,
+                            "issued": null,
+                            "refundState": "refundable",
+                            "attachment": null,
+                            "rewardPoints": 0,
+                            "ticketTypeOverride": null,
+                            "changeoverAction": null
+                        }
+                    ],
+                    "smartTicketTypeCode": "SDS",
+                    "assistedTrip": false,
+                    "splitId": null,
+                    "splitSections": null,
+                    "splitSaving": null
+                }
+            },
+            "outwardSplitReferenceId": null,
+            "returnSplitReferenceId": null,
+            "splitSalt": null
+        }
+    }
+}

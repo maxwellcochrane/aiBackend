@@ -1,0 +1,646 @@
+openapi: 3.1.0
+info:
+  title: Orderdetails Payload
+  version: 1.0.0
+  description: >
+    OpenAPI description of the JSON payload stored in `Data/orderdetails.json`.
+    The file contains order results plus a `links` map of referenced resources.
+servers:
+  - url: https://example.local
+paths:
+  /orderdetails:
+    get:
+      summary: Get order details payload
+      responses:
+        "200":
+          description: Orderdetails payload
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/OrderDetailsPayload"
+components:
+  schemas:
+    OrderDetailsPayload:
+      type: object
+      required: [pagination, result, links]
+      properties:
+        pagination:
+          $ref: "#/components/schemas/Pagination"
+        result:
+          type: array
+          items:
+            $ref: "#/components/schemas/Order"
+        links:
+          $ref: "#/components/schemas/LinksMap"
+      additionalProperties: true
+
+    Pagination:
+      type: object
+      required: [limit, page, totalCount, totalPages, moreResultsAvailable]
+      properties:
+        limit:
+          type: integer
+        page:
+          type: integer
+        totalCount:
+          type: integer
+        totalPages:
+          type: integer
+        moreResultsAvailable:
+          type: boolean
+      additionalProperties: true
+
+    Order:
+      type: object
+      required: [delivery, email, totalPrice, state, trips, refundCanBeAttemptedOnline, refundCanBeAttemptedOffline, refundsLocked]
+      properties:
+        id:
+          type: ["integer","null"]
+        deviceToken:
+          type: ["string","null"]
+
+        customerName:
+          type: ["string","null"]
+        customerId:
+          type: ["integer","null"]
+
+        delivery:
+          $ref: "#/components/schemas/Delivery"
+
+        nlc:
+          type: ["string","null"]
+        brand:
+          type: ["string","null"]
+        channel:
+          type: ["string","null"]
+        referrer:
+          type: ["string","null"]
+        campaign:
+          type: ["string","null"]
+
+        collectionReference:
+          type: ["string","null"]
+        email:
+          type: "string"
+        telephoneNumber:
+          type: ["string","null"]
+
+        totalPrice:
+          type: ["number","null"]
+        leftToPay:
+          type: ["number","null"]
+        amendPriceDiff:
+          type: ["number","null"]
+
+        state:
+          type: "string"
+
+        creationDate:
+          type: ["string","null"]
+          format: date-time
+        purchaseDate:
+          type: ["string","null"]
+          format: date-time
+        lastUpdated:
+          type: ["string","null"]
+          format: date-time
+
+        refundRejectionDate:
+          type: ["string","null"]
+          format: date-time
+        refundRejectReason:
+          type: ["string","null"]
+
+        trips:
+          type: array
+          items:
+            type: "string"
+
+        expiry:
+          type: ["string","null"]
+          format: date-time
+
+        payments:
+          $ref: "#/components/schemas/Payments"
+
+        sundries:
+          type: ["object","null"]
+          additionalProperties: true
+        amendedTickets:
+          type: array
+          items:
+            type: object
+            additionalProperties: true
+
+        refundCanBeAttemptedOnline:
+          type: boolean
+        refundCanBeAttemptedOffline:
+          type: boolean
+        refundsLocked:
+          type: boolean
+
+        discount:
+          type: ["object","null"]
+          additionalProperties: true
+        isInterop:
+          type: ["boolean","null"]
+
+        totalRewardPoints:
+          type: ["integer","null"]
+        rewardPointUid:
+          type: ["string","null"]
+        rewardName:
+          type: ["string","null"]
+        rewardExpiryDate:
+          type: ["string","null"]
+          format: date-time
+
+        promotionalDiscount:
+          type: ["object","null"]
+          additionalProperties: true
+
+        canBeChangedOver:
+          type: ["boolean","null"]
+
+        changeoverPayments:
+          $ref: "#/components/schemas/Payments"
+        changeoverTickets:
+          type: array
+          items:
+            type: object
+            additionalProperties: true
+
+        charity:
+          type: ["object","null"]
+          additionalProperties: true
+      additionalProperties: true
+
+    Delivery:
+      type: object
+      properties:
+        deliveryMethodId:
+          type: ["string","null"]
+        displayName:
+          type: ["string","null"]
+        isTrackable:
+          type: ["boolean","null"]
+        isSignedFor:
+          type: ["boolean","null"]
+        fulfilmentMethod:
+          type: ["string","null"]
+        price:
+          type: ["number","null"]
+
+        # In the file this is usually `null`, but can exist as an object.
+        address:
+          type: ["object","null"]
+          additionalProperties: true
+
+        # In the file this is a `/data/stations/...` key reference or `null`.
+        collectionLocation:
+          type: ["string","null"]
+
+        collectionStartDate:
+          type: ["string","null"]
+          format: date-time
+        collectionWindowDays:
+          type: ["integer","null"]
+        isPrintedEticket:
+          type: ["boolean","null"]
+      additionalProperties: true
+
+    Payments:
+      type: object
+      properties:
+        cards:
+          anyOf:
+            - type: "array"
+              items:
+                $ref: "#/components/schemas/PaymentCard"
+            - type: "null"
+        warrants:
+          anyOf:
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+        paypal:
+          anyOf:
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+        applePay:
+          anyOf:
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+        googlePay:
+          anyOf:
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+        amazonPay:
+          anyOf:
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+
+        hostedCards:
+          anyOf:
+            - type: "array"
+              items:
+                $ref: "#/components/schemas/HostedCard"
+            - type: "null"
+
+        cardCheckout:
+          anyOf:
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+      additionalProperties: true
+
+    PaymentCard:
+      type: object
+      additionalProperties: true
+      properties:
+        id:
+          type: ["integer","null"]
+        cardType:
+          type: ["string","null"]
+        pan:
+          type: ["string","null"]
+        expiryDate:
+          type: ["string","null"]
+        amount:
+          type: ["number","null"]
+        underReview:
+          type: ["boolean","null"]
+        transactionReference:
+          type: ["string","null"]
+        customerReference:
+          type: ["string","null"]
+        addressId:
+          type: ["integer","null"]
+        created:
+          type: ["string","null"]
+          format: date-time
+        cardHolderName:
+          type: ["string","null"]
+        refunded:
+          type: ["boolean","null"]
+        sessionId:
+          type: ["string","null"]
+        latest:
+          type: ["boolean","null"]
+        cardArtUrl:
+          type: ["string","null"]
+
+    HostedCard:
+      type: object
+      additionalProperties: true
+      properties:
+        id:
+          type: ["integer","null"]
+        amount:
+          type: ["number","null"]
+        transactionId:
+          type: ["string","null"]
+        cardPan:
+          type: ["string","null"]
+        cardType:
+          type: ["string","null"]
+        created:
+          type: ["string","null"]
+          format: date-time
+        refunded:
+          type: ["boolean","null"]
+        latest:
+          type: ["boolean","null"]
+
+    LinksMap:
+      type: object
+      description: >
+        A map of resource objects referenced by keys used in `result[*].trips`
+        and by fields like `delivery.collectionLocation`.
+      additionalProperties:
+        $ref: "#/components/schemas/LinkResource"
+
+    LinkResource:
+      oneOf:
+        - $ref: "#/components/schemas/StationLink"
+        - $ref: "#/components/schemas/RouteLink"
+        - $ref: "#/components/schemas/RailcardLink"
+        - $ref: "#/components/schemas/TocLink"
+        - $ref: "#/components/schemas/TicketTypeLink"
+        - $ref: "#/components/schemas/TripLink"
+
+    StationLink:
+      type: object
+      required: [name, nlc, crs]
+      properties:
+        name:
+          type: "string"
+        nlc:
+          type: "string"
+        crs:
+          type: "string"
+      additionalProperties: true
+
+    RouteLink:
+      type: object
+      required: [name, code, description]
+      properties:
+        name:
+          type: "string"
+        code:
+          type: "string"
+        description:
+          type: "string"
+      additionalProperties: true
+
+    RailcardLink:
+      type: object
+      required: [code, name, minAdults, maxAdults, minChildren, maxChildren]
+      properties:
+        code:
+          type: "string"
+        name:
+          type: "string"
+        minAdults:
+          type: "integer"
+        maxAdults:
+          type: "integer"
+        minChildren:
+          type: "integer"
+        maxChildren:
+          type: "integer"
+      additionalProperties: true
+
+    TocLink:
+      type: object
+      required: [code, name]
+      properties:
+        code:
+          type: "string"
+        name:
+          type: "string"
+      additionalProperties: true
+
+    TicketTypeLink:
+      type: object
+      required: [name, code, validityCode, isReturn, isSeason, isAdvance, isPackage, isCarnet, isFlexi, isFirstClass]
+      properties:
+        name:
+          type: "string"
+        code:
+          type: "string"
+        isReturn:
+          type: "boolean"
+        isSeason:
+          type: "boolean"
+        isAdvance:
+          type: "boolean"
+        isPackage:
+          type: "boolean"
+        isCarnet:
+          type: "boolean"
+        isFlexi:
+          type: "boolean"
+        isFirstClass:
+          type: "boolean"
+        validityCode:
+          type: "string"
+      additionalProperties: true
+
+    TripLink:
+      type: object
+      required: [bookingStatus, bookingReference, itso, selfPrintPassenger, fares, outwardSplitReferenceId, returnSplitReferenceId, splitSalt]
+      properties:
+        bookingStatus:
+          type: ["string","null"]
+        bookingReference:
+          type: ["string","null"]
+        itso:
+          type: "boolean"
+        selfPrintPassenger:
+          type: ["boolean","null"]
+        fares:
+          $ref: "#/components/schemas/Fares"
+        outwardSplitReferenceId:
+          type: ["string","null"]
+        returnSplitReferenceId:
+          type: ["string","null"]
+        splitSalt:
+          type: ["string","null"]
+      additionalProperties: true
+
+    Fares:
+      type: object
+      properties:
+        return:
+          type: ["object","null"]
+          additionalProperties: true
+        plusBus:
+          type: ["object","null"]
+          additionalProperties: true
+        fareOnly:
+          type: ["object","null"]
+          additionalProperties: true
+        season:
+          type: ["object","null"]
+          additionalProperties: true
+        returnSingle:
+          type: ["object","null"]
+          additionalProperties: true
+        outwardSingle:
+          $ref: "#/components/schemas/OutwardSingle"
+      additionalProperties: true
+
+    OutwardSingle:
+      type: object
+      required: [fareId, tripId, origin, destination, routeCode, ticketTypeCode, crossLondon, restrictionCode, outwardJourney, tickets, assistedTrip, splitId, splitSections, splitSaving]
+      properties:
+        fareId:
+          type: ["integer","null"]
+        tripId:
+          type: ["integer","null"]
+        origin:
+          type: "string"
+        destination:
+          type: "string"
+        routeCode:
+          type: "string"
+        ticketTypeCode:
+          type: "string"
+        crossLondon:
+          type: "boolean"
+        restrictionCode:
+          type: ["string","null"]
+        outwardJourney:
+          $ref: "#/components/schemas/Journey"
+        returnJourney:
+          type: ["object","null"]
+          additionalProperties: true
+        tickets:
+          type: array
+          items:
+            $ref: "#/components/schemas/Ticket"
+        smartTicketTypeCode:
+          type: ["string","null"]
+        assistedTrip:
+          type: "boolean"
+        splitId:
+          type: ["string","null"]
+        splitSections:
+          type: ["array","null"]
+          items:
+            type: object
+            additionalProperties: true
+        splitSaving:
+          type: ["number","null"]
+      additionalProperties: true
+
+    Journey:
+      type: object
+      required: [validFrom, validTo, validityPeriod, legs]
+      properties:
+        validFrom:
+          type: ["string","null"]
+          format: date-time
+        validTo:
+          type: ["string","null"]
+          format: date-time
+        validityPeriod:
+          type: ["string","null"]
+        legs:
+          type: array
+          items:
+            $ref: "#/components/schemas/Leg"
+      additionalProperties: true
+
+    Leg:
+      type: object
+      properties:
+        id:
+          type: ["integer","null"]
+        origin:
+          type: "string"
+        destination:
+          type: "string"
+        departure:
+          type: ["string","null"]
+          format: date-time
+        arrival:
+          type: ["string","null"]
+          format: date-time
+        transferTime:
+          type: ["integer","null"]
+        mode:
+          type: ["string","null"]
+        toc:
+          type: ["string","null"]
+        seats:
+          type: ["array","null"]
+          items:
+            $ref: "#/components/schemas/Seat"
+        bikeSeats:
+          type: ["array","null"]
+          items:
+            type: object
+            additionalProperties: true
+        seatReservation:
+          type: ["string","null"]
+        bikeSeatReservation:
+          type: ["string","null"]
+        reservable:
+          type: ["string","null"]
+        facilities:
+          type: ["string","null"]
+        rsid:
+          type: ["string","null"]
+        tuid:
+          type: ["string","null"]
+        isTemporaryTrain:
+          type: ["boolean","null"]
+        callingPoints:
+          type: ["array","null"]
+          items:
+            type: object
+            additionalProperties: true
+        split:
+          type: ["boolean","null"]
+      additionalProperties: true
+
+    Seat:
+      type: object
+      properties:
+        coach:
+          type: ["string","null"]
+        seat:
+          type: ["string","null"]
+        attributes:
+          type: ["array","null"]
+          items:
+            type: object
+            additionalProperties: true
+        supplement:
+          type: ["object","null"]
+          additionalProperties: true
+      additionalProperties: true
+
+    Ticket:
+      type: object
+      properties:
+        id:
+          type: ["integer","null"]
+        adults:
+          type: ["integer","null"]
+        children:
+          type: ["integer","null"]
+        price:
+          type: ["number","null"]
+        statusCode:
+          type: ["string","null"]
+        promoCode:
+          type: ["string","null"]
+        railcard:
+          type: ["object","null"]
+          additionalProperties: true
+        railcardDiscount:
+          type: ["number","null"]
+        refunded:
+          type: ["boolean","null"]
+        amended:
+          type: ["boolean","null"]
+        printed:
+          type: ["boolean","null"]
+        supplements:
+          anyOf:
+            - type: "array"
+              items:
+                type: object
+                additionalProperties: true
+            - type: "object"
+              additionalProperties: true
+            - type: "null"
+        passenger:
+          type: ["object","null"]
+          additionalProperties: true
+        discount:
+          type: ["object","null"]
+          additionalProperties: true
+        issued:
+          type: ["boolean","null"]
+        refundState:
+          type: ["string","null"]
+        attachment:
+          type: ["object","null"]
+          additionalProperties: true
+        rewardPoints:
+          type: ["object","null"]
+          additionalProperties: true
+        ticketTypeOverride:
+          type: ["string","null"]
+        changeoverAction:
+          type: ["string","null"]
+      additionalProperties: true
+
