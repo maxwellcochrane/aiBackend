@@ -55,12 +55,31 @@ function showChat() {
   input.focus();
 }
 
-function addMessage(role, text) {
+function addMessage(role, text, links) {
   if (welcome) welcome.remove();
 
   const div = document.createElement('div');
   div.className = `message ${role}`;
   div.textContent = text;
+
+  if (links && links.length > 0) {
+    const linksContainer = document.createElement('div');
+    linksContainer.className = 'message-links';
+
+    for (const link of links) {
+      const a = document.createElement('a');
+      a.href = link.url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.className = 'action-link';
+      a.textContent = link.label;
+      a.title = link.description || '';
+      linksContainer.appendChild(a);
+    }
+
+    div.appendChild(linksContainer);
+  }
+
   messagesEl.appendChild(div);
   messagesEl.scrollTop = messagesEl.scrollHeight;
   return div;
@@ -126,7 +145,7 @@ form.addEventListener('submit', async (e) => {
     if (!res.ok) throw new Error(data.error || 'Request failed');
 
     threadId = data.threadId;
-    addMessage('assistant', data.reply);
+    addMessage('assistant', data.reply, data.links);
   } catch (err) {
     hideTyping();
     addMessage('error', `Something went wrong: ${err.message}`);

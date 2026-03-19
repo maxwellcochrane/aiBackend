@@ -1,5 +1,6 @@
 import { AgentsClient } from "@azure/ai-agents";
 import { DefaultAzureCredential } from "@azure/identity";
+import { LINK_CONFIG } from "./linkConfig.mjs";
 
 const PROJECT_ENDPOINT =
   process.env.AZURE_PROJECT_ENDPOINT ||
@@ -13,6 +14,25 @@ function getClient() {
     client = new AgentsClient(PROJECT_ENDPOINT, new DefaultAzureCredential());
   }
   return client;
+}
+
+function extractLinks(text) {
+  const pattern = /\[LINK:([\w-]+)\]/g;
+  const links = [];
+  const seen = new Set();
+  let match;
+  while ((match = pattern.exec(text)) !== null) {
+    const id = match[1];
+    if (LINK_CONFIG[id] && !seen.has(id)) {
+      seen.add(id);
+      links.push({ id, ...LINK_CONFIG[id] });
+    }
+  }
+  const cleanedText = text
+    .replace(pattern, "")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+  return { cleanedText, links };
 }
 
 export async function handler(event) {
@@ -67,21 +87,23 @@ export async function handler(event) {
       throw new Error(`Run failed: ${JSON.stringify(run.lastError)}`);
     }
 
-    let reply = "No response.";
+    let rawReply = "No response.";
     for await (const m of agents.messages.list(threadId)) {
       if (m.role === "assistant") {
         const textContent = m.content?.find((c) => c.type === "text");
         if (textContent) {
-          reply = textContent.text.value;
+          rawReply = textContent.text.value;
         }
         break;
       }
     }
 
+    const { cleanedText: reply, links } = extractLinks(rawReply);
+
     return {
       statusCode: 200,
       headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
-      body: JSON.stringify({ reply, threadId }),
+      body: JSON.stringify({ reply, threadId, links }),
     };
   } catch (err) {
     console.error("Chat function error:", err);

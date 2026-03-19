@@ -1,0 +1,67 @@
+  id, The Unique ID of the Digital rail card.
+  customer_id, The customer purchased the rail card, which relates to the customer ID and the customer table.
+  brand, The brand under which the rail card was sold
+  primary_title, The customer name title on the DRC
+  primary_first_name, The customer first name on the DRC
+  primary_last_name, The customer first name on the DRC
+  date_of_birth, The date of birth as given by the customer when validating for the rail card that they purchased. This is the most true date of birth field that we have. As theres specific validation against the document that the user has to validate with to prove that they are of this age
+  railcard_code, The rail card code
+  railcard_expiration_length, The expiry length of the rail card, which is either one year or three years
+  railcard_state, The current state of the rail card: active, blocked, expired.
+  railcard_number, The rail card number
+  secondary_title, The secondary users name title on the DRC, this is for shared railcard types (two together and Family and Friends)
+  secondary_first_name, The secondary users first name on the DRC, this is for shared railcard types (two together and Family and Friends)
+  secondary_last_name, The secondary users last name on the DRC, this is for shared railcard types (two together and Family and Friends)
+  document_type, The type of document that you use there
+  primary_photo_url,
+  secondary_photo_url,
+  device1_id,
+  device1_name,
+  device1_added_date,
+  device2_id,
+  device2_name,
+  device2_added_date,
+  created,
+  updated,
+  expired,
+  season_ticket_expired,
+  is_renewable,
+  is_favourite,
+  send_renewal_notification,
+  original_price,
+  total_price,
+  channel,
+  renewed_id,
+  discount_id,
+  sundry_id,
+  device_fingerprint,
+
+
+
+
+id, The Unique ID of the Digital rail card.
+  customer_id, The customer purchased the rail card, which relates to the customer ID and the customer table.
+  brand, The brand under which the rail card was sold
+  primary_title, The customer name title on the DRC
+  primary_first_name, The customer first name on the DRC
+  primary_last_name, The customer first name on the DRC
+  date_of_birth, The date of birth as given by the customer when validating for the rail card that they purchased. This is the most true date of birth field that we have. As theres specific validation against the document that the user has to validate with to prove that they are of this age
+  railcard_code, The rail card code
+  railcard_expiration_length, The expiry length of the rail card, which is either one year or three years
+  railcard_state, The current state of the rail card: active, blocked, expired.
+  railcard_number, The rail card number
+  secondary_title, The secondary users name title on the DRC, this is for shared railcard types (two together and Family and Friends)
+  secondary_first_name, The secondary users first name on the DRC, this is for shared railcard types (two together and Family and Friends)
+  secondary_last_name, The secondary users last name on the DRC, this is for shared railcard types (two together and Family and Friends)
+device1_id, The ID of the device that the digital rail card is currently assigned to
+device2_id, The ID of the second device that the digital rail card is currently assigned to
+created, The date/time stamp that the purchase was made
+updated, The date time stamp of any updates to this record
+expired, The date time stamp of expiry of the rail card
+season_ticket_expired, The date time stamp of the season ticket validity expiry of the rail card. This is only the season ticket expiry for 16 to 17 rail cards. No other railcard type has a season ticket expiry.
+is_renewable, A flag to indicate if the rail card is renewable. This is within the 28-day period before the rail card expires.
+send_renewal_notification, This is the flag set to indicate if the user has opted in to be reminded to renew their rail card. 
+original_price, The original price of the rail card before any discounts
+total_price, The total price paid for the rail card after any discounts
+channel, The channel in which the rail card was purchased, under either app or web
+renewed_id, The ID of the new rail card if this rail card was renewed
