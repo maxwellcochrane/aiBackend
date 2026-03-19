@@ -55,12 +55,75 @@ function showChat() {
   input.focus();
 }
 
-function addMessage(role, text, links) {
+function formatTimePair(scheduled, expected, delayed) {
+  if (!scheduled && !expected) return '';
+  if (!expected || expected === scheduled) return scheduled || expected || '';
+  return delayed ? `${scheduled} -> ${expected}` : expected;
+}
+
+function createJourneyCardsElement(journeyCards) {
+  const wrapper = document.createElement('div');
+  wrapper.className = 'journey-cards';
+
+  for (const card of journeyCards) {
+    const cardEl = document.createElement('article');
+    cardEl.className = 'journey-card';
+
+    const title = document.createElement('div');
+    title.className = 'journey-card-title';
+    title.textContent = card.title || `${card.origin || '?'} -> ${card.destination || '?'}`;
+    cardEl.appendChild(title);
+
+    const times = document.createElement('div');
+    times.className = 'journey-card-times';
+
+    const departure = document.createElement('span');
+    departure.textContent = formatTimePair(
+      card?.times?.originSTD,
+      card?.times?.originETD,
+      card?.times?.originDelayed
+    );
+    if (card?.times?.originDelayed) departure.classList.add('delayed');
+
+    const arrow = document.createElement('span');
+    arrow.className = 'journey-arrow';
+    arrow.textContent = ' -> ';
+
+    const arrival = document.createElement('span');
+    arrival.textContent = formatTimePair(
+      card?.times?.destinationSTA,
+      card?.times?.destinationETA,
+      card?.times?.destinationDelayed
+    );
+    if (card?.times?.destinationDelayed) arrival.classList.add('delayed');
+
+    times.append(departure, arrow, arrival);
+    cardEl.appendChild(times);
+
+    const meta = document.createElement('div');
+    meta.className = 'journey-card-meta';
+
+    const platform = card?.platforms?.originPlatform
+      ? `Platform ${card.platforms.originPlatform}`
+      : 'Platform TBC';
+    const changes = `${card?.changes ?? 0} change${(card?.changes ?? 0) === 1 ? '' : 's'}`;
+    const duration = card?.duration?.label || '';
+
+    meta.textContent = `${platform} · ${changes}${duration ? ` · ${duration}` : ''}`;
+    cardEl.appendChild(meta);
+
+    wrapper.appendChild(cardEl);
+  }
+
+  return wrapper;
+}
+
+function addMessage(role, text, links, journeyCards) {
   if (welcome) welcome.remove();
 
   const div = document.createElement('div');
   div.className = `message ${role}`;
-  div.textContent = text;
+  if (text) div.textContent = text;
 
   if (links && links.length > 0) {
     const linksContainer = document.createElement('div');
@@ -78,6 +141,10 @@ function addMessage(role, text, links) {
     }
 
     div.appendChild(linksContainer);
+  }
+
+  if (role === 'assistant' && Array.isArray(journeyCards) && journeyCards.length > 0) {
+    div.appendChild(createJourneyCardsElement(journeyCards));
   }
 
   messagesEl.appendChild(div);
@@ -145,7 +212,8 @@ form.addEventListener('submit', async (e) => {
     if (!res.ok) throw new Error(data.error || 'Request failed');
 
     threadId = data.threadId;
-    addMessage('assistant', data.reply, data.links);
+    const cards = data?.ui?.type === 'journey_cards' ? data.ui.data : data.journeyCards;
+    addMessage('assistant', data.reply, data.links, cards);
   } catch (err) {
     hideTyping();
     addMessage('error', `Something went wrong: ${err.message}`);

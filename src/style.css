@@ -221,6 +221,47 @@ main::-webkit-scrollbar-thumb:hover {
   transform: scale(0.97);
 }
 
+/* Journey cards */
+.journey-cards {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.journey-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+
+.journey-card-title {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+}
+
+.journey-card-times {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.journey-arrow {
+  color: var(--text-secondary);
+}
+
+.journey-card-meta {
+  margin-top: 6px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.journey-card-times .delayed {
+  color: #dc2626;
+}
+
 /* Typing indicator */
 .typing-indicator {
   align-self: flex-start;

@@ -1,0 +1,467 @@
+{
+    "generatedTime": "2026-03-19T22:00:19.170Z",
+    "journeys": [
+      {
+        "id": 1,
+        "origin": "ZES",
+        "destination": "LIV",
+        "scheduledTime": {
+          "departure": "2026-03-28T09:07:00.000Z",
+          "arrival": "2026-03-28T11:59:00.000Z"
+        },
+        "realTime": {
+          "departure": null,
+          "arrival": null
+        },
+        "legs": [
+          {
+            "id": 1,
+            "mode": "WALK",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "ZES",
+              "stationType": "LU"
+            },
+            "alight": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": null,
+            "operator": null,
+            "scheduledTime": {
+              "departure": "2026-03-28T09:07:00.000Z",
+              "arrival": "2026-03-28T09:15:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": [
+              "From Euston Square Underground Station walk to Euston Underground Station (approximately 8 minutes)."
+            ]
+          },
+          {
+            "id": 2,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "WBQ",
+              "stationType": "NR"
+            },
+            "originPlatform": "1",
+            "destinationPlatform": "3",
+            "operator": {
+              "code": "VT",
+              "name": "Avanti West Coast"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T09:30:00.000Z",
+              "arrival": "2026-03-28T11:14:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          },
+          {
+            "id": 3,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "WBQ",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "NLW",
+              "stationType": "NR"
+            },
+            "originPlatform": "4",
+            "destinationPlatform": null,
+            "operator": {
+              "code": "AW",
+              "name": "Transport for Wales"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T11:20:00.000Z",
+              "arrival": "2026-03-28T11:31:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          },
+          {
+            "id": 4,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "NLW",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "LIV",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": "3",
+            "operator": {
+              "code": "TP",
+              "name": "TransPennine Express"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T11:41:00.000Z",
+              "arrival": "2026-03-28T11:59:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "origin": "ZES",
+        "destination": "LIV",
+        "scheduledTime": {
+          "departure": "2026-03-28T09:20:00.000Z",
+          "arrival": "2026-03-28T12:04:00.000Z"
+        },
+        "realTime": {
+          "departure": null,
+          "arrival": null
+        },
+        "legs": [
+          {
+            "id": 1,
+            "mode": "WALK",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "ZES",
+              "stationType": "LU"
+            },
+            "alight": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": null,
+            "operator": null,
+            "scheduledTime": {
+              "departure": "2026-03-28T09:20:00.000Z",
+              "arrival": "2026-03-28T09:28:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": [
+              "From Euston Square Underground Station walk to Euston Underground Station (approximately 8 minutes)."
+            ]
+          },
+          {
+            "id": 2,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "LIV",
+              "stationType": "NR"
+            },
+            "originPlatform": "5",
+            "destinationPlatform": "9",
+            "operator": {
+              "code": "VT",
+              "name": "Avanti West Coast"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T09:43:00.000Z",
+              "arrival": "2026-03-28T12:04:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "origin": "ZES",
+        "destination": "LIV",
+        "scheduledTime": {
+          "departure": "2026-03-28T09:44:00.000Z",
+          "arrival": "2026-03-28T12:23:00.000Z"
+        },
+        "realTime": {
+          "departure": null,
+          "arrival": null
+        },
+        "legs": [
+          {
+            "id": 1,
+            "mode": "WALK",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "ZES",
+              "stationType": "LU"
+            },
+            "alight": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": null,
+            "operator": null,
+            "scheduledTime": {
+              "departure": "2026-03-28T09:44:00.000Z",
+              "arrival": "2026-03-28T09:52:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": [
+              "From Euston Square Underground Station walk to Euston Underground Station (approximately 8 minutes)."
+            ]
+          },
+          {
+            "id": 2,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "LIV",
+              "stationType": "NR"
+            },
+            "originPlatform": "15",
+            "destinationPlatform": "10",
+            "operator": {
+              "code": "VT",
+              "name": "Avanti West Coast"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T10:07:00.000Z",
+              "arrival": "2026-03-28T12:23:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "origin": "ZES",
+        "destination": "LIV",
+        "scheduledTime": {
+          "departure": "2026-03-28T10:07:00.000Z",
+          "arrival": "2026-03-28T12:59:00.000Z"
+        },
+        "realTime": {
+          "departure": null,
+          "arrival": null
+        },
+        "legs": [
+          {
+            "id": 1,
+            "mode": "WALK",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "ZES",
+              "stationType": "LU"
+            },
+            "alight": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": null,
+            "operator": null,
+            "scheduledTime": {
+              "departure": "2026-03-28T10:07:00.000Z",
+              "arrival": "2026-03-28T10:15:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": [
+              "From Euston Square Underground Station walk to Euston Underground Station (approximately 8 minutes)."
+            ]
+          },
+          {
+            "id": 2,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "WBQ",
+              "stationType": "NR"
+            },
+            "originPlatform": "1",
+            "destinationPlatform": "3",
+            "operator": {
+              "code": "VT",
+              "name": "Avanti West Coast"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T10:30:00.000Z",
+              "arrival": "2026-03-28T12:14:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          },
+          {
+            "id": 3,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "WBQ",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "NLW",
+              "stationType": "NR"
+            },
+            "originPlatform": "4",
+            "destinationPlatform": null,
+            "operator": {
+              "code": "AW",
+              "name": "Transport for Wales"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T12:20:00.000Z",
+              "arrival": "2026-03-28T12:31:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          },
+          {
+            "id": 4,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "NLW",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "LIV",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": "3",
+            "operator": {
+              "code": "TP",
+              "name": "TransPennine Express"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T12:41:00.000Z",
+              "arrival": "2026-03-28T12:59:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "origin": "ZES",
+        "destination": "LIV",
+        "scheduledTime": {
+          "departure": "2026-03-28T10:20:00.000Z",
+          "arrival": "2026-03-28T13:04:00.000Z"
+        },
+        "realTime": {
+          "departure": null,
+          "arrival": null
+        },
+        "legs": [
+          {
+            "id": 1,
+            "mode": "WALK",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "ZES",
+              "stationType": "LU"
+            },
+            "alight": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "originPlatform": null,
+            "destinationPlatform": null,
+            "operator": null,
+            "scheduledTime": {
+              "departure": "2026-03-28T10:20:00.000Z",
+              "arrival": "2026-03-28T10:28:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": [
+              "From Euston Square Underground Station walk to Euston Underground Station (approximately 8 minutes)."
+            ]
+          },
+          {
+            "id": 2,
+            "mode": "TRAIN",
+            "realtimeClassification": "NORMAL",
+            "board": {
+              "crs": "EUS",
+              "stationType": "NR"
+            },
+            "alight": {
+              "crs": "LIV",
+              "stationType": "NR"
+            },
+            "originPlatform": "5",
+            "destinationPlatform": "9",
+            "operator": {
+              "code": "VT",
+              "name": "Avanti West Coast"
+            },
+            "scheduledTime": {
+              "departure": "2026-03-28T10:43:00.000Z",
+              "arrival": "2026-03-28T13:04:00.000Z"
+            },
+            "realTime": {
+              "departure": null,
+              "arrival": null
+            },
+            "undergroundTravelInformation": []
+          }
+        ]
+      }
+    ]
+  }

@@ -1,3 +1,101 @@
+function parseDate(value) {
+  if (!value) return null;
+  const d = new Date(value);
+  return Number.isNaN(d.getTime()) ? null : d;
+}
+
+function formatHHmm(date) {
+  if (!date) return null;
+  const hh = String(date.getHours()).padStart(2, "0");
+  const mm = String(date.getMinutes()).padStart(2, "0");
+  return `${hh}:${mm}`;
+}
+
+function isDelayed(expected, scheduled) {
+  const expectedDate = parseDate(expected);
+  const scheduledDate = parseDate(scheduled);
+  if (!expectedDate || !scheduledDate) return false;
+  return expectedDate.getTime() > scheduledDate.getTime();
+}
+
+function formatDuration(totalMinutes) {
+  if (!Number.isFinite(totalMinutes) || totalMinutes < 0) return null;
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+  if (hours > 0) return `${hours}h ${minutes}m`;
+  return `${minutes}m`;
+}
+
+function firstNonWalkLeg(legs) {
+  return legs.find((leg) => leg?.mode && leg.mode !== "WALK") || null;
+}
+
+function lastNonWalkLeg(legs) {
+  for (let i = legs.length - 1; i >= 0; i -= 1) {
+    const leg = legs[i];
+    if (leg?.mode && leg.mode !== "WALK") return leg;
+  }
+  return null;
+}
+
+function mapJourneyCard(journey) {
+  const legs = Array.isArray(journey?.legs) ? journey.legs : [];
+  const originCrs = journey?.origin || null;
+  const destinationCrs = journey?.destination || null;
+
+  const scheduledDeparture = journey?.scheduledTime?.departure || null;
+  const expectedDeparture = journey?.realTime?.departure || null;
+  const scheduledArrival = journey?.scheduledTime?.arrival || null;
+  const expectedArrival = journey?.realTime?.arrival || null;
+
+  const stdDate = parseDate(scheduledDeparture);
+  const staDate = parseDate(scheduledArrival);
+  const etdDate = parseDate(expectedDeparture);
+  const etaDate = parseDate(expectedArrival);
+
+  const activeDepartureDate = etdDate || stdDate;
+  const activeArrivalDate = etaDate || staDate;
+
+  const durationMinutes =
+    activeDepartureDate && activeArrivalDate
+      ? Math.max(
+          0,
+          Math.round((activeArrivalDate.getTime() - activeDepartureDate.getTime()) / 60000)
+        )
+      : null;
+
+  const trainLegs = legs.filter((leg) => leg?.mode === "TRAIN");
+  const changes = Math.max(trainLegs.length - 1, 0);
+
+  const firstTransportLeg = firstNonWalkLeg(legs);
+  const lastTransportLeg = lastNonWalkLeg(legs);
+
+  return {
+    id: journey?.id ?? null,
+    title: `${originCrs || "?"} -> ${destinationCrs || "?"}`,
+    origin: originCrs,
+    destination: destinationCrs,
+    times: {
+      originSTD: formatHHmm(stdDate),
+      originETD: formatHHmm(etdDate),
+      destinationSTA: formatHHmm(staDate),
+      destinationETA: formatHHmm(etaDate),
+      originDelayed: isDelayed(expectedDeparture, scheduledDeparture),
+      destinationDelayed: isDelayed(expectedArrival, scheduledArrival),
+    },
+    platforms: {
+      originPlatform: firstTransportLeg?.originPlatform ?? null,
+      destinationPlatform: lastTransportLeg?.destinationPlatform ?? null,
+    },
+    changes,
+    duration: {
+      minutes: durationMinutes,
+      label: durationMinutes === null ? null : formatDuration(durationMinutes),
+    },
+    legs,
+  };
+}
+
 exports.handler = async function (event) {
   try {
     const method = event.httpMethod || event.requestContext?.httpMethod || "GET";
@@ -150,6 +248,8 @@ exports.handler = async function (event) {
       };
     });
 
+    const journeyCards = simplifiedJourneys.map(mapJourneyCard);
+
     return {
       statusCode: 200,
       headers: {
@@ -157,7 +257,7 @@ exports.handler = async function (event) {
       },
       body: JSON.stringify({
         generatedTime: data.generatedTime || null,
-        journeys: simplifiedJourneys,
+        journeyCards,
       }),
     };
   } catch (error) {

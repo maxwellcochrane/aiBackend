@@ -35,6 +35,71 @@ function extractLinks(text) {
   return { cleanedText, links };
 }
 
+function isJourneyCard(value) {
+  return (
+    value &&
+    typeof value === "object" &&
+    typeof value.title === "string" &&
+    value.times &&
+    typeof value.times === "object" &&
+    value.duration &&
+    typeof value.duration === "object"
+  );
+}
+
+function isJourneyCardArray(value) {
+  return Array.isArray(value) && value.length > 0 && value.every(isJourneyCard);
+}
+
+function extractJourneyCards(text) {
+  const candidates = [];
+
+  const fencedJsonPattern = /```json\s*([\s\S]*?)```/gi;
+  let fencedMatch;
+  while ((fencedMatch = fencedJsonPattern.exec(text)) !== null) {
+    candidates.push({ raw: fencedMatch[0], json: fencedMatch[1].trim() });
+  }
+
+  const firstArray = text.indexOf("[");
+  const lastArray = text.lastIndexOf("]");
+  if (firstArray !== -1 && lastArray > firstArray) {
+    const raw = text.slice(firstArray, lastArray + 1);
+    candidates.push({ raw, json: raw.trim() });
+  }
+
+  const firstObject = text.indexOf("{");
+  const lastObject = text.lastIndexOf("}");
+  if (firstObject !== -1 && lastObject > firstObject) {
+    const raw = text.slice(firstObject, lastObject + 1);
+    candidates.push({ raw, json: raw.trim() });
+  }
+
+  for (const candidate of candidates) {
+    try {
+      const parsed = JSON.parse(candidate.json);
+      if (isJourneyCardArray(parsed)) {
+        const cleanedText = text
+          .replace(candidate.raw, "")
+          .replace(/\n{3,}/g, "\n\n")
+          .trim();
+        return { cleanedText, journeyCards: parsed };
+      }
+
+      if (isJourneyCardArray(parsed?.journey_cards)) {
+        const cleanedText = text
+          .replace(candidate.raw, "")
+          .replace(/\n{3,}/g, "\n\n")
+          .trim();
+        return { cleanedText, journeyCards: parsed.journey_cards };
+      }
+    } catch {
+      // Not valid JSON; ignore and continue.
+    }
+  }
+
+  return { cleanedText: text, journeyCards: [] };
+}
+
 export async function handler(event) {
   if (event.httpMethod === "OPTIONS") {
     return {
@@ -78,8 +143,10 @@ export async function handler(event) {
     const agents = getClient();
 
     const threadId = existingThreadId || (await agents.threads.create()).id;
-
-    await agents.messages.create(threadId, "user", message);
+    
+    const now = new Date();
+    const dateContext = `[CURRENT_DATETIME: ${now.toISOString()} | TIMEZONE: Europe/London]`;
+    await agents.messages.create(threadId, "user", `${dateContext}\n\n${message}`);
 
     const run = await agents.runs.createAndPoll(threadId, AGENT_ID);
 
@@ -98,12 +165,19 @@ export async function handler(event) {
       }
     }
 
-    const { cleanedText: reply, links } = extractLinks(rawReply);
+    const { cleanedText: withoutLinks, links } = extractLinks(rawReply);
+    const { cleanedText: reply, journeyCards } = extractJourneyCards(withoutLinks);
 
     return {
       statusCode: 200,
       headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
-      body: JSON.stringify({ reply, threadId, links }),
+      body: JSON.stringify({
+        reply,
+        threadId,
+        links,
+        journeyCards,
+        ui: journeyCards.length ? { type: "journey_cards", data: journeyCards } : null,
+      }),
     };
   } catch (err) {
     console.error("Chat function error:", err);
