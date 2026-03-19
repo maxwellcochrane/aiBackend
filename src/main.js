@@ -222,4 +222,19 @@ form.addEventListener('submit', async (e) => {
   }
 });
 
+if (window.visualViewport) {
+  window.visualViewport.addEventListener('resize', () => {
+    document.documentElement.style.setProperty(
+      '--vh', `${window.visualViewport.height}px`
+    );
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+  });
+}
+
+input.addEventListener('focus', () => {
+  setTimeout(() => {
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+  }, 300);
+});
+
 input.focus();
