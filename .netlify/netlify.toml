@@ -32,9 +32,5 @@ port = 8888.0
 autoLaunch = true
 
 [functions]
-  directory = "netlify/functions"
-  external_node_modules = ["@azure/ai-agents", "@azure/identity"]
-  node_bundler = "esbuild"
 
-[functions."chat"]
-  timeout = 26
+[functions."*"]

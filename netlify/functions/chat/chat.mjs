@@ -39,16 +39,33 @@ function isJourneyCard(value) {
   return (
     value &&
     typeof value === "object" &&
-    typeof value.title === "string" &&
-    value.times &&
-    typeof value.times === "object" &&
-    value.duration &&
-    typeof value.duration === "object"
+    typeof value.o === "string" &&
+    typeof value.d === "string" &&
+    typeof value.std === "string"
   );
 }
 
 function isJourneyCardArray(value) {
   return Array.isArray(value) && value.length > 0 && value.every(isJourneyCard);
+}
+
+function pythonToJson(str) {
+  return str
+    .replace(/\bNone\b/g, "null")
+    .replace(/\bTrue\b/g, "true")
+    .replace(/\bFalse\b/g, "false")
+    .replace(/'/g, '"');
+}
+
+function tryParseCards(jsonStr) {
+  for (const normalize of [(s) => s, pythonToJson]) {
+    try {
+      return JSON.parse(normalize(jsonStr));
+    } catch {
+      // try next normalizer
+    }
+  }
+  return null;
 }
 
 function extractJourneyCards(text) {
@@ -75,25 +92,21 @@ function extractJourneyCards(text) {
   }
 
   for (const candidate of candidates) {
-    try {
-      const parsed = JSON.parse(candidate.json);
-      if (isJourneyCardArray(parsed)) {
-        const cleanedText = text
-          .replace(candidate.raw, "")
-          .replace(/\n{3,}/g, "\n\n")
-          .trim();
-        return { cleanedText, journeyCards: parsed };
-      }
+    const parsed = tryParseCards(candidate.json);
+    if (!parsed) continue;
 
-      if (isJourneyCardArray(parsed?.journey_cards)) {
-        const cleanedText = text
-          .replace(candidate.raw, "")
-          .replace(/\n{3,}/g, "\n\n")
-          .trim();
-        return { cleanedText, journeyCards: parsed.journey_cards };
-      }
-    } catch {
-      // Not valid JSON; ignore and continue.
+    const cards = isJourneyCardArray(parsed)
+      ? parsed
+      : isJourneyCardArray(parsed?.journey_cards)
+        ? parsed.journey_cards
+        : null;
+
+    if (cards) {
+      const cleanedText = text
+        .replace(candidate.raw, "")
+        .replace(/\n{3,}/g, "\n\n")
+        .trim();
+      return { cleanedText, journeyCards: cards };
     }
   }
 

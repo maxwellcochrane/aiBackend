@@ -55,10 +55,15 @@ function showChat() {
   input.focus();
 }
 
-function formatTimePair(scheduled, expected, delayed) {
-  if (!scheduled && !expected) return '';
-  if (!expected || expected === scheduled) return scheduled || expected || '';
-  return delayed ? `${scheduled} -> ${expected}` : expected;
+function isDelayed(expected, scheduled) {
+  return !!(expected && scheduled && expected !== scheduled);
+}
+
+function formatDuration(minutes) {
+  if (!Number.isFinite(minutes) || minutes < 0) return '';
+  const h = Math.floor(minutes / 60);
+  const m = minutes % 60;
+  return h > 0 ? `${h}h ${m}m` : `${m}m`;
 }
 
 function createJourneyCardsElement(journeyCards) {
@@ -71,31 +76,26 @@ function createJourneyCardsElement(journeyCards) {
 
     const title = document.createElement('div');
     title.className = 'journey-card-title';
-    title.textContent = card.title || `${card.origin || '?'} -> ${card.destination || '?'}`;
+    title.textContent = `${card.o || '?'} \u2192 ${card.d || '?'}`;
     cardEl.appendChild(title);
 
     const times = document.createElement('div');
     times.className = 'journey-card-times';
 
+    const depDelayed = isDelayed(card.etd, card.std);
+    const arrDelayed = isDelayed(card.eta, card.sta);
+
     const departure = document.createElement('span');
-    departure.textContent = formatTimePair(
-      card?.times?.originSTD,
-      card?.times?.originETD,
-      card?.times?.originDelayed
-    );
-    if (card?.times?.originDelayed) departure.classList.add('delayed');
+    departure.textContent = depDelayed ? `${card.std} \u2192 ${card.etd}` : (card.std || '');
+    if (depDelayed) departure.classList.add('delayed');
 
     const arrow = document.createElement('span');
     arrow.className = 'journey-arrow';
-    arrow.textContent = ' -> ';
+    arrow.textContent = ' \u2192 ';
 
     const arrival = document.createElement('span');
-    arrival.textContent = formatTimePair(
-      card?.times?.destinationSTA,
-      card?.times?.destinationETA,
-      card?.times?.destinationDelayed
-    );
-    if (card?.times?.destinationDelayed) arrival.classList.add('delayed');
+    arrival.textContent = arrDelayed ? `${card.sta} \u2192 ${card.eta}` : (card.sta || '');
+    if (arrDelayed) arrival.classList.add('delayed');
 
     times.append(departure, arrow, arrival);
     cardEl.appendChild(times);
@@ -103,13 +103,12 @@ function createJourneyCardsElement(journeyCards) {
     const meta = document.createElement('div');
     meta.className = 'journey-card-meta';
 
-    const platform = card?.platforms?.originPlatform
-      ? `Platform ${card.platforms.originPlatform}`
-      : 'Platform TBC';
-    const changes = `${card?.changes ?? 0} change${(card?.changes ?? 0) === 1 ? '' : 's'}`;
-    const duration = card?.duration?.label || '';
+    const platform = card.op ? `Plat ${card.op}` : 'Plat TBC';
+    const changes = card.c ?? 0;
+    const changesText = `${changes} change${changes === 1 ? '' : 's'}`;
+    const duration = formatDuration(card.m);
 
-    meta.textContent = `${platform} · ${changes}${duration ? ` · ${duration}` : ''}`;
+    meta.textContent = `${platform} · ${changesText}${duration ? ` · ${duration}` : ''}`;
     cardEl.appendChild(meta);
 
     wrapper.appendChild(cardEl);

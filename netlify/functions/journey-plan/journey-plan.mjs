@@ -71,28 +71,16 @@ function mapJourneyCard(journey) {
   const lastTransportLeg = lastNonWalkLeg(legs);
 
   return {
-    id: journey?.id ?? null,
-    title: `${originCrs || "?"} -> ${destinationCrs || "?"}`,
-    origin: originCrs,
-    destination: destinationCrs,
-    times: {
-      originSTD: formatHHmm(stdDate),
-      originETD: formatHHmm(etdDate),
-      destinationSTA: formatHHmm(staDate),
-      destinationETA: formatHHmm(etaDate),
-      originDelayed: isDelayed(expectedDeparture, scheduledDeparture),
-      destinationDelayed: isDelayed(expectedArrival, scheduledArrival),
-    },
-    platforms: {
-      originPlatform: firstTransportLeg?.originPlatform ?? null,
-      destinationPlatform: lastTransportLeg?.destinationPlatform ?? null,
-    },
-    changes,
-    duration: {
-      minutes: durationMinutes,
-      label: durationMinutes === null ? null : formatDuration(durationMinutes),
-    },
-    legs,
+    o: originCrs,
+    d: destinationCrs,
+    std: formatHHmm(stdDate),
+    etd: formatHHmm(etdDate),
+    sta: formatHHmm(staDate),
+    eta: formatHHmm(etaDate),
+    op: firstTransportLeg?.originPlatform ?? null,
+    dp: lastTransportLeg?.destinationPlatform ?? null,
+    m: durationMinutes,
+    c: changes,
   };
 }
 
